@@ -6,6 +6,14 @@
     "sources": [],
     "locator": "Narrative framing, explicitly stated in S006.",
     "limit": "No invented historical dialogue, payments, individual biography or exact day schedule.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "editorial framing; no factual content",
+      "evidence": "S006 says aloud that the day aboard is imagined and nobody left a timetable.",
+      "source_locators": "",
+      "refutation": "",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -41,8 +49,8 @@
       "S095",
       "S096"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; editorial framing; no factual content",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C1",
@@ -53,6 +61,14 @@
     ],
     "locator": "Exploring the Vessel's Origins; Beginning of the End; Encountering Blackbeard.",
     "limit": "Never imply a pirate takeover freed everyone, nor specify unverified construction date.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "QAR Project, The Ship's Journey: 'Before Queen Anne's Revenge was Blackbeard's flagship, it was a French slave ship called La Concorde'; three slave-trading voyages 1713, 1715 and 1717; construction date and place unclear. Bone article: captured by the pirates 'that November' (1717).",
+      "source_locators": "SRC01 'Exploring the Vessel's Origins' and 'A Wealth of Slaves and Sugar'; SRC02 provisioning paragraph",
+      "refutation": "Checked the script gives no construction date and never presents the capture as liberation. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S004",
       "S016",
@@ -62,8 +78,8 @@
       "S067",
       "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C2",
@@ -74,6 +90,14 @@
     ],
     "locator": "Bone identification and Mindin/West Africa provisioning paragraphs.",
     "limit": "Presence is not a dated menu, quantity, quality, or each pirate's diet.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "QAR Project bone article: 'Other bones indicate meat commonly used as stores for ships on long voyages: specifically beef and pork, some with clear evidence of butchering. La Concorde resupplied with food in Mindin in March 1717 and again in West Africa in June, so some of these stores may have been on board when captured.'",
+      "source_locators": "SRC02 'So why do we find bones at all?' section",
+      "refutation": "Looked for any narrated menu, quantity or quality; none. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S011",
       "S012",
@@ -82,8 +106,8 @@
       "S015",
       "S016"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C3",
@@ -94,6 +118,14 @@
     ],
     "locator": "Bardeau paragraph and cited Ernaut deposition, 27 April 1718.",
     "limit": "Say force explicitly; no actor represented as exact likeness.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Same article: 'Following capture, Georges Bardeau, the French crew's second cook, was forcibly retained by the pirates. We can assume that his cooking responsibilities continued under Blackbeard's watch.'",
+      "source_locators": "SRC02 Bardeau paragraph",
+      "refutation": "The script keeps 'forcibly retained' as fact and continued cooking as inference, matching the source's 'we can assume'. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S008",
       "S021",
@@ -111,8 +143,8 @@
       "S068",
       "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C4",
@@ -124,6 +156,14 @@
     ],
     "locator": "Tools overview; iron gouge flattened head and hammering.",
     "limit": "Illustrative action based on tool function, not a witnessed workday. Do not use uncertain silver needle as a sail needle.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "QAR Project tools overview: activities represented include 'carpentry, gunnery, medical treatment, navigation, sail making and rigging, sharpening and surveying'. Iron gouge page: 'Iron gouges ... had flattened heads for hammering.'",
+      "source_locators": "SRC03 overview paragraph; SRC04 full entry",
+      "refutation": "Narration changed from 'battered head suggesting hammering' to 'flattened head made for hammering' to match the source. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S005",
       "S023",
@@ -133,8 +173,8 @@
       "S028",
       "S032"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C5",
@@ -145,6 +185,14 @@
     ],
     "locator": "First paragraph, large 16.9-inch / 21-pound example.",
     "limit": "Only large securely identified weight; no invented numerical depth or assurance of safety.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Sounding weight page: 'A lead sounding weight (length 16.9 in.) engraved XXI (21 lbs.) ... was attached to a line and used to determine water depth and bottom consistency.' Two smaller weights are uncertain in use.",
+      "source_locators": "SRC05 first paragraph",
+      "refutation": "The script uses only the large weight and gives no depth. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S035",
       "S036",
@@ -154,8 +202,8 @@
       "S040",
       "S041"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C6",
@@ -167,6 +215,14 @@
     ],
     "locator": "Dividers purpose paragraph; mortar and pestle function.",
     "limit": "Reconstructed use, not a named owner's tools or proof of effective treatment.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Dividers page: 'Dividers were one of the essential tools used by navigators for determining positions on charts' (steel needles missing, hinge still works). Mortar and pestle page: 'an integral part of the surgeon's kit'.",
+      "source_locators": "SRC06 and SRC07 full entries",
+      "refutation": "No named owner, no cure claimed. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S042",
       "S043",
@@ -176,8 +232,8 @@
       "S053",
       "S054"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C7",
@@ -189,6 +245,14 @@
     ],
     "locator": "Blackbeard chapter: Teach detained ships and prisoners, demand for medicines, release after compliance.",
     "limit": "Attribute written account, omit disputed values and invented dialogue. Not evidence any one recovered mortar came from that chest.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Johnson 1724, Teach chapter: 'Teach detained all the Ships and Prisoners, and, being in want of Medicines, resolves to demand a Chest from the Government of the Province ... as soon as he had received the Medicines and his Brother Rogues, let go the Ships and the Prisoners.' QAR tools page also records the Charleston chest.",
+      "source_locators": "SRC08 Teach chapter, Charles-Town paragraphs; SRC03 overview",
+      "refutation": "Script attributes it to the published account, omits the threats' wording and the plunder value. The mortar page says only 'possibly' connected. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S047",
       "S048",
@@ -198,8 +262,8 @@
       "S053",
       "S057"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C8",
@@ -211,6 +275,14 @@
     ],
     "locator": "Roberts articles III–IV; author's admission attempts to curb drinking were ineffective.",
     "limit": "Another captain, after QAR's career; written rule not proven perfect compliance; no exact universal bedtime.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Johnson 1724, Roberts articles: 'III. No Person to Game at Cards or Dice for Money. IV. The Lights and Candles to be put out at eight o'Clock at Night: If any of the Crew, after that Hour, still remained inclined for Drinking, they were to do it on the open Deck; which Roberts believed would give a Check to their Debauches, for he was a sober Man himself, but found at length, that all his Endeavours to put an End to this Debauch, proved ineffectual.' Royal Museums Greenwich quotes the same article.",
+      "source_locators": "SRC08 Roberts chapter, articles III–IV; SRC09 'Did ships follow a pirate code?'",
+      "refutation": "Narration S077 now says Roberts's own efforts failed, as the text states. The rules stay with Roberts's crew and are labelled as a later comparison. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S069",
       "S070",
@@ -224,18 +296,26 @@
       "S078",
       "S079"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C9",
-    "claim": "Sixteen tiny paper fragments recovered from a cannon chamber were identified as part of Edward Cooke's 1712 voyage narrative.",
+    "claim": "Sixteen tiny paper fragments recovered from a cannon chamber were identified as part of Edward Cooke's 1712 voyage narrative; paper rarely survives on shipwrecks.",
     "type": "E",
     "sources": [
       "SRC10"
     ],
     "locator": "Discovery, identification and historical-record paragraphs.",
     "limit": "Cannot identify who read it, when it was torn, why it entered chamber, or what all pirates read.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "NC DNCR, 4 January 2018: '16 tiny fragments of paper were discovered in a mass of wet sludge removed from the chamber for a breech-loading cannon ... legible printed text on some of the fragments, although only a few words' ... 'from a 1712 first edition of a book by Captain Edward Cooke, A Voyage to the South Sea, and Round the World'. Also: 'Paper is an extremely rare material to find on shipwrecks ... usually disintegrates very quickly under water.'",
+      "source_locators": "SRC10 press release, paragraphs 2–4",
+      "refutation": "No reader is named; the script says so. Claim text widened to cover the rarity statement used in S089. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S080",
       "S081",
@@ -249,8 +329,8 @@
       "S089",
       "S090"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C10",
@@ -266,6 +346,14 @@
     ],
     "locator": "Synthesis of object functions, contrasted with unknown individual routines.",
     "limit": "Explicit reconstructed sequence, not hours per task or all-crew uniform routine.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "inference checked against the evidence rows above",
+      "evidence": "Synthesis of C2–C7 and C9; the script says the day is imagined (S006, S093) and gives no hours per task.",
+      "source_locators": "C2–C9 passages",
+      "refutation": "Looked for a line implying a uniform routine; none. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S003",
       "S005",
@@ -288,8 +376,8 @@
       "S093",
       "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; inference checked against the evidence rows above",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C11",
@@ -300,10 +388,18 @@
     ],
     "locator": "Full artifact description, competing-use paragraphs.",
     "limit": "No definite identification or specific task depicted.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Silver needle page: 'The purpose of the silver needle has been widely debated ... its large size makes it unlikely for medical use, and the softness of silver makes it difficult to use on sailcloth. One possibility is that it is a sacking needle, used to sew sacks of gunpowder closed.'",
+      "source_locators": "SRC11 full entry",
+      "refutation": "The script shows the needle without an asserted use. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S031"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   }
 ]

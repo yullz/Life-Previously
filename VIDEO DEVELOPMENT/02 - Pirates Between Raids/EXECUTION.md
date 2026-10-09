@@ -1,6 +1,6 @@
 # Execute this episode
 
-Production slug: pirates-between-raids. Run commands from the project root. Do not start while director_to_claude.json says development_in_progress.
+Production slug: pirates-between-raids. Run commands from the project root. Do not start while director_to_claude.json says development_in_progress; when it says director_package_ready, verify package_manifest.json hashes first.
 
 1. Copy this folder's script.txt, claims.md, period.txt, package.md, qa.md, EXECUTION.md, thumbnail_brief.md, research.md, sources.json and all JSON specification files to episodes/pirates-between-raids/; put research.md and sources.json under research/ as well. Create images/, audio/, thumbs/, overlays/, output/ and build/. Do not overwrite an existing production folder; inspect/resume it. Preserve this source folder.
 2. Run python pipeline/lp.py check pirates-between-raids. Facts must be checked, not overridden.
@@ -13,6 +13,6 @@ Production slug: pirates-between-raids. Run commands from the project root. Do n
 9. Run python pipeline/compose_check.py pirates-between-raids all. Render a preview, then a named candidate with lp.py render and the existing channel theme. Use --out within this episode's build/director_review/ and preserve earlier candidates.
 10. Run final_check.py and review_manifest.py against that exact candidate. Inspect images/composites and actually play the complete candidate with audio; fix affected inputs and recheck only impacted plus final playback gates.
 11. Resolve shorts_plan.json against actual alignment, write native shorts.json, render the three portrait cuts and inspect/listen to all three. Use pipeline/shorts.py --video <chosen candidate> --out <review folder>.
-12. Fill exact chapter times in package.md, refresh packaging checks, and deliver REVIEW pirates-between-raids/ with film,3 thumbnail variants (A lead), captions, upload copy and3 Shorts plus README and hashes. Read VIDEO DEVELOPMENT/PRODUCTION_CONTRACT.md from the project root for the full acceptance standard. Do not publish.
+12. Fill exact chapter times in package.md, refresh packaging checks, and deliver REVIEW pirates-between-raids/ with film,3 thumbnail variants (A lead), captions, upload copy and3 Shorts plus README and hashes. Lead thumbnail is A. Read VIDEO DEVELOPMENT/PRODUCTION_CONTRACT.md from the project root for the full acceptance standard. Do not publish.
 
 Routine image defects: identify exact mismatch, replace the offending element with the specified period-correct one, edit only the accepted local version, inspect the entire result before accepting. Shared defects stop the affected batch. Semantic/script changes return to Astra with exact evidence; no silent rewrite.

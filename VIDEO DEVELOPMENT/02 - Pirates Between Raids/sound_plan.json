@@ -1,23 +1,88 @@
 {
-  "status": "director_specified_not_generated_or_heard",
+  "status": "director_specified_assets_unheard",
   "music": "Existing channel theme, low under voice; no triumphant swell over slavery or coercion.",
   "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below narration at their exact cue. Use silence across reflective pauses.",
   "new_assets": [
     {
       "id": "sea_hull",
-      "description": "Quiet gentle seawater against a timber hull, no gull loop, voices, motor or surf crash."
+      "prompt": "Quiet gentle seawater moving against a timber hull, slow and even. No gull loop, voices, motor or surf crash.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/pirates-between-raids-sea_hull.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "hemp_wood",
-      "description": "Brief restrained hemp rope moving through a wooden block, no modern winch."
+      "prompt": "Brief restrained hemp rope moving through a wooden block, one short pull. No modern winch or metal.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/pirates-between-raids-hemp_wood.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "wood_tap",
-      "description": "Two light wooden mallet taps on a secured woodworking tool, no metal factory ringing."
+      "prompt": "Two light wooden mallet taps on a secured woodworking tool, close and dry. No metal factory ringing.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/pirates-between-raids-wood_tap.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "pot_stir",
-      "description": "Soft wooden spoon stirring a supported iron cooking pot, no loud bubbling."
+      "prompt": "A wooden spoon stirring a supported iron cooking pot, soft scrape, no loud bubbling.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/pirates-between-raids-pot_stir.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "hearth_crackle",
+      "prompt": "A small contained cooking fire crackling quietly in a brick-lined hearth. No roaring bonfire or wind.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/pirates-between-raids-hearth_crackle.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "lead_splash",
+      "prompt": "A heavy lead weight dropping into calm seawater with one modest splash and a line paying out briefly. No scream or crash.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/pirates-between-raids-lead_splash.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "hull_creak",
+      "prompt": "A slow wooden hull creak inside a ship passage, quiet and restrained, one or two creaks. No chains, voices or footsteps.",
+      "seconds": 4,
+      "kind": "ambience",
+      "path": "channel/sfx/pirates-between-raids-hull_creak.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "night_sea",
+      "prompt": "Calm night water lapping gently against a wooden hull, very quiet. No wind howl or music.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/pirates-between-raids-night_sea.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "candle_out",
+      "prompt": "A candle wick pinched out with a faint hiss and a tiny puff, close. No modern click.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/pirates-between-raids-candle_out.mp3",
+      "paid": true,
+      "quote_at_launch": true
     }
   ],
   "acquisition": "Inspect existing library first; exact suitable assets only. Quote any new paid assets within the episode allowance; do not generate at development stage.",
@@ -25,38 +90,163 @@
     {
       "scene_id": "S001",
       "asset": "sea_hull",
-      "timing": "quiet bed for deck scenes only; fade by galley cut"
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S003",
+      "asset": "wood_tap",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S004",
+      "asset": "sea_hull",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S009",
+      "asset": "hearth_crackle",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S010",
       "asset": "pot_stir",
-      "timing": "sync visible spoon movement; one short cue"
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S017",
+      "asset": "hearth_crackle",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S023",
+      "asset": "hemp_wood",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S026",
       "asset": "wood_tap",
-      "timing": "sync two visible mallet contacts, do not repeat under following insert"
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S032",
       "asset": "hemp_wood",
-      "timing": "brief visible line adjustment"
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S035",
+      "asset": "sea_hull",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S037",
+      "asset": "lead_splash",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S039",
       "asset": "sea_hull",
-      "timing": "quiet sea below sounding scene"
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S045",
+      "asset": "hemp_wood",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S057",
+      "asset": "sea_hull",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S058",
+      "asset": "hull_creak",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S067",
+      "asset": "hull_creak",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S071",
+      "asset": "night_sea",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S073",
+      "asset": "candle_out",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S074",
+      "asset": "night_sea",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S080",
+      "asset": "sea_hull",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S091",
       "asset": "sea_hull",
-      "timing": "return to deck; modest transition"
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S094",
+      "asset": "hemp_wood",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     }
   ],
   "intentional_silence": [
     "No weapon effects; this is not a raid scene.",
-    "No chains, screams or comic effects in S061–S068.",
-    "No explosion at paper-in-cannon reveal.",
+    "No chains, screams or comic effects in S058–S068; only a quiet hull creak in the passage scenes.",
+    "No explosion at the paper-in-cannon reveal.",
     "No invented dialogue, sea shanty or reader voice."
-  ]
+  ],
+  "no_sting": "Do not use the medieval bell sound logo in this episode."
 }

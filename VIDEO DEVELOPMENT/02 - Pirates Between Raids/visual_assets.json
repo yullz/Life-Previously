@@ -248,7 +248,7 @@
     },
     {
       "id": "S055",
-      "parent": "S047",
+      "parent": "S001",
       "status": "not_generated"
     },
     {
@@ -303,6 +303,11 @@
     },
     {
       "id": "S068",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
       "parent": "S001",
       "status": "not_generated"
     },
@@ -378,11 +383,6 @@
     },
     {
       "id": "S088",
-      "parent": "S081",
-      "status": "not_generated"
-    },
-    {
-      "id": "S089",
       "parent": "S081",
       "status": "not_generated"
     },
@@ -482,6 +482,12 @@
     {
       "id": "S087",
       "text": "EDWARD COOKE • A VOYAGE NARRATIVE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S089",
+      "text": "PAPER • RARELY SURVIVES UNDERWATER",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },

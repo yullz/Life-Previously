@@ -8,7 +8,7 @@ The pirate hat makes the premise immediate; a worried face beside ordinary work 
 
 Background: Working timber deck, secured wooden bench and one conspicuous wood gouge beside a short coil of rope at left. Sea visible through simple rail behind. No drawn crew, treasure, weapons firing or extra props. The work tools, not a fancy ship silhouette, supply the surprise.
 
-Chip: PIRATE LIFE • 1718. Pose: closeup-worried. Exact request and geometry: image_prompts.json / thumbnail_requests.
+Chip: BLACKBEARD'S SHIP • 1718. Pose: closeup-worried. Exact request and geometry: image_prompts.json / thumbnail_requests.
 
 The promised moment is paid off by S025, S026, S095.
 
@@ -18,7 +18,7 @@ A mundane assignment punctures the glamorous expectation; the full episode caref
 
 Background: Supported iron cooking pot at left on a contained brick hearth, plain wood barrel behind, modest timber setting. No flames near rope, no food flying or drawn person. Warm ochre pot area against slate sea visible through doorway.
 
-Chip: PIRATE LIFE • 1718. Pose: closeup-listening. Exact request and geometry: image_prompts.json / thumbnail_requests.
+Chip: BLACKBEARD'S SHIP • 1718. Pose: closeup-listening. Exact request and geometry: image_prompts.json / thumbnail_requests.
 
 The promised moment is paid off by S009, S010, S061, S064.
 

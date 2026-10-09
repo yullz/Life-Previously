@@ -1,5 +1,5 @@
 {
-  "state": "draft_built",
+  "state": "released_director_package",
   "source_passages_read": true,
   "exact_script_critical_review": "passed",
   "initial_review_evidence": {
@@ -39,10 +39,118 @@
         "fix": "Pose plan is authoritative; every required scene/thumbnail pose gets private hat."
       }
     ],
-    "unresolved_director_issues": []
+    "unresolved_director_issues": [],
+    "recheck": {
+      "date": "2026-10-09",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "coverage": "All 96 scenes re-read against REVIEW_STANDARD.md after Astra's initial review; every claim re-verified against its source (see claims_verification).",
+      "findings": [
+        {
+          "id": "02-R01",
+          "issue": "Cold open asked only one question and held none for the end",
+          "fix": "S005 asks what they ate, who kept the ship working and whether pirates had a bedtime, and holds the last; chapter 7 answers it."
+        },
+        {
+          "id": "02-R02",
+          "issue": "Twenty runs of identical shot types (four object inserts in a row on the bones, three on the medical kit, four on the paper, repeated unlit-lantern mediums)",
+          "fix": "Object studies now alternate with Visitor reactions and one new graphic (S089); the Roberts deck gets a wide of the drinkers on deck instead of a fifth lantern close-up."
+        },
+        {
+          "id": "02-R03",
+          "issue": "Two source captions phrased as the modern project only ('QAR Project • iron gouge')",
+          "fix": "Captions name the object and its historical anchor: 'Iron gouge • Queen Anne's Revenge wreck, 1718' and the same for bones, weight, dividers, mortar and needle."
+        },
+        {
+          "id": "02-R04",
+          "issue": "S025 said the gouge head was 'battered'; the source says flattened heads made for hammering. S077 credited 'the author' with failed efforts; the text says Roberts's own endeavours proved ineffectual",
+          "fix": "Both lines now match the sources."
+        },
+        {
+          "id": "02-R05",
+          "issue": "Narration slipped into third person at S068 ('Our Visitor'); no end-screen cue in the closing line",
+          "fix": "Second person; S096 ends with the choice question and the on-screen next-episode cue."
+        },
+        {
+          "id": "02-R06",
+          "issue": "Six sound cues for an eleven-minute episode; assets lacked generation prompts and cost flags",
+          "fix": "22 cues on visible action (hull water, rope through block, mallet taps, hearth, lead weight entering water, hull creak in the passage, night water, candle out); nine assets in the shared format, all paid and quoted at launch; passage scenes stay otherwise silent."
+        },
+        {
+          "id": "02-R07",
+          "issue": "Thumbnail chips read 'PIRATE LIFE • 1718' (not a place); Short 2 ended on a dangling 'brings us back to the question'; pilot lacked the galley and the separate Roberts deck",
+          "fix": "Chips 'BLACKBEARD'S SHIP • 1718'; Short 2 ends at S090; pilot adds S009 and S071."
+        },
+        {
+          "id": "02-R08",
+          "issue": "Hat specification said nine poses but listed eight",
+          "fix": "Text corrected; pose list regenerated from use (eight poses)."
+        }
+      ],
+      "unresolved": []
+    }
   },
-  "additional_slate_review_1": "pending",
-  "additional_slate_review_2": "pending",
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-09",
+    "checked": 12,
+    "open": 0,
+    "total": 12,
+    "method": "Every cited source fetched and read at the locator on 2026-10-09 (QAR Project ship history, bone, tools, gouge, sounding weight, dividers, mortar and needle pages; Johnson 1724 on Gutenberg; Royal Museums Greenwich; NC DNCR press release). Spoken wording compared; refutation attempt recorded per row in claims.json.",
+    "summary": "All 12 rows supported. Two wordings tightened to the sources (gouge head, Roberts's own failed efforts); C9 widened to cover the rarity of surviving paper."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed_with_fixes",
+    "date": "2026-10-09",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script.txt, claims.md and package.md after the re-check, plus the slate content check against all eighteen packages and the published episodes (see ../SLATE_CHECK.md); each episode keeps its own tone.",
+    "findings": [
+      {
+        "id": "02-P1-01",
+        "issue": "Three 'reaction' shots (S027, S033, S041) had no Visitor in them",
+        "fix": "S027 look-around and S033 shrug-smirk carry their hat jokes; S041 is an ordinary medium of the secured line."
+      },
+      {
+        "id": "02-P1-02",
+        "issue": "Two consecutive scenes used the same close-up pose on the paper fragments (S082, S083)",
+        "fix": "S083 is a plain object study; S084 takes the thoughtful close-up."
+      },
+      {
+        "id": "02-P1-03",
+        "issue": "A stray capital inside a prompt ('one Unlit covered lantern')",
+        "fix": "Lower case."
+      },
+      {
+        "id": "02-P1-04",
+        "issue": "Slate check: 1718 Atlantic pirate workday compared with the other seventeen packages and episodes 001–003",
+        "fix": "Distinct; the only other shipboard story (13, an 1854 emigrant voyage) differs in century, format and question. No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed",
+    "date": "2026-10-09",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Adversarial and execution dry run: compiled prompts for the repair-bench edit (S003), the coercion anchor (S021) and the separate Roberts deck (S071) read in full; hat-bearing thumbnail composite and private pose render paths checked; handoff counts, pilot order, sound assets, pronunciations, Shorts and packaging copy checked against the standard.",
+    "findings": [
+      {
+        "id": "02-P2-01",
+        "issue": "Looked for a factual sentence without a checked claim, a modern-dated caption, a pose whose prop makes no sense on a ship, a prompt naming the Visitor, or a hat missing from a composite; none found",
+        "fix": "No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-09",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial review (Astra) with re-check, source verification of all 12 claims, two package review passes and the slate content check complete. The pirate hat is a mandatory private pose derivative (pirate_hat_spec.json) to be built and inspected at production. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "media_reviews": "not_applicable_yet_no_media_generated",
   "known_research_boundaries": "Anchor: Queen Anne's Revenge in early 1718, with an explicitly imagined workday. One dated comparison concerns Roberts's different crew, 1719–1722, as described in 1724. The script follows practical needs, then changes the viewer's expectation of freedom by naming a forcibly retained cook. Archaeology is not a daily diary: food bones can predate capture, a medicine tool cannot certify a cure, printed scraps cannot identify a reader. Rejected: a precise daily menu, a definite sail needle from the disputed silver object, pirate democracies as universally egalitarian, universal bedtime rules, book-club scenes, burying treasure, walking planks, and detailed vessel geometry unsupported by a plan. Johnson is cited under its published author's name; attribution to Daniel Defoe is disputed. Visual artifact references must be inspected before exact object drawing, but all narrative claims above use passages already read."
 }

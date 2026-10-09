@@ -51,3 +51,10 @@ What is assessed, per package against all eighteen and the published episodes: s
 - Thumbnail promise FIRE OR FOOD? and alternates (STILL HUNGRY, ONE MORE BOWL) do not repeat another package's headline family.
 - No shared source material with another package; Saint-Simon and Morin appear only here.
 - Verdict: distinct. No change needed.
+
+### 02 — What Did Pirates Do When They Weren't Raiding Ships? (checked 2026-10-09)
+- Setting and century unique on the slate (an Atlantic pirate ship, 1718); the only other shipboard story is 13 (an 1854 emigrant voyage): different century, format (ship's newspaper versus archaeology) and question.
+- Angle (the practical work between raids, then the coerced cook and the surviving book) is covered nowhere else; the title's "What Did … Do" shape also appears on the published London episode, which is fine.
+- Thumbnail promises (NO DAY OFF?, YOU'RE THE COOK, TREASURE? MEDICINE.) repeat no other package's headline family.
+- No shared sources or beats with another package.
+- Verdict: distinct. No change needed.

@@ -15,15 +15,15 @@ First, there is work to do. Then some more work. Your dramatic introduction may 
 We're using Blackbeard's flagship, Queen Anne's Revenge, as our starting point, off the southeastern coast of North America in seventeen-eighteen.
 
 ::: S005 | Three simple locally drawn objects: bowl, mallet and chart. [still]
-Recovered objects reveal jobs that spectacular stories rush past: feeding people, repairing things and finding your way.
+Three questions, then. What did they eat? Who kept the ship working? And did pirates have a bedtime? Keep that last one.
 
 ::: S006 | Single wood-handled iron gouge on parchment, no person or fake writing. [note: Illustrative workday • archaeological evidence] [pan-left]
 Our day aboard is imagined. The tools and accounts are real; nobody left a timetable for this particular morning.
 
-::: S007 | Recovered gouge and plain wood offcut on neutral field, no person. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S006] [zoom-out]
+::: S007 | Recovered gouge and plain wood offcut at left on the neutral field; right third calm. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S006] [still]
 A shipwreck can reveal what people used without telling you who had the most annoying shift.
 
-::: S008 | Quiet deck, simple closed hatch left, no visible captives or threatening crew. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [still]
+::: S008 | Quiet deck, simple closed hatch left, no visible captives or threatening crew. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [pan-right]
 It can also spoil a surprisingly cosy picture of pirate life. Not everybody on this ship chose to be here.
 
 ::: S009 | Contained cooking hearth and firmly supported pot at left; cook stands behind it, open floor right. [pose: clutch-stomach 0.8,0.94 0.6] [zoom-in]
@@ -35,14 +35,14 @@ Being between raids does not mean skipping meals. Someone still needs to supply 
 ::: S011 | One simplified butchered cattle bone on neutral parchment, no blood or person. [zoom-out]
 So put the treasure fantasy aside for a moment. Begin with a clue that looks considerably less attractive on a postcard.
 
-::: S012 | Same single bone shown larger, clean outlined reconstruction; no measurements invented. [same-as: S011] [pan-right]
+::: S012 | Same single bone shown larger at left, clean outlined reconstruction; right third calm. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S011] [still]
 For our purposes, an extremely useful bone. What can it actually tell us about dinner?
 
 ## What reaches the pot
-::: S013 | Two distinct simplified cattle and pig bone fragments side by side, no meat feast. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: QAR Project • butchered animal bones] [same-as: S011] [zoom-in]
+::: S013 | Two distinct simplified cattle and pig bone fragments side by side, no meat feast. [note: Butchered animal bones • Queen Anne's Revenge wreck, 1718] [same-as: S011] [zoom-in]
 The wreck has produced butchered cattle and pig bones. Meat provisions were part of this ship's story, however unglamorous the leftovers.
 
-::: S014 | One small bone beside a modest empty bowl, no feast or people. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S011] [pan-left]
+::: S014 | One small bone beside a modest empty bowl at left; right third calm, no feast or people. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S011] [still]
 You might picture Blackbeard eating an enormous roast. That is several enthusiastic steps beyond what these bones prove.
 
 ::: S015 | Plain covered pot on established contained hearth, no visible ingredients or people. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S009] [zoom-out]
@@ -76,13 +76,13 @@ And once the bowl is empty, the ship remains inconveniently made of things that 
 Your next stop is the carpenter. Pirate artifacts include rather more than weapons.
 
 ## The floating workplace
-::: S025 | Iron gouge shown with flattened struck head clearly visible, period handle reconstruction distinguished in caption. [note: QAR Project • iron gouge] [same-as: S006] [zoom-in]
-The recovered iron gouge has a battered head suggesting hammering: a small object with a physical working life.
+::: S025 | Iron gouge shown with flattened struck head clearly visible, period handle reconstruction distinguished in caption. [note: Iron gouge • Queen Anne's Revenge wreck, 1718] [same-as: S006] [zoom-in]
+The recovered iron gouge has a flattened head made for hammering: a small object with a physical working life.
 
 ::: S026 | Carpenter B safely holds gouge against secured offcut with mallet raised slightly; exact two hands visible. [same-as: S003] [pan-left]
 Tools like this worked wood. We can reconstruct their use, but cannot name the hands that held them.
 
-::: S027 | Tools rest safely on left bench; carpenter absent; clear floor right. [same-as: S003] [still]
+::: S027 | Tools rest safely on the left bench, carpenter absent; clear deck floor at right. [pose: look-around 0.8,0.94 0.6] [same-as: S003] [still]
 You were hoping for a sword. Instead, someone appears to be offering you a practical skill and a piece of timber.
 
 ::: S028 | Four separate locally drawn symbols: carpentry gouge, stitched sail patch, rope through wooden block, and chart dividers. No equipment misidentified. [still]
@@ -91,16 +91,16 @@ The tool collection points to carpentry, sailmaking, rigging and navigation. Kee
 ::: S029 | Sailor A handles a secured coil at left, another adult stands back observing; no battle. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [zoom-in]
 A raid could bring supplies aboard. It would not turn every passenger into somebody who could repair things.
 
-::: S030 | Same wood-handled gouge and mallet on neutral field; no invented unidentified archaeological specimen. [same-as: S006] [pan-left]
+::: S030 | Same wood-handled gouge and mallet at left on the neutral field; right third calm. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S006] [still]
 A tool also needs someone who understands it. Your excellent hat has so far failed to supply that knowledge.
 
-::: S031 | Simplified large silver needle on neutral field, no thread passing through sailcloth and no asserted use. [note: QAR Project • debated object function] [zoom-out]
+::: S031 | Simplified large silver needle on neutral field, no thread passing through sailcloth and no asserted use. [note: Large silver needle • debated use • QAR wreck, 1718] [zoom-out]
 Some finds remain ambiguous. A large silver needle has competing interpretations; it cannot simply prove sail repairs.
 
 ::: S032 | Sailor A checks one hemp line through wooden block, canvas furled safely behind. [same-as: S001] [pan-right]
 On deck, rope and canvas belong to the same practical story. The glamorous ship still depends on unglamorous handling and upkeep.
 
-::: S033 | One block and secured line at left, no locals, calm open foreground right. [same-as: S032] [still]
+::: S033 | One block and secured line at left, no locals, calm open foreground right. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S032] [still]
 Your hat contributes little here. It does announce a surprisingly theatrical understanding of the job.
 
 ::: S034 | Carpenter B examines secured offcut near tool edge at left; clear right. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S003] [pan-left]
@@ -113,7 +113,7 @@ But an expertly repaired ship can still be in the wrong place. Keeping it afloat
 This next piece of equipment is not especially elegant. That is unlikely to bother you when the bottom starts getting closer.
 
 ## Finding water deep enough
-::: S037 | Sailor A lowers attached sounding weight outside rail; rope travels continuously from hands to weight. [pose: count-fingers 0.8,0.94 0.6] [note: QAR Project • sounding weight] [same-as: S035] [zoom-in]
+::: S037 | Sailor A lowers attached sounding weight outside rail; rope travels continuously from hands to weight. [pose: count-fingers 0.8,0.94 0.6] [note: Lead sounding weight • QAR wreck, 1718] [same-as: S035] [zoom-in]
 A recovered lead weight, attached to a line, helped find the water's depth.
 
 ::: S038 | Cutaway sea with weighted vertical line and a clearly labelled seabed; no numeric scale. [still]
@@ -125,13 +125,13 @@ Picture our sailor lowering the line. Nothing explodes. No treasure appears. Use
 ::: S040 | Large sounding weight alone on parchment, no ruler or unsupported depth value. [same-as: S036] [pan-right]
 The weight proves this kind of work, not the depth beneath our imagined scene.
 
-::: S041 | Line neatly secured at rail, no locals, open deck at right. [same-as: S035] [still]
+::: S041 | Line neatly secured at rail, no locals, open deck at right. [same-as: S035] [zoom-in]
 Nor does owning the right tool guarantee a safe journey. Equipment is not a magical promise that people never make mistakes.
 
 ::: S042 | Blank illustrative chart at left on table, metal dividers beside it, no person. [pose: count-fingers 0.8,0.94 0.6] [same-as: S001] [pan-left]
 Another small find takes us from the water beside the ship to the problem of working with a chart.
 
-::: S043 | Period dividers partly open over unlettered chart; no hand, numerical scale or modern drawing compass. [note: QAR Project • dividers] [same-as: S042] [zoom-out]
+::: S043 | Period dividers partly open over unlettered chart; no hand, numerical scale or modern drawing compass. [note: Navigator's dividers • QAR wreck, 1718] [same-as: S042] [zoom-out]
 Recovered dividers link the wreck to chart navigation: another small tool with a useful job.
 
 ::: S044 | Unlettered chart at left, open right third for a separately composited close-up. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S042] [still]
@@ -156,10 +156,10 @@ In a published account from seventeen-twenty-four, Blackbeard holds ships and pr
 ::: S050 | Three sober panels: detained ships, medicine chest, release arrow; no threatened violence shown. [still]
 The account describes compliance and the prisoners' release. Medicine belongs here to a story of coercion, not charming shopping.
 
-::: S051 | Brass mortar and matching pestle resting separately with plausible scale, no branded bottles. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: QAR Project • mortar and pestle] [same-as: S047] [zoom-out]
+::: S051 | Brass mortar and matching pestle resting separately with plausible scale, no branded bottles. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Brass mortar and pestle • QAR wreck, 1718] [same-as: S047] [zoom-out]
 The surviving wreck also contains medical equipment. A brass mortar and pestle belongs to the practical business of preparing substances for treatment.
 
-::: S052 | Brass mortar beside open plain chest, no provenance label or receipt. [same-as: S047] [pan-right]
+::: S052 | Brass mortar beside the open plain chest at left; no provenance label; right third calm. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S047] [still]
 It is tempting to announce that this very tool came from that famous chest.
 
 ::: S053 | Same brass mortar and pestle on neutral table area, no handwritten receipt or person. [same-as: S047] [zoom-in]
@@ -168,7 +168,7 @@ But the connection is uncertain. The tool and the demand survive in different ki
 ::: S054 | Closed chest and folded linen at left, no person in background. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S047] [still]
 Possessing equipment did not mean someone could cure your illness. A treatment kit cannot prove successful treatment.
 
-::: S055 | Closed chest left, folded linen beside it, quiet background and clear right. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S047] [still]
+::: S055 | Established deck in subdued light, rope coil and mast base at left; open deck right. [pose: clutch-stomach 0.8,0.94 0.6] [same-as: S001] [zoom-out]
 For our imaginary newcomer, that is worrying. Adventure is less enjoyable when you feel terrible.
 
 ::: S056 | Four locally drawn icons: bowl, gouge, sounding line, mortar. [still]
@@ -196,22 +196,22 @@ The vessel became Queen Anne's Revenge. Before that, she had carried enslaved Af
 ::: S063 | Two clothed adults of different backgrounds stand separately in passage, no smiling captors or pirate flags. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S021] [zoom-out]
 So this ship's history includes people whose movement was controlled by others. A pirate flag does not turn that into freedom.
 
-::: S064 | Empty cooking space, supported pot and plain bowl; no actor asserted as Bardeau's likeness. [same-as: S009] [pan-right]
+::: S064 | Close view of the supported pot and one plain bowl in the empty cooking space; no actor asserted as Bardeau's likeness. [same-as: S009] [pan-right]
 His skill made him useful. We know he was forcibly retained, not every meal he later prepared.
 
-::: S065 | Empty established cooking space with plain supported pot; no named cook portrait. [same-as: S009] [zoom-in]
+::: S065 | Supported pot on the contained hearth at left, cook absent; right third calm. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S009] [still]
 Continued cooking is plausible. It remains an inference, not a surviving diary of his day.
 
 ::: S066 | Sailor A working at rope left, second sober adult observing; no obvious class costumes. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [pan-left]
 That changes our opening question. What pirates did between raids also depended on who you were and how you ended up aboard.
 
-::: S067 | Same calm passage and two separated adults, emphasize individual faces rather than captivity spectacle. [same-as: S021] [zoom-out]
+::: S067 | Wider view of the same calm passage: two separated adults and the closed hatch beyond; individual faces, no captivity spectacle. [same-as: S021] [zoom-out]
 Somebody else's adventure could be your captivity. That belongs in the picture alongside the tools, the meals and the famous captain.
 
 ::: S068 | Empty deck with neatly secured rope left, no locals. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [still]
-Our Visitor can joke about getting the boring assignment. Actual people aboard did not all share that harmless imaginary situation.
+You can joke about drawing the boring assignment. Actual people aboard did not all share that harmless imaginary situation.
 
-::: S069 | Two different ship silhouettes in separate boxes, no connecting uniform rulebook. [still]
+::: S069 | Established deck, sailor A and a second adult working apart at left; open deck right. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S001] [zoom-in]
 There is another easy mistake: imagining that every pirate crew operated under one grand set of rules, like a travelling organisation.
 
 ::: S070 | QAR label and Roberts label separated, with explicit later-date band. [still]
@@ -220,7 +220,7 @@ The sources contain examples of rules, but an example from another captain canno
 ::: S071 | Different schematic deck at dusk with a covered candle lantern left; no QAR mast layout. [pose: look-around 0.8,0.94 0.6] [note: Different crew • Roberts, 1719–1722] [zoom-out]
 For one comparison, leave this ship and consider Bartholomew Roberts's crew, a little later.
 
-::: S072 | Covered lantern on left, quiet open deck; no locals or invented argument. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S071] [pan-right]
+::: S072 | Covered lantern at left on the quiet separate deck; right third calm, no locals. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S071] [still]
 Their reported rules contain something familiar to anyone told to take the noise outside.
 
 ## Did pirates have a bedtime?
@@ -233,16 +233,16 @@ Anyone still inclined to drink afterward was supposed to do it on the open deck.
 ::: S075 | Simple blank card and dice icons with a crossed-out coin beside them; no readable playing card faces. [note: Roberts's reported articles · published 1724] [still]
 The same account bans gambling at cards or dice for money. A pirate reputation did not automatically mean an absence of rules.
 
-::: S076 | Unlit covered lantern and empty plain cup on left, no locals. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S071] [still]
+::: S076 | Close view of the unlit covered lantern and one empty plain cup on the deck boards; dark sea beyond. [same-as: S071] [pan-right]
 A written rule reveals what someone wanted. It does not prove everyone obeyed it.
 
 ::: S077 | Unlit covered lantern and one empty cup at left; dark sea, no invented disobedience shown. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S071] [still]
-The author even says efforts to curb drinking failed. Regulation and behaviour are different evidence.
+The account even says Roberts's own efforts to curb the drinking failed. Regulation and behaviour are different evidence.
 
-::: S078 | Same deck at dusk; one Unlit covered lantern, no local people. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S071] [pan-left]
+::: S078 | Same deck at dusk; one unlit covered lantern, no local people. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S071] [pan-left]
 These articles belong to Roberts's crew, in a book published in seventeen-twenty-four. They are evidence about that crew's intended rules.
 
-::: S079 | Unlit covered lantern at left with dark sea behind; no sleeping-crew claim. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S071] [zoom-out]
+::: S079 | Open separate deck at dusk, two adults in plain shirts seated apart with modest cups at left, lantern unlit; dark sea. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S071] [zoom-out]
 The rule tells us where late drinking was supposed to happen. It does not tell us how peacefully every evening ended.
 
 ::: S080 | Original mast base and rope coil restored in daylight, not Roberts deck. [pose: look-around 0.8,0.94 0.6] [note: Back to Queen Anne’s Revenge • 1718] [same-as: S001] [pan-right]
@@ -251,18 +251,18 @@ Back aboard Queen Anne's Revenge, we still have one clue to examine. This one su
 ::: S081 | Tiny irregular paper fragment on neutral field, visibly small relative to closed plain book behind. [zoom-in]
 For conservators, it became a delicate puzzle: scraps of paper that might still connect this wreck with a printed book.
 
-::: S082 | Small paper fragment beside closed plain volume, no chair or reader. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S081] [pan-left]
+::: S082 | Small paper fragment beside the closed plain volume at left; right third calm, no chair or reader. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S081] [still]
 No, we have not discovered Blackbeard's personal reading chair. There is one last clue to handle carefully.
 
-::: S083 | Small fragment and blank closed bound volume, no chair or identifiable reader. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S081] [zoom-out]
+::: S083 | Small fragment and blank closed bound volume on the neutral field, no chair or identifiable reader. [same-as: S081] [zoom-out]
 What would you expect a scrap from a pirate ship to contain? This one points beyond our little working deck.
 
-::: S084 | Same fragment prominent at left, calm right third for separately composited character. [same-as: S081] [pan-right]
+::: S084 | Same fragment prominent at left; calm right third. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S081] [still]
 The tiny fragment survived. Now the challenge was identifying what the printed words belonged to.
 
 ## A book where you least expect it
 ::: S085 | Cannon chamber schematic leads to paper fragments panel; exact count label composited locally. [still]
-Paper survived inside a cannon chamber recovered from Queen Anne's Revenge. Conservators found sixteen tiny fragments and began working out what they were.
+Paper survived inside a cannon chamber from Queen Anne's Revenge. Conservators found sixteen tiny fragments and set about identifying them.
 
 ::: S086 | Small fragment beside blank closed book, no simulated original text. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Edward Cooke • voyage narrative, 1712] [same-as: S081] [pan-left]
 Some printed words were still readable. Researchers identified them as part of a seventeen-twelve edition of a voyage narrative by Edward Cooke.
@@ -273,10 +273,10 @@ It was an account of travel around the world. A book about voyages had itself en
 ::: S088 | Fragment alone enlarged on parchment, no reader or reading group. [same-as: S081] [pan-right]
 We cannot name its reader or establish a cosy book club from those surviving scraps.
 
-::: S089 | Fragment with plain book far behind, no submerged pristine whole volume. [same-as: S081] [zoom-in]
-The discovery is remarkable without that extra story. Printed material was present; its tiny remains survived where paper usually has a difficult time.
+::: S089 | Two labelled elements: a small paper fragment and a wave line, with the words that paper rarely survives underwater; no fake archival page. [still]
+The discovery is remarkable without that extra story. Printed material was aboard, and its tiny remains survived where paper rarely does.
 
-::: S090 | Single paper fragment on neutral field; no invented manuscript or clock. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S081] [pan-left]
+::: S090 | Single paper fragment at left on the neutral field; right third calm. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S081] [still]
 A real object can open a window onto life aboard without supplying every scene beyond it.
 
 ::: S091 | Established working deck, sailor A by rope left, carpenter B at bench further left. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [zoom-out]
@@ -294,5 +294,5 @@ That is what makes the quieter hours worth exploring. They tell you how the famo
 ::: S095 | Empty established deck, calm slate sea, rope coil left. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S001] [still]
 You can keep the hat. It has survived the episode admirably. The expectation of a permanent holiday has had a rougher voyage.
 
-::: S096 | Three clear choice icons: supported pot, gouge, chart; room for small pirate-hat separately composited character at right. [still]
-Would you rather handle the cooking, the repairs, or the navigation? Choose carefully. Looking dramatic has already proved to be insufficient.
+::: S096 | Three clear choice icons: supported pot, gouge, chart; right third left open for the end-screen element placed later. [still]
+Would you rather cook, repair or navigate? Tell us below, then choose your next Life, Previously voyage on screen.

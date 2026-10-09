@@ -159,7 +159,15 @@
       "type": "F",
       "sources": [],
       "locator": "Narrative framing, explicitly stated in S006.",
-      "limit": "No invented historical dialogue, payments, individual biography or exact day schedule."
+      "limit": "No invented historical dialogue, payments, individual biography or exact day schedule.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "editorial framing; no factual content",
+        "evidence": "S006 says aloud that the day aboard is imagined and nobody left a timetable.",
+        "source_locators": "",
+        "refutation": "",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C1",
@@ -169,7 +177,15 @@
         "SRC01"
       ],
       "locator": "Exploring the Vessel's Origins; Beginning of the End; Encountering Blackbeard.",
-      "limit": "Never imply a pirate takeover freed everyone, nor specify unverified construction date."
+      "limit": "Never imply a pirate takeover freed everyone, nor specify unverified construction date.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "QAR Project, The Ship's Journey: 'Before Queen Anne's Revenge was Blackbeard's flagship, it was a French slave ship called La Concorde'; three slave-trading voyages 1713, 1715 and 1717; construction date and place unclear. Bone article: captured by the pirates 'that November' (1717).",
+        "source_locators": "SRC01 'Exploring the Vessel's Origins' and 'A Wealth of Slaves and Sugar'; SRC02 provisioning paragraph",
+        "refutation": "Checked the script gives no construction date and never presents the capture as liberation. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C2",
@@ -179,7 +195,15 @@
         "SRC02"
       ],
       "locator": "Bone identification and Mindin/West Africa provisioning paragraphs.",
-      "limit": "Presence is not a dated menu, quantity, quality, or each pirate's diet."
+      "limit": "Presence is not a dated menu, quantity, quality, or each pirate's diet.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "QAR Project bone article: 'Other bones indicate meat commonly used as stores for ships on long voyages: specifically beef and pork, some with clear evidence of butchering. La Concorde resupplied with food in Mindin in March 1717 and again in West Africa in June, so some of these stores may have been on board when captured.'",
+        "source_locators": "SRC02 'So why do we find bones at all?' section",
+        "refutation": "Looked for any narrated menu, quantity or quality; none. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C3",
@@ -189,7 +213,15 @@
         "SRC02"
       ],
       "locator": "Bardeau paragraph and cited Ernaut deposition, 27 April 1718.",
-      "limit": "Say force explicitly; no actor represented as exact likeness."
+      "limit": "Say force explicitly; no actor represented as exact likeness.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Same article: 'Following capture, Georges Bardeau, the French crew's second cook, was forcibly retained by the pirates. We can assume that his cooking responsibilities continued under Blackbeard's watch.'",
+        "source_locators": "SRC02 Bardeau paragraph",
+        "refutation": "The script keeps 'forcibly retained' as fact and continued cooking as inference, matching the source's 'we can assume'. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C4",
@@ -200,7 +232,15 @@
         "SRC04"
       ],
       "locator": "Tools overview; iron gouge flattened head and hammering.",
-      "limit": "Illustrative action based on tool function, not a witnessed workday. Do not use uncertain silver needle as a sail needle."
+      "limit": "Illustrative action based on tool function, not a witnessed workday. Do not use uncertain silver needle as a sail needle.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "QAR Project tools overview: activities represented include 'carpentry, gunnery, medical treatment, navigation, sail making and rigging, sharpening and surveying'. Iron gouge page: 'Iron gouges ... had flattened heads for hammering.'",
+        "source_locators": "SRC03 overview paragraph; SRC04 full entry",
+        "refutation": "Narration changed from 'battered head suggesting hammering' to 'flattened head made for hammering' to match the source. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C5",
@@ -210,7 +250,15 @@
         "SRC05"
       ],
       "locator": "First paragraph, large 16.9-inch / 21-pound example.",
-      "limit": "Only large securely identified weight; no invented numerical depth or assurance of safety."
+      "limit": "Only large securely identified weight; no invented numerical depth or assurance of safety.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Sounding weight page: 'A lead sounding weight (length 16.9 in.) engraved XXI (21 lbs.) ... was attached to a line and used to determine water depth and bottom consistency.' Two smaller weights are uncertain in use.",
+        "source_locators": "SRC05 first paragraph",
+        "refutation": "The script uses only the large weight and gives no depth. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C6",
@@ -221,7 +269,15 @@
         "SRC07"
       ],
       "locator": "Dividers purpose paragraph; mortar and pestle function.",
-      "limit": "Reconstructed use, not a named owner's tools or proof of effective treatment."
+      "limit": "Reconstructed use, not a named owner's tools or proof of effective treatment.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Dividers page: 'Dividers were one of the essential tools used by navigators for determining positions on charts' (steel needles missing, hinge still works). Mortar and pestle page: 'an integral part of the surgeon's kit'.",
+        "source_locators": "SRC06 and SRC07 full entries",
+        "refutation": "No named owner, no cure claimed. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C7",
@@ -232,7 +288,15 @@
         "SRC03"
       ],
       "locator": "Blackbeard chapter: Teach detained ships and prisoners, demand for medicines, release after compliance.",
-      "limit": "Attribute written account, omit disputed values and invented dialogue. Not evidence any one recovered mortar came from that chest."
+      "limit": "Attribute written account, omit disputed values and invented dialogue. Not evidence any one recovered mortar came from that chest.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Johnson 1724, Teach chapter: 'Teach detained all the Ships and Prisoners, and, being in want of Medicines, resolves to demand a Chest from the Government of the Province ... as soon as he had received the Medicines and his Brother Rogues, let go the Ships and the Prisoners.' QAR tools page also records the Charleston chest.",
+        "source_locators": "SRC08 Teach chapter, Charles-Town paragraphs; SRC03 overview",
+        "refutation": "Script attributes it to the published account, omits the threats' wording and the plunder value. The mortar page says only 'possibly' connected. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C8",
@@ -243,17 +307,33 @@
         "SRC09"
       ],
       "locator": "Roberts articles III–IV; author's admission attempts to curb drinking were ineffective.",
-      "limit": "Another captain, after QAR's career; written rule not proven perfect compliance; no exact universal bedtime."
+      "limit": "Another captain, after QAR's career; written rule not proven perfect compliance; no exact universal bedtime.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Johnson 1724, Roberts articles: 'III. No Person to Game at Cards or Dice for Money. IV. The Lights and Candles to be put out at eight o'Clock at Night: If any of the Crew, after that Hour, still remained inclined for Drinking, they were to do it on the open Deck; which Roberts believed would give a Check to their Debauches, for he was a sober Man himself, but found at length, that all his Endeavours to put an End to this Debauch, proved ineffectual.' Royal Museums Greenwich quotes the same article.",
+        "source_locators": "SRC08 Roberts chapter, articles III–IV; SRC09 'Did ships follow a pirate code?'",
+        "refutation": "Narration S077 now says Roberts's own efforts failed, as the text states. The rules stay with Roberts's crew and are labelled as a later comparison. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C9",
-      "claim": "Sixteen tiny paper fragments recovered from a cannon chamber were identified as part of Edward Cooke's 1712 voyage narrative.",
+      "claim": "Sixteen tiny paper fragments recovered from a cannon chamber were identified as part of Edward Cooke's 1712 voyage narrative; paper rarely survives on shipwrecks.",
       "type": "E",
       "sources": [
         "SRC10"
       ],
       "locator": "Discovery, identification and historical-record paragraphs.",
-      "limit": "Cannot identify who read it, when it was torn, why it entered chamber, or what all pirates read."
+      "limit": "Cannot identify who read it, when it was torn, why it entered chamber, or what all pirates read.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "NC DNCR, 4 January 2018: '16 tiny fragments of paper were discovered in a mass of wet sludge removed from the chamber for a breech-loading cannon ... legible printed text on some of the fragments, although only a few words' ... 'from a 1712 first edition of a book by Captain Edward Cooke, A Voyage to the South Sea, and Round the World'. Also: 'Paper is an extremely rare material to find on shipwrecks ... usually disintegrates very quickly under water.'",
+        "source_locators": "SRC10 press release, paragraphs 2–4",
+        "refutation": "No reader is named; the script says so. Claim text widened to cover the rarity statement used in S089. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C10",
@@ -268,7 +348,15 @@
         "SRC10"
       ],
       "locator": "Synthesis of object functions, contrasted with unknown individual routines.",
-      "limit": "Explicit reconstructed sequence, not hours per task or all-crew uniform routine."
+      "limit": "Explicit reconstructed sequence, not hours per task or all-crew uniform routine.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "inference checked against the evidence rows above",
+        "evidence": "Synthesis of C2–C7 and C9; the script says the day is imagined (S006, S093) and gives no hours per task.",
+        "source_locators": "C2–C9 passages",
+        "refutation": "Looked for a line implying a uniform routine; none. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C11",
@@ -278,7 +366,15 @@
         "SRC11"
       ],
       "locator": "Full artifact description, competing-use paragraphs.",
-      "limit": "No definite identification or specific task depicted."
+      "limit": "No definite identification or specific task depicted.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Silver needle page: 'The purpose of the silver needle has been widely debated ... its large size makes it unlikely for medical use, and the softness of silver makes it difficult to use on sailcloth. One possibility is that it is a sacking needle, used to sew sacks of gunpowder closed.'",
+        "source_locators": "SRC11 full entry",
+        "refutation": "The script shows the needle without an asserted use. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     }
   ],
   "research": "Anchor: Queen Anne's Revenge in early 1718, with an explicitly imagined workday. One dated comparison concerns Roberts's different crew, 1719–1722, as described in 1724. The script follows practical needs, then changes the viewer's expectation of freedom by naming a forcibly retained cook. Archaeology is not a daily diary: food bones can predate capture, a medicine tool cannot certify a cure, printed scraps cannot identify a reader. Rejected: a precise daily menu, a definite sail needle from the disputed silver object, pirate democracies as universally egalitarian, universal bedtime rules, book-club scenes, burying treasure, walking planks, and detailed vessel geometry unsupported by a plan. Johnson is cited under its published author's name; attribution to Daniel Defoe is disputed. Visual artifact references must be inspected before exact object drawing, but all narrative claims above use passages already read.",
@@ -302,16 +398,18 @@
   "pilot": [
     "S001",
     "S003",
+    "S009",
+    "S021",
     "S035",
     "S047",
-    "S021",
+    "S071",
     "TH-A"
   ],
   "thumbnails": [
     {
       "id": "A",
       "headline": "NO DAY OFF?",
-      "chip": "PIRATE LIFE • 1718",
+      "chip": "BLACKBEARD'S SHIP • 1718",
       "scope": "QAR, early 1718; illustrative work between raids",
       "pose": "closeup-worried",
       "background": "Working timber deck, secured wooden bench and one conspicuous wood gouge beside a short coil of rope at left. Sea visible through simple rail behind. No drawn crew, treasure, weapons firing or extra props. The work tools, not a fancy ship silhouette, supply the surprise.",
@@ -325,7 +423,7 @@
     {
       "id": "B",
       "headline": "YOU’RE THE COOK",
-      "chip": "PIRATE LIFE • 1718",
+      "chip": "BLACKBEARD'S SHIP • 1718",
       "scope": "QAR, early 1718; illustrative shipboard cook task",
       "pose": "closeup-listening",
       "background": "Supported iron cooking pot at left on a contained brick hearth, plain wood barrel behind, modest timber setting. No flames near rope, no food flying or drawn person. Warm ochre pot area against slate sea visible through doorway.",
@@ -363,7 +461,7 @@
     {
       "title": "A Pirate Ship’s Book Survived in a Cannon",
       "from_scene": "S085",
-      "to_scene": "S091",
+      "to_scene": "S090",
       "hook": "The paper fragment reveal",
       "description": "Conservators identified tiny fragments from Queen Anne’s Revenge as pages of Edward Cooke’s 1712 voyage narrative. That does not tell us who read it."
     },
@@ -413,7 +511,7 @@
           "Queen Anne’s Revenge • 1718"
         ],
         [
-          "Recovered objects reveal jobs that spectacular stories rush past: feeding people, repairing things and finding your way.",
+          "Three questions, then. What did they eat? Who kept the ship working? And did pirates have a bedtime? Keep that last one.",
           "C4,C10",
           "diagram",
           "graphic",
@@ -435,19 +533,23 @@
           "A shipwreck can reveal what people used without telling you who had the most annoying shift.",
           "C0,C10",
           "tools",
-          "object insert",
-          "Recovered gouge and plain wood offcut on neutral field, no person.",
+          "reaction",
+          "Recovered gouge and plain wood offcut at left on the neutral field; right third calm.",
           "closeup-listening",
           null,
-          null
+          null,
+          {}
         ],
         [
           "It can also spoil a surprisingly cosy picture of pirate life. Not everybody on this ship chose to be here.",
           "C3",
           "deck",
-          "reaction",
+          "medium",
           "Quiet deck, simple closed hatch left, no visible captives or threatening crew.",
-          "closeup-listening"
+          "closeup-listening",
+          null,
+          null,
+          {}
         ],
         [
           "We'll meet one of those people. First, your enormous appetite has arrived before your first impressive act of seamanship.",
@@ -476,9 +578,12 @@
           "For our purposes, an extremely useful bone. What can it actually tell us about dinner?",
           "C2",
           "food",
-          "object insert",
-          "Same single bone shown larger, clean outlined reconstruction; no measurements invented.",
-          null
+          "reaction",
+          "Same single bone shown larger at left, clean outlined reconstruction; right third calm.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {}
         ]
       ]
     },
@@ -491,18 +596,21 @@
           "food",
           "object insert",
           "Two distinct simplified cattle and pig bone fragments side by side, no meat feast.",
-          "closeup-thoughtful",
-          "QAR Project • butchered animal bones"
+          null,
+          "Butchered animal bones • Queen Anne's Revenge wreck, 1718",
+          null,
+          {}
         ],
         [
           "You might picture Blackbeard eating an enormous roast. That is several enthusiastic steps beyond what these bones prove.",
           "C0,C2",
           "food",
-          "object insert",
-          "One small bone beside a modest empty bowl, no feast or people.",
+          "reaction",
+          "One small bone beside a modest empty bowl at left; right third calm, no feast or people.",
           "closeup-listening",
           null,
-          null
+          null,
+          {}
         ],
         [
           "They give us neither the recipe nor everybody's portion. Today's pot belongs to our reconstruction.",
@@ -593,13 +701,15 @@
       "title": "The floating workplace",
       "scenes": [
         [
-          "The recovered iron gouge has a battered head suggesting hammering: a small object with a physical working life.",
+          "The recovered iron gouge has a flattened head made for hammering: a small object with a physical working life.",
           "C4",
           "tools",
           "object insert",
           "Iron gouge shown with flattened struck head clearly visible, period handle reconstruction distinguished in caption.",
           null,
-          "QAR Project • iron gouge"
+          "Iron gouge • Queen Anne's Revenge wreck, 1718",
+          null,
+          {}
         ],
         [
           "Tools like this worked wood. We can reconstruct their use, but cannot name the hands that held them.",
@@ -613,8 +723,11 @@
           "C0",
           "repair",
           "reaction",
-          "Tools rest safely on left bench; carpenter absent; clear floor right.",
-          null
+          "Tools rest safely on the left bench, carpenter absent; clear deck floor at right.",
+          "look-around",
+          null,
+          null,
+          {}
         ],
         [
           "The tool collection points to carpentry, sailmaking, rigging and navigation. Keeping a vessel useful required different kinds of knowledge.",
@@ -638,9 +751,12 @@
           "A tool also needs someone who understands it. Your excellent hat has so far failed to supply that knowledge.",
           "C0",
           "tools",
-          "object insert",
-          "Same wood-handled gouge and mallet on neutral field; no invented unidentified archaeological specimen.",
-          null
+          "reaction",
+          "Same wood-handled gouge and mallet at left on the neutral field; right third calm.",
+          "closeup-worried",
+          null,
+          null,
+          {}
         ],
         [
           "Some finds remain ambiguous. A large silver needle has competing interpretations; it cannot simply prove sail repairs.",
@@ -649,7 +765,7 @@
           "object insert",
           "Simplified large silver needle on neutral field, no thread passing through sailcloth and no asserted use.",
           null,
-          "QAR Project • debated object function",
+          "Large silver needle • debated use • QAR wreck, 1718",
           null,
           {
             "independent_anchor": true
@@ -668,7 +784,10 @@
           "rope",
           "reaction",
           "One block and secured line at left, no locals, calm open foreground right.",
-          null
+          "shrug-smirk",
+          null,
+          null,
+          {}
         ],
         [
           "Now imagine being responsible for one of those repairs. Suddenly, a small detail deserves a great deal of attention.",
@@ -713,7 +832,9 @@
           "medium",
           "Sailor A lowers attached sounding weight outside rail; rope travels continuously from hands to weight.",
           "count-fingers",
-          "QAR Project • sounding weight"
+          "Lead sounding weight • QAR wreck, 1718",
+          null,
+          {}
         ],
         [
           "It also helped identify the bottom's character. More useful information than whether the sea looked attractive.",
@@ -749,9 +870,12 @@
           "Nor does owning the right tool guarantee a safe journey. Equipment is not a magical promise that people never make mistakes.",
           "C0,C5",
           "rail",
-          "reaction",
+          "medium",
           "Line neatly secured at rail, no locals, open deck at right.",
-          null
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "Another small find takes us from the water beside the ship to the problem of working with a chart.",
@@ -768,7 +892,9 @@
           "object insert",
           "Period dividers partly open over unlettered chart; no hand, numerical scale or modern drawing compass.",
           null,
-          "QAR Project • dividers"
+          "Navigator's dividers • QAR wreck, 1718",
+          null,
+          {}
         ],
         [
           "You lean over the chart. Understanding what to do with it seems harder than simply looking thoughtful beside it.",
@@ -843,17 +969,20 @@
           "object insert",
           "Brass mortar and matching pestle resting separately with plausible scale, no branded bottles.",
           "closeup-thoughtful",
-          "QAR Project • mortar and pestle"
+          "Brass mortar and pestle • QAR wreck, 1718",
+          null,
+          {}
         ],
         [
           "It is tempting to announce that this very tool came from that famous chest.",
           "C0,C6,C7",
           "medical",
-          "object insert",
-          "Brass mortar beside open plain chest, no provenance label or receipt.",
+          "reaction",
+          "Brass mortar beside the open plain chest at left; no provenance label; right third calm.",
+          "closeup-listening",
           null,
           null,
-          null
+          {}
         ],
         [
           "But the connection is uncertain. The tool and the demand survive in different kinds of evidence.",
@@ -875,10 +1004,13 @@
         [
           "For our imaginary newcomer, that is worrying. Adventure is less enjoyable when you feel terrible.",
           "C0",
-          "medical",
-          "reaction",
-          "Closed chest left, folded linen beside it, quiet background and clear right.",
-          "closeup-worried"
+          "deck",
+          "medium",
+          "Established deck in subdued light, rope coil and mast base at left; open deck right.",
+          "clutch-stomach",
+          null,
+          null,
+          {}
         ],
         [
           "The object story keeps widening: food, repairs, navigation, treatment. These people had bodies and practical needs, however frightening their reputation.",
@@ -957,18 +1089,23 @@
           "His skill made him useful. We know he was forcibly retained, not every meal he later prepared.",
           "C3",
           "galley",
-          "medium",
-          "Empty cooking space, supported pot and plain bowl; no actor asserted as Bardeau's likeness."
+          "object insert",
+          "Close view of the supported pot and one plain bowl in the empty cooking space; no actor asserted as Bardeau's likeness.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "Continued cooking is plausible. It remains an inference, not a surviving diary of his day.",
           "C3",
           "galley",
-          "medium",
-          "Empty established cooking space with plain supported pot; no named cook portrait.",
+          "reaction",
+          "Supported pot on the contained hearth at left, cook absent; right third calm.",
+          "closeup-thoughtful",
           null,
           null,
-          null
+          {}
         ],
         [
           "That changes our opening question. What pirates did between raids also depended on who you were and how you ended up aboard.",
@@ -982,11 +1119,15 @@
           "Somebody else's adventure could be your captivity. That belongs in the picture alongside the tools, the meals and the famous captain.",
           "C1,C3",
           "coercion",
-          "medium",
-          "Same calm passage and two separated adults, emphasize individual faces rather than captivity spectacle."
+          "wide",
+          "Wider view of the same calm passage: two separated adults and the closed hatch beyond; individual faces, no captivity spectacle.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
-          "Our Visitor can joke about getting the boring assignment. Actual people aboard did not all share that harmless imaginary situation.",
+          "You can joke about drawing the boring assignment. Actual people aboard did not all share that harmless imaginary situation.",
           "C0,C3",
           "deck",
           "reaction",
@@ -996,12 +1137,13 @@
         [
           "There is another easy mistake: imagining that every pirate crew operated under one grand set of rules, like a travelling organisation.",
           "C8",
-          "diagram",
-          "graphic",
-          "Two different ship silhouettes in separate boxes, no connecting uniform rulebook.",
+          "deck",
+          "medium",
+          "Established deck, sailor A and a second adult working apart at left; open deck right.",
+          "shrug-smirk",
           null,
-          null,
-          "DIFFERENT CREWS • DIFFERENT ARRANGEMENTS"
+          "DIFFERENT CREWS • DIFFERENT ARRANGEMENTS",
+          {}
         ],
         [
           "The sources contain examples of rules, but an example from another captain cannot quietly become Blackbeard's instruction sheet.",
@@ -1026,9 +1168,12 @@
           "Their reported rules contain something familiar to anyone told to take the noise outside.",
           "C8",
           "comparison",
-          "medium",
-          "Covered lantern on left, quiet open deck; no locals or invented argument.",
-          "closeup-listening"
+          "reaction",
+          "Covered lantern at left on the quiet separate deck; right third calm, no locals.",
+          "closeup-listening",
+          null,
+          null,
+          {}
         ]
       ]
     },
@@ -1065,14 +1210,15 @@
           "A written rule reveals what someone wanted. It does not prove everyone obeyed it.",
           "C8",
           "comparison",
-          "reaction",
-          "Unlit covered lantern and empty plain cup on left, no locals.",
-          "closeup-listening",
+          "object insert",
+          "Close view of the unlit covered lantern and one empty plain cup on the deck boards; dark sea beyond.",
           null,
-          null
+          null,
+          null,
+          {}
         ],
         [
-          "The author even says efforts to curb drinking failed. Regulation and behaviour are different evidence.",
+          "The account even says Roberts's own efforts to curb the drinking failed. Regulation and behaviour are different evidence.",
           "C8",
           "comparison",
           "reaction",
@@ -1084,18 +1230,22 @@
           "C8",
           "comparison",
           "medium",
-          "Same deck at dusk; one Unlit covered lantern, no local people.",
+          "Same deck at dusk; one unlit covered lantern, no local people.",
           "closeup-thoughtful",
           null,
-          null
+          null,
+          {}
         ],
         [
           "The rule tells us where late drinking was supposed to happen. It does not tell us how peacefully every evening ended.",
           "C8",
           "comparison",
-          "medium",
-          "Unlit covered lantern at left with dark sea behind; no sleeping-crew claim.",
-          "closeup-thoughtful"
+          "wide",
+          "Open separate deck at dusk, two adults in plain shirts seated apart with modest cups at left, lantern unlit; dark sea.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {}
         ],
         [
           "Back aboard Queen Anne's Revenge, we still have one clue to examine. This one survived somewhere you might not expect.",
@@ -1117,27 +1267,34 @@
           "No, we have not discovered Blackbeard's personal reading chair. There is one last clue to handle carefully.",
           "C9",
           "paper",
-          "object insert",
-          "Small paper fragment beside closed plain volume, no chair or reader.",
+          "reaction",
+          "Small paper fragment beside the closed plain volume at left; right third calm, no chair or reader.",
           "closeup-listening",
           null,
-          null
+          null,
+          {}
         ],
         [
           "What would you expect a scrap from a pirate ship to contain? This one points beyond our little working deck.",
           "C0,C9",
           "paper",
           "object insert",
-          "Small fragment and blank closed bound volume, no chair or identifiable reader.",
-          "closeup-listening"
+          "Small fragment and blank closed bound volume on the neutral field, no chair or identifiable reader.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "The tiny fragment survived. Now the challenge was identifying what the printed words belonged to.",
           "C9",
           "paper",
-          "object insert",
-          "Same fragment prominent at left, calm right third for Visitor.",
-          null
+          "reaction",
+          "Same fragment prominent at left; calm right third.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {}
         ]
       ]
     },
@@ -1145,7 +1302,7 @@
       "title": "A book where you least expect it",
       "scenes": [
         [
-          "Paper survived inside a cannon chamber recovered from Queen Anne's Revenge. Conservators found sixteen tiny fragments and began working out what they were.",
+          "Paper survived inside a cannon chamber from Queen Anne's Revenge. Conservators found sixteen tiny fragments and set about identifying them.",
           "C9",
           "diagram",
           "graphic",
@@ -1181,22 +1338,26 @@
           "Fragment alone enlarged on parchment, no reader or reading group."
         ],
         [
-          "The discovery is remarkable without that extra story. Printed material was present; its tiny remains survived where paper usually has a difficult time.",
+          "The discovery is remarkable without that extra story. Printed material was aboard, and its tiny remains survived where paper rarely does.",
           "C9",
-          "paper",
-          "object insert",
-          "Fragment with plain book far behind, no submerged pristine whole volume.",
-          null
+          "diagram",
+          "graphic",
+          "Two labelled elements: a small paper fragment and a wave line, with the words that paper rarely survives underwater; no fake archival page.",
+          null,
+          null,
+          "PAPER • RARELY SURVIVES UNDERWATER",
+          {}
         ],
         [
           "A real object can open a window onto life aboard without supplying every scene beyond it.",
           "C9,C10",
           "paper",
-          "object insert",
-          "Single paper fragment on neutral field; no invented manuscript or clock.",
+          "reaction",
+          "Single paper fragment at left on the neutral field; right third calm.",
           "closeup-thoughtful",
           null,
-          null
+          null,
+          {}
         ],
         [
           "And this clue brings us back to the question. Between raids, life aboard involved far more than waiting beside a treasure chest.",
@@ -1246,11 +1407,11 @@
           "shrug-smirk"
         ],
         [
-          "Would you rather handle the cooking, the repairs, or the navigation? Choose carefully. Looking dramatic has already proved to be insufficient.",
+          "Would you rather cook, repair or navigate? Tell us below, then choose your next Life, Previously voyage on screen.",
           "C0",
           "diagram",
           "graphic",
-          "Three clear choice icons: supported pot, gouge, chart; room for small pirate-hat Visitor at right.",
+          "Three clear choice icons: supported pot, gouge, chart; right third left open for the end-screen element placed later.",
           null,
           null,
           "COOK • REPAIR • NAVIGATE"
@@ -1290,25 +1451,90 @@
     "rule": "Listen to every named occurrence and all negatives; no text-only pass."
   },
   "sound_plan": {
-    "status": "director_specified_not_generated_or_heard",
+    "status": "director_specified_assets_unheard",
     "music": "Existing channel theme, low under voice; no triumphant swell over slavery or coercion.",
     "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below narration at their exact cue. Use silence across reflective pauses.",
     "new_assets": [
       {
         "id": "sea_hull",
-        "description": "Quiet gentle seawater against a timber hull, no gull loop, voices, motor or surf crash."
+        "prompt": "Quiet gentle seawater moving against a timber hull, slow and even. No gull loop, voices, motor or surf crash.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/pirates-between-raids-sea_hull.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "hemp_wood",
-        "description": "Brief restrained hemp rope moving through a wooden block, no modern winch."
+        "prompt": "Brief restrained hemp rope moving through a wooden block, one short pull. No modern winch or metal.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/pirates-between-raids-hemp_wood.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "wood_tap",
-        "description": "Two light wooden mallet taps on a secured woodworking tool, no metal factory ringing."
+        "prompt": "Two light wooden mallet taps on a secured woodworking tool, close and dry. No metal factory ringing.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/pirates-between-raids-wood_tap.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "pot_stir",
-        "description": "Soft wooden spoon stirring a supported iron cooking pot, no loud bubbling."
+        "prompt": "A wooden spoon stirring a supported iron cooking pot, soft scrape, no loud bubbling.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/pirates-between-raids-pot_stir.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "hearth_crackle",
+        "prompt": "A small contained cooking fire crackling quietly in a brick-lined hearth. No roaring bonfire or wind.",
+        "seconds": 5,
+        "kind": "ambience",
+        "path": "channel/sfx/pirates-between-raids-hearth_crackle.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "lead_splash",
+        "prompt": "A heavy lead weight dropping into calm seawater with one modest splash and a line paying out briefly. No scream or crash.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/pirates-between-raids-lead_splash.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "hull_creak",
+        "prompt": "A slow wooden hull creak inside a ship passage, quiet and restrained, one or two creaks. No chains, voices or footsteps.",
+        "seconds": 4,
+        "kind": "ambience",
+        "path": "channel/sfx/pirates-between-raids-hull_creak.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "night_sea",
+        "prompt": "Calm night water lapping gently against a wooden hull, very quiet. No wind howl or music.",
+        "seconds": 5,
+        "kind": "ambience",
+        "path": "channel/sfx/pirates-between-raids-night_sea.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "candle_out",
+        "prompt": "A candle wick pinched out with a faint hiss and a tiny puff, close. No modern click.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/pirates-between-raids-candle_out.mp3",
+        "paid": true,
+        "quote_at_launch": true
       }
     ],
     "acquisition": "Inspect existing library first; exact suitable assets only. Quote any new paid assets within the episode allowance; do not generate at development stage.",
@@ -1316,40 +1542,165 @@
       {
         "scene_id": "S001",
         "asset": "sea_hull",
-        "timing": "quiet bed for deck scenes only; fade by galley cut"
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S003",
+        "asset": "wood_tap",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S004",
+        "asset": "sea_hull",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S009",
+        "asset": "hearth_crackle",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S010",
         "asset": "pot_stir",
-        "timing": "sync visible spoon movement; one short cue"
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S017",
+        "asset": "hearth_crackle",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S023",
+        "asset": "hemp_wood",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S026",
         "asset": "wood_tap",
-        "timing": "sync two visible mallet contacts, do not repeat under following insert"
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S032",
         "asset": "hemp_wood",
-        "timing": "brief visible line adjustment"
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S035",
+        "asset": "sea_hull",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S037",
+        "asset": "lead_splash",
+        "offset_seconds": 0.8,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S039",
         "asset": "sea_hull",
-        "timing": "quiet sea below sounding scene"
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S045",
+        "asset": "hemp_wood",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S057",
+        "asset": "sea_hull",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S058",
+        "asset": "hull_creak",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S067",
+        "asset": "hull_creak",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S071",
+        "asset": "night_sea",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S073",
+        "asset": "candle_out",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S074",
+        "asset": "night_sea",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S080",
+        "asset": "sea_hull",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S091",
         "asset": "sea_hull",
-        "timing": "return to deck; modest transition"
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S094",
+        "asset": "hemp_wood",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       }
     ],
     "intentional_silence": [
       "No weapon effects; this is not a raid scene.",
-      "No chains, screams or comic effects in S061–S068.",
-      "No explosion at paper-in-cannon reveal.",
+      "No chains, screams or comic effects in S058–S068; only a quiet hull creak in the passage scenes.",
+      "No explosion at the paper-in-cannon reveal.",
       "No invented dialogue, sea shanty or reader voice."
-    ]
+    ],
+    "no_sting": "Do not use the medieval bell sound logo in this episode."
   },
   "wardrobe": {
     "status": "director_design_selected_art_not_built",
@@ -1403,6 +1754,116 @@
         "fix": "Pose plan is authoritative; every required scene/thumbnail pose gets private hat."
       }
     ],
-    "unresolved_director_issues": []
+    "unresolved_director_issues": [],
+    "recheck": {
+      "date": "2026-10-09",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "coverage": "All 96 scenes re-read against REVIEW_STANDARD.md after Astra's initial review; every claim re-verified against its source (see claims_verification).",
+      "findings": [
+        {
+          "id": "02-R01",
+          "issue": "Cold open asked only one question and held none for the end",
+          "fix": "S005 asks what they ate, who kept the ship working and whether pirates had a bedtime, and holds the last; chapter 7 answers it."
+        },
+        {
+          "id": "02-R02",
+          "issue": "Twenty runs of identical shot types (four object inserts in a row on the bones, three on the medical kit, four on the paper, repeated unlit-lantern mediums)",
+          "fix": "Object studies now alternate with Visitor reactions and one new graphic (S089); the Roberts deck gets a wide of the drinkers on deck instead of a fifth lantern close-up."
+        },
+        {
+          "id": "02-R03",
+          "issue": "Two source captions phrased as the modern project only ('QAR Project • iron gouge')",
+          "fix": "Captions name the object and its historical anchor: 'Iron gouge • Queen Anne's Revenge wreck, 1718' and the same for bones, weight, dividers, mortar and needle."
+        },
+        {
+          "id": "02-R04",
+          "issue": "S025 said the gouge head was 'battered'; the source says flattened heads made for hammering. S077 credited 'the author' with failed efforts; the text says Roberts's own endeavours proved ineffectual",
+          "fix": "Both lines now match the sources."
+        },
+        {
+          "id": "02-R05",
+          "issue": "Narration slipped into third person at S068 ('Our Visitor'); no end-screen cue in the closing line",
+          "fix": "Second person; S096 ends with the choice question and the on-screen next-episode cue."
+        },
+        {
+          "id": "02-R06",
+          "issue": "Six sound cues for an eleven-minute episode; assets lacked generation prompts and cost flags",
+          "fix": "22 cues on visible action (hull water, rope through block, mallet taps, hearth, lead weight entering water, hull creak in the passage, night water, candle out); nine assets in the shared format, all paid and quoted at launch; passage scenes stay otherwise silent."
+        },
+        {
+          "id": "02-R07",
+          "issue": "Thumbnail chips read 'PIRATE LIFE • 1718' (not a place); Short 2 ended on a dangling 'brings us back to the question'; pilot lacked the galley and the separate Roberts deck",
+          "fix": "Chips 'BLACKBEARD'S SHIP • 1718'; Short 2 ends at S090; pilot adds S009 and S071."
+        },
+        {
+          "id": "02-R08",
+          "issue": "Hat specification said nine poses but listed eight",
+          "fix": "Text corrected; pose list regenerated from use (eight poses)."
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-09",
+    "checked": 12,
+    "open": 0,
+    "total": 12,
+    "method": "Every cited source fetched and read at the locator on 2026-10-09 (QAR Project ship history, bone, tools, gouge, sounding weight, dividers, mortar and needle pages; Johnson 1724 on Gutenberg; Royal Museums Greenwich; NC DNCR press release). Spoken wording compared; refutation attempt recorded per row in claims.json.",
+    "summary": "All 12 rows supported. Two wordings tightened to the sources (gouge head, Roberts's own failed efforts); C9 widened to cover the rarity of surviving paper."
+  },
+  "slate_reviews": [
+    {
+      "pass": 1,
+      "status": "passed_with_fixes",
+      "date": "2026-10-09",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Package-level pass on the compiled script.txt, claims.md and package.md after the re-check, plus the slate content check against all eighteen packages and the published episodes (see ../SLATE_CHECK.md); each episode keeps its own tone.",
+      "findings": [
+        {
+          "id": "02-P1-01",
+          "issue": "Three 'reaction' shots (S027, S033, S041) had no Visitor in them",
+          "fix": "S027 look-around and S033 shrug-smirk carry their hat jokes; S041 is an ordinary medium of the secured line."
+        },
+        {
+          "id": "02-P1-02",
+          "issue": "Two consecutive scenes used the same close-up pose on the paper fragments (S082, S083)",
+          "fix": "S083 is a plain object study; S084 takes the thoughtful close-up."
+        },
+        {
+          "id": "02-P1-03",
+          "issue": "A stray capital inside a prompt ('one Unlit covered lantern')",
+          "fix": "Lower case."
+        },
+        {
+          "id": "02-P1-04",
+          "issue": "Slate check: 1718 Atlantic pirate workday compared with the other seventeen packages and episodes 001–003",
+          "fix": "Distinct; the only other shipboard story (13, an 1854 emigrant voyage) differs in century, format and question. No change."
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "pass": 2,
+      "status": "passed",
+      "date": "2026-10-09",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Adversarial and execution dry run: compiled prompts for the repair-bench edit (S003), the coercion anchor (S021) and the separate Roberts deck (S071) read in full; hat-bearing thumbnail composite and private pose render paths checked; handoff counts, pilot order, sound assets, pronunciations, Shorts and packaging copy checked against the standard.",
+      "findings": [
+        {
+          "id": "02-P2-01",
+          "issue": "Looked for a factual sentence without a checked claim, a modern-dated caption, a pose whose prop makes no sense on a ship, a prompt naming the Visitor, or a hat missing from a composite; none found",
+          "fix": "No change."
+        }
+      ],
+      "unresolved": []
+    }
+  ],
+  "release": {
+    "status": "ready",
+    "date": "2026-10-09",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial review (Astra) with re-check, source verification of all 12 claims, two package review passes and the slate content check complete. The pirate hat is a mandatory private pose derivative (pirate_hat_spec.json) to be built and inspected at production. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
   }
 }

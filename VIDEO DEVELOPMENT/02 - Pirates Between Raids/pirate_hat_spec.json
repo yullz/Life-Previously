@@ -2,16 +2,16 @@
   "schema_version": "1.0",
   "owner_requirement": "The Visitor wears a pirate hat throughout this episode, including thumbnails and Shorts.",
   "design": "Dark brown low three-cornered felt hat, muted ochre edge, flat season outline and shading. No skull, plume, metal badge, hair recoloring or new facial features. Orange hoodie, face, body and proportions stay as approved.",
-  "method": "Create private copies of the nine listed approved poses. Draw/composite the hat locally following each head angle; do not ask Higgsfield to redraw the Visitor or place him inside backgrounds. Inspect hair/hat edges at native size and in final composites.",
+  "method": "Create private copies of the eight listed poses (pose_plan.json is authoritative). Draw/composite the hat locally following each head angle; do not ask Higgsfield to redraw the Visitor or place him inside backgrounds. Inspect hair/hat edges at native size and in final composites.",
   "poses": [
-    "look-around",
-    "watch-arms-crossed",
-    "closeup-worried",
     "closeup-listening",
+    "closeup-thoughtful",
+    "closeup-worried",
     "clutch-stomach",
     "count-fingers",
-    "closeup-thoughtful",
-    "shrug-smirk"
+    "look-around",
+    "shrug-smirk",
+    "watch-arms-crossed"
   ],
   "paths": {
     "private_art": "episodes/pirates-between-raids/poses/<original-pose-name>.png",
