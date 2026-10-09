@@ -17,7 +17,7 @@
       "additional_review_2": "passed_with_fixes (package pass, 2026-10-09)",
       "claude_ready": true,
       "claims_verification": "complete: 12 of 12 checked against sources 2026-10-09",
-      "cross_slate_check": "pending until all eighteen are developed (ordering, era variety, duplicate angles)",
+      "cross_slate_check": "done 2026-10-09: distinct setting and angle (see SLATE_CHECK.md); publishing order deferred to the owner",
       "released": "2026-10-09",
       "manifest": "package_manifest.json"
     },
@@ -210,5 +210,6 @@
     }
   ],
   "review_policy": "Only record reviews actually performed against identified file versions. No media approval before media exist.",
-  "work_method": "From 2026-10-09 the owner delegated completion of the director work to Claude, one package at a time, no subagents. Each package gets: spacing/text normalisation, initial review or re-check against REVIEW_STANDARD.md, source verification of every claim, two package review passes, release with manifest."
+  "work_method": "From 2026-10-09 the owner delegated completion of the director work to Claude, one package at a time, no subagents. Each package gets: spacing/text normalisation, initial review or re-check against REVIEW_STANDARD.md, source verification of every claim, two package review passes, release with manifest.",
+  "cross_slate": "Content checks (era variety, duplicate angles, shared material) are done per package in SLATE_CHECK.md. Publishing order and scheduling are the owner's later decision."
 }

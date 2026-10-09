@@ -99,7 +99,7 @@
     "status": "passed_with_fixes",
     "date": "2026-10-09",
     "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
-    "scope": "Package-level pass on the compiled script.txt, claims.md and package.md after the re-check; cross-slate checks (era variety, duplicate angles, publication spacing) are pending until all eighteen packages are developed.",
+    "scope": "Package-level pass on the compiled script.txt, claims.md and package.md after the re-check, plus the slate content check against all eighteen packages and the two published episodes (era and setting variety, duplicate angles, shared material; see ../SLATE_CHECK.md). Publishing order is the owner's later decision.",
     "findings": [
       {
         "id": "01-P1-01",
@@ -120,6 +120,11 @@
         "id": "01-P1-04",
         "issue": "Residual glued text in a note, the research boundary and the source titles ('hiver1709', 'museum's1693')",
         "fix": "Spaced."
+      },
+      {
+        "id": "01-P1-05",
+        "issue": "Slate check: setting, century and angle compared with the other seventeen packages and episodes 001–003",
+        "fix": "Distinct; nearest neighbours 07 (Paris, 1780s) and 12 (wartime food) share no beats. Recorded in SLATE_CHECK.md; only scheduling adjacency to note."
       }
     ],
     "unresolved": []
@@ -149,7 +154,7 @@
     "status": "ready",
     "date": "2026-10-09",
     "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
-    "note": "Initial review (Astra) with re-check, source verification of all 12 claims, and two package review passes complete. Cross-slate ordering checks pending until the whole library is developed. Production still needs the owner's itemized spending approval; publication is a separate owner decision."
+    "note": "Initial review (Astra) with re-check, source verification of all 12 claims, two package review passes and the slate content check complete. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
   },
   "media_reviews": "not_applicable_yet_no_media_generated",
   "known_research_boundaries": "Scope: a clearly imaginary Visitor household in Paris, January 1709, followed through changing seasons. The historical claims come from weather observations, an attributed memoir and a historian's synthesis. The story tests access to warmth, food and help; it does not invent an exact poor family's menu, income, fuel price or diary. Cross-place detour to Versailles is named aloud and on screen. Do not use Saint-Simon's all-crops/all-trees language literally. His accusations against officials are contested political testimony; the script treats distrust as part of the situation, not proof of a centrally planned famine. An apparent 1709 relief illustration led to the museum's 1693 catalogue record; it is excluded as 1709 evidence. No unsupported coldest-ever claim, fixed national death total, period Celsius instrument, modern baguette or winter snow in the August event. Audience appeal is an editorial hypothesis, not measured demand or a viral forecast. The owner commissioned development of this title; launch-time packaging checks remain separate."

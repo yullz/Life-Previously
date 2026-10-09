@@ -34,4 +34,4 @@ Pass 1 (compiled script read as a viewer would hear it): fixed a leftover "He pl
 
 Pass 2 (execution dry run): read the compiled prompts for an anchor (S001), an edit (S014) and the lead thumbnail; checked parent chains, pose plan, sound assets, pronunciations, Shorts and packaging copy. Added the summer earthworks anchor S072 to the pilot as the setting most exposed to anachronism. Nothing else found.
 
-Released as a director package on 9 October 2026 (`package_manifest.json` holds the hashes). Cross-slate checks on ordering and variety wait for the rest of the library.
+Released as a director package on 9 October 2026 (`package_manifest.json` holds the hashes). Slate content check done (see ../SLATE_CHECK.md): setting and angle distinct; publishing order is the owner's later decision.

@@ -7,7 +7,7 @@ The owner asked Claude to complete Astra's development work, **one package at a 
 | 01 Winter of 1709 | **Released.** 12/12 claims checked; 96 shots, 82 illustrations, 14 graphics, Visitor in 43%; 17 sound cues; pilot S001, S003, S010, S016, S031, S034, S060, S072, TH-A. |
 | 02–18 | Draft as left by Astra (01–03 had Astra's initial review). Next in order. |
 
-Cross-slate checks (publication spacing, era variety, duplicate angles) wait until all eighteen are developed.
+Era variety, duplicate angles and shared material are checked per package against the whole slate in `SLATE_CHECK.md` (01 done: distinct). Publishing order and scheduling are the owner's later decision.
 
 # Astra's checkpoint — 9 October 2026 (before the continuation)
 
