@@ -2,7 +2,7 @@
 
 Kept by Claude while developing the packages one at a time (owner instruction, 9 October 2026). Publishing order and scheduling are the owner's later decision and are not assessed here.
 
-**Rule (owner, 9 October 2026): every episode is individual.** Each has its own vibe and fits its own story and theme. This check only confirms that no two packages tell the same story or make the same promise; it never makes one episode refer to another, borrow another's beats, trim its own explanation because a sibling covers it, or sound like the others. Reviews preserve each package's own tone (01 is dry hardship, 02 a salty workday, 10 sober and humane, and so on) inside the channel's style.
+**Rule (owner, 9 October 2026): every episode is individual.** Each has its own vibe and fits its own story and theme. This check only confirms that no two packages tell the same story or make the same promise; it never makes one episode refer to another, borrow another's beats, trim its own explanation because a sibling covers it, or sound like the others. The only reference to other videos is the recommendation to watch them at the end (end-screen line and the description's watch-next link). Reviews preserve each package's own tone (01 is dry hardship, 02 a salty workday, 10 sober and humane, and so on) inside the channel's style.
 
 What is assessed, per package against all eighteen and the published episodes: setting and century, format, the core question, the thumbnail promise and the title shape. A true duplicate would go to the owner as a decision, not be fixed by cross-wiring the scripts.
 

@@ -67,7 +67,7 @@ This is the bar every package is reviewed against: the initial content review, s
 
 ## 10. Every episode is individual (owner, 9 October 2026)
 
-Each package has its own vibe and fits its own story and theme. The channel style is the frame; the mood, humour and rhythm inside it belong to that episode. A review must not make the eighteen sound alike, must not make one episode refer to or lean on another, and must not trim an explanation because a sibling package covers similar ground. The slate check (`SLATE_CHECK.md`) only confirms that no two packages tell the same story or make the same promise.
+Each package has its own vibe and fits its own story and theme. The channel style is the frame; the mood, humour and rhythm inside it belong to that episode. A review must not make the eighteen sound alike, must not make one episode refer to or lean on another, and must not trim an explanation because a sibling package covers similar ground. The one permitted reference to other videos is the recommendation at the end: the closing end-screen line ("choose the next Life, Previously episode on screen" or a named next episode) and the description's watch-next link. Nowhere else. The slate check (`SLATE_CHECK.md`) only confirms that no two packages tell the same story or make the same promise.
 
 ## 11. Review record
 
