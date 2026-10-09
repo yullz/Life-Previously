@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "salem-1692",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "Rebecca Nurse's Neighbours Spoke Up",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "People who knew her tried to help.",
+      "description": "Character evidence was offered in1692;it did not secure Nurse's safety.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "A Salem Confession Wasn't a Guaranteed Escape",
+      "from_scene": "S049",
+      "to_scene": "S056",
+      "hook": "One record complicates the easy survival story.",
+      "description": "Wardwell confessed,recanted and was executed. No alternative outcome can be guaranteed.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "The Salem Petition That Asked for Better Evidence",
+      "from_scene": "S073",
+      "to_scene": "S079",
+      "hook": "Mary Easty asked for a different way to test accusations.",
+      "description": "Her petition urged separate examination of accusers and scrutiny of confessions.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

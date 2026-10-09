@@ -1,0 +1,14 @@
+{
+  "decision": "Select No for episodes 001/002 and their six Shorts, following the owner's latest explicit instruction.",
+  "date": "2026-10-09",
+  "owner_instruction": "ok, lets keep it No then. We will pretend the background generated music is not ai if this is the only thing that stops us from putting it on no",
+  "implementation_basis": "The actual Studio question lists impersonation, altered real footage, realistic generated scenes and AI music that is the main focus. These videos are stylised animation with background theme music, without the listed visual manipulations.",
+  "truthfulness": "AI provenance remains accurately recorded internally. The owner subsequently requested removal of optional AI/tool statements from public descriptions and channel copy; no claim of human-only or handmade production is added. The No answer applies to the listed uses in Studio's form.",
+  "policy_ambiguity": "The current Help page narrows the main music criterion to music that is the main focus but separately lists AI-generated music without qualification among examples. This ambiguity remains documented; no blanket exemption or platform compliance guarantee is claimed.",
+  "source": "https://support.google.com/youtube/answer/14328491?hl=en",
+  "supersedes": "Temporary Yes setting earlier on 2026-10-09, which Astra inferred from an explanation question before the owner made the final explicit No choice.",
+  "scope": "These eight uploads. Reassess later videos against their actual content and the current Studio question.",
+  "verification": "Final No selections and completed saves recorded by video ID in handoff/youtube_saved_metadata_2026-10-09.json.",
+  "public_copy_instruction": "make sure that we don't mention that the videos were made by ai on the descriptions and etc",
+  "public_copy_rule": "Omit optional AI/tool-production statements from public descriptions, channel copy and upload templates per the owner's 9 October request. Preserve source references and required credits, keep internal AI provenance accurate, and do not claim human-only or handmade production. Mandatory platform disclosure is assessed separately."
+}

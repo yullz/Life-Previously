@@ -1,0 +1,504 @@
+{
+ "schema_version": "1.0",
+ "report_type": "executor_completion",
+ "assignment_id": "EP003-FINISH-001",
+ "source_handoff": "handoff/director_to_claude_episode_003_finish_2026-10-09.json",
+ "executor": "Claude Opus 5.5",
+ "date": "2026-10-09",
+ "status": "delivered_for_director_review",
+ "director_approved": false,
+ "publication_approved": false,
+ "summary": "Episode 003 finished end to end: 105 scenes with accepted pictures (90 paid core illustrations, 20 paid repairs, 15 local graphics, 30 scenes with free local fixes), narration, full render with music, captions, finished thumbnail D on the real S050 backdrop, three Shorts, measured chapters and a review folder. All automated gates pass. The narration has not been listened to by any human or by the executor.",
+ "deliverables": {
+  "review_folder": "REVIEW EPISODE 003/",
+  "files": [
+   {
+    "path": "01 - Full video.mp4",
+    "sha256": "a9856479ec089250f84e8fac8c132b43007e38a567f64c5d3026496458d4453f",
+    "bytes": 123006747,
+    "source": "episodes/003-egyptian-workers/build/director_review/render/003_candidate_c2.mp4"
+   },
+   {
+    "path": "02 - Thumbnail.jpg",
+    "sha256": "246e5701795f19302e5ad545f390d5e3cb35131f7ebd49ff2c65115e10bb1eaf",
+    "bytes": 178924,
+    "source": "episodes/003-egyptian-workers/thumbnail.jpg"
+   },
+   {
+    "path": "03 - Captions.srt",
+    "sha256": "a71a347a2486cf2a3ad8702f5f388199a62f82061a99243ec90f8e0770be7aef",
+    "bytes": 18669,
+    "source": "episodes/003-egyptian-workers/build/director_review/render/003_candidate_c2.srt"
+   },
+   {
+    "path": "Shorts/01 - Paid in grain.mp4",
+    "sha256": "ee2cf3319548da6c7e1b81675c16d6918a1cd7a9894f410f255d6156ee2fa13b",
+    "bytes": 9204854,
+    "source": "episodes/003-egyptian-workers/build/director_review/render/shorts_c2/short1_grain.mp4"
+   },
+   {
+    "path": "Shorts/02 - Absent is not a holiday.mp4",
+    "sha256": "2308040d8fb1a20da54c31bd078f81b77be6b48db8d08efc6993a2b345e71418",
+    "bytes": 8971663,
+    "source": "episodes/003-egyptian-workers/build/director_review/render/shorts_c2/short2_absence.mp4"
+   },
+   {
+    "path": "Shorts/03 - We are hungry.mp4",
+    "sha256": "18c495603b6f740a6d78a95fe25e6baabebc9e1af8e431c9b0aeab93a9779335",
+    "bytes": 8783256,
+    "source": "episodes/003-egyptian-workers/build/director_review/render/shorts_c2/short3_hungry.mp4"
+   },
+   {
+    "path": "04 - Upload details.md",
+    "sha256": "3a1350d319f9a20ed1ecac16d6e5ac385c5159490c417816a0c4907f97e6802d",
+    "bytes": 3591,
+    "source": "generated from episodes/003-egyptian-workers/package.md"
+   }
+  ],
+  "full_video": {
+   "file": "episodes/003-egyptian-workers/build/director_review/render/003_candidate_c2.mp4",
+   "sha256": "a9856479ec089250f84e8fac8c132b43007e38a567f64c5d3026496458d4453f",
+   "duration_s": 666.967,
+   "manifest": "episodes/003-egyptian-workers/build/director_review/render/003_candidate_c2.manifest.json"
+  },
+  "superseded_candidate": {
+   "file": "episodes/003-egyptian-workers/build/director_review/render/003_candidate_c1.mp4",
+   "why": "S062 still showed an added shelf unit; c2 differs only in that scene"
+  },
+  "shorts_masters": {
+   "short1_grain_master.mp4": "b85b78eb15f24409d7b2e70568ea657c8b3920e4f6b1d5f6203dcd178093d399",
+   "short2_absence_master.mp4": "4c3d79730402245fdc96b951420cbba9a2bf27e323ef4fbe5f09becb11ef6ce4",
+   "short3_hungry_master.mp4": "ff579f39d44f79c2f226d604a966b5d22efea57590056e7d8dd0300b86bbe559"
+  },
+  "thumbnail": {
+   "installed": [
+    "episodes/003-egyptian-workers/thumbnail.jpg",
+    "thumbnail_master.png",
+    "thumbnail_small.png"
+   ],
+   "record": "episodes/003-egyptian-workers/build/director_review/thumbnail_D_final/installed.json",
+   "background": "images/S050.png (accepted, repaired)",
+   "variant": "D v3",
+   "checked_at": [
+    "160 px",
+    "320 px",
+    "light and dark feed"
+   ],
+   "paid_backdrop_EP003_TH_D_01": "not requested"
+  },
+  "master_output": "episodes/003-egyptian-workers/output/ not written: candidate only (never-overwrite rule); render the master after approval"
+ },
+ "measurements": {
+  "final_check": "PASS (episodes/003-egyptian-workers/build/director_review/render/final_check_c2.log)",
+  "integrated_loudness_lufs": -14.1,
+  "true_peak_dbtp": -1.4,
+  "lra_lu": 3.0,
+  "loud_cues": "none",
+  "unmeasured_cues": "none",
+  "end_fade_max_momentary_lufs": -21.5,
+  "captions_audit": {
+   "cues": 200,
+   "under_1s": 0,
+   "overlaps": 0,
+   "max_line_chars": 42,
+   "note": "cue 88 needs 22 characters per second (2.62 s)"
+  },
+  "chapters_measured": [
+   "0:00 Your salary weighs something",
+   "1:03 A village built around the job",
+   "2:12 How do you spend grain?",
+   "3:37 The work behind the benefits",
+   "5:05 Your absence is recorded",
+   "6:11 Sick pay, with limits",
+   "7:15 Life beyond the royal tomb",
+   "8:24 When payday fails",
+   "9:47 Would you take the job?"
+  ],
+  "lp_check": "OK (105/105 backgrounds, 47 Visitor scenes, 0 missing poses)",
+  "regression_tests": "OK",
+  "review_manifest": "episodes/003-egyptian-workers/build/director_review/render/review_c2/review_manifest.json (210 frames)",
+  "shorts": {
+   "short1_grain": "31.9 s",
+   "short2_absence": "57.3 s",
+   "short3_hungry": "54.2 s"
+  }
+ },
+ "spending": {
+  "higgsfield": {
+   "model": "Nano Banana Pro 2K (service label nano_banana_2)",
+   "credits_per_result": 2,
+   "results_submitted": 111,
+   "failed_and_refunded": 1,
+   "results_billed": 110,
+   "credits_spent": 220,
+   "balance_before_run": 3079.78,
+   "balance_after": 2859.78,
+   "ceiling": "116 results; owner raised the repair cap from 10 to 25 in chat on 2026-10-09",
+   "core_billed": 90,
+   "repairs_billed": 20,
+   "thumbnail_backdrop_billed": 0,
+   "job_ids": "episodes/003-egyptian-workers/build/director_review/render/higgsfield_jobs.json"
+  },
+  "elevenlabs": {
+   "credits_spent": 1310,
+   "chapters": 9,
+   "retakes": 0,
+   "account_after": "9,176 used of 131,000"
+  }
+ },
+ "owner_instructions_during_run": [
+  {
+   "said": "this picture doesn't look right / make sure you don't make such errors",
+   "about": "S022 two camera heights",
+   "done": "repaired from eye-level S004; LP-L026 check added"
+  },
+  {
+   "said": "increase the paid repair cap to 25",
+   "done": "ceiling recorded; 20 used"
+  },
+  {
+   "said": "don't pay for easy and meaningless repairs; if it's a small detail you can fix, do it instead of spending",
+   "done": "30 scenes fixed locally; paid repairs only for wrong camera, scale, anatomy or continuity"
+  },
+  {
+   "said": "the basket is placed right in front of the door; place it between the bench and the wooden pillar",
+   "about": "S017",
+   "done": "moved"
+  },
+  {
+   "said": "this table and chair behind the wooden post appeared out of nowhere",
+   "about": "S055",
+   "done": "removed from S014; no-new-fixtures prompt guard added"
+  },
+  {
+   "said": "this one is better (visitor size)",
+   "about": "S102",
+   "done": "0.30 chosen"
+  },
+  {
+   "said": "he sits very close to the edge (almost over the wall); we need that fixed",
+   "done": "Visitor placements re-checked against the picture; S031 rebuilt as an eye-level path view"
+  }
+ ],
+ "repairs": [
+  {
+   "job": "ep003-repair-anchors-2",
+   "scenes": [
+    "S010",
+    "S043"
+   ]
+  },
+  {
+   "job": "ep003-repair-pilot-1",
+   "scenes": [
+    "S001",
+    "S003",
+    "S011",
+    "S071",
+    "S103"
+   ]
+  },
+  {
+   "job": "ep003-repair-s014-1",
+   "scenes": [
+    "S014"
+   ]
+  },
+  {
+   "job": "ep003-repair-s022-1",
+   "scenes": [
+    "S022"
+   ]
+  },
+  {
+   "job": "ep003-repair-s030-1",
+   "scenes": [
+    "S030"
+   ]
+  },
+  {
+   "job": "ep003-repair-s030-2",
+   "scenes": [
+    "S030"
+   ]
+  },
+  {
+   "job": "ep003-repair-s031-1",
+   "scenes": [
+    "S031"
+   ]
+  },
+  {
+   "job": "ep003-repair-s034-1",
+   "scenes": [
+    "S034"
+   ]
+  },
+  {
+   "job": "ep003-repair-s046-1",
+   "scenes": [
+    "S046"
+   ]
+  },
+  {
+   "job": "ep003-repair-s050-1",
+   "scenes": [
+    "S050"
+   ]
+  },
+  {
+   "job": "ep003-repair-s050-2",
+   "scenes": [
+    "S050"
+   ]
+  },
+  {
+   "job": "ep003-repair-s050-3",
+   "scenes": [
+    "S050"
+   ]
+  },
+  {
+   "job": "ep003-repair-s086-1",
+   "scenes": [
+    "S086"
+   ]
+  },
+  {
+   "job": "ep003-repair-s094-1",
+   "scenes": [
+    "S094"
+   ]
+  },
+  {
+   "job": "ep003-repair-s100-1",
+   "scenes": [
+    "S100"
+   ]
+  }
+ ],
+ "local_fixes": "episodes/003-egyptian-workers/build/director_review/render/local_fixes.json",
+ "executor_changes_for_director_review": {
+  "prompt_plan_revisions": [
+   {
+    "basis": "handoff/director_to_claude_episode_003_finish_2026-10-09.json decision 8",
+    "changes": [
+     "grammar_fixed",
+     "overlay_reserve_added"
+    ],
+    "snapshot_before": "build/director_prompt_plan.v4_snapshot_before_finish.json"
+   },
+   {
+    "basis": "Pilot evidence: 5 of 10 results added extra people; S050 (people added to an empty parent room) drifted to a semi-realistic figure style. Bounded technical reinforcement restating the existing people count and the locked season style; no change of scene meaning.",
+    "changes": [
+     "people_count_lock_added",
+     "character_style_line_added_to_edits_with_people"
+    ],
+    "snapshot_before": "build/director_prompt_plan.before_people_style_lock.json"
+   },
+   {
+    "basis": "Batch 2 evidence: S023 returned with its right 27% pure white where the prompt reserved space for a composite; S006 returned a pale blank panel in its card area (as S064, S070 and S071 did earlier). Bounded technical guard restating that reserved space is drawn scene, not a blank area; no change of scene meaning.",
+    "changes": [
+     "fully_drawn_guard_added"
+    ],
+    "snapshot_before": "build/director_prompt_plan.before_fully_drawn_guard.json"
+   },
+   {
+    "basis": "Owner caught S055: a table and stool appeared behind the post that exist in no other view of the room. Batch 3 also added a window (S062) and earlier edits removed a built-in bench (S017). Bounded continuity guard; no change of scene meaning.",
+    "changes": [
+     "no_new_fixtures_guard_added"
+    ],
+    "snapshot_before": "build/director_prompt_plan.before_no_new_fixtures_guard.json"
+   },
+   {
+    "basis": "LP-L026 prevention: S022 (edit of the overhead village base asking for eye-level action) came back with two camera heights and a door half a man's height; the owner caught it. S086 has the same setup. Bounded technical guard keeping the director's parent choices.",
+    "changes": [
+     "one_camera_guard_added"
+    ],
+    "snapshot_before": "build/director_prompt_plan.before_one_camera_guard.json"
+   },
+   {
+    "basis": "LP-L026/LP-L028 prevention: S090 carries an eye-level Visitor pose but its parent S012 is the overhead village view; the same setup failed in S086 (Visitor on a wall, 5x the residents). Re-parented to the accepted eye-level lane S004 (same VILLAGE_WIDE lineage); prompt text unchanged.",
+    "changes": [
+     "parent_changed"
+    ],
+    "snapshot_before": "build/director_prompt_plan.before_s090_reparent.json"
+   }
+  ],
+  "visitor_placement_changes": [
+   {
+    "scene": "S102",
+    "from": "watch-arms-crossed 0.78,0.94 0.60",
+    "to": "watch-arms-crossed 0.74,0.86 0.30",
+    "why": "at 0.60 the chapel entrance came to his knees, making the chapel read as a model; owner chose 0.30"
+   },
+   {
+    "scene": "S086",
+    "from": "watch-arms-crossed 0.78,0.94 0.60",
+    "to": "watch-arms-crossed 0.80,0.94 0.40",
+    "why": "eye-level street (repaired from S004): at 0.60 about 1.5x the nearest resident"
+   },
+   {
+    "scene": "S004",
+    "from": "eyebrow-raise 0.78,0.94 0.60",
+    "to": "eyebrow-raise 0.80,0.94 0.42",
+    "why": "same street: at 0.60 taller than the nearest doorway would allow"
+   },
+   {
+    "scene": "S005",
+    "from": "shrug-smirk 0.78,0.94 0.60",
+    "to": "shrug-smirk 0.78,0.94 0.52",
+    "why": "about 1.25x the quarry worker at nearly the same depth"
+   },
+   {
+    "scene": "S066",
+    "from": "count-fingers 0.78,0.94 0.60",
+    "to": "count-fingers 0.78,0.94 0.50",
+    "why": "stood further back than the worker but looked larger"
+   },
+   {
+    "scene": "S009",
+    "from": "watch-arms-crossed 0.78,0.94 0.60",
+    "to": "watch-arms-crossed 0.80,0.94 0.42",
+    "why": "same eye-level street as S004; at 0.60 about 1.9x the residents"
+   },
+   {
+    "scene": "S090",
+    "from": "eyebrow-raise 0.78,0.94 0.60",
+    "to": "eyebrow-raise 0.80,0.94 0.40",
+    "why": "same street; nearest neighbour about 0.32 of frame height"
+   },
+   {
+    "scene": "S094",
+    "from": "watch-arms-crossed 0.78,0.94 0.60",
+    "to": "watch-arms-crossed 0.76,0.92 0.40",
+    "why": "repaired wide approach view; nearer than the small worker but not a giant against the cliff entrance"
+   },
+   {
+    "scene": "S034",
+    "from": "eyebrow-raise 0.78,0.94 0.60",
+    "to": "eyebrow-raise 0.80,0.94 0.56",
+    "why": "repaired banded room; slightly farther than the worker so slightly smaller"
+   },
+   {
+    "scene": "S044",
+    "from": "look-around 0.78,0.94 0.60",
+    "to": "look-around 0.80,0.94 0.50",
+    "why": "empty lane, 1.2x crop; door height check"
+   },
+   {
+    "scene": "S048",
+    "from": "count-fingers 0.78,0.94 0.60",
+    "to": "count-fingers 0.78,0.94 0.52",
+    "why": "same depth as the worker at the tomb entrance"
+   },
+   {
+    "scene": "S061",
+    "from": "watch-arms-crossed 0.78,0.94 0.60",
+    "to": "watch-arms-crossed 0.80,0.94 0.44",
+    "why": "eye-level lane; jar carrier about 0.38"
+   },
+   {
+    "scene": "S081",
+    "from": "eyebrow-raise 0.78,0.94 0.60",
+    "to": "eyebrow-raise 0.80,0.94 0.42",
+    "why": "same street as S004/S009"
+   },
+   {
+    "scene": "S087",
+    "from": "count-fingers 0.78,0.94 0.60",
+    "to": "count-fingers 0.78,0.94 0.50",
+    "why": "at 0.60 about 1.3x the doorway height"
+   },
+   {
+    "scene": "S031",
+    "from": "look-around 0.78,0.94 0.60",
+    "to": "look-around 0.58,0.95 0.50",
+    "why": "at 0.78 he stood on the sloping rock edge (owner's 'too close to the edge' rule); moved onto the flat path"
+   },
+   {
+    "scene": "S017",
+    "from": "look-around 0.78,0.94 0.60",
+    "to": "look-around 0.78,0.94 0.50",
+    "why": "main room (S014 lineage): at 0.60 about 0.85-0.9 of the ceiling height at his depth; 0.50 matches the seated worker and the room"
+   },
+   {
+    "scene": "S053",
+    "from": "watch-arms-crossed 0.78,0.94 0.60",
+    "to": "watch-arms-crossed 0.78,0.94 0.50",
+    "why": "main room (S014 lineage): at 0.60 about 0.85-0.9 of the ceiling height at his depth; 0.50 matches the seated worker and the room"
+   },
+   {
+    "scene": "S055",
+    "from": "eyebrow-raise 0.78,0.94 0.60",
+    "to": "eyebrow-raise 0.78,0.94 0.50",
+    "why": "main room (S014 lineage): at 0.60 about 0.85-0.9 of the ceiling height at his depth; 0.50 matches the seated worker and the room"
+   },
+   {
+    "scene": "S100",
+    "from": "eyebrow-raise 0.78,0.94 0.60",
+    "to": "eyebrow-raise 0.78,0.94 0.50",
+    "why": "main room (S014 lineage): at 0.60 about 0.85-0.9 of the ceiling height at his depth; 0.50 matches the seated worker and the room"
+   },
+   {
+    "scene": "S016",
+    "from": "watch-arms-crossed 0.78,0.94 0.60",
+    "to": "watch-arms-crossed 0.78,0.94 0.50",
+    "why": "same courtyard as S087; at 0.60 about 1.3x the doorway height"
+   }
+  ],
+  "s090_reparent": "S012 -> S004 (overhead base under an eye-level pose); script same-as updated",
+  "package_md": "chapters replaced with measured times; Shorts and thumbnail sections added; 14 missing spaces restored in the copy (for example around1240BC -> around 1240 BC); wording otherwise unchanged",
+  "shorts_json": "new file; scenes from package.md's three concepts; headlines PAID IN / GRAIN, ABSENT IS NOT / A HOLIDAY, WE ARE / HUNGRY (executor draft for Astra)"
+ },
+ "known_limitations": [
+  "Narration not listened to by any human or by the executor (no audio perception). Listen at 0:14: ASR heard 'Deir el-Medina' as '...Nadina'.",
+  "Video reviewed from extracted frames (one per scene on the final-check sheets, two per scene in the review manifest), not continuous playback.",
+  "S083 shows three walkers (crop of the fixed S030) where the plan asked for two; the number is not spoken.",
+  "S050 resting worker keeps one raised knee (third repair asked for straight legs); anatomy is now correct with two separate feet.",
+  "S027 came back closer, not wider; accepted. The green lidded oil jar in S025/S027 could read as modern to some viewers.",
+  "S003 village houses are closely spaced blocks rather than strictly shared walls (accepted in pilot).",
+  "Caption cue 88 reads at 22 characters per second.",
+  "Similar-angle/title clearance and platform disclosure remain upload-day checks."
+ ],
+ "lessons_recorded": [
+  "LP-L026 one camera, one ground, believable sizes (owner caught S022)",
+  "LP-L027 reserved space comes back blank; blanket exclusions delete built-ins",
+  "LP-L028 size the Visitor from the picture, not the default"
+ ],
+ "learning_review": {
+  "metrics": {
+   "first_candidates_reviewed": 91,
+   "corrective_regenerations_paid": 20,
+   "local_corrections_free": 30,
+   "late_discoveries_by_owner": 5,
+   "credits_spent_images": 220,
+   "credits_spent_voice": 1310
+  },
+  "what_worked": [
+   "staged fetch and full-size inspection before every accept",
+   "hash-pinned, reproducible local fixes with backups",
+   "prompt guards added as soon as a failure class appeared"
+  ],
+  "what_failed": [
+   "perspective and scale were not on the written check until the owner caught S022",
+   "the default Visitor size was used without measuring",
+   "several continuity breaks (furniture, shelves) passed first inspection"
+  ],
+  "proposed_changes_for_director": [
+   "adopt the LP-L026/LP-L028 per-image and per-composite checks as standing gates",
+   "decide whether the executor's plan revisions and Visitor sizes become the canonical spec"
+  ],
+  "retrospective_status": "executor_draft"
+ },
+ "release_blockers": [
+  "director audiovisual review",
+  "human listening pass (0:14 pronunciation, pacing, music level)",
+  "owner/director approval before any upload or scheduling"
+ ],
+ "next_actions_for_director": [
+  "review REVIEW EPISODE 003/",
+  "approve or direct changes; on approval render the master to output/",
+  "schedule per the upload plan (target Sat 24 Oct 19:00 Sofia)"
+ ]
+}

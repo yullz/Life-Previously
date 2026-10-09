@@ -1,0 +1,31 @@
+{
+  "status": "director_specified_not_voiced",
+  "entries": [
+    {
+      "term": "Mills House",
+      "say": "MILLZ house",
+      "note": "Not Mill House."
+    },
+    {
+      "term": "Bleecker",
+      "say": "BLEE-ker",
+      "note": "Two syllables."
+    },
+    {
+      "term": "Levine",
+      "say": "luh-VEEN",
+      "note": "Consistent museum-family surname; caption Levine;1900source transcribes Levin."
+    },
+    {
+      "term": "Jacob Riis",
+      "say": "JAY-kub REES",
+      "note": "Short surname."
+    },
+    {
+      "term": "Lawrence Veiller",
+      "say": "LAW-rens VAY-ler",
+      "note": "Verify named-source reading in pilot if spoken; can use housing survey without author name."
+    }
+  ],
+  "rule": "Read20c as twenty cents,12–13dollars as twelve to thirteen dollars; distinguish per night from per month."
+}

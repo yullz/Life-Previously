@@ -1,0 +1,14 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing theme extremely restrained; let petition words carry tension. No horror or magical cues.",
+  "mix": "Near-14LUFS,true peak<=-1dBTP,effects below speech.",
+  "new_assets": [],
+  "acquisition": "Prefer silence and existing quiet room tone after inspection; no paid new audio assumed.",
+  "cues": [],
+  "intentional_silence": [
+    "No screams to dramatize recorded fits.",
+    "No supernatural whisper or demon sound.",
+    "No execution Foley,heartbeat jump-scare or gavel.",
+    "No comic sting on confession,disability or petition."
+  ]
+}

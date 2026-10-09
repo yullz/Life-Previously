@@ -1,0 +1,353 @@
+[
+  {
+    "id": "C0",
+    "claim": "Illustrative family,shopping choices,menu trade-offs and arithmetic explain documented constraints; no actual household diary or complete nutritional trial is claimed.",
+    "type": "F",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC04"
+    ],
+    "locator": "Narrative framing",
+    "limit": "No invented precise prices,calories,week budget or actual family outcome.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S005",
+      "S007",
+      "S008",
+      "S009",
+      "S010",
+      "S012",
+      "S015",
+      "S018",
+      "S020",
+      "S022",
+      "S023",
+      "S028",
+      "S029",
+      "S032",
+      "S033",
+      "S034",
+      "S035",
+      "S038",
+      "S041",
+      "S043",
+      "S044",
+      "S046",
+      "S047",
+      "S054",
+      "S055",
+      "S056",
+      "S057",
+      "S058",
+      "S059",
+      "S060",
+      "S061",
+      "S064",
+      "S065",
+      "S069",
+      "S072",
+      "S076",
+      "S077",
+      "S079",
+      "S080",
+      "S081",
+      "S084",
+      "S085",
+      "S086",
+      "S087",
+      "S088",
+      "S089",
+      "S090",
+      "S091",
+      "S092",
+      "S093",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "claim": "The1940child ration-book instructions require retailer registration,shopkeeper coupon removal and use within intended week; self-cut coupons cannot be used.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Instructions2–6 and9",
+    "limit": "Visible1940source label; not a1944facsimile.",
+    "scene_ids": [
+      "S011",
+      "S016",
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S086"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "claim": "Rationing restricted purchases but did not replace money; price controls/subsidies accompanied it.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Paragraphs19–20,28 and45",
+    "limit": "No claim all foods cost the same or every household could afford everything.",
+    "scene_ids": [
+      "S006",
+      "S011",
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S024",
+      "S039",
+      "S069",
+      "S081",
+      "S086",
+      "S095"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "claim": "Ordinary cheese ration in summer1944was2ozweekly;3ozrestoration announced effective15October.",
+    "type": "E",
+    "sources": [
+      "SRC03",
+      "SRC05"
+    ],
+    "locator": "June9col1663 andSeptember28answer",
+    "limit": "No special-ration eligibility assumed; Julydate explicit.",
+    "scene_ids": [
+      "S009",
+      "S040",
+      "S041",
+      "S042",
+      "S043",
+      "S059"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "claim": "Points rationing introducedDecember1941let consumers choose among covered goods within a points entitlement; beforewarendincludedcannedfoods,driedfruits,rice,pulses,etc.",
+    "type": "E",
+    "sources": [
+      "SRC02",
+      "SRC05"
+    ],
+    "locator": "Paragraph45;September28pointsanswer",
+    "limit": "Separate from basic individual rations and money; no invented point price or pointperiodlength.",
+    "scene_ids": [
+      "S006",
+      "S021",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S087"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "claim": "Bread,flour,oatmeal and potatoes were staples policy sought to keep unrestricted by retail rationing; fish,fruit and fresh vegetables could be unrationed yet scarce.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Paragraph47acrossprintedpp17–18",
+    "limit": "Unrationed does not mean free,alwaysavailable or outside all controls.",
+    "scene_ids": [
+      "S004",
+      "S005",
+      "S021",
+      "S024",
+      "S025",
+      "S027",
+      "S028",
+      "S029",
+      "S030",
+      "S035",
+      "S085",
+      "S086"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "claim": "July18report records broad food satisfaction together with shortages,small cheese allowance,monotony,queues and obstacles for working shoppers.",
+    "type": "E",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Sections14and14a,allitems",
+    "limit": "Reported regional opinion,not quantified representative poll or identicalLondonexperience.",
+    "scene_ids": [
+      "S006",
+      "S010",
+      "S022",
+      "S023",
+      "S024",
+      "S031",
+      "S032",
+      "S033",
+      "S035",
+      "S056",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S069",
+      "S070",
+      "S071",
+      "S083",
+      "S084",
+      "S089",
+      "S090",
+      "S091",
+      "S092",
+      "S095"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "claim": "Young children/expectant mothers had priority nutrition measures; school milk/meals and workplace/public meals supplemented household provision.",
+    "type": "E",
+    "sources": [
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Paragraphs23–25;June9milkexceptions",
+    "limit": "No equaladultmilkforall,noautomaticcanteenaccessorfreepublicmealclaim.",
+    "scene_ids": [
+      "S040",
+      "S044",
+      "S045",
+      "S046",
+      "S072",
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S085",
+      "S086",
+      "S087"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "claim": "Woolton pie recipe uses cooked diced potatoes,cauliflower,swede,carrots with optional spring onions,vegetable extract and oatmeal,topped with potato or wheatmeal pastry,browned and servedwithgravy.",
+    "type": "E",
+    "sources": [
+      "SRC06"
+    ],
+    "locator": "Wooltonpieingredient/methodbox",
+    "limit": "Recipe example,not universal consumption or complete mealplan. Exactoatmealquantityunresolved/omitted; totalservingsnotassumed.",
+    "scene_ids": [
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S053",
+      "S054",
+      "S056",
+      "S057",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "claim": "Wartimepolicy expandedhomefoodproduction; growingspaceandlabourcannotbeassumedforeveryhousehold.",
+    "type": "E",
+    "sources": [
+      "SRC02",
+      "SRC04"
+    ],
+    "locator": "Paragraph26productionpolicy;shopping/workconstraints14a",
+    "limit": "Firstpartdocumentedpolicy,householdlimitationisexplanatoryinference;noinstantfreeharvest.",
+    "scene_ids": [
+      "S078",
+      "S079"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "claim": "1944officialfilmusesaselectedfamilyoffourtoexplainrationing;suchfilmhasapersuasivepurposeandisnotunmediatedevidenceofeveryfamily.",
+    "type": "E",
+    "sources": [
+      "SRC07",
+      "SRC08"
+    ],
+    "locator": "IWMcataloguedescription;TNAusingfilmas evidence",
+    "limit": "Noplaybackclaim,nofabricatedquote.",
+    "scene_ids": [
+      "S082",
+      "S083",
+      "S084"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "claim": "Governmentannouncedbread/flourrationingbeginning21July1946;itwasnotpartoftheJuly1944shoppingday.",
+    "type": "E",
+    "sources": [
+      "SRC09",
+      "SRC02"
+    ],
+    "locator": "1946announcementandparagraph47",
+    "limit": "Postwarcomparisonclearlylabelled.",
+    "scene_ids": [
+      "S009",
+      "S025",
+      "S026"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "claim": "Swede is called rutabaga in the US; commonly yellow flesh with purple/cream exterior.",
+    "type": "E",
+    "sources": [
+      "SRC10"
+    ],
+    "locator": "Getting Started identification and naming paragraphs",
+    "limit": "No guarantee of July1944 availability or fresh summer swede harvest.",
+    "scene_ids": [
+      "S050",
+      "S056"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

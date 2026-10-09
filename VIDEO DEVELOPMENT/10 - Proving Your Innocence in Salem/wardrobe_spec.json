@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "Visitor is a modern observing guide. No conspicuous Puritan costume or Halloween styling; normal clothes remain visually secondary.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Preserve identity. Keep his expression respectful,not comic; all historical participants use subdued ordinary period clothing,not all-black caricatures."
+}

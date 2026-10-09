@@ -1,0 +1,336 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "The Visitor's challenge, jokes and choices are fictional editorial framing; modern comparisons concern functions, not direct invention lineages.",
+    "sources": [],
+    "locator": "Original framing for this episode.",
+    "limit": "Never present the itinerary, a purchase or the Visitor as a documented ancient event.",
+    "scene_ids": [
+      "S001",
+      "S005",
+      "S006",
+      "S007",
+      "S008",
+      "S013",
+      "S015",
+      "S018",
+      "S020",
+      "S021",
+      "S022",
+      "S023",
+      "S024",
+      "S028",
+      "S033",
+      "S036",
+      "S038",
+      "S039",
+      "S054",
+      "S056",
+      "S072",
+      "S074",
+      "S084",
+      "S089",
+      "S093",
+      "S094",
+      "S099",
+      "S100"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "Pompeian thermopolia sold hot food/drink using masonry counters with embedded large storage jars; Regio V preserves such a counter.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Opening archaeological description, thermopolia paragraph.",
+    "limit": "No exact menu, pricing, ubiquitous kitchenlessness or modern business equivalence.",
+    "scene_ids": [
+      "S008",
+      "S009",
+      "S010",
+      "S011",
+      "S012",
+      "S020"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "I",
+    "claim": "A prepared-food counter offers a recognizable alternative to cooking that particular purchase yourself; jars and painted animals do not supply a complete menu.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Function of thermopolium; decorated animal panels described as likely offerings.",
+    "limit": "Explicit functional comparison and evidential boundary, not demographics or a recorded customer's order.",
+    "scene_ids": [
+      "S013",
+      "S014",
+      "S016",
+      "S017",
+      "S018",
+      "S019",
+      "S021",
+      "S098"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "The Insula del Soffitto Dipinto formed part of a Hadrianic residential/commercial block with three or four storeys and external stairs.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "First two panel paragraphs.",
+    "limit": "Shown c. AD 200 with three-storey reconstructed elevation; no exact rent, owner or named residents.",
+    "scene_ids": [
+      "S023",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S034",
+      "S037",
+      "S038"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "Its dwelling plan included a central window-lit medianum with rooms opening from it; painted decoration survives and later subdivision changed occupation.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Panel paragraphs on medianum, decoration and transformation.",
+    "limit": "Do not flatten all phases together or invent occupants. Scene plan is explanatory, not measured survey.",
+    "scene_ids": [
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S034",
+      "S035",
+      "S036"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "Roman Bath's western range preserves tile-stack hypocaust supports; heated air circulated below floors and into walls.",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "West Baths final paragraph.",
+    "limit": "This bath complex, not every Roman home; occupied floor separated from furnace smoke.",
+    "scene_ids": [
+      "S040",
+      "S041",
+      "S042",
+      "S043",
+      "S044",
+      "S045",
+      "S046",
+      "S052",
+      "S053"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "Vitruvius prescribes suspended hot-room floors on brick supports with a furnace; Bath's Great Bath separately received naturally hot spring water.",
+    "sources": [
+      "SRC05",
+      "SRC03"
+    ],
+    "locator": "V.10.2 and Great Bath opening paragraph.",
+    "limit": "Do not apply Vitruvius's precise dimensions to Bath or confuse warm-room heating with spring temperature.",
+    "scene_ids": [
+      "S040",
+      "S042",
+      "S043",
+      "S046",
+      "S047",
+      "S050",
+      "S051",
+      "S052"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "I",
+    "claim": "Operating furnace heating involves fuel and tending; showing an unnamed attendant is a reconstruction, not a known worker's biography.",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "Furnace-dependent construction in V.10.",
+    "limit": "No unsupported worker status, fuel quantities, wages or exact schedule.",
+    "scene_ids": [
+      "S048",
+      "S049",
+      "S050",
+      "S054",
+      "S098"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Hero's Pneumatics describes mechanical devices; first-century AD is a conventional scholarly placement, though his biography/dates are uncertain.",
+    "sources": [
+      "SRC06",
+      "SRC07",
+      "SRC08"
+    ],
+    "locator": "Pneumatics sections 21/37; MacTutor chronology; Linda Hall opening.",
+    "limit": "Use Roman-era Alexandria in speech; on-screen first century AD (approx.) if needed. No invention date or priority claim.",
+    "scene_ids": [
+      "S055",
+      "S057",
+      "S058",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "Section 21 describes a coin landing on a lever plate, raising a lid/valve and allowing water to flow; when the coin falls off, the lid closes.",
+    "sources": [
+      "SRC06"
+    ],
+    "locator": "Section 21, printed p. 37.",
+    "limit": "The source says five drachms, but omit denomination. No fixed dose, coin authentication, refill automation or drink/snack vending claim.",
+    "scene_ids": [
+      "S056",
+      "S057",
+      "S059",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S072"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "I",
+    "claim": "The described dispenser converts coin weight into a valve action; a reservoir still needs water and the text alone does not establish widespread installation.",
+    "sources": [
+      "SRC06"
+    ],
+    "locator": "Section 21's finite water vessel and weight relationship.",
+    "limit": "Maintenance implication and source limit are explained as such. No claim every temple used it or that it verified legal tender.",
+    "scene_ids": [
+      "S067",
+      "S068",
+      "S069",
+      "S070",
+      "S071",
+      "S098"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "Section 37 describes altar heat expanding air, moving water from a half-filled globe into a suspended bucket; descending bucket pulls chains to open doors.",
+    "sources": [
+      "SRC06"
+    ],
+    "locator": "Section 37, printed pp. 57–58.",
+    "limit": "Illustrative small-temple model. No steam motor, electronic sensor or everyday automatic shopfront.",
+    "scene_ids": [
+      "S002",
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S083",
+      "S084",
+      "S088",
+      "S090",
+      "S091",
+      "S092",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "E",
+    "claim": "The same design closes doors when the suspended vessel empties and a counterweight prevails; source explanations of air behaviour contain obsolete theory.",
+    "sources": [
+      "SRC06",
+      "SRC07"
+    ],
+    "locator": "Section 37 closing paragraph; MacTutor discussion of partly incorrect theory.",
+    "limit": "Explain intended sequence without repeating porous-air theory or claiming a tested reconstruction. Section 38 remains separate.",
+    "scene_ids": [
+      "S077",
+      "S085",
+      "S086",
+      "S087",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "type": "I",
+    "claim": "The five examples show recognizable functions across different places and dates; archaeological buildings and textual designs provide different kinds of evidence.",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03",
+      "SRC06"
+    ],
+    "locator": "Cross-source synthesis.",
+    "limit": "Not proof that ancient life was generally easier, that modern devices directly descend from these, or that access was universal.",
+    "scene_ids": [
+      "S003",
+      "S004",
+      "S006",
+      "S055",
+      "S095",
+      "S096",
+      "S097"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

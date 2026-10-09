@@ -1,0 +1,1412 @@
+{
+  "id": "10",
+  "slug": "salem-1692",
+  "title": "Salem, 1692: Could You Prove You Weren’t a Witch?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "How Could You Defend Yourself in Salem, 1692?",
+    "The Salem Accused Tried to Tell the Court"
+  ],
+  "period": "Salem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.",
+  "avoid": "No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers.",
+  "locations": {
+    "village": {
+      "scope": "Salem Village,1692",
+      "frame": "illustrative setting",
+      "design": "Modest timber meetinghouse, unpaved path, scattered clapboard houses and trees; no modern tourist street or grand courthouse."
+    },
+    "examination": {
+      "scope": "Salem Village,19April1692; Mary Warren examination",
+      "frame": "record-based scene, illustrative room layout",
+      "design": "Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts."
+    },
+    "nurse_home": {
+      "scope": "Salem Village,1692; Nurse's community",
+      "frame": "illustrative petition setting",
+      "design": "Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim."
+    },
+    "nurse_trial": {
+      "scope": "Salem Town,lateJune1692; Nurse trial",
+      "frame": "illustrative courtroom",
+      "design": "Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel."
+    },
+    "wardwell": {
+      "scope": "Wardwell confession and recantation,September1692",
+      "frame": "illustrative administrative room",
+      "design": "Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book."
+    },
+    "easty": {
+      "scope": "Salem,September1692; Mary Esty petitions",
+      "frame": "illustrative setting; writing process unknown",
+      "design": "Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document."
+    },
+    "cloyce": {
+      "scope": "Salem,September1692; Esty and Cloyce petition",
+      "frame": "illustrative joint petition setting",
+      "design": "Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card."
+    },
+    "petition": {
+      "scope": "1692 documents in modern source graphics",
+      "frame": "transcription/paraphrase",
+      "design": "Channel parchment cards, checked names and short passages set locally; no generated handwriting or counterfeit facsimile."
+    },
+    "prison": {
+      "scope": "Salem,1692; illustrative confinement",
+      "frame": "generic room, not exact recovered cell",
+      "design": "Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene."
+    },
+    "aftermath": {
+      "scope": "Salem,1693",
+      "frame": "explicitly later phase",
+      "design": "Quiet plain court room, record bundle, spring daylight; no claim suffering ended for everyone."
+    },
+    "editorial": {
+      "scope": "Modern explanatory graphic",
+      "frame": "evidence reasoning/timeline",
+      "design": "Minimal diagrams distinguishing allegation, interpretation and conclusion. Any specter silhouette stays within a clearly labelled ALLEGED graphic."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "UVA Salem Witch Trials Documentary Archive — Mary Warren,SWP135",
+      "url": "https://salem.lib.virginia.edu/n135.html",
+      "read": "2026-10-09: complete April19 examination through magistrates' commitment, including final note on fits and confession.",
+      "limit": "Reports behavior and claims; no proof of supernatural causation or modern diagnosis. Examination,not final trial; closing note not a controlled experiment."
+    },
+    {
+      "id": "SRC02",
+      "title": "UVA — Rebecca Nurse,SWP94",
+      "url": "https://salem.lib.virginia.edu/n94.html",
+      "read": "2026-10-09: character petition,Nathaniel Putnam petition,Thomas Fisk declaration and Nurse appeal in full.",
+      "limit": "Petition date uncertain. Fisk/Nurse July4 texts preserved through Calef1700/Burr,not both surviving original trial transcripts. Attribute Nurse's stated meaning."
+    },
+    {
+      "id": "SRC03",
+      "title": "UVA — Samuel Wardwell,SWP133",
+      "url": "https://salem.lib.virginia.edu/n133.html",
+      "read": "2026-10-09: full September1 confession and September13 grand-jury recantation note.",
+      "limit": "Confession content is allegation; recantation followed by execution does not prove it was sole cause or that maintaining confession guaranteed safety."
+    },
+    {
+      "id": "SRC04",
+      "title": "UVA — Mary Esty,SWP45",
+      "url": "https://salem.lib.virginia.edu/n45.html",
+      "read": "2026-10-09: joint Esty/Cloyce petition and final Esty petition in full.",
+      "limit": "September9/15 dates editorially supplied; narration saysSeptember. Easty modern spelling,Esty archival. Requests not proof proposals were implemented."
+    },
+    {
+      "id": "SRC05",
+      "title": "Peabody Essex Museum — The Salem Witch Trials of1692",
+      "url": "https://www.pem.org/the-salem-witch-trials-of-1692",
+      "read": "2026-10-09: timeline,Towne sisters,Bridget Bishop,innocent-victims FAQ and location explanations. Final timeline through1693 read;September22 executions andOctober29 dissolution verified.",
+      "limit": "Museum cross-check of outcomes. Read ending timeline before locking any aftermath detail; no single-cause explanation."
+    },
+    {
+      "id": "SRC06",
+      "title": "UVA — Sarah Cloyce,SWP33",
+      "url": "https://salem.lib.virginia.edu/n33.html",
+      "read": "2026-10-09: all three indictment texts and Ignoramus endorsements,editorially datedJanuary13,1693.",
+      "limit": "Grand-jury rejection,not an explanation for why she survived; old-style1692 document year must not overwrite modern1693 dating."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "type": "F",
+      "claim": "Visitor's questions are editorial framing; actual cases remain separate,with no invented Visitor trial.",
+      "sources": [],
+      "locator": "Original structure.",
+      "limit": "No imaginary statement treated as archival quote."
+    },
+    {
+      "id": "C1",
+      "type": "E",
+      "claim": "Mary Warren denied guilt at her April19 Village examination; record describes fits and apparition claims,then commitment.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "SWP135.1–2 full text.",
+      "limit": "Reported claims and behavior,not magic or diagnosis."
+    },
+    {
+      "id": "C2",
+      "type": "I",
+      "claim": "When distress was interpreted as invisible attack,denial alone could fail to dislodge an accusation.",
+      "sources": [
+        "SRC01",
+        "SRC05"
+      ],
+      "locator": "Warren examination;PEM spectral evidence.",
+      "limit": "Interpretation,not universal formal rule."
+    },
+    {
+      "id": "C3",
+      "type": "E",
+      "claim": "Nurse's neighbours said they had known her for years and lacked reason to suspect the charge.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Character petition and Nathaniel Putnam testimony.",
+      "limit": "No exact signature count or uncertain date."
+    },
+    {
+      "id": "C4",
+      "type": "E",
+      "claim": "Nurse's jury first returned not guilty; after court objection it reconsidered and found guilty. Fisk explained importance he gave ambiguous words.",
+      "sources": [
+        "SRC02",
+        "SRC05"
+      ],
+      "locator": "SWP94.32;PEM Towne sisters.",
+      "limit": "Do not imply judges alone entered verdict or a separate retrial."
+    },
+    {
+      "id": "C5",
+      "type": "E",
+      "claim": "Nurse said her reference to the Hobbs women meant fellow prisoners;her appeal described hearing difficulty and distress.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "SWP94.33 appeal preserved by Calef1700.",
+      "limit": "Her stated explanation,not whole-trial transcript."
+    },
+    {
+      "id": "C6",
+      "type": "E",
+      "claim": "Rebecca Nurse was hanged July19,1692 despite defense petitions and appeal.",
+      "sources": [
+        "SRC02",
+        "SRC05"
+      ],
+      "locator": "Case heading;PEM timeline.",
+      "limit": "No burning or graphic execution."
+    },
+    {
+      "id": "C7",
+      "type": "E",
+      "claim": "Wardwell confessed September1 then said September13 he had falsely accused himself and expected death whether he maintained it or not.",
+      "sources": [
+        "SRC03"
+      ],
+      "locator": "SWP133.1 and appended grand-jury note.",
+      "limit": "His expectation,not proof of a counterfactual outcome."
+    },
+    {
+      "id": "C8",
+      "type": "E",
+      "claim": "Wardwell was executed September22; confession was not automatic release.",
+      "sources": [
+        "SRC03",
+        "SRC05"
+      ],
+      "locator": "Case heading;PEM September22.",
+      "limit": "No sole-cause claim about recantation."
+    },
+    {
+      "id": "C9",
+      "type": "E",
+      "claim": "Esty and Cloyce requested assistance,witness testimony and other legal evidence before condemnation on accused/afflicted testimony.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "SWP45.21.",
+      "limit": "Their requests,not modern entitlements imposed on1692."
+    },
+    {
+      "id": "C10",
+      "type": "E",
+      "claim": "Esty's final petition sought to prevent innocent deaths,strict separate examination of accusers and scrutiny of potentially false confessions.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "SWP45.22 full petition.",
+      "limit": "No claim methods were adopted or she knew everyone's motives."
+    },
+    {
+      "id": "C11",
+      "type": "E",
+      "claim": "Mary Esty was hanged September22;Sarah Cloyce was eventually cleared after imprisonment.",
+      "sources": [
+        "SRC04",
+        "SRC05",
+        "SRC06"
+      ],
+      "locator": "Case heading;PEM Towne sisters.",
+      "limit": "Different outcomes,unknown survival explanation."
+    },
+    {
+      "id": "C12",
+      "type": "I",
+      "claim": "People contested evidence at the time; victims did not need cleverer answers to deserve fair treatment.",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC04"
+      ],
+      "locator": "Synthesis of defenses and petitions.",
+      "limit": "Editorial conclusion,not quoted legal principle."
+    },
+    {
+      "id": "C13",
+      "type": "E",
+      "claim": "Governor Phips dissolved the court of oyer and terminer October29,1692; proceedings and releases continued into1693.",
+      "sources": [
+        "SRC05",
+        "SRC06"
+      ],
+      "locator": "PEM timeline; CloyceJanuary1693 rejected indictments.",
+      "limit": "No immediate universal release,or claim this was caused solely by Esty's petition."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "What could you say?",
+      "scenes": [
+        [
+          "You are accused of something you did not do. You deny it. The people questioning you still demand an explanation.",
+          "C0",
+          "examination",
+          "wide",
+          "Plain examination room, table and waiting accused, no fit yet; Visitor separate at edge.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Somebody says your invisible shape has hurt them. How do you demonstrate where an invisible version of you has been?",
+          "C0,C2",
+          "editorial",
+          "graphic",
+          "Accusation inside clearly labelled speech-card outline; no actual ghost in historic room.",
+          null,
+          null,
+          "AN ALLEGATION, NOT A VISIBLE ACT"
+        ],
+        [
+          "Welcome to Salem in sixteen ninety-two. We are examining the defenses people actually tried, and why those efforts could fail.",
+          "C0,C12",
+          "village",
+          "wide",
+          "Ordinary timber meetinghouse and path, no ominous magical sky.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Our Visitor asks the questions. Real examinations, petitions and appeals supply the cases, involving different people at different moments.",
+          "C0",
+          "editorial",
+          "graphic",
+          "Short timeline of separately named cases, dates added locally.",
+          null,
+          null,
+          "SEPARATE CASES • SURVIVING RECORDS"
+        ],
+        [
+          "There is no perfect answer that reliably saves your life. The records offer no such formula.",
+          "C0,C12",
+          "examination",
+          "detail",
+          "Clerk's blank paper,quill and closed record bundle; historical room anchored toS001.",
+          null,
+          "SEPARATE CASES • SURVIVING RECORDS",
+          null
+        ],
+        [
+          "Start with the most obvious response: deny the accusation. Then perhaps ask neighbours who know you to speak in your defense.",
+          "C0,C1,C3",
+          "nurse_home",
+          "wide",
+          "Neighbours and elderly Nurse near plain table, papers blank.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "If that does not work, could you explain a misunderstood sentence? Could a confession change what the authorities believed about you?",
+          "C0,C5,C7",
+          "editorial",
+          "graphic",
+          "Three simple cards: deny,explain,confess; no safe-option tick.",
+          null,
+          null,
+          "WHAT COULD YOU SAY?"
+        ],
+        [
+          "Finally, a condemned woman will ask the court to change how it tests the accusations themselves.",
+          "C10",
+          "easty",
+          "wide",
+          "Mary Esty seated beside paper and window; quill aside, no invented writing action.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Her practical requests show that people within this crisis recognized failures in the process.",
+          "C10,C12",
+          "easty",
+          "detail",
+          "Paper edge and still hands, no readable painted text.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Keep two places distinct: Salem Village held examinations; the later trials discussed here took place in Salem Town.",
+          "C1,C4",
+          "editorial",
+          "graphic",
+          "Two clearly labelled place markers, no inaccurate route or exact distance.",
+          null,
+          null,
+          "VILLAGE: EXAMINATIONS • TOWN: TRIALS"
+        ],
+        [
+          "An examination was not a trial. Our separate cases must not become one imaginary hearing.",
+          "C1,C4,C0",
+          "village",
+          "medium",
+          "Meetinghouse doorway with ordinary people entering, no grand jury spectacle.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Mary Warren stood before magistrates in April. Her opening answer could hardly have been clearer.",
+          "C1",
+          "examination",
+          "medium",
+          "Young Mary Warren at left opposite two magistrates, clerk seated to side.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "When denial is not enough",
+      "scenes": [
+        [
+          "Asked whether she was guilty, Warren declared her innocence. The account then describes accusations and fits among people in the room.",
+          "C1",
+          "examination",
+          "medium",
+          "Mary speaks calmly, one witness distressed on bench; no supernatural figure.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "They questioned her changed position: previously among the afflicted, she was now accused of afflicting others.",
+          "C1",
+          "examination",
+          "medium",
+          "Mary Warren standing apart from seated witnesses; clear facial expressions,no ghost or role labels painted.",
+          null,
+          "MARY WARREN • 19 APRIL 1692",
+          null
+        ],
+        [
+          "The record also reports a claim that Warren had said the afflicted were pretending. That statement itself entered the questioning.",
+          "C1",
+          "examination",
+          "over-shoulder",
+          "Magistrate listens to witness across room, Mary separate, blank paper at clerk.",
+          null,
+          null,
+          null
+        ],
+        [
+          "What you say about other people's behaviour can become another thing you must explain.",
+          "C2,C0",
+          "examination",
+          "close",
+          "Mary's hands clasped at waist, magistrates beyond, restrained expression.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "When Warren fell into fits, others claimed apparitions stopped her speaking. That is a recorded allegation, not an established cause.",
+          "C1",
+          "editorial",
+          "graphic",
+          "Plain human silhouette and attributed allegation card, no demon or spectral body.",
+          null,
+          null,
+          "THE RECORD REPORTS A CLAIM"
+        ],
+        [
+          "The record does not establish an invisible attacker, and gives us insufficient information to diagnose everyone present.",
+          "C1,C2",
+          "examination",
+          "detail",
+          "Clerk's hand and ordinary ink on blank sheet,with Mary and witnesses out of focus; no supernatural cause.",
+          null,
+          "REPORTED BEHAVIOUR",
+          null
+        ],
+        [
+          "The issue is interpretation: a visible reaction could become evidence of a supposed invisible action.",
+          "C2",
+          "editorial",
+          "graphic",
+          "Two boxes joined by labelled INTERPRETATION arrow, not factual causation arrow.",
+          null,
+          null,
+          "REACTION → INTERPRETATION → ACCUSATION"
+        ],
+        [
+          "Denial becomes harder to hear when the accusation already supplies an explanation for whatever happens next.",
+          "C2",
+          "examination",
+          "wide",
+          "Same room, magistrates and witnesses focused on Mary, no manic expressions.",
+          "glance-nervous",
+          null,
+          null
+        ],
+        [
+          "The clerk's account ends by noting a change in the sufferers' behaviour once Warren began to confess. That is the recorder's observation.",
+          "C1",
+          "examination",
+          "close",
+          "Same clerk pauses over paper; restrained room, no claim his observation was an experiment.",
+          null,
+          "THE RECORDER'S NOTE",
+          null
+        ],
+        [
+          "That observation is no controlled test. It cannot by itself separate pressure, confusion and interpretation.",
+          "C1,C2",
+          "examination",
+          "detail",
+          "Clerk's blank sheet and hand poised, record not magical artifact.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Warren was committed after the examination. Simply saying she was innocent had not ended the matter or made her free to leave.",
+          "C1",
+          "prison",
+          "medium",
+          "Mary at plain doorway with official nearby, no chains or violence.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Imagine your next defense: people have known you for years. Surely their experience of your character should count.",
+          "C0,C3",
+          "nurse_home",
+          "medium",
+          "Neighbours gather around table while Nurse listens quietly.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Your neighbours speak for you",
+      "scenes": [
+        [
+          "Rebecca Nurse's neighbours did speak up. A petition said they had known her for years and had no grounds for the accusation.",
+          "C3",
+          "nurse_home",
+          "wide",
+          "Several neighbours by table with Nurse; no exact signature count implied.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "The petition offered something beyond an alarming claim: experience of a person over a long period.",
+          "C3,C12",
+          "nurse_home",
+          "medium",
+          "Elderly Nurse beside two neighbours at table; one neighbour holds blank paper,not a generated signature sheet.",
+          null,
+          "A CHARACTER PETITION",
+          null
+        ],
+        [
+          "It records support put before authorities, even though we cannot recover every conversation behind it.",
+          "C3",
+          "nurse_home",
+          "detail",
+          "Paper held by neighbour, no fabricated spoken quotation or painted signatures.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Another supporter, Nathaniel Putnam, described her life and the family she had raised. He acknowledged human failings rather than claiming perfection.",
+          "C3",
+          "nurse_home",
+          "medium",
+          "One older male supporter at table with blank petition; illustrative likeness,not an exact portrait of Nathaniel Putnam.",
+          null,
+          "NATHANIEL PUTNAM'S TESTIMONY",
+          null
+        ],
+        [
+          "You ask people to consider the person they know alongside the frightening story being told.",
+          "C0,C12",
+          "nurse_home",
+          "medium",
+          "Neighbour gestures toward seated Nurse with open hand, respectful staging.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "But reputation and accusation can coexist if authorities believe the wrongdoing was hidden from ordinary view.",
+          "C2,C12",
+          "nurse_home",
+          "detail",
+          "Hands holding plain paper near doorway; Nurse remains visible behind supporters.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The important historical point is that Nurse was not abandoned by everyone. Neighbours tried to help; their support did not secure her safety.",
+          "C3,C6",
+          "nurse_home",
+          "wide",
+          "Group remains together, no crowd turns hostile or throws stones.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Our imagined defense has become a real petition. Nurse's next difficulty turns on something smaller: a sentence.",
+          "C0,C5",
+          "nurse_trial",
+          "wide",
+          "Distinct Town courtroom, Nurse left and jurors on bench, no Village room reuse.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Words under pressure can carry different meanings. What happens if officials hear something you did not intend?",
+          "C0,C5",
+          "nurse_trial",
+          "close",
+          "Nurse's worried face, cap and grey hair consistent, no caricature.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Juror Thomas Fisk's account and Nurse's appeal let us examine a consequential misunderstanding.",
+          "C4,C5",
+          "nurse_trial",
+          "detail",
+          "Two blank record sheets on clerk's table; Nurse and jury bench beyond, room consistent.",
+          null,
+          "JUROR'S ACCOUNT • APPEAL",
+          null
+        ],
+        [
+          "Preserved in a later published account, these texts do not supply every word spoken throughout the trial.",
+          "C4,C5",
+          "nurse_trial",
+          "close",
+          "Plain clerk's folio and quill near window, no counterfeit title page or printed1700book in1692scene.",
+          null,
+          "TEXTS PRESERVED IN CALEF, 1700",
+          null
+        ],
+        [
+          "They do show how much could depend on interpreting a few words.",
+          "C4,C5",
+          "nurse_trial",
+          "medium",
+          "Juror attentive at bench, Nurse across room; no already-final verdict sign.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The words they heard",
+      "scenes": [
+        [
+          "Nurse's jury initially returned a verdict of not guilty. The court objected, and the jurors went back to consider the case again.",
+          "C4",
+          "nurse_trial",
+          "wide",
+          "Jurors grouped by bench, magistrates at table; no celebratory release or second courtroom.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Fisk described attention turning to Nurse's words about two witnesses: they had been among her company.",
+          "C4",
+          "nurse_trial",
+          "medium",
+          "Juror Thomas Fisk represented generically on bench, looking toward Nurse; no invented words painted.",
+          null,
+          "THE DISPUTED PHRASE",
+          null
+        ],
+        [
+          "The witnesses had confessed. Her phrase could be interpreted as linking her to their supposed wrongdoing.",
+          "C4,C5",
+          "editorial",
+          "graphic",
+          "Two possible meanings on separate branches: fellow prisoners versus alleged association.",
+          null,
+          null,
+          "ONE PHRASE • DIFFERENT READINGS"
+        ],
+        [
+          "Fisk said he wanted her meaning clarified. When the words were put before her and she did not answer, he treated them as evidence.",
+          "C4",
+          "nurse_trial",
+          "medium",
+          "Juror turns toward Nurse, who looks strained; no claim she intentionally refuses.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Nurse later explained that she meant fellow prisoners. Sharing imprisonment was the connection she intended, not membership in a company of witches.",
+          "C5",
+          "nurse_trial",
+          "close",
+          "Nurse by courtroom table, plain cap and hands visible, no witch imagery.",
+          null,
+          "HER MEANING: FELLOW PRISONERS",
+          null
+        ],
+        [
+          "Her appeal also said she was hard of hearing and full of grief, and had not understood how the court interpreted her words.",
+          "C5",
+          "nurse_trial",
+          "close",
+          "Nurse attentive but strained, normal ears, no hearing aid or invented gesture.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Silence need not mean agreement. Hearing difficulty and distress change how an unanswered question might be understood.",
+          "C5,C12",
+          "editorial",
+          "graphic",
+          "Silence icon separated from agreement, no medical diagnosis.",
+          null,
+          null,
+          "SILENCE DOES NOT EXPLAIN ITSELF"
+        ],
+        [
+          "The jury returned a guilty verdict. Nurse's explanation and the support offered for her did not prevent her execution in July.",
+          "C4,C5,C6",
+          "nurse_trial",
+          "wide",
+          "Room now quiet, Nurse in foreground, no hanging image or verdict gavel.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Rebecca Nurse was hanged on July nineteenth. She had tried to explain herself, and others had tried to defend her.",
+          "C6",
+          "village",
+          "wide",
+          "Quiet meetinghouse path, no execution staging or flames; restrained daylight.",
+          null,
+          "REBECCA NURSE • 19 JULY 1692",
+          null
+        ],
+        [
+          "Denial, reputation and explanation could all be offered without overcoming the process around you.",
+          "C0,C12",
+          "prison",
+          "wide",
+          "Empty bench in quiet room, no body or dramatic shadow.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Perhaps saying what the questioners wanted would work better. Confession seems to offer another path.",
+          "C0,C7",
+          "wardwell",
+          "wide",
+          "Samuel Wardwell opposite clerk, blank page, no torture or devil imagery.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Before calling it a solution, consider a man whose record contains both confession and recantation.",
+          "C7,C8",
+          "wardwell",
+          "detail",
+          "Two plain source sheets on table, no invented signatures.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The dangerous promise of confession",
+      "scenes": [
+        [
+          "Samuel Wardwell's confession was taken in September. It described supposed dealings with the devil, as many accusations in this crisis did.",
+          "C7",
+          "wardwell",
+          "medium",
+          "Wardwell speaking to clerk, sober room, no supernatural scene shown.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "We are reading a recorded story, not accepting its supposed dealings with the devil as real.",
+          "C7,C12",
+          "wardwell",
+          "detail",
+          "Ordinary blank confession sheet and quill; no devil contract or occult seal.",
+          null,
+          "A RECORDED CLAIM",
+          null
+        ],
+        [
+          "Later, before the grand jury, Wardwell acknowledged that the confession had come from his mouth, but said he had falsely accused himself.",
+          "C7",
+          "wardwell",
+          "medium",
+          "Same man and table, later-date overlay distinguishes event; no single continuous hearing.",
+          null,
+          "SEPTEMBER • LATER STATEMENT",
+          null
+        ],
+        [
+          "The appended note records his belief that he would die whether he maintained the confession or not. That is a bleak statement of expectation.",
+          "C7",
+          "wardwell",
+          "close",
+          "Wardwell's solemn face opposite clerk, no visible torture, exact likeness not implied.",
+          null,
+          "HIS REPORTED EXPECTATION",
+          null
+        ],
+        [
+          "Wardwell was hanged on September twenty-second. Confession had not functioned as an automatic ticket out of imprisonment and danger in his case.",
+          "C8",
+          "prison",
+          "detail",
+          "Empty plain bench beneath daylight window, no dead body or hanging silhouette.",
+          null,
+          "SAMUEL WARDWELL • 22 SEPTEMBER 1692",
+          null
+        ],
+        [
+          "We cannot promise that maintaining his confession would have saved him. The record establishes no such alternative outcome.",
+          "C7,C8",
+          "wardwell",
+          "wide",
+          "Empty clerk's chair and record sheets, no two-ending fantasy montage.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Nor should we blame the accused for failing to discover a safe answer. Pressure can make every available response carry consequences.",
+          "C12",
+          "prison",
+          "medium",
+          "Plain door and bench, human-scale quiet composition.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Deny, explain, confess: none offers our imagined newcomer dependable instructions for getting out safely.",
+          "C0,C12",
+          "editorial",
+          "graphic",
+          "Three response cards, no green safe branch.",
+          null,
+          null,
+          "NO RELIABLE FORMULA"
+        ],
+        [
+          "Confessions themselves deserved scrutiny. Mary Easty would ask whether people had falsely accused themselves and others.",
+          "C10",
+          "easty",
+          "medium",
+          "Mary beside table and petition, calm purposeful expression.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "That argument came from inside the crisis. People living through it could recognize unreliable evidence.",
+          "C10,C12",
+          "easty",
+          "detail",
+          "Folded document and window light, no modern notebook or courtroom technology.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Easty and her sister Sarah Cloyce had already made a joint request about how their defense should be heard.",
+          "C9",
+          "cloyce",
+          "wide",
+          "Two distinct women by table, blank petition paper, ordinary clothes.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Their request takes us beyond a clever reply, towards the question of whether a defense would receive a fair hearing.",
+          "C9,C12",
+          "cloyce",
+          "medium",
+          "Two sisters beside petition on table, facing one another without invented speech.",
+          null,
+          "A REQUEST FOR A FAIR HEARING",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Ask for a fair hearing",
+      "scenes": [
+        [
+          "The sisters said they could not adequately plead their own cause and asked the judges for assistance in presenting their defense.",
+          "C9",
+          "cloyce",
+          "medium",
+          "Women face official at distance, no modern lawyer or rights poster.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "They wanted people who knew them well to testify: neighbours, their minister, and family members whose knowledge the court might consider.",
+          "C9",
+          "cloyce",
+          "wide",
+          "Two women foreground and a few adult supporters outside door; no claim all witnesses appeared.",
+          null,
+          null,
+          null
+        ],
+        [
+          "They wanted evidence on their behalf heard alongside the testimony accusing them.",
+          "C9",
+          "editorial",
+          "graphic",
+          "Two equally sized columns: evidence against/evidence in defense.",
+          null,
+          null,
+          "HEAR BOTH"
+        ],
+        [
+          "They also asked that testimony from accused witches or afflicted people should not condemn them without other legal evidence supporting it.",
+          "C9",
+          "cloyce",
+          "detail",
+          "Blank petition between women's still hands; local phrase overlay only.",
+          null,
+          "ASK FOR CORROBORATION",
+          null
+        ],
+        [
+          "Ask what else supports the accusation. Its frightening nature should not substitute for testing it.",
+          "C9,C12",
+          "editorial",
+          "graphic",
+          "Claim card above separate supporting-evidence box, no false checkmark.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "The petition appealed to the court's responsibility for their lives. These were people trying to make the authorities hear their reasoning.",
+          "C9",
+          "cloyce",
+          "close",
+          "Women's hands beside blank document, quiet determined faces.",
+          null,
+          null,
+          null
+        ],
+        [
+          "We can recognize their logic without pretending these proceedings used modern courtroom rules.",
+          "C0,C9",
+          "editorial",
+          "graphic",
+          "1692 date on request card, no modern law book or constitutional text.",
+          null,
+          null,
+          null
+        ],
+        [
+          "And a sensible request is not the same thing as a request that succeeds. Mary Easty remained condemned to die.",
+          "C10,C11",
+          "easty",
+          "wide",
+          "Mary alone in same plain room, no newly invented shackles.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Her final petition went further. She knew her appointed time was set, and asked that no more innocent blood be shed.",
+          "C10",
+          "easty",
+          "detail",
+          "Plain petition on table near Mary Easty's hands; quill set aside, not actively writing.",
+          null,
+          "NO MORE INNOCENT BLOOD",
+          null
+        ],
+        [
+          "She was pleading about a process affecting others, not merely defending her own character.",
+          "C10,C12",
+          "easty",
+          "medium",
+          "Mary looks toward petition, no staged letter delivery claimed.",
+          null,
+          null,
+          null
+        ],
+        [
+          "What could the court do differently? Her proposals addressed both the accusers and the people who had already confessed.",
+          "C10",
+          "editorial",
+          "graphic",
+          "Two source-derived groups, separate lines, no labels liar or witch on actual persons.",
+          null,
+          null,
+          "TEST ACCUSATIONS AND CONFESSIONS"
+        ],
+        [
+          "Her words help us understand what the accused themselves thought was going wrong.",
+          "C10,C12",
+          "easty",
+          "medium",
+          "Mary Easty sits beside narrow window and document, calm purposeful expression.",
+          null,
+          "MARY EASTY'S PETITION",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "What Mary Easty asked them to test",
+      "scenes": [
+        [
+          "Easty asked that the afflicted accusers be examined closely and kept apart for a time. Their accounts should be tested, not simply repeated.",
+          "C10",
+          "editorial",
+          "graphic",
+          "Two separated interview symbols, clearly REQUESTED METHOD rather than event.",
+          null,
+          null,
+          "EXAMINE SEPARATELY"
+        ],
+        [
+          "She also urged scrutiny of confessions. She believed some people had falsely accused themselves and others, and that examination could reveal it.",
+          "C10",
+          "easty",
+          "detail",
+          "Document foreground and Mary looking toward it, no named confessor added.",
+          null,
+          "TEST THE CONFESSIONS",
+          null
+        ],
+        [
+          "Distinguish her belief from a complete explanation. She did not know every person's private history.",
+          "C10",
+          "easty",
+          "close",
+          "Mary by window, thoughtful expression, no omniscient montage.",
+          null,
+          null,
+          null
+        ],
+        [
+          "But the proposal challenges an important assumption: repeating an accusation in a confession does not automatically make it reliable evidence.",
+          "C10,C12",
+          "editorial",
+          "graphic",
+          "Accusation and confession cards share an unverified statement; no checkmark until independent support.",
+          null,
+          null,
+          "REPETITION IS NOT VERIFICATION"
+        ],
+        [
+          "She maintained that she knew nothing of witchcraft and could not falsely accuse her own soul. Confessing was not morally simple for her.",
+          "C10",
+          "easty",
+          "medium",
+          "Blank petition on table, Mary holds hands together, no religious apparition.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "Conscience mattered alongside fear. A quick survival-tip version of the story misses that pressure.",
+          "C10,C12",
+          "prison",
+          "detail",
+          "Folded cloth and plain bench, window light, no Halloween prop.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Easty was hanged on September twenty-second. Her plea remains powerful partly because those practical requests did not save the person making them.",
+          "C11",
+          "prison",
+          "wide",
+          "Empty plain room after case narration, light through small window, no graphic execution.",
+          null,
+          "MARY EASTY • 22 SEPTEMBER 1692",
+          null
+        ],
+        [
+          "Sarah Cloyce, her sister, had a different outcome: after imprisonment, she was cleared. Their shared petition did not produce identical fates.",
+          "C11",
+          "cloyce",
+          "medium",
+          "Sarah alone by plain doorway, explicitly later label, Mary absent.",
+          null,
+          "LATER OUTCOME: SARAH CLOYCE",
+          null,
+          {
+            "scope": "Salem,1693;Sarah Cloyce's later outcome",
+            "frame": "illustrative later scene,not same September1692room moment"
+          }
+        ],
+        [
+          "In January sixteen ninety-three, indictments against Cloyce were rejected. That supplies an outcome, not a universal strategy.",
+          "C11",
+          "aftermath",
+          "detail",
+          "Plain bundle of legal papers on table,not a fake facsimile,January1693 daylight.",
+          null,
+          "1693 • CHARGES REJECTED",
+          null
+        ],
+        [
+          "Not everyone accused died, and no single response explains survival.",
+          "C11,C12",
+          "editorial",
+          "graphic",
+          "Two distinct case paths with names and outcomes, no numerical odds.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "What the documents do show is effort: people denied, explained, petitioned and challenged the testimony being used against them.",
+          "C12",
+          "petition",
+          "graphic",
+          "Small gallery of source-card titles, no unreadable document wall.",
+          null,
+          null,
+          "DEFENSES WERE OFFERED"
+        ],
+        [
+          "They tried to change how authorities reached verdicts. They were not silent figures simply waiting for one.",
+          "C12",
+          "easty",
+          "detail",
+          "Petition on empty table with quiet daylight, no invented triumph.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The answer was never just better words",
+      "scenes": [
+        [
+          "By late October, Governor Phips had dissolved the special court. Proceedings and releases continued into the following year.",
+          "C13",
+          "aftermath",
+          "wide",
+          "Plain later court room with record bundle, explicitly1693label.",
+          null,
+          "AFTERMATH • 1692–1693",
+          null
+        ],
+        [
+          "Change could not restore lives already taken. We cannot credit it to one petition without evidence.",
+          "C13,C12",
+          "petition",
+          "graphic",
+          "Names of Nurse,Easty,Wardwell beside dates, no simplified causal arrow.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Being innocent did not guarantee you could persuade the people judging you.",
+          "C0,C12",
+          "examination",
+          "wide",
+          "Return to empty original examination room, no current case conflation.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Your neighbours could speak well of you. Your words could be explained. You could ask for witnesses and better tests of the accusations.",
+          "C3,C5,C9,C10",
+          "editorial",
+          "graphic",
+          "Four concise defense icons with source names, no promise of success.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Those efforts mattered, even when they failed. They show that doubts and reasoned objections existed within the world of sixteen ninety-two.",
+          "C12",
+          "nurse_home",
+          "medium",
+          "Neighbours around petition as labelled earlier moment, no resurrected Nurse afterexecution.",
+          null,
+          "EARLIER: THE DEFENSE PETITION",
+          null
+        ],
+        [
+          "The victims did not lack a perfect sentence. Their defenses could not reliably overcome the accusations.",
+          "C12",
+          "editorial",
+          "graphic",
+          "Defense and accusation paths with interrupted listening symbol, no mock legal equation.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Close reading lets us hear distinctions that a simple tale about witches erases.",
+          "C12",
+          "petition",
+          "graphic",
+          "Plain source titles and case dates, no supernatural illustrations.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "Nurse explained what she meant. Wardwell said he had accused himself falsely. Easty asked the court to test what it was hearing.",
+          "C5,C7,C10",
+          "petition",
+          "graphic",
+          "Three distinct names with brief paraphrased action, each correctly paired.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Different people and responses, with no dependable answer that could make the process safe.",
+          "C12",
+          "prison",
+          "wide",
+          "Empty ordinary confined room with natural daylight, no ominous approaching shadow.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Which part of their defense do you think deserved the most careful hearing: character testimony, an explanation, or the challenge to the evidence?",
+          "C0",
+          "editorial",
+          "graphic",
+          "Three discussion prompts in channel style, no playful choose-your-death mechanic.",
+          null,
+          null,
+          null
+        ],
+        [
+          "This is Life, Previously. The people accused in Salem were people with neighbours, families and voices, not the creatures of the accusations.",
+          "C12",
+          "village",
+          "wide",
+          "Ordinary village path and homes, calm human-scale world, no broomstick moon.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "The final question is not what clever words would have saved you. It is what the authorities were willing to hear.",
+          "C12",
+          "easty",
+          "detail",
+          "Petition resting on table, end-screen safe area, quiet close.",
+          null,
+          null,
+          null
+        ]
+      ]
+    }
+  ],
+  "research": "Test imagined defenses against actual cases,without a reliable-survival formula. Warren's examination shows innocence denied and reported fits interpreted through accusation. Nurse's neighbours offered character evidence;jury initially acquitted then reconsidered,with ambiguous wording important to Fisk;Nurse said she meant fellow prisoners and explained hearing difficulty. Wardwell confessed and recanted,saying he expected death either way. Esty/Cloyce requested help,witnesses and corroboration;Esty later urged separate examination and testing confessions. No supernatural event authenticated by an accusation. No diagnosis of ergotism,hysteria or universal deceit. No burning,magical thumbnail,torture reenactment or guaranteed strategy. Dates and Village/Town stages distinct. PEM timeline ending read and compared with Sarah Cloyce's three rejected indictments: later1693 outcome,not an automatic release in1692. Initial/final exact-script reviews still pending.",
+  "description": "If you were accused in Salem in1692,what could you say in your defense? We follow real examination records,neighbours' petitions,a disputed verdict and a condemned woman's plea for better evidence. The Visitor's questions are imagined;cases and sources are identified. Supernatural claims are not presented as facts.",
+  "tags": [
+    "Salem witch trials",
+    "Salem 1692",
+    "Rebecca Nurse",
+    "Mary Easty",
+    "Samuel Wardwell",
+    "Mary Warren",
+    "American history",
+    "colonial history",
+    "history documentary",
+    "Life Previously",
+    "spectral evidence",
+    "Salem history"
+  ],
+  "pinned_comment": "Which should the court have examined more carefully: the accusations,the confessions,or the evidence offered in defense?",
+  "pilot": [
+    "S001",
+    "S006",
+    "S008",
+    "S032",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "PROVE IT.",
+      "chip": "SALEM • 1692",
+      "scope": "Answering a wrongful accusation",
+      "pose": "closeup-worried",
+      "background": "Plain17th-century court table at left,quill and closed record book,magistrate's hand indicating empty space;Visitor right in ordinary light. No witch hat,demon,noose or literal accused portrait.",
+      "rationale": "Short demand creates the evidence dilemma without implying actual witchcraft.",
+      "payoff_scene_ids": [
+        "S002",
+        "S016",
+        "S073"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "THEY KNOW YOU.",
+      "chip": "IS THAT ENOUGH?",
+      "scope": "Character witnesses and Nurse's petition",
+      "pose": "closeup-listening",
+      "background": "Local short petition card above plain table,several restrained neighbour silhouettes behind;Visitor right. No fake signatures or count claim.",
+      "rationale": "Makes reputation a concrete defense to test,not a guarantee.",
+      "payoff_scene_ids": [
+        "S025",
+        "S031",
+        "S044"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "CONFESS?",
+      "chip": "NO SAFE ANSWER",
+      "scope": "Pressure and uncertainty",
+      "pose": "closeup-thoughtful",
+      "background": "Blank page and quill at left,closed plain door behind,quiet warm-grey room. No torture device or magical book.",
+      "rationale": "Difficult choice without promising confession saves lives.",
+      "payoff_scene_ids": [
+        "S051",
+        "S053",
+        "S054"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Rebecca Nurse's Neighbours Spoke Up",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "People who knew her tried to help.",
+      "description": "Character evidence was offered in1692;it did not secure Nurse's safety."
+    },
+    {
+      "title": "A Salem Confession Wasn't a Guaranteed Escape",
+      "from_scene": "S049",
+      "to_scene": "S056",
+      "hook": "One record complicates the easy survival story.",
+      "description": "Wardwell confessed,recanted and was executed. No alternative outcome can be guaranteed."
+    },
+    {
+      "title": "The Salem Petition That Asked for Better Evidence",
+      "from_scene": "S073",
+      "to_scene": "S079",
+      "hook": "Mary Easty asked for a different way to test accusations.",
+      "description": "Her petition urged separate examination of accusers and scrutiny of confessions."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "Visitor is a modern observing guide. No conspicuous Puritan costume or Halloween styling; normal clothes remain visually secondary.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Preserve identity. Keep his expression respectful,not comic; all historical participants use subdued ordinary period clothing,not all-black caricatures."
+  },
+  "pronunciations": {
+    "status": "director_guidance_listen_to_generated_voice",
+    "entries": [
+      {
+        "term": "Mary Easty",
+        "say": "MAIR-ee EE-stee",
+        "note": "Archive also spells Esty; narration consistent."
+      },
+      {
+        "term": "Sarah Cloyce",
+        "say": "SAIR-uh CLOYSS",
+        "note": "Rhymes with voice."
+      },
+      {
+        "term": "Samuel Wardwell",
+        "say": "SAM-yoo-ul WARD-well",
+        "note": "Natural cadence."
+      },
+      {
+        "term": "Phips",
+        "say": "FIPS",
+        "note": "Do not add second syllable."
+      }
+    ],
+    "rule": "Listen to names in first voice batch; retake before edit timing."
+  },
+  "sound_plan": {
+    "status": "director_specified_not_generated_or_heard",
+    "music": "Existing theme extremely restrained; let petition words carry tension. No horror or magical cues.",
+    "mix": "Near-14LUFS,true peak<=-1dBTP,effects below speech.",
+    "new_assets": [],
+    "acquisition": "Prefer silence and existing quiet room tone after inspection; no paid new audio assumed.",
+    "cues": [],
+    "intentional_silence": [
+      "No screams to dramatize recorded fits.",
+      "No supernatural whisper or demon sound.",
+      "No execution Foley,heartbeat jump-scare or gavel.",
+      "No comic sting on confession,disability or petition."
+    ]
+  },
+  "extra_specs": [
+    "evidence_staging_spec.json"
+  ]
+}

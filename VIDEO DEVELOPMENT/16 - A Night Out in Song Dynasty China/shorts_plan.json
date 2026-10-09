@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "song-china-night-out",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "A restaurant order in China, 900 years ago",
+      "from_scene": "S025",
+      "to_scene": "S031",
+      "hook": "Hot, cold, or prepared another way? The server had to remember.",
+      "description": "Meng Yuanlao describes individual restaurant orders in early-twelfth-century Kaifeng. The diners shown are an illustrative reconstruction.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "The night market did not mean everyone was partying",
+      "from_scene": "S061",
+      "to_scene": "S067",
+      "hook": "For somebody else, your late snack was still work.",
+      "description": "A look at the workers behind Kaifeng's late markets, grounded in Dongjing meng Hua lu.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "What could you watch in Song China?",
+      "from_scene": "S051",
+      "to_scene": "S057",
+      "hook": "Storytelling, puppets and shadow plays were part of the city's entertainment.",
+      "description": "The memoir lists these performance forms; this is an imagined visit, not a recovered programme.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

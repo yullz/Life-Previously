@@ -1,0 +1,416 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "Visitor, grocery list, individual shopper and extra-purchase temptation are original illustrative framing, not a documented customer's diary.",
+    "sources": [],
+    "locator": "Narrative construction",
+    "limit": "No invented transaction price, queue length, staffing count or personal testimony.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S004",
+      "S005",
+      "S009",
+      "S024",
+      "S025",
+      "S029",
+      "S030",
+      "S031",
+      "S034",
+      "S035",
+      "S036",
+      "S064",
+      "S070",
+      "S076",
+      "S083",
+      "S084",
+      "S085",
+      "S089",
+      "S090",
+      "S092",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "Saunders established Piggly Wiggly in Memphis in September1916; his self-serving-store patent was filed1916and granted1917.",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03",
+      "SRC04"
+    ],
+    "locator": "Patent cover; launch ads; institutional histories",
+    "limit": "No precise opening-day assertion, worldwide invention priority or sudden universal switch.",
+    "scene_ids": [
+      "S003",
+      "S004",
+      "S066",
+      "S077",
+      "S080"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "E",
+    "claim": "Conventional clerk service involved customers placing orders and staff collecting goods; Saunders proposed customers selecting goods themselves.",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Patent opening purpose; second advertisement; company history",
+    "limit": "A common contrast, not every store/one available product or universally lazy clerks.",
+    "scene_ids": [
+      "S004",
+      "S005",
+      "S006",
+      "S008",
+      "S027",
+      "S061",
+      "S082",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Patent has front lobby, middle sales room, rear stockroom and alternating aisle connections producing one continuous circuit.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Descriptionp1; Fig2",
+    "limit": "Design reconstruction, not a measured plan of every actual shop. No hidden shortcut in illustration.",
+    "scene_ids": [
+      "S008",
+      "S010",
+      "S015",
+      "S016",
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S024",
+      "S025",
+      "S033",
+      "S040",
+      "S056",
+      "S057",
+      "S079",
+      "S081",
+      "S090",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "A basket station and one-direction entrance gate lead into the circuit; baskets carry selected goods and are returned before departure.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Descriptionp2, cabinet27/gates29–30/basket text",
+    "limit": "Not trolley or self-checkout; use a hand basket, never depict its permanent removal as standard.",
+    "scene_ids": [
+      "S001",
+      "S007",
+      "S012",
+      "S013",
+      "S014",
+      "S045",
+      "S048",
+      "S053",
+      "S054",
+      "S055",
+      "S056",
+      "S062",
+      "S081",
+      "S085",
+      "S086"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "The patent explicitly intends shoppers to review the assortment and become acquainted with different lines of goods while following the route.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Opening purpose and aisle-description paragraphs",
+    "limit": "Intended exposure, not proof every shopper bought extras or exact uplift.",
+    "scene_ids": [
+      "S001",
+      "S010",
+      "S011",
+      "S019",
+      "S026",
+      "S027",
+      "S028",
+      "S030",
+      "S032",
+      "S033",
+      "S035",
+      "S043",
+      "S057",
+      "S074",
+      "S075",
+      "S084",
+      "S088",
+      "S090",
+      "S093",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "Goods are packaged for convenient handling; launch ad gives a5lbsugar cloth bag and says articles ready-packed for sale.",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Descriptionp1 packages; second ad middle paragraphs",
+    "limit": "Illustrative advertised example, no sale price, exact brands or barcode. Five-pound bag not modern plastic.",
+    "scene_ids": [
+      "S007",
+      "S021",
+      "S022",
+      "S023",
+      "S024",
+      "S044",
+      "S068",
+      "S081"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "The patent includes a glazed refrigerated cabinet near front middle shelving, paired narrow self-closing doors and visibility from lobby/street through a screened opening.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Descriptionpp1–2, Fig3–4",
+    "limit": "A proposed cabinet, not present-day wall refrigerators; no claim about refrigerant, electric compressor or exact temperature.",
+    "scene_ids": [
+      "S041",
+      "S042",
+      "S043"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Rear stockroom access, galleries above display cabinets, guardrails and a possible floor-walker are specified to guide customers and monitor stock/sales.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Descriptionp2 galleries23/passageways24/rails25",
+    "limit": "Proposed design feature, not proof of a named employee spying on every shopper in every shop.",
+    "scene_ids": [
+      "S016",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S040",
+      "S046"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "The checking station includes basket rests; staff remove goods, check/bill/wrap them, take payment and record the sale before exit.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Descriptionp2, structures34–40, machines100–101",
+    "limit": "No barcode, conveyor or unmanned checkout; adding machine and cash register distinct in drawing.",
+    "scene_ids": [
+      "S046",
+      "S047",
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S053",
+      "S055",
+      "S056",
+      "S060",
+      "S068",
+      "S081",
+      "S085",
+      "S086",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "E",
+    "claim": "The patent seeks lower overhead and fewer order-fetching clerks; Saunders claims improved margins/capacity but those are his assertions.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Opening objects; descriptionp2last paragraph",
+    "limit": "No independently certified savings percent, no asserted mass firing, no universal net effect on all labour.",
+    "scene_ids": [
+      "S057",
+      "S058",
+      "S059",
+      "S088",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "The1916launch advertisement promises no free or paid delivery and jokes that each customer will be her own clerk.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Second ad, own-clerk and no-delivery paragraphs",
+    "limit": "Attribute to launch offer, not all self-service stores for all time. Do not invent credit policy.",
+    "scene_ids": [
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S069"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "E",
+    "claim": "The other launch ad warns against sightseers/timekillers and tells visitors to mean business.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "First ad lower half",
+    "limit": "Promotional voice, not authenticated store ban enforced against our Visitor. No invented spoken Saunders quote.",
+    "scene_ids": [
+      "S072",
+      "S073",
+      "S074",
+      "S075",
+      "S076"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "type": "I",
+    "claim": "Self-selection redistributes fetching and carrying while staff still stock/check/wrap/take payment; convenience and work can shift together.",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Synthesis of described operations",
+    "limit": "Not an allegation that customers became employees or no shop workers remained.",
+    "scene_ids": [
+      "S002",
+      "S006",
+      "S020",
+      "S032",
+      "S044",
+      "S045",
+      "S046",
+      "S052",
+      "S053",
+      "S060",
+      "S061",
+      "S062",
+      "S064",
+      "S069",
+      "S070",
+      "S071",
+      "S074",
+      "S075",
+      "S082",
+      "S086",
+      "S087",
+      "S088",
+      "S089",
+      "S091",
+      "S092",
+      "S093",
+      "S094",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C14",
+    "type": "E",
+    "claim": "The corporate and museum histories describe franchising the Piggly Wiggly system to other stores.",
+    "sources": [
+      "SRC03",
+      "SRC04"
+    ],
+    "locator": "Corporate history franchise paragraph; museum franchise explanation",
+    "limit": "No exact count/yeargrowth, no all modern supermarkets descend solely from this one inventor.",
+    "scene_ids": [
+      "S077",
+      "S078",
+      "S079"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C15",
+    "type": "I",
+    "claim": "A guided route exposes shoppers to more goods than a direct pick-up; an extra item in the Visitor's fictional basket illustrates a possibility, not measured behaviour.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Circuit and exposure purpose",
+    "limit": "No psychological manipulation metric or guarantee; distinguish planned list from imagined extra.",
+    "scene_ids": [
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S034",
+      "S035",
+      "S083",
+      "S084",
+      "S089",
+      "S090",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

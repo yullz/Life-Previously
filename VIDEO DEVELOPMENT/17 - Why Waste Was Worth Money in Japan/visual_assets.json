@@ -1,0 +1,508 @@
+{
+  "episode": "edo-night-soil",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S063",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S030",
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S030",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S005",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S004",
+      "text": "NIGHT SOIL → AGRICULTURAL FERTILIZER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S011",
+      "text": "1867: A COMPLAINT ABOUT DILUTED LOADS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S016",
+      "text": "PRODUCER ≠ AUTOMATIC SELLER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S018",
+      "text": "A CONTINUING SUPPLY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S021",
+      "text": "PAYMENT IN · MATERIAL OUT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S025",
+      "text": "NUTRIENTS HAVE AGRICULTURAL VALUE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S027",
+      "text": "ONE SOURCE AMONG SEVERAL",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S029",
+      "text": "FOOD TOWARD TOWN · FERTILIZER TOWARD FIELDS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S032",
+      "text": "MORE VOLUME ≠ MORE USEFUL MATERIAL",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S036",
+      "text": "THE ROUTE CHANGES THE BUSINESS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S040",
+      "text": "TRANSPORT USES TIME AND LABOUR",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S042",
+      "text": "DIRECT COLLECTION OR INTERMEDIARIES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S048",
+      "text": "RIVERS AND ROADS SHAPE THE TRADE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S050",
+      "text": "SEPARATE JOURNEY LEGS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S053",
+      "text": "SEASON · QUALITY · TRANSPORT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S054",
+      "text": "EARLIER: VILLAGES' AGREEMENT · 1845",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S055",
+      "text": "BACK TO 1867: DILUTION COMPLAINT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S057",
+      "text": "FULL DOES NOT MEAN EQUIVALENT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S060",
+      "text": "A TRADE WORTH REGULATING",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S062",
+      "text": "THE DISPUTE ALSO CONCERNED LOAD ACCOUNTING",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S064",
+      "text": "RULES AGAINST DILUTION AND DISHONEST SALES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S066",
+      "text": "REPORTED PROBLEM · PRESCRIBED RESPONSE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S068",
+      "text": "QUALITY · QUANTITY · PRICE · RIGHTS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S073",
+      "text": "ECONOMIC VALUE ≠ SANITARY TREATMENT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S076",
+      "text": "A NETWORK, NOT A PERFECT CLOSED LOOP",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S078",
+      "text": "THE WORK BEHIND THE EXCHANGE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S083",
+      "text": "USE · RIGHTS · TRANSPORT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S087",
+      "text": "PRODUCE IN · FERTILIZER OUT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S091",
+      "text": "REMOVE · USE · SELL",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S092",
+      "text": "A DOCUMENTED TRADE DISPUTE · 1867",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

@@ -1,0 +1,31 @@
+{
+  "status": "director_specified_not_voiced",
+  "entries": [
+    {
+      "term": "Queen Anne's Revenge",
+      "say": "Queen Ann’s Revenge",
+      "note": "Clear possessive, natural pace."
+    },
+    {
+      "term": "La Concorde",
+      "say": "lah kon-KORD",
+      "note": "French name; consistent across chapters."
+    },
+    {
+      "term": "Georges Bardeau",
+      "say": "zhorrzh bar-DOH",
+      "note": "Check the French name in voice pilot; do not Anglicize as George."
+    },
+    {
+      "term": "Bartholomew Roberts",
+      "say": "bar-THOL-uh-myoo ROB-urts",
+      "note": "Do not swallow first name."
+    },
+    {
+      "term": "Edward Cooke",
+      "say": "ED-wurd COOK",
+      "note": "Not James Cook."
+    }
+  ],
+  "rule": "Listen to every named occurrence and all negatives; no text-only pass."
+}

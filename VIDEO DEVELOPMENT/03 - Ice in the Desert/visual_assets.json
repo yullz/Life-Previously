@@ -1,0 +1,494 @@
+{
+  "episode": "ice-in-the-desert",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S004",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S016",
+      "parent": "S015",
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": "S015",
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S063",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S015",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S073",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S076",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S002",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S005",
+      "text": "MAKE • STORE • USE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S010",
+      "text": "FREEZE IN WINTER • KEEP FOR SUMMER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S013",
+      "text": "COOL WINTERS • HOT SUMMERS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S018",
+      "text": "POND NORTH • SHADE WALL SOUTH",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S020",
+      "text": "PLACEMENT MATTERS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S022",
+      "text": "OUTSIDE: MAKE ICE → INSIDE: STORE IT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S027",
+      "text": "HEAT LEAVES TOWARD THE SKY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S028",
+      "text": "RADIATION + EVAPORATION",
+      "label": "Modern physical explanation • not1900 measurements",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S032",
+      "text": "THIN LAYERS • REPEATED FREEZING",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S038",
+      "text": "MODERN MODELS ≠ HISTORICAL TALLIES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S049",
+      "text": "SHELTER • INSULATION • SLOWER HEAT GAIN",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S051",
+      "text": "MELTWATER DRAINS AWAY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S054",
+      "text": "STORE ICE → USE IT ELSEWHERE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S057",
+      "text": "WINTER WORK → SUMMER SUPPLY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S071",
+      "text": "DIFFERENT OWNERSHIP ARRANGEMENTS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S088",
+      "text": "LOSE HEAT NOW • LIMIT HEAT LATER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

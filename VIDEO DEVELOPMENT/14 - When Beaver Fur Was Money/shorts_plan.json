@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "beaver-fur-money",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "When twenty fishhooks cost one beaver unit",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "A price that sounds strange until you check the units.",
+      "description": "From the1733trade schedule printed by Arthur Dobbs in1744. A made beaver is a unit of value; this is not a universal one-skin price.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "The price of a kettle depended on this",
+      "from_scene": "S037",
+      "to_scene": "S044",
+      "hook": "The important word is pound.",
+      "description": "The1733list quotes brass kettles by weight. Our three-pound example is arithmetic, not a surviving receipt.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Your six-beaver shopping decision",
+      "from_scene": "S085",
+      "to_scene": "S092",
+      "hook": "One blanket, or this whole mixed basket?",
+      "description": "An illustrative comparison using the1733schedule: one blanket or breeches,20hooks,8knives and2lbof sugar. Listed rates do not guarantee a particular historical sale.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

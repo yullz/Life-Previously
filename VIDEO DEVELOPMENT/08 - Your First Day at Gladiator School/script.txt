@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: Your First Day at Gladiator School: What Happens?
+
+## Your first opponent
+::: S001 | Training post dominates left; trainee watches from centre, instructor behind; clear right foreground for Visitor. [pose: closeup-worried 0.8,1.02 0.82] [zoom-in]
+Your first opponent at gladiator school has no helmet, no sword, and absolutely no intention of moving out of your way.
+
+::: S002 | Wood grain and worn practice marks on post, blunt wooden weapon held low by trainee. [same-as: S001] [pan-left]
+It is a wooden post. Before you face somebody trying to hurt you, there is a great deal to learn here.
+
+::: S003 | View toward narrow gateway from covered approach, guard-like attendant present without theatrical weapons. [pose: look-around 0.8,0.94 0.6] [zoom-out]
+That sounds reassuring, until you turn around and look at the gate through which you have just entered the compound.
+
+::: S004 | Simple Danube locator and two-site symbols, no modern map labels beyond checked text. [note: RECONSTRUCTED VISIT] [still]
+We are visiting Carnuntum, on Rome's Danube frontier, around the year two hundred. Our first day is imagined.
+
+::: S005 | Compact distinction between site plan, lamp and written source; three icons, no research wall. [still]
+The reconstructed buildings follow remains interpreted as a gladiator school. Objects and writers elsewhere provide additional training evidence.
+
+::: S006 | Attendant and unnamed new trainee pause inside gate; no clock or roster. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S003] [pan-left]
+No surviving timetable tells us exactly what happened on a new arrival's first morning.
+
+::: S007 | View past trainee toward courtyard, corridor and plain doorway; three readable spatial destinations. [same-as: S003] [zoom-out]
+But we can follow the questions that matter: who controls you, what you must learn, and where you will live.
+
+::: S008 | Empty modest bath room, shallow basin and window; no spa luxuries. [pose: closeup-listening 0.8,1.02 0.82] [pan-right]
+And the school contains something you might not expect. Beyond the practice yard are rooms interpreted as bathing facilities.
+
+::: S009 | Basin lip in foreground, controlled corridor doorway beyond, no humans in water. [same-as: S008] [zoom-in]
+Someone has invested in making fighters useful. That does not mean they decide what happens to them.
+
+::: S010 | Instructor near stationary post, trainee waits with weapon lowered, no attack. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S001] [pan-left]
+By the end, the wooden post may seem like the least frightening thing here.
+
+::: S011 | Gate passage leads toward lighted court; no cheering audience visible. [same-as: S003] [zoom-out]
+For now, leave the cheering crowd outside the story. We are going through the entrance and into the working school.
+
+::: S012 | Trainee's empty hands and plain belt, no chains, signed form or modern baggage. [same-as: S003] [pan-right]
+The first lesson begins before anybody puts a weapon into your hand. Being here does not tell us how you arrived.
+
+## Who controls your day?
+::: S013 | Three restrained human silhouettes with differentiated labels, no claim of shares. [still]
+Some gladiators were enslaved. Some were prisoners of war. Others entered voluntarily, though their circumstances and legal positions differed.
+
+::: S014 | Two unrelated adult trainees waiting in passage, distinct faces, neither labelled by appearance. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S003] [pan-left]
+A willing recruit and a captive might train together without having made anything like the same choice.
+
+::: S015 | New trainee's sober face in profile; Visitor separate at right. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S003] [zoom-out]
+Our Visitor can ask whether this looks like a good career. Many people inside never had that question put to them.
+
+::: S016 | Source card with brief original paraphrase and Letter37 attribution. [note: EARLIER ROMAN EVIDENCE] [still]
+Even agreeing to fight did not mean retaining an ordinary customer's right to leave when the arrangement became unpleasant.
+
+::: S017 | Three minimal nonviolent symbols: cord, flame outline, sheathed blade; no injured body. [still]
+The Roman writer Seneca describes men hiring out their strength for the arena, bound to endure restraint, burning, and the sword.
+
+::: S018 | Source label stays; document icon remains an editorial card rather than parchment facsimile. [still]
+He uses that obligation in a moral argument. It is not a signed contract from this school.
+
+::: S019 | Attendant closes one gate leaf in ordinary manner; trainee already inside, no force shown. [same-as: S003] [zoom-out]
+But it makes the stakes clear. A volunteer could agree to a future that would be very difficult to take back.
+
+::: S020 | Older plain-clothed manager beside instructor; trainee at post, one worker carrying a covered basket. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [pan-right]
+The school manager was called a lanista. Around him were instructors and other workers who kept the institution functioning.
+
+::: S021 | Instructor checks practice shield edge while trainee waits; no written daily schedule. [same-as: S001] [zoom-in]
+Your training was somebody's responsibility. So were the spaces and equipment that shaped each day.
+
+::: S022 | Trainee stands stiffly before modest equipment bench, uncertain expression; no comedy humiliation. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S001] [pan-left]
+Picture arriving full of confidence and discovering that confidence is the only piece of equipment you brought with you today.
+
+::: S023 | Instructor indicates stance with open hand while trainee's wooden weapon points safely down. [same-as: S001] [zoom-out]
+You still need to learn how to stand, handle your weapons, and listen when somebody corrects you.
+
+::: S024 | Plain bench with wooden practice sword and small shield; distinct equipment examples reserved for later graphics. [pan-right]
+That learning depends on the kind of fighter you are becoming. There was no single bag of equipment labelled gladiator.
+
+## The equipment changes the problem
+::: S025 | Single secutor kit on plain stand, rounded helmet two small eye holes, large shield, short sword, arm protection. [note: COMPARATIVE EQUIPMENT] [zoom-in]
+Imagine being shown two different sets of fighting equipment. One includes a large shield and a helmet enclosing the head.
+
+::: S026 | Large shield and plain secutor helmet, no plumes or legionary crest. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S025] [pan-left]
+This is a secutor's equipment. The shield gives substantial cover, while the helmet places a barrier between your face and the world.
+
+::: S027 | Separate retiarius display: folded weighted net, three-pronged trident, dagger, left-arm sleeve and shoulder plate; no helmet. [same-as: S025] [zoom-out]
+A retiarius carries a net and trident, with arm and shoulder protection, but no helmet.
+
+::: S028 | Two clear kit silhouettes, large shield versus net, with no numerical advantage score. [still]
+Different equipment means different problems. Swap the kit around, and the same movements may no longer work.
+
+::: S029 | Instructor demonstrates shield angle beside attentive trainee; wooden blade stays away from bodies. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [zoom-in]
+Instructors specialized too. Learning a particular fighting style meant more than finding somebody strong enough to swing a sword at you.
+
+::: S030 | Single blunt wooden short sword and small practice shield on bench, no sharp metal blade. [same-as: S024] [pan-left]
+For our first lesson, keep things simpler: a practice weapon, a shield, and a stationary target.
+
+::: S031 | Trainee hand grips wooden handle, thumb and fingers anatomically coherent, weapon pointed down. [same-as: S024] [zoom-out]
+The glamorous helmet can wait. Looking impressive is a poor substitute for knowing what your hands are doing.
+
+::: S032 | Return to same post and instructor positions with trainee nearer, coherent court geometry. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S001] [pan-right]
+We return to the opponent from the opening: the post waiting in the yard.
+
+## The opponent who never gets tired
+::: S033 | Post alone dominates left, trainee in soft background, no face painted on post. [same-as: S001] [zoom-in]
+A wooden post sounds like a very undemanding opponent. It will not feint, chase you, or take advantage of a mistake.
+
+::: S034 | Trainee in balanced stance with wooden sword beside post, no dangerous swing crossing instructor. [same-as: S001] [pan-left]
+Practicing against a post let a fighter work on his weapon skills before facing another person.
+
+::: S035 | Use correct public-domain lamp74.51.2030 image in local layout with arrow outside object. [still]
+This is more than a convenient reconstruction. A surviving Roman lamp shows a gladiator advancing towards just such a training target.
+
+::: S036 | Same object cropped to relief with complete provenance/date label. [still]
+The lamp is earlier and comes from Cyprus. It documents the practice, not this particular school.
+
+::: S037 | Simplified courtyard circle and central possible post position; dashed interpretation symbol. [still]
+At Carnuntum, researchers also identified a feature that might have held a post in the circular training area they reconstructed.
+
+::: S038 | Trainee pauses with shield low, instructor points to shield rather than shouting. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S001] [pan-left]
+Our trainee's first attempt looks energetic. The instructor, however, has noticed something you missed.
+
+::: S039 | Practice shield lowered beside torso, wooden sword held safely still; no contact or wound. [same-as: S001] [zoom-out]
+Your weapon moved, but so did your protection. In this imagined exercise, correcting one movement means paying attention to the other.
+
+::: S040 | Instructor guides shield height through gesture, trainee listens; Visitor at safe foreground edge. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [pan-right]
+Less thrilling than winning a duel, perhaps. But a better reason to begin with wood.
+
+::: S041 | Blunt rounded wooden edge shown clearly against straight grain; no sharp point. [same-as: S024] [zoom-in]
+Wooden practice weapons reduced the danger of unnecessary injuries. They did not remove the need for discipline or turn training into play.
+
+::: S042 | Four simple body-position icons, no prescriptive combat diagram or exact technique. [still]
+Think how much an unfamiliar movement demands: feet, hands, balance, and where your attention goes.
+
+::: S043 | Same court, trainee resets stance without a new weapon or outfit, instructor watches. [pose: scratch-head 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+Our trainee begins again. The post is still there. The instructor is still there. The excuse that you were surprised is disappearing.
+
+::: S044 | Repeated scuffs in sand near post, no tick marks or number tally. [same-as: S001] [pan-right]
+We cannot count repetitions from a first-day register. Our exercise illustrates practice without inventing a precise schedule.
+
+::: S045 | Trainee lowers wooden sword while glancing toward distant gate, no public crowd. [same-as: S001] [zoom-in]
+Nor should we pretend one successful exercise meant you were ready for a public fight. Learning and performing are different demands.
+
+::: S046 | Instructor view of trainee's reset stance, post and small shield clearly separated. [same-as: S001] [pan-left]
+To the new arrival, the arena might feel like the whole point. To the instructor, the immediate task is making progress.
+
+::: S047 | Several quiet work zones in same courtyard with only three adults, no bustling fantasy camp. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+Much of this world exists before a crowd ever sees a fighter's face.
+
+::: S048 | Corridor entrance into small room, sleeping platform visible; late-afternoon light not yet dark. [pan-right]
+And when the practice stops, you do not necessarily leave the institution behind. The next doorway leads towards the living quarters.
+
+## A room inside the institution
+::: S049 | Full small room, modest sleeping platform and jug; Visitor outside doorway. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S048] [zoom-in]
+Researchers interpreted rows of small rooms in the compound as accommodation for gladiators. That interpretation helps us imagine where a trainee might sleep.
+
+::: S050 | Low platform with rolled brown blanket and small jug, no decorative possessions. [same-as: S048] [pan-left]
+The space in our reconstruction is plain: a place to lie down, a few belongings, and a doorway into the corridor.
+
+::: S051 | Blanket texture and bare plaster, no invented personal inscription. [same-as: S048] [zoom-out]
+The furnishings are illustrative. There is no complete inventory for one named fighter on this particular night.
+
+::: S052 | Minimal plan with courtyard and residential strip labelled as interpretations. [still]
+Even without a full inventory, the layout changes the story. Training and accommodation belonged to the same closely organized compound.
+
+::: S053 | View from low bed toward corridor and distant court light, no barred window. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S048] [zoom-in]
+A day here could occupy much more than the hours spent holding a weapon. The institution surrounded the fighter's ordinary life.
+
+::: S054 | Wooden practice shield rests by doorway, trainee sits on bed platform fully clothed. [same-as: S048] [pan-left]
+Imagine finally putting down the practice equipment and realizing that your next morning begins on the other side of the same doorway.
+
+::: S055 | Trainee looks toward window without exaggerated misery or joy. [same-as: S048] [zoom-out]
+Relief, anxiety and ambition are possible reactions, not thoughts we recovered from the floor.
+
+::: S056 | Two closed room doors in corridor, no identical cloned people or bed counts. [same-as: S048] [pan-right]
+Nor can we fill every little room with the same story. The remains are not an attendance list.
+
+::: S057 | Folded blanket beside resting hand, low evening light, no melodramatic chain. [same-as: S048] [zoom-in]
+Still, a place to sleep matters. It is one of the ordinary needs that makes this institution larger than its fighting ground.
+
+::: S058 | Empty rectangular hall, intact floor and high windows; no exposed flames under feet. [pose: look-around 0.8,0.94 0.6] [pan-left]
+And other parts of the compound suggest attention to physical comfort as well. One hall appears to have had underfloor heating.
+
+::: S059 | Two trainees stand speaking quietly in illustrative hall; no equipment proves single room function. [same-as: S058] [zoom-out]
+The hall may have served training or assembly. Its heating is clearer than its exact use.
+
+::: S060 | Window light on sound floor, bench at side with no modern radiator. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S058] [pan-right]
+For a visitor expecting nothing but bare walls and punishment, a heated indoor space is a surprising part of the picture.
+
+::: S061 | Return to same basin and ledge, restrained light; no newly lavish mosaic. [same-as: S008] [zoom-in]
+Then there are the bathing facilities. Rooms, basins, heating and drains together support the interpretation of a bath suite within the school.
+
+::: S062 | Basin in left foreground, plain corridor beyond, Visitor thoughtful. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S008] [pan-left]
+The next question is obvious: if fighters were treated as disposable, why provide facilities that helped maintain them in the first place?
+
+::: S063 | Two linked simple symbols, bath basin and controlled gateway, equal visual weight. [still]
+People can invest in somebody's body while denying that person control over its future.
+
+::: S064 | Water surface reflecting plain window, narrow doorway behind; no luxury fantasy. [same-as: S008] [pan-right]
+That is where our first day becomes harder to judge. A comfortable moment does not tell you who owns the next decision.
+
+## What the baths do—and do not—mean
+::: S065 | Unoccupied bath suite with modest ledge and shallow pool, no crowded nude scene. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S008] [zoom-in]
+The bath area is a useful correction to a simple picture of gladiator life as nothing except fighting and confinement.
+
+::: S066 | Same controlled gate from inner passage, attendant by threshold without threatening pose. [same-as: S003] [pan-left]
+It also does not turn the school into a modern sports club. The entrance, the training, and the fighter's status still matter.
+
+::: S067 | Manager watches practice from side, trainee focused; no bidding placards or coin pile. [same-as: S001] [zoom-out]
+A person could be fed, trained and accommodated because somebody expected his future performance to be valuable in the arena.
+
+::: S068 | Trainee's hand resting on blanket beside empty personal space, no chains needed. [same-as: S048] [pan-right]
+That investment may explain the care. It does not tell us everyone's feelings, or make coercion disappear.
+
+::: S069 | Towel-wrapped adult trainee sits on ledge, chest cropped tastefully, no Visitor in water. [same-as: S008] [zoom-in]
+Picture our new arrival hearing about the baths after a difficult lesson. Of course that might be welcome news at that moment.
+
+::: S070 | Wooden gate latch in ordinary closed position, no modern padlock or prison sign. [same-as: S003] [pan-left]
+Now imagine being told tomorrow's decisions will still be made by someone else. Both experiences can belong to the same day.
+
+::: S071 | Quiet court after practice, post casting one shadow, no dramatic fleeing figure. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+There is no need to invent a cruel speech or secret escape plan to make that contradiction visible.
+
+::: S072 | Two plain questions arranged cleanly, no false yes/no statistical verdict. [still]
+It is there in the gap between maintaining a fighter and allowing him to decide whether he wants to keep fighting.
+
+::: S073 | Plain covered bowl and water jug on low stool, contents hidden; no invented feast. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S048] [zoom-in]
+Nor can we serve a precisely reconstructed dinner. These rooms do not come with our arrival's menu.
+
+::: S074 | Covered bowl stays covered, no fake barley nutrition label. [same-as: S048] [pan-left]
+Gladiator diets from elsewhere cannot simply become this school's supper. The exact meal remains unresolved.
+
+::: S075 | Empty civilian arena from ground level, low provincial tiers, doorway behind Visitor. [pose: look-around 0.8,0.94 0.6] [zoom-out]
+What we can follow is the purpose towards which the training points. Beyond this compound stands the public amphitheatre.
+
+::: S076 | Arena sand in foreground, sparse distant spectator silhouettes added only here, no combat. [same-as: S075] [pan-right]
+And that is a different kind of space. The same skills will eventually be tested where other people have come to watch.
+
+## What happens when the crowd arrives?
+::: S077 | Entrance tunnel opens to sand, two distant adult fighters wait separately with lowered kit, no violence. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S075] [zoom-in]
+A trained fighter could be hired for a public show. The school prepared people for performances that might wound or kill them.
+
+::: S078 | Simple two-outcome branching without percentages or guaranteed branch. [still]
+But losing did not always mean dying. Roman evidence allows for a defeated gladiator to receive mercy and leave the arena alive.
+
+::: S079 | Original paraphrase of appeal for mercy, source attribution; no thumbs graphic. [still]
+Seneca mentions a fighter lowering his weapon and appealing to the people. That possibility is very different from a promise of safety.
+
+::: S080 | Plain empty patch of arena and lowered weapon at edge, no numeric odds. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S075] [pan-right]
+We cannot give our imagined arrival reliable survival odds. A reassuring number would conceal too many unknowns.
+
+::: S081 | Two fighters separated by space, one has weapon lowered; no executioner or clear verdict. [same-as: S075] [zoom-in]
+The important correction is narrower: the institution invested in trained fighters, and a public defeat did not have only one possible ending.
+
+::: S082 | View from doorway toward distant opposing fighter, blades lowered and no contact. [same-as: S075] [pan-left]
+That still leaves a dangerous future. Knowing mercy existed would not make standing in front of an armed opponent feel ordinary.
+
+::: S083 | Locally drawn source panel citing Colchester Vase comparison, no generated counterfeit inscription. [note: COMPARISON: COLCHESTER] [still]
+Even recognition from an audience was a complicated reward. Roman objects preserve the names and images of fighters whom people followed.
+
+::: S084 | Distant audience silhouettes above solitary fighter, no triumphal hero glow. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S075] [pan-right]
+Being recognizable did not by itself mean being free. Admiration from spectators and control over your own life are different things.
+
+::: S085 | Return to school approach, late daylight, no arena audience inside compound. [same-as: S003] [zoom-in]
+For today's newcomer, those possibilities are still ahead. Our first day does not end by pushing him straight into a public duel.
+
+::: S086 | Post and bench at end of day, instructor leaves frame, trainee near room entrance. [same-as: S001] [pan-left]
+It ends with the skills he has only begun to learn, and a much clearer sense of the institution around him.
+
+::: S087 | Three compact location icons flow toward arena symbol, no economic numbers. [still]
+The post, the small room and the baths now belong to the same story. Training, accommodation and care serve a dangerous purpose.
+
+::: S088 | Visitor looks from post toward controlled exit, warm late light. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [pan-right]
+Our Visitor began by wondering how difficult the fighting would be. The harder question is how much of this life you could choose.
+
+## The real first-day shock
+::: S089 | Same passage and gate, no new architecture, subdued evening light. [pose: look-around 0.8,0.94 0.6] [same-as: S003] [zoom-in]
+Your imagined first day introduces a system before it introduces a public opponent.
+
+::: S090 | Wooden practice kit put neatly on same bench, court behind. [same-as: S024] [pan-left]
+There are people responsible for your training, equipment you do not yet know how to use, and spaces that organize your day.
+
+::: S091 | Original post in quiet court, no new victim or dramatic damage. [same-as: S001] [zoom-out]
+You might begin with an uncooperative piece of wood. You might find accommodation and facilities more substantial than you expected.
+
+::: S092 | Trainee seated quietly on sleeping platform, small lamp now lit, nontragic expression. [same-as: S048] [pan-right]
+But a bath, a bed, or applause cannot tell you who controls the person inside that body.
+
+::: S093 | Quiet basin with dim window, same modest furnishings. [same-as: S008] [zoom-in]
+That is the part of the school worth carrying with us: being cared for and being in control are different experiences.
+
+::: S094 | Three sources with short titles only, no giant bibliography in narration view. [still]
+Our first day is imagined. Its training world comes from remains, objects, and the words people left.
+
+::: S095 | Post, hall doorway and school exit form clear final composition; Visitor at edge. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [zoom-out]
+Which part surprised you most: the practice post, the heated rooms, or how little a valuable fighter might control his own future?
+
+::: S096 | Empty arena doorway at dusk, clean space for channel end screen, no fight or cliffhanger death. [same-as: S075] [pan-right]
+This is Life, Previously. Next time you picture a gladiator entering an arena, remember the much quieter world behind that entrance.

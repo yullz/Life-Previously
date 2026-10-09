@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SRC01",
+    "title": "Liber Albus, translated by H. T. Riley (1861), pp. 334–336",
+    "url": "https://archive.org/details/liberalbuswhite00carpgoog",
+    "read": "2026-10-09: complete text of writ and peace/arms/innkeeper/arrest/assault/watch articles, using public-domain OCR download; cross-checked modern scholarly translation.",
+    "limit": "The writ is dated 12 June, regnal year37 of Edward III (1363), whereas later editorial dating is c.1364. Set fictional day c.1364 without claiming enactment then. Do not mix p.408's different two-shilling fist penalty with p.336's three shillings.",
+    "text_url": "https://archive.org/download/liberalbuswhite00carpgoog/liberalbuswhite00carpgoog_djvu.txt"
+  },
+  {
+    "id": "SRC02",
+    "title": "Stephen Alsford, Florilegium Urbanum — Ordinances for preserving law and order",
+    "url": "https://the-orb.arlima.net/encyclop/culture/towns/florilegium/government/gvjust09.html",
+    "read": "2026-10-09: full translation, discussion and notes; original cited as Liber Albus ff.223–224.",
+    "limit": "Independent translation check, not independent evidence of actual enforcement. Its c.1364 dating differs from the explicit regnal date in the writ. Do not adopt the commentary's generalized criminalizing descriptions of inn guests."
+  },
+  {
+    "id": "SRC03",
+    "title": "A. H. Thomas, Calendar of Plea and Memoranda Rolls, volume2, Roll A10 (1364–5)",
+    "url": "https://www.british-history.ac.uk/plea-memoranda-rolls/vol2/pp1-28",
+    "read": "2026-10-09: entry under6 March1365 for William Moot, John de Henham and Thomas Fraunceys, with surrounding entries to confirm context; direct HTML fetch successful.",
+    "limit": "Multiple charges together: affray at night, doors open after curfew and nightwalking. Imprisoned and released same day on mainprise to keep peace. No fine amount specified; no claim the release erased charges or all defendants had this outcome."
+  },
+  {
+    "id": "SRC04",
+    "title": "Source Book of London History — proclamation of1329",
+    "url": "https://www.gutenberg.org/cache/epub/51175/pg51175-images.html",
+    "read": "2026-10-09: proclamation pp.42–44 checked as a chronology challenge.",
+    "limit": "Excluded from the story: earlier curfew at St Martin's le Grand and tavern fine scale cannot silently replace Bow provisions in the selected ordinance.",
+    "public": false
+  }
+]

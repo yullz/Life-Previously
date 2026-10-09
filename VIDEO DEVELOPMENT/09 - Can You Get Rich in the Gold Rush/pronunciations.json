@@ -1,0 +1,26 @@
+{
+  "status": "director_guidance_listen_to_generated_voice",
+  "entries": [
+    {
+      "term": "Kimball Webster",
+      "say": "KIM-bul WEB-ster",
+      "note": "Simple natural delivery."
+    },
+    {
+      "term": "Bidwell",
+      "say": "BID-well",
+      "note": "Bidwell's Bar consistently."
+    },
+    {
+      "term": "Mokelumne",
+      "say": "muh-KEL-um-nee",
+      "note": "Check in voice pilot."
+    },
+    {
+      "term": "Bayard Taylor",
+      "say": "BARE-erd TAY-ler",
+      "note": "Use one clear Anglicized pronunciation."
+    }
+  ],
+  "rule": "Retake incorrect place names before timing edit."
+}

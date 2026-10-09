@@ -1,0 +1,352 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "Visitor's questions are editorial framing; actual cases remain separate,with no invented Visitor trial.",
+    "sources": [],
+    "locator": "Original structure.",
+    "limit": "No imaginary statement treated as archival quote.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S005",
+      "S006",
+      "S007",
+      "S011",
+      "S016",
+      "S024",
+      "S029",
+      "S032",
+      "S033",
+      "S046",
+      "S047",
+      "S056",
+      "S067",
+      "S087",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "Mary Warren denied guilt at her April19 Village examination; record describes fits and apparition claims,then commitment.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "SWP135.1–2 full text.",
+    "limit": "Reported claims and behavior,not magic or diagnosis.",
+    "scene_ids": [
+      "S006",
+      "S010",
+      "S011",
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S017",
+      "S018",
+      "S021",
+      "S022",
+      "S023"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "I",
+    "claim": "When distress was interpreted as invisible attack,denial alone could fail to dislodge an accusation.",
+    "sources": [
+      "SRC01",
+      "SRC05"
+    ],
+    "locator": "Warren examination;PEM spectral evidence.",
+    "limit": "Interpretation,not universal formal rule.",
+    "scene_ids": [
+      "S002",
+      "S016",
+      "S018",
+      "S019",
+      "S020",
+      "S022",
+      "S030"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Nurse's neighbours said they had known her for years and lacked reason to suspect the charge.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Character petition and Nathaniel Putnam testimony.",
+    "limit": "No exact signature count or uncertain date.",
+    "scene_ids": [
+      "S006",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S031",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "Nurse's jury first returned not guilty; after court objection it reconsidered and found guilty. Fisk explained importance he gave ambiguous words.",
+    "sources": [
+      "SRC02",
+      "SRC05"
+    ],
+    "locator": "SWP94.32;PEM Towne sisters.",
+    "limit": "Do not imply judges alone entered verdict or a separate retrial.",
+    "scene_ids": [
+      "S010",
+      "S011",
+      "S034",
+      "S035",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S040",
+      "S044"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "Nurse said her reference to the Hobbs women meant fellow prisoners;her appeal described hearing difficulty and distress.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "SWP94.33 appeal preserved by Calef1700.",
+    "limit": "Her stated explanation,not whole-trial transcript.",
+    "scene_ids": [
+      "S007",
+      "S032",
+      "S033",
+      "S034",
+      "S035",
+      "S036",
+      "S039",
+      "S041",
+      "S042",
+      "S043",
+      "S044",
+      "S088",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "Rebecca Nurse was hanged July19,1692 despite defense petitions and appeal.",
+    "sources": [
+      "SRC02",
+      "SRC05"
+    ],
+    "locator": "Case heading;PEM timeline.",
+    "limit": "No burning or graphic execution.",
+    "scene_ids": [
+      "S031",
+      "S044",
+      "S045"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "Wardwell confessed September1 then said September13 he had falsely accused himself and expected death whether he maintained it or not.",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "SWP133.1 and appended grand-jury note.",
+    "limit": "His expectation,not proof of a counterfactual outcome.",
+    "scene_ids": [
+      "S007",
+      "S047",
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S054",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Wardwell was executed September22; confession was not automatic release.",
+    "sources": [
+      "SRC03",
+      "SRC05"
+    ],
+    "locator": "Case heading;PEM September22.",
+    "limit": "No sole-cause claim about recantation.",
+    "scene_ids": [
+      "S048",
+      "S053",
+      "S054"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "Esty and Cloyce requested assistance,witness testimony and other legal evidence before condemnation on accused/afflicted testimony.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "SWP45.21.",
+    "limit": "Their requests,not modern entitlements imposed on1692.",
+    "scene_ids": [
+      "S059",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "E",
+    "claim": "Esty's final petition sought to prevent innocent deaths,strict separate examination of accusers and scrutiny of potentially false confessions.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "SWP45.22 full petition.",
+    "limit": "No claim methods were adopted or she knew everyone's motives.",
+    "scene_ids": [
+      "S008",
+      "S009",
+      "S057",
+      "S058",
+      "S068",
+      "S069",
+      "S070",
+      "S071",
+      "S072",
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S088",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "Mary Esty was hanged September22;Sarah Cloyce was eventually cleared after imprisonment.",
+    "sources": [
+      "SRC04",
+      "SRC05",
+      "SRC06"
+    ],
+    "locator": "Case heading;PEM Towne sisters.",
+    "limit": "Different outcomes,unknown survival explanation.",
+    "scene_ids": [
+      "S068",
+      "S079",
+      "S080",
+      "S081",
+      "S082"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "I",
+    "claim": "People contested evidence at the time; victims did not need cleverer answers to deserve fair treatment.",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC04"
+    ],
+    "locator": "Synthesis of defenses and petitions.",
+    "limit": "Editorial conclusion,not quoted legal principle.",
+    "scene_ids": [
+      "S003",
+      "S005",
+      "S009",
+      "S026",
+      "S029",
+      "S030",
+      "S043",
+      "S046",
+      "S050",
+      "S055",
+      "S056",
+      "S058",
+      "S060",
+      "S065",
+      "S070",
+      "S072",
+      "S076",
+      "S078",
+      "S082",
+      "S083",
+      "S084",
+      "S086",
+      "S087",
+      "S089",
+      "S090",
+      "S091",
+      "S093",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "type": "E",
+    "claim": "Governor Phips dissolved the court of oyer and terminer October29,1692; proceedings and releases continued into1693.",
+    "sources": [
+      "SRC05",
+      "SRC06"
+    ],
+    "locator": "PEM timeline; CloyceJanuary1693 rejected indictments.",
+    "limit": "No immediate universal release,or claim this was caused solely by Esty's petition.",
+    "scene_ids": [
+      "S085",
+      "S086"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

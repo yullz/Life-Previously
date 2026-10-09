@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "status": "director_design_media_pending",
+  "scope": "Illustrative Carnuntum school c.AD200; separate comparative objects and kit",
+  "source_controls": {
+    "training_lamp": {
+      "accession": "74.51.2030",
+      "url": "https://www.metmuseum.org/art/collection/search/241583",
+      "date": "c.AD50–100",
+      "origin": "Roman,Cypriot",
+      "not": "74.51.1845 is a different lamp and must not illustrate post practice."
+    },
+    "site_plan": "Antiquity2014 figure12,pp183–186 controls compound orientation. Elevations are illustrative. Retain wording interpreted school; avoid exact room occupancy.",
+    "date": "Around AD200 is narrative setting, not a construction-date or individual-day claim."
+  },
+  "character_continuity": {
+    "trainee": "One adult unnamed composite: short dark hair, ochre waist wrap, cloth belt, bare lower legs. For ordinary room scenes use same simple wrap or plain tunic; no celebrity gladiator identification.",
+    "instructor": "Older adult in muted short tunic; no automatically invented military rank.",
+    "visitor": "Approved normal outfit; observes, never a paid contestant, no added sword/helmet."
+  },
+  "kit_rules": {
+    "practice": "Plain short blunt wooden weapon plus modest practice shield. No hard precise claim of weight. Static staged lesson, no choreographed injurious contact.",
+    "secutor": "Plain rounded enclosing helmet with two eye holes, large shield, short sword, weapon-arm protection. No legionary crest.",
+    "retiarius": "No helmet; net,trident,dagger,left arm/shoulder protection. Never secutor shield or helmet.",
+    "object_image": "Use Met public-domain photograph only after visually confirming the exact object; it is a comparison card, not a background painting."
+  },
+  "graphic_rules": "Plans are local diagrams; solid lines for structural layout and explicit interpreted-use labels. Do not generate pseudo-geophysical heatmaps.",
+  "pilot_review": [
+    "Court must look like a small school compound, not the Colosseum.",
+    "Post and trainee remain physically separate; hands, grip and shield have coherent geometry.",
+    "Bath is modest, no modern taps or fantasy palace.",
+    "Visitor never collides with local fighters or appears to wear a kit from a different type."
+  ],
+  "unperformed": "Generated images, private pose production, narration and final playback do not exist yet; no approval inferred."
+}

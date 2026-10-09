@@ -1,0 +1,52 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing theme understated, with space for physical work and the seasonal reveal.",
+  "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
+  "new_assets": [
+    {
+      "id": "thin_water",
+      "description": "Quiet shallow water flowing through an earthen channel; no electric pump or waterfall."
+    },
+    {
+      "id": "ice_crack",
+      "description": "One short subdued slab-of-ice crack, no glass smash or cinematic explosion."
+    },
+    {
+      "id": "straw_move",
+      "description": "Soft dry straw being arranged by hand."
+    },
+    {
+      "id": "tray_set",
+      "description": "Quiet wood tray placed on a rough wooden surface."
+    }
+  ],
+  "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance.",
+  "cues": [
+    {
+      "scene_id": "S015",
+      "asset": "thin_water",
+      "timing": "single quiet inlet cue during visible flowing water"
+    },
+    {
+      "scene_id": "S043",
+      "asset": "ice_crack",
+      "timing": "sync one visible breaking action only"
+    },
+    {
+      "scene_id": "S048",
+      "asset": "straw_move",
+      "timing": "sync worker arranging straw"
+    },
+    {
+      "scene_id": "S002",
+      "asset": "tray_set",
+      "timing": "sync tray being set down"
+    }
+  ],
+  "intentional_silence": [
+    "No cooling motor.",
+    "No magical icy whoosh.",
+    "No loud wind throughout every desert scene.",
+    "No false documentary crowd voices."
+  ]
+}

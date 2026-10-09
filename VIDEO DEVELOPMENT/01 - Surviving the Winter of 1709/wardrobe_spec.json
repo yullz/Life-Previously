@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+  "reason": "The explicitly fictional modern Visitor remains the viewer surrogate. Background locals wear period clothing; no national costume is needed for this episode.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Check the existing poses against each scene, including scale and footing."
+}

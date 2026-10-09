@@ -1,0 +1,26 @@
+{
+  "status": "director_specified_not_voiced",
+  "entries": [
+    {
+      "term": "Meybod",
+      "say": "MAY-bod",
+      "note": "Two syllables; avoid May-board."
+    },
+    {
+      "term": "Yazd",
+      "say": "yazd",
+      "note": "One syllable, final zd audible."
+    },
+    {
+      "term": "yakhchal",
+      "say": "yakh-CHAAL",
+      "note": "Persian kh as a soft throaty sound; clear familiar-English delivery."
+    },
+    {
+      "term": "qanat",
+      "say": "kah-NAAT",
+      "note": "Say once with simple explanation."
+    }
+  ],
+  "rule": "Listen to pilot and every recurrence; retain correct spelling in captions."
+}

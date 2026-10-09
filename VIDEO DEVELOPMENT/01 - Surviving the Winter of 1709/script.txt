@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: How Did People Survive the Winter of 1709?
+
+## The fire is only the beginning
+::: S001 | One round loaf on the left table, small fire in the hearth, two short logs beside it. No locals. [pose: look-around 0.8,0.94 0.6] [zoom-in]
+You have a little bread, a little firewood, and a long night ahead. Which supply worries you more?
+
+::: S002 | Close view of two short logs beside a small hearth fire; no people. [pan-left]
+Put the wood on the fire and the room improves. Unfortunately, the fire cannot help with your empty bowl.
+
+::: S003 | Three modestly dressed adults walk separately along the frozen street; cloudy morning, no falling snow. [zoom-out]
+Welcome to Paris in January, seventeen-oh-nine. An extraordinary winter is turning ordinary errands into questions about survival.
+
+::: S004 | Same room and small fire; plain bowl at left, unoccupied floor at right. [pose: eyebrow-raise 0.8,0.94 0.6] [note: Illustrative household • Paris1709] [same-as: S001] [still]
+We're following an imaginary household through a real crisis. Our cupboard is invented. The weather, shortages and relief are not.
+
+::: S005 | Three clear labelled objects: log, loaf and thawing branch. [still]
+Can you keep warm when deliveries struggle? What happens when bread becomes harder to afford? And does the thaw rescue you?
+
+::: S006 | Round loaf and empty earthen bowl on plain table; no season-specific background or people. [pan-left]
+Keep that last question. The hardship does not politely disappear when the snow starts melting.
+
+::: S007 | Warm hearth at left, clear ground beside it but not inside fire. No locals. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+For now, your plan is simple: stay inside, sit near the fire, and wait for the weather to change.
+
+::: S008 | Same hearth and two remaining logs, bowl visible on left table; unoccupied foreground right. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S001] [still]
+An excellent plan, provided someone keeps supplying everything you need while you sit there looking extremely sensible.
+
+::: S009 | View from the street toward the established closed household doorway at left; no people. [same-as: S003] [zoom-in]
+That is the catch. A room can shelter you from the wind without making you independent of the street outside.
+
+::: S010 | Frozen river, moored cargo boat and covered bundles at left; no activity on ice or people. [pan-left]
+Your warmth comes from somewhere. Your next loaf comes from somewhere. Winter is now interfering with the journeys between those places.
+
+::: S011 | Closed blank bound volume beside two blank sheets; neutral evidence backdrop, no people. [pose: closeup-thoughtful 0.8,1.02 0.82] [zoom-out]
+Start with the cold itself. This story needs more than a dramatic painting and somebody saying it was dreadful.
+
+::: S012 | Diagram of repeated observation dots along a labelled time line, no invented measurements. [note: Louis Morin • Paris weather observations] [still]
+We have a man who kept looking at the weather, even when everybody else presumably wanted to get away from it.
+
+## Cold enough for a palace
+::: S013 | Blank observation sheets on plain desk; no invented handwriting or modern computer. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Louis Morin • Paris1709] [same-as: S011] [zoom-in]
+Louis Morin repeatedly recorded Paris's weather. Modern researchers have used those observations to understand how severe the winter became.
+
+::: S014 | Two labelled boxes joined by an arrow: early readings and modern interpretation; no drawn thermometer. [still]
+The measurement conventions were not ours. Making old readings comparable takes historical detective work, not just copying numbers.
+
+::: S015 | Three categorical blocks: severe cold, thaw, renewed cold; not a quantitative chart. [note: Paris weather sequence • schematic] [still]
+The record shows severe cold interrupted by milder spells, not one unchanging freeze from beginning to end.
+
+::: S016 | Small elite room with lit fireplace and bottle on mantel; no people. [pose: look-around 0.8,0.94 0.6] [note: Versailles • January1709] [pan-right]
+First, take a short trip out of Paris to Versailles, where you might expect resources to solve everything.
+
+::: S017 | One bottle tilted above one glass at left, a few small ice fragments at mouth; two natural hands attached to one cropped period-clothed adult. [same-as: S016] [zoom-in]
+The courtier Saint-Simon describes a supper there when pieces of ice fell from bottles into the guests' glasses, despite a nearby fire.
+
+::: S018 | Bottle and glass on mantel at left, small fire below; no local guests. [pose: closeup-worried 0.8,1.02 0.82] [note: Saint-Simon's account • Versailles1709] [same-as: S016] [still]
+That is his experience, not proof that every French drink froze. Still, it makes an uncomfortable dinner image.
+
+::: S019 | Same compact elite room, clear foreground right; bottle and fireplace unobscured. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S016] [zoom-out]
+You have achieved the warmth of a royal residence. Unfortunately, that sentence does less work than you hoped.
+
+::: S020 | Return to the original modest room, short wood bundle left, small fire, no locals. [pose: watch-arms-crossed 0.8,0.94 0.6] [note: Paris • January1709] [same-as: S001] [pan-right]
+Back in our Paris room, a smaller question matters: not whether a fire can help, but whether you can keep it supplied.
+
+::: S021 | Close view of wood bundle beside stone hearth, no human hands or modern stove. [same-as: S002] [zoom-in]
+A hearth is a place to burn fuel. It is not a source of fuel. That distinction becomes annoyingly practical.
+
+::: S022 | Fire low but still present at left, unoccupied right foreground at safe distance. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S001] [still]
+You cannot persuade one log to last all winter by being especially grateful.
+
+::: S023 | Two adults carry separate small bundles beside the same masonry street; ground remains clear at right. [same-as: S003] [zoom-out]
+So survival inside the house sends us outside it again, toward the people and routes that bring the city its supplies.
+
+::: S024 | Moored boat beside frozen water at left, no people walking on ice. [pose: look-around 0.8,0.94 0.6] [same-as: S010] [pan-right]
+And one of those routes has become very bad at behaving like a river.
+
+## When the road to dinner breaks
+::: S025 | Winter quay viewed from bank; moored wooden cargo boat immobilised by ice; one distant adult on quay. [pose: watch-arms-crossed 0.8,0.94 0.6] [note: Accounts of the freeze •1709] [same-as: S010] [zoom-in]
+Saint-Simon writes of the Seine freezing. Other accounts describe ice and difficult roads obstructing the movement of food and wood.
+
+::: S026 | One small wooden handcart halted beside an icy patch at left, one adult beside it; no catastrophe. [same-as: S003] [pan-left]
+Not every road closes for the entire winter. Disruption is enough when a household needs supplies every day.
+
+::: S027 | Same hearth-side position with only one short log remaining; no people. [same-as: S002] [zoom-out]
+Picture a delayed delivery. At home, the consequence is simply that the expected wood has not arrived.
+
+::: S028 | Hearth and bowl at left, separately composited character area clear. Fire modest, not extinguished. [pose: scratch-head 0.8,0.94 0.6] [same-as: S001] [still]
+People have not forgotten how to light fires. They are keeping familiar routines working under unfamiliar pressure.
+
+::: S029 | Separate locally drawn log and coin icons, labelled availability and affordability; no period currency denominations. [still]
+You could have money and still struggle to obtain a delivery. You could find something for sale and struggle to pay.
+
+::: S030 | Empty wood space beside hearth occupies left focal area, clear right floor. [pose: empty-bowl 0.8,0.94 0.6] [same-as: S001] [pan-left]
+Different problems. At home, they look remarkably similar: an empty space where something useful should be.
+
+::: S031 | Bread table and covered grain sacks, one established seller at left, clear right foreground. [zoom-out]
+Now replace firewood with grain. The same question stretches outward from a kitchen, through markets and transport, into the surrounding countryside.
+
+::: S032 | One round brown loaf on board, its crumb visible at a cut edge; no people. [same-as: S006] [pan-right]
+A loaf is the end of a chain of work. Your stomach only notices the last link.
+
+::: S033 | Established seller and two round loaves at left table, no customer besides separately composited separately composited character. [pose: clutch-stomach 0.8,0.94 0.6] [same-as: S031] [still]
+This is why an ordinary shopping trip can become the centre of a historical crisis. You are not shopping for comfort.
+
+::: S034 | Flat dormant grain field with thin patchy snow and stone boundary wall, no people. [pan-left]
+You are trying to keep the household going. And the weather is threatening something much larger than today's delivery.
+
+::: S035 | Low view of sparse damaged grain shoots in cold soil, no bodies, people or ice crystals exaggerated. [same-as: S034] [zoom-out]
+Beyond the city lie crops that are supposed to become future meals. Damage there can follow you home months later.
+
+::: S036 | A locally drawn loaf links to three labelled seasonal boxes; no fabricated dates or data. [still]
+The bread problem is about to acquire a calendar.
+
+## The price of the next loaf
+::: S037 | One seller stands behind three loaves, two closed grain sacks behind; no exaggerated mountain of hoarded grain. [pose: look-around 0.8,0.94 0.6] [note: Saint-Simon • account of1709] [same-as: S031] [zoom-in]
+At the market, Saint-Simon describes bread becoming dearer as hopes for the next harvest collapsed. People held tightly to existing grain.
+
+::: S038 | Same round loaf on board, size unchanged; neutral muted background. [same-as: S006] [pan-left]
+For our household, that means the same meal can become harder to obtain without growing any larger or more satisfying.
+
+::: S039 | One large loaf at left edge of seller's table, no price writing; right area calm. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S031] [still]
+You stare at it, hoping disappointment might produce a second loaf. The loaf remains professionally unhelpful.
+
+::: S040 | One simple household bowl icon and text identifying illustrative choices, no arithmetic or coin counters. [still]
+We have no documented budget for this imaginary family, so there is no invented coin total ticking down.
+
+::: S041 | Closed sacks behind seller at left, one empty bowl in foreground left; no acting confrontation. [pose: empty-bowl 0.8,0.94 0.6] [same-as: S031] [zoom-in]
+The real question is access. If you cannot buy enough bread, knowing that somebody somewhere owns grain does not fill your bowl.
+
+::: S042 | Blank closed memoir volume and plain paper against parchment; no portrait caricature or conspiracy symbols. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Saint-Simon • attributed criticism] [same-as: S011] [pan-left]
+Saint-Simon is furious about the handling of supplies. He accuses officials and financiers of making a terrible situation worse.
+
+::: S043 | Two clearly separated labelled boxes for reported accusation and verified conclusion; no guilty official illustration. [still]
+But anger in a memoir is not an audit. We should hear his accusations without turning every allegation into an established fact.
+
+::: S044 | Three adults wait separately near the established bread table, subdued expressions; no riot or weapons. [same-as: S031] [pan-right]
+His account reveals the pressure around bread, and the distrust surrounding attempts to manage it.
+
+::: S045 | Two labelled pressures converge on one household icon; no battle scene, casualty data or arrows implying sole cause. [still]
+France is also fighting a war. This winter arrives in a country already under strain, not in a sealed weather experiment.
+
+::: S046 | One period passer-by in plain long coat at far left; empty right foreground. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S003] [still]
+A better coat would not settle the grain question. You are beginning to resent how many questions there are.
+
+::: S047 | Same quay and moored boat, broken ice with narrow open-water patches, no summer foliage or people. [same-as: S010] [zoom-out]
+Then the weather softens. Ice begins to loosen. For a moment, the whole problem seems to be moving in the right direction.
+
+::: S048 | Same flat field under patchy melting snow, shoots visible; no people. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S034] [pan-right]
+You would like to declare victory. The fields would like you to wait.
+
+## The thaw is not a reset button
+::: S049 | Same field refrozen after thaw, sparse exposed damaged shoots, no heavy fresh snow or people. [same-as: S034] [zoom-in]
+Milder weather does not mean the danger is finished. Cold returns, and the alternation of thaw and frost is damaging to crops.
+
+::: S050 | Repeat categorical cold/thaw/cold sequence with middle block highlighted; no exact plotted temperature. [note: Paris weather sequence • schematic] [still]
+Remember those observations: separate cold spells, with a hopeful interval between two very bad ones.
+
+::: S051 | Brown spring field with sparse dead winter shoots, no ripe crop, no people. [pose: look-around 0.8,0.94 0.6] [note: Spring1709 • illustrative field] [same-as: S034] [zoom-out]
+Now imagine discovering that food expected from a field will not arrive as planned. Waiting for warmth cannot replace that harvest.
+
+::: S052 | Small bowl of barley seed beside a plain seed sack at field edge; no ripe ears or people. [same-as: S051] [pan-right]
+Someone must grow something else. An inconvenient delay when you are hungry now.
+
+::: S053 | One farmer at left scatters seed close to ground from plain sack; spring soil, no snow. [pose: watch-arms-crossed 0.8,0.94 0.6] [note: Saint-Simon • replacement barley in1709] [same-as: S051] [zoom-in]
+Saint-Simon describes farmers sowing barley where wheat had been lost. Replacement sowing became one of the ways people responded.
+
+::: S054 | Blank administrative sheet beside a small locally illustrated barley seed motif; no fake seal or handwriting. [note: Barley resowing • April1709] [same-as: S011] [pan-left]
+The historian's account of the government's response includes permission to resow barley in April. Decisions about fields mattered far beyond them.
+
+::: S055 | Established farmer and seed sack at far left, clear right ground, no mature crop. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S051] [still]
+Barley is not a magical crop that cancels a disaster. It is a practical response when the previous plan has failed.
+
+::: S056 | Farmer tends the same spring plot with a plain hoe at left; no instant transformation. [same-as: S051] [pan-right]
+You hoped for a secret survival trick. History offers agricultural work, uncertain results, and another wait.
+
+::: S057 | Two labelled simple icons, hearth and growing grain; time distinction, no numerical claim. [still]
+It also exposes the distance between surviving tonight and surviving the year. A fire answers one question. A harvest answers another.
+
+::: S058 | Early spring version of established street, no snow; two adults walk carrying empty bowls, clear right foreground. [same-as: S003] [pan-left]
+Meanwhile, our Paris household searches for help as longer solutions remain seeds in the ground.
+
+::: S059 | Original room in neutral spring light, one empty bowl on table, no winter window frost. [pose: empty-bowl 0.8,0.94 0.6] [same-as: S001] [still]
+Your cupboard is not interested in promising developments. It would prefer a bowl of something that exists already.
+
+::: S060 | One period server with ladle beside large pot at left; no queue yet, clear right ground. [pan-right]
+Fortunately, growing more food is not the only response people make.
+
+## The people keeping people alive
+::: S061 | Server at left table, three adult recipients separated in a short queue at centre-left; clear right foreground. [pose: look-around 0.8,0.94 0.6] [note: Food relief • Paris1709 reconstruction] [same-as: S060] [zoom-in]
+Relief includes soup distribution, charitable giving and public work. Survival is also a story about assistance, not only private endurance.
+
+::: S062 | One filled plain bowl on table, ladle above cooking pot behind; no cropped unattached hands. [same-as: S060] [pan-left]
+A bowl handed across a table changes the household's immediate problem. It does not need to solve the entire kingdom to matter.
+
+::: S063 | Server and pot left, one waiting adult at centre-left; right foreground unoccupied. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S060] [still]
+This is not unlimited assistance, available whenever anyone needs it. Need and help are not identical amounts.
+
+::: S064 | Closed blank memoir beside two simple locally composited household icons; no wealthy villain scene. [note: Saint-Simon • charity and hardship in1709] [same-as: S011] [pan-right]
+Saint-Simon describes enormous charitable efforts alongside growing misery. He also describes former givers becoming poor enough to need help themselves.
+
+::: S065 | Two plainly dressed adults speak near established doorway at left, serious but not hostile, spring street. [same-as: S003] [zoom-in]
+That changes the picture. The person you hope can assist you may be struggling with the same rising costs.
+
+::: S066 | Same modest relief table, bowl clearly visible at left, no celebratory expressions. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S060] [still]
+This is not a contest where the most resourceful family automatically wins. Resources, connections and available help affect what is possible.
+
+::: S067 | Two plainly dressed adults speak near established doorway at left; spring street, calm gestures; clear right foreground. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S003] [zoom-out]
+Helping a neighbour one year does not guarantee you will never need their help. Saint-Simon describes that reversal.
+
+::: S068 | Simple locally drawn household silhouettes at different ages; no statistical proportions or mortality chart. [note: La clef du cabinet · March 1709] [still]
+One contemporary account singled out children and older people without adequate protection. Survival was not a fair test of individual effort.
+
+::: S069 | Return to same server, pot and three adult recipients; reconstruction scene with no archival texture or fake scan border. [note: Illustrative reconstruction • Paris1709] [same-as: S060] [zoom-in]
+For people whose resources have run out, assistance can change what happens today, while the larger problems remain unresolved.
+
+::: S070 | One full bowl prominent on left table; clear right ground beside table, no bowl in separately composited character hands. [pose: thumbs-up 0.8,0.94 0.6] [same-as: S060] [still]
+For the Visitor, though, the immediate appeal is straightforward. After worrying about empty containers, a filled one makes an excellent change.
+
+::: S071 | Filled earthen bowl in warm neutral daylight on same plain table, no people. [same-as: S060] [zoom-out]
+We could end on that bowl. But another form of assistance reveals why the thaw was not the finish line.
+
+::: S072 | Summer earthworks beside modest distant Paris roofline; two adult labourers at left, no snow. [note: Paris • August1709] [pan-right]
+To see it, we need to move forward several months, into summer.
+
+## Summer, and still a bread problem
+::: S073 | Same summer earthworks, two labourers using wooden-handled spades at left, safe empty right foreground. [pose: look-around 0.8,0.94 0.6] [note: PARIS · AUGUST 1709] [same-as: S072] [zoom-in]
+It is August now. Put away the snow. Saint-Simon's account takes us to work on a boulevard between two Paris gates.
+
+::: S074 | One adult works with spade at left; another waits beside small bread distribution table centre-left; no modern tools. [same-as: S072] [pan-left]
+People level a mound in exchange for bread. Immediate food is linked to turning up and working.
+
+::: S075 | Near-empty bread board beside earth basket; one remaining small round piece, no exact ration or people. [note: Saint-Simon •20August1709] [same-as: S072] [zoom-out]
+Then, on the twentieth of August in his account, there is not enough bread for many of those workers.
+
+::: S076 | Four adult workers gathered near empty bread table, open hands and concerned expressions, no weapons or violence. [same-as: S072] [pan-right]
+A protest grows into a disturbance. We do not need invented dialogue or a cinematic battle to understand the problem.
+
+::: S077 | Spade leaning safely at far left, empty board nearby, clear right foreground. [pose: empty-bowl 0.8,0.94 0.6] [same-as: S072] [still]
+You have done the work. You expected food. You are still hungry.
+
+::: S078 | Winter and summer household bowl icons, with an empty bowl on both sides; no quantitative inference. [still]
+Here is our answer about the thaw. The calendar moves on while a household's crisis continues.
+
+::: S079 | Established market in summer light, seller at left and two waiting adults; no snow or riot. [same-as: S031] [zoom-out]
+Frozen rivers are no longer the whole explanation. Damage to production, high prices and fragile ways of obtaining help have longer lives.
+
+::: S080 | Three local labelled icons: soup bowl, seed, earthwork spade; no checkmarks implying complete success. [still]
+Resist another neat ending: that the authorities did nothing, or that one intervention immediately fixed everything.
+
+::: S081 | Same server giving one bowl to one recipient at left; another adult waits separately; summer light. [same-as: S060] [zoom-in]
+There were responses. There were limits. The record of assistance sits beside the record of hunger, not in place of it.
+
+::: S082 | Original room under summer daylight, fire unlit, bowl and bread board at left. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [still]
+Nor does surviving a cold night tell us how a person fares through months of strain. That is a different question.
+
+::: S083 | Established street in late-summer light, three ordinary adults going about tasks; no tourist monuments. [same-as: S003] [zoom-out]
+Our Visitor can leave the story. The people in these records could not choose to skip forward to an easier chapter.
+
+::: S084 | Closed plain memoir alone on quiet parchment background; restrained, no bodies or symbolic skulls. [same-as: S011] [pan-right]
+So when we ask how people survived, the answer must also leave room for the people who did not.
+
+## What actually gets you through
+::: S085 | Original room with loaf and short wood bundle restored as opening callback; winter light explicitly recalled. [pose: look-around 0.8,0.94 0.6] [note: OPENING CALLBACK · JANUARY 1709] [same-as: S001] [zoom-in]
+Return to our little room. We began with bread and firewood, hoping this would be a simple choice about keeping warm.
+
+::: S086 | Opening wood bundle beside small hearth; no new objects or people. [same-as: S002] [pan-left]
+Shelter helps, but somebody must supply what keeps the household going.
+
+::: S087 | One loaf on established seller's table at left, no seller threatening customer, clear right third. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S031] [still]
+Supplies matter, but you must be able to reach them or afford them. A loaf behind somebody else's counter is not dinner.
+
+::: S088 | Established spring farmer tends young shoots, no simultaneous harvest, one person at left. [same-as: S051] [pan-right]
+A thaw helps movement, but it cannot instantly replace damaged crops. A new planting is an answer that takes time.
+
+::: S089 | Same server and one recipient exchange bowl across table at left, no crowd obscuring action. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S060] [zoom-in]
+And assistance matters because a household does not have to face every shortage alone—provided that help actually reaches it.
+
+::: S090 | Four compact locally labelled objects arranged across parchment, log loaf bowl seed; max two rows for readability. [still]
+Those are practical ways people tried to get through: preserve warmth, obtain food, find support, and rebuild the next supply.
+
+::: S091 | Small fire and filled bowl in original room; separately composited character area clear, subdued expression. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S001] [still]
+They are less dramatic than a secret ancient technique. They are also much closer to what the evidence actually lets us say.
+
+::: S092 | Quay in spring with open water, cargo boat moored, one adult on bank; no instant montage or split season. [same-as: S010] [pan-right]
+The fair comparison with our lives is not that people then were tougher. It is how much daily security depends on other people.
+
+::: S093 | One round loaf and plain bowl on board, soft neutral light; no decorative bounty. [same-as: S006] [zoom-in]
+Most days, you notice the meal. During a crisis, you discover all the work and decisions standing behind it.
+
+::: S094 | Opening room, loaf on left table and wood by hearth both visible; no extra locals. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S001] [still]
+As for that first question—fire or food—our Visitor would now like to add a third request: somebody who can help with both.
+
+::: S095 | One filled plain bowl on serving table, simple steam wisps, no impossible hands or floating spoon. [same-as: S060] [zoom-out]
+The bowl is finally full. He plans to appreciate it before history introduces another complication.
+
+::: S096 | Calm original room, key props at far left, right half uncluttered for end-screen element placed later. [pose: thumbs-up 0.8,0.94 0.6] [same-as: S001] [pan-right]
+For another ordinary problem from an extraordinary past, choose the next Life, Previously episode on screen.

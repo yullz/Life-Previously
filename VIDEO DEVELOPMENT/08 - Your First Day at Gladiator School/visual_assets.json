@@ -1,0 +1,507 @@
+{
+  "episode": "gladiator-school",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S024",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S024",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S024",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S073",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S076",
+      "parent": "S075",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S075",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S075",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S075",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S075",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S075",
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S024",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S075",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S004",
+      "text": "CARNUNTUM • c. AD 200",
+      "label": "RECONSTRUCTED VISIT",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S005",
+      "text": "SITE • OBJECTS • TEXTS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S013",
+      "text": "DIFFERENT ROUTES INTO THE ARENA",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S016",
+      "text": "JOINING COULD MEAN SURRENDERING CONTROL",
+      "label": "EARLIER ROMAN EVIDENCE",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S017",
+      "text": "SENECA • LETTER 37",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S018",
+      "text": "A WRITER'S COMPARISON",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S028",
+      "text": "DIFFERENT KIT • DIFFERENT TRAINING",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S035",
+      "text": "A TRAINING POST ON A ROMAN LAMP",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S036",
+      "text": "CYPRUS • c. AD 50–100",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S037",
+      "text": "POSSIBLE POST FOUNDATION",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S042",
+      "text": "LEARNING TAKES ATTENTION",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S052",
+      "text": "TRAINING • LIVING",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S063",
+      "text": "CARE AND CONTROL",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S072",
+      "text": "FIT TO FIGHT • FREE TO LEAVE?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S078",
+      "text": "DEFEAT DID NOT ALWAYS MEAN DEATH",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S079",
+      "text": "MERCY WAS POSSIBLE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S083",
+      "text": "FAME COULD COEXIST WITH LOW STATUS",
+      "label": "COMPARISON: COLCHESTER",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S087",
+      "text": "ONE INSTITUTION",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S094",
+      "text": "REMAINS • OBJECTS • WORDS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

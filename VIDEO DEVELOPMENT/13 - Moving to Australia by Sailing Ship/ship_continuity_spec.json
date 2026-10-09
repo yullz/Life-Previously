@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "status": "director_draft_initial_review_pending",
+  "voyage": "MarcoPolo,WilliamWild,July–October1854",
+  "ship_reference": {
+    "title": "ThomasRobertson,MarcoPolo,H306",
+    "url": "https://handle.slv.vic.gov.au/10381/132534",
+    "visual_inspection": "pendingdirectorreview; do notlabelapproved"
+  },
+  "anchors": {
+    "hull": "S002",
+    "deck": "S003",
+    "shared_quarters": "S010",
+    "saloon": "S014",
+    "printroom": "S018"
+  },
+  "cross_location_edits_required": [
+    {
+      "child": "S025",
+      "parent": "S003",
+      "reason": "Washingareaonsameworkingdeck; preservehatch,mast,bulwarkgeometry."
+    },
+    {
+      "child": "S048",
+      "parent": "S003",
+      "reason": "Ballstagingonsamevessel; localangle/lightingchange,notnewcruiseballroom."
+    }
+  ],
+  "rules": [
+    "Threemasts,fixedhull/bowsprit,connectedrigging,noMarcoPolofunnel",
+    "Departuresteamtugseparate,absentafterearlyvoyage",
+    "No1852recordtimeorForbes",
+    "Calmhaslowresidualswell/slackcanvas,notzerooceanmotion",
+    "First-cabineventnotall-passengerexperience",
+    "Sharedquartersillustrative,noexactmeasurements",
+    "Printingroom/pressmodelillustrative,no falseidentifiedmodel",
+    "Open-flamecasewarningonly,no imposedchains",
+    "Sourceinventorynotindividualration",
+    "Nochildbirth/death/fallreenactment",
+    "Datesonlocalcardsnotgeneratedlettering"
+  ],
+  "paper_plan": {
+    "source": "October14p1",
+    "planned_issues": 10,
+    "last_two_dates": [
+      "1854-09-23",
+      "1854-10-14"
+    ],
+    "gap_days": 21,
+    "meaning": "Savedlastpaperportionuntilnearerarrival; notpressfailureorfoodration"
+  },
+  "chronology": {
+    "S049": "Earlier:ball14August,beforecalmjustdiscussed",
+    "S059": "Earlier:open-flameincidentreported5August",
+    "S061": "Sameearlierincident",
+    "S073": "Later:publicationplanning/September–October",
+    "S085": "Arrival,lateOctober",
+    "S091": "Callbacktovoyagenotices",
+    "S093": "Earlieratsea",
+    "S096": "Closingvoyagecallback"
+  },
+  "arrival": "UseJulytolateOctober; exactelapseddaycountunresolvedbetweenlateraccounts,omitted."
+}

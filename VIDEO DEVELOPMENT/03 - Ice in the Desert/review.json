@@ -1,0 +1,43 @@
+{
+  "state": "draft_built",
+  "source_passages_read": true,
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-09",
+    "coverage": "Read all 94 narration lines, claims, visual instructions, seasonal chronology, three thumbnail promises and contiguous Shorts. Inspected researchers' plan/storage section and period clothing photograph.",
+    "refutation": "Compared climate-model output against historical claim wording: no model yield, efficiency or melt percentage narrated. Confirmed pond north of east–west wall and store below ground. Kept winter production separate from summer storage, no 400 BCE dome date, no unlimited free access or hygiene guarantee.",
+    "findings": [
+      {
+        "id": "03-I01",
+        "issue": "Repeated narration in S049–S055",
+        "fix": "Separate melting observation, drainage, reservoir distinction, external use and top opening."
+      },
+      {
+        "id": "03-I02",
+        "issue": "S047 called a normal interior illustration a cutaway",
+        "fix": "Narration now describes the visible pit; explanatory cutaway stays local graphic S049."
+      },
+      {
+        "id": "03-I03",
+        "issue": "Some summer/winter shots inherited wrong location season",
+        "fix": "Explicit scene-level season scopes throughout the chronological and recap sequences."
+      },
+      {
+        "id": "03-I04",
+        "issue": "Wardrobe visual reference pending and unmapped seasonal robe variants",
+        "fix": "Inspected c.1900 British Museum photograph; one subdued garment configuration across all private poses."
+      },
+      {
+        "id": "03-I05",
+        "issue": "Thumbnail payoffs pointed to adjacent but irrelevant scenes",
+        "fix": "Corrected links to retrieval, harvesting and protected pit."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "additional_slate_review_1": "pending",
+  "additional_slate_review_2": "pending",
+  "media_reviews": "not_applicable_yet_no_media_generated",
+  "known_research_boundaries": "Reconstruct a seasonal cycle at Meybod around1900. This date is an editorial anchor within the documented long use of the type, not a claim to a preserved daybook. The architecture and functions are drawn from field research and engineering papers. Key contradiction resolved: later papers loosely call these ancient refrigerators, while Jørgensen explicitly distinguishes ice storage from food refrigeration. Say ice cooled drinks and could be used elsewhere; do not put hanging food inside the store. Avoid400BCE origin claims, exact historical freezing yields, fixed melt percentages, huge radiant-cold arrows, mechanical windcatchers, and a claim that a small dome vent creates the freezing. Engineering models are explanatory, not measurements from1900; their own reported yields vary with assumptions. Some METU wording says transfer on hot summer days in its wall section; do not use that to move winter harvesting into summer. Water, operating labor and maintenance are central to the story. Final costume follows late-Qajar ordinary layered clothing, not court finery."
+}

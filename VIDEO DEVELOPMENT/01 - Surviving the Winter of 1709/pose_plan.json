@@ -1,0 +1,99 @@
+{
+  "episode": "winter-1709",
+  "mode": "approved_normal_outfit",
+  "registry": null,
+  "rule": "Inspect base art at full size. Build only required private derivatives, preserve identity/alpha/silhouette and review every result. Register exact hashes under original pose names before rendering. Do not fall back to normal clothing for a missing required variant.",
+  "poses": [
+    {
+      "pose": "look-around",
+      "base_source": "channel/assets/visitor/look-around.png",
+      "render_source": "channel/assets/visitor/look-around.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "eyebrow-raise",
+      "base_source": "channel/assets/visitor/eyebrow-raise.png",
+      "render_source": "channel/assets/visitor/eyebrow-raise.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "watch-arms-crossed",
+      "base_source": "channel/assets/visitor/watch-arms-crossed.png",
+      "render_source": "channel/assets/visitor/watch-arms-crossed.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "shrug-smirk",
+      "base_source": "channel/assets/visitor/shrug-smirk.png",
+      "render_source": "channel/assets/visitor/shrug-smirk.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "closeup-thoughtful",
+      "base_source": "channel/assets/visitor/closeup-thoughtful.png",
+      "render_source": "channel/assets/visitor/closeup-thoughtful.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "closeup-worried",
+      "base_source": "channel/assets/visitor/closeup-worried.png",
+      "render_source": "channel/assets/visitor/closeup-worried.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "scratch-head",
+      "base_source": "channel/assets/visitor/scratch-head.png",
+      "render_source": "channel/assets/visitor/scratch-head.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "empty-bowl",
+      "base_source": "channel/assets/visitor/empty-bowl.png",
+      "render_source": "channel/assets/visitor/empty-bowl.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "clutch-stomach",
+      "base_source": "channel/assets/visitor/clutch-stomach.png",
+      "render_source": "channel/assets/visitor/clutch-stomach.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    },
+    {
+      "pose": "thumbs-up",
+      "base_source": "channel/assets/visitor/thumbs-up.png",
+      "render_source": "channel/assets/visitor/thumbs-up.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "existing_approved_art_inspect_at_launch"
+    }
+  ]
+}
+

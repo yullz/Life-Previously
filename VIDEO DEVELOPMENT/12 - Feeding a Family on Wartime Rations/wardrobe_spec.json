@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "Modern Visitor stays visually secondary. No military helmet,uniform or wartime-costume gag; civilian household is the focus.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Use normal identity; keep him out of stove/serving/work areas and never cover the ration-card evidence."
+}

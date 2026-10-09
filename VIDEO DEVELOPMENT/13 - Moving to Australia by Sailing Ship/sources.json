@@ -1,0 +1,47 @@
+[
+  {
+    "id": "SRC01",
+    "title": "The Marco Polo Chronicle,secondseries,tenissues29July–14October1854,StateLibraryVictoria",
+    "url": "https://handle.slv.vic.gov.au/10381/245632",
+    "text_url": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_func=stream&dps_pid=FL4381761",
+    "read": "2026-10-09: PDF22pagesindexed; selectedoriginalpassagesread: p1editorial/departure,p2stowaways,p3–4squall/notices/washing/medical/open-flamewarning,p6balladvert,p7–8ball/calm,p12population,p14stores,p19finalpaper/captain/deaths. OCRdateerrors1851/1854notadopted; visualscanconfirmationstillrequiredbeforeexactsourcecardquotation.",
+    "limit": "Onboardpaper backedbyowners,promotionaltone andclassbias; notrepresentativeindependentpassengersurvey. PublicdomainperSLVrights. Inventoryiswhole-shipandroughfigures,notdiet. Threatenedpunishment forrepeatflameoffence,notimposed. Unreadpassages/poetrynotnewfacts.",
+    "public": true
+  },
+  {
+    "id": "SRC02",
+    "title": "StateLibraryVictoria,PaulDee,LiverpooltoMelbourne:thenewspaper(2019)",
+    "url": "https://blogs.slv.vic.gov.au/such-was-life/liverpool-to-melbourne-the-newspaper/",
+    "read": "2026-10-09: completearticle read andkeyclaimscross-checkedagainstnewspaper.",
+    "limit": "Arrival/departuresummaryonlywhereprimaryarrivalnoticereadblocked.23Octoberarrivalreported,exactdurationnotused; originalwarningsupersedesloosersummary. Non-primaryillustrationstheblogusesfromotherdatesareNOT1854voyageevidence."
+  },
+  {
+    "id": "SRC03",
+    "title": "MuseumsVictoria,Journey toAustralia:1850s–70s",
+    "url": "https://museumsvictoria.com.au/immigrationmuseum/deep-dives/journeys-to-australia/",
+    "read": "2026-10-09:1850s–70slongjourney,sailingroutesandconditionssectionsread.",
+    "limit": "Broadperiodcontext,notMarcoPolo'spreciseberths,menu,routeorincidentlist. Do notimportlatersteamshipinteriors,1874diary,1878wreck,or1855polltaxinto1854trip. Noexactfirefatality/survivalodds."
+  },
+  {
+    "id": "SRC04",
+    "title": "BasilLubbock,TheColonialClippers(1921),MarcoPoloafter-life",
+    "url": "https://www.gutenberg.org/cache/epub/52897/pg52897-images.html",
+    "read": "2026-10-09: indexedMarcoPolo1852andafter-lifepassagesreadforcounter-check.",
+    "limit": "Latersecondarymaritimehistory; fourthoutwardvoyagelisted95days underWild,unlike simpleJul22→Oct23daycount. Do notclaimexactnumberofdays.1852Forbes68dayvoyageexplicitlydifferent.",
+    "public": true
+  },
+  {
+    "id": "SRC05",
+    "title": "MuseumsVictoria,TheFoundingofMelbourne,1835",
+    "url": "https://collections.museumsvictoria.com.au/articles/6775",
+    "read": "2026-10-09: completehistoricalnarrative read.",
+    "limit": "SupportsKulinCountryandcolonialdispossessioncontext,notexact1854familyencounter. No populationcollapsefigurefromsinglequotedcolonialobserverused."
+  },
+  {
+    "id": "SRC06",
+    "title": "ThomasRobertson,MarcoPolo,StateLibraryVictoria H306",
+    "url": "https://handle.slv.vic.gov.au/10381/132534",
+    "read": "2026-10-09: catalogueidentity andSLVblogattributionlocated; paintingnotyetvisuallyinspected.",
+    "limit": "Visualreferencependingdirectorinspection. Do notclaimexact1854interiorplanfromportrait. Imagepreviewhttps://blogs.slv.vic.gov.au/wp-content/uploads/2019/02/MarcoPolo-1024x688.jpg"
+  }
+]

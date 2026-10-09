@@ -1,0 +1,1258 @@
+{
+  "id": "11",
+  "slug": "waking-before-alarm-clocks",
+  "title": "Who Woke You Up Before You Had an Alarm Clock?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "The People Paid to Wake a City",
+    "Your Alarm Clock Is Outside the Window"
+  ],
+  "period": "Primary opening and return: Manchester,1862,on a wet early morning. Comparisons explicitly labelled: Mrs Waters' northern-English recollections published in1877 (town identified only as B—, career dates not securely established); a London-made clock of1640–1662 shown only as a museum graphic. Mid-nineteenth-century English brick terraces, sash windows, stone or cobbled streets, small domestic rooms, plain wool coats/shawls/caps, oil or candle interiors. Every scene of Mrs Waters is an illustrative reconstruction of her reported story, not a portrait or an identified Manchester address. Keep period details restrained. Visitor remains the familiar modern observer, separately composited.",
+  "avoid": "No smartphones,electric doorbells,modern streetlights,cars,digital clocks,modern twin-bell bedside alarm by default,grand uniform for a knocker-up,London1931 pea-shooter Mary Smith transplanted here,all mills flourishing during1862 cotton famine,universal wages or fees,exact invented street map,proof of Waters' identity or thirty-five-year career,alarm-clock invention in1847,comic drunk stereotypes,graphic injury,Victorian nurse uniform on every woman,giant pole bent through solid glass.",
+  "locations": {
+    "manchester": {
+      "scope": "Manchester,1862; Waugh's early-morning observation",
+      "frame": "source-based atmosphere; illustrative street",
+      "design": "Narrow brick terrace lane with sash bedroom windows, wet stone pavement, restrained chimney skyline and small coffee stall left. One middle-aged male knocker-up in brown coat and cap carrying a long slender wooden wand; no active mass factory crowd."
+    },
+    "wakewindow": {
+      "scope": "Northern England, nineteenth century; recollection published1877",
+      "frame": "illustration of Mrs Waters' account; town unnamed",
+      "design": "Plain two-storey brick house, upper-left sash bedroom window, three neighbouring houses receding left. Mrs Waters, a middle-aged working woman in muted olive shawl, brown skirt and plain bonnet, with slender fishing-rod-like wand. Window remains closed while tapped; hand or face appears to acknowledge."
+    },
+    "watershome": {
+      "scope": "Mrs Waters' recollection published1877; career years unspecified",
+      "frame": "illustrative northern-English household",
+      "design": "Modest plain plaster room with small fireplace at left, simple bed rear, wooden table near window. Adult woman Waters in consistent olive/brown clothes and her husband resting supported in bed. No invented diagnosis or medical apparatus."
+    },
+    "firstcustomer": {
+      "scope": "Mrs Waters' recollection published1877; first customer",
+      "frame": "reported story, not a confirmed portrait",
+      "design": "Small brick house and simple bedroom with a separate plain wooden worktable and blank drawing sheets. Adult male designer in plain shirt/waistcoat; early darkness; no invented drawing content or machinery."
+    },
+    "route": {
+      "scope": "Mrs Waters' recollection published1877; growing rounds",
+      "frame": "illustrative route, not an actual recovered map",
+      "design": "Compact network of brick terraces with distinct doorway/window configurations, wet paving, small passage between houses. Same Waters figure and wand; no street names or drawn route arrows."
+    },
+    "shop": {
+      "scope": "Mrs Waters' recollection published1877; shop alongside rounds",
+      "frame": "reported livelihood, illustrative interior",
+      "design": "Small domestic shop with wooden shelves, brushes, plain blacking containers, metal pots and pans; goods unlabelled. Same Waters behind simple counter. No food shelves or fantasy apothecary."
+    },
+    "sisters": {
+      "scope": "Mrs Waters' recollection published1877; two adult sisters",
+      "frame": "reported customers, illustrative room",
+      "design": "Small neat rented room with sewing basket, plain table, modest bed and two adult mill-working sisters in simple brown/slate dresses; no children or invented portrait likeness."
+    },
+    "interview": {
+      "scope": "Northern England; account published17November1877",
+      "frame": "anonymous writer's reported conversation; town B—",
+      "design": "Quiet modest household where elderly seventy-year-old Waters in olive shawl sits with an anonymous adult interviewer. Clearly older face and grey hair than career reconstructions; no claim of direct recorded quotation audio."
+    },
+    "editorial": {
+      "scope": "Modern explanatory graphic",
+      "frame": "source comparison or explicitly hypothetical route",
+      "design": "Channel parchment source cards and clean route/timing diagrams; exact words and numerals locally typeset. No counterfeit period document."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Edwin Waugh, Home-Life of the Lancashire Factory Folk during the Cotton Famine (1862), chapter IX",
+      "url": "https://www.gutenberg.org/files/10126/10126-h/10126-h.htm",
+      "read": "2026-10-09: preface, opening context and complete chapter IX opening Manchester-to-Preston passage read.",
+      "limit": "One morning observation of a knocker-up going home to bed between six and eight; not every worker's schedule. Cotton-famine context must remain visible.",
+      "public": true
+    },
+    {
+      "id": "SRC02",
+      "title": "Experiences of a Knocker-Up, Chambers's Journal no.725,17November1877,pp721–724",
+      "url": "https://www.gutenberg.org/cache/epub/50841/pg50841-images.html",
+      "read": "2026-10-09: complete article from opening interview through author's final note read in sequence.",
+      "limit": "Anonymous mediated, literary interview. Mrs Waters' reported recollections, not independently audited career data. Town only B—; never silently assign her to Manchester or Leeds. Distinguish customer-specific rates from a national tariff.",
+      "public": true
+    },
+    {
+      "id": "SRC03",
+      "title": "Science Museum Group, Lantern clock by Thomas Knifton,1640–1662,object1951-217",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co718/lantern-clock-by-knifton",
+      "read": "2026-10-09: dating,maker,alarm mechanism,materials and rights read.",
+      "limit": "Proves an alarm-equipped clock existed long before Victorian knocker-ups; does not establish factory workers' ownership or affordability. Photo has noncommercial licence: do not put the photo in a monetized video without appropriate permission. Draw a simple original schematic instead."
+    },
+    {
+      "id": "SRC04",
+      "title": "Arunima Datta, Knocker Ups: A Social History of Waking Up in Victorian Britain's Industrial Towns (2020)",
+      "url": "https://academic.oup.com/jvc/article/25/3/331/5829726",
+      "read": "2026-10-09: abstract, substantial sections1–2, Manchester advertisements/pricing and relevant newspaper footnotes read via indexed text; not all article sections read.",
+      "limit": "Research cross-check and discovery source. Do not use its1847 'first adjustable alarm' statement. Original Chambers town anonymity takes precedence over secondary geographic assignment. No individual incident used solely from an unread footnote."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "claim": "Second-person questions, analogies, hypothetical routes and concluding interpretation are explanatory framing, not attested personal events.",
+      "type": "F",
+      "sources": [
+        "SRC01",
+        "SRC02"
+      ],
+      "locator": "Episode framing",
+      "limit": "Always mark schematic/example; no invented named witness or outcome."
+    },
+    {
+      "id": "C1",
+      "claim": "Waugh's1862 Manchester morning shows a knocker-up with long wand going home to bed, coffee stalls closing, and wet weather.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Chapter IX opening paragraph and preface",
+      "limit": "No precise date,exact hourly job schedule or claim all mills were busy."
+    },
+    {
+      "id": "C2",
+      "claim": "Alarm-equipped clocks predate Victorian knocker-ups: Knifton clock1640–1662 has an alarm.",
+      "type": "E",
+      "sources": [
+        "SRC03"
+      ],
+      "locator": "Object1951-217 date and mechanism description",
+      "limit": "No first-invention claim or universal household ownership."
+    },
+    {
+      "id": "C3",
+      "claim": "Chambers1877 presents Mrs Waters' recollections in an unnamed northern-English town; she said her injured husband could no longer work and a designer first offered her a three-o'clock waking job.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Article opening through first customer's offer and explanation",
+      "limit": "Reported account,not independently verified autobiography; no exact career dates or invented diagnosis."
+    },
+    {
+      "id": "C4",
+      "claim": "Waters said her first customer slept through or returned to sleep after an alarm and wanted quiet morning working time.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Paragraph 'The reason why knocking-up...' and designer passage",
+      "limit": "Her explanation and this customer's reported situation,not claim all alarm clocks failed."
+    },
+    {
+      "id": "C5",
+      "claim": "Waters describes replacing disruptive door knocking/ringing with rod taps on bedroom windows and customers replying.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "'Yes;a knocker-up has a good chance...' through good-tempered reply-tap",
+      "limit": "Rod,not pea-shooter; targeted does not mean literally inaudible to all neighbours."
+    },
+    {
+      "id": "C6",
+      "claim": "Waters reports30customers after one year,around80houses after five and occasionally95; she emphasized shortcuts and organizing rounds.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Growth,fees and 'You can't see how...' paragraphs",
+      "limit": "Reported scale only; never animate an invented actual timed route or guarantee all in one hour."
+    },
+    {
+      "id": "C7",
+      "claim": "Waters reports initial half-crown fee later reduced; regular rates18pence before4,one shilling soon after4,6–3pence from5–6 depending time/distance.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "'What did they pay? All prices.'",
+      "limit": "Weekly,her rates,career date unspecified; no inflation-equivalent or national standard."
+    },
+    {
+      "id": "C8",
+      "claim": "Waters says she collected mainly Saturdays, threatened withdrawal for arrears, sometimes did not press poor or sick clients, and dismissed an insulting customer.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Bad debts and customer temperament passages",
+      "limit": "Self-reported business practice; no exact fine amount or claim all clients fined."
+    },
+    {
+      "id": "C9",
+      "claim": "Waters ran a shop selling black-lead,blacking,brushes,pots and pans alongside rounds; she selected stock unlikely to perish or go out of fashion and avoided selling on credit.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Shop decision and stock paragraphs",
+      "limit": "Not all knocker-ups had shops; avoid modern product packaging."
+    },
+    {
+      "id": "C10",
+      "claim": "Waters reports two adult orphaned sisters,mill work,evening mending,heavy sleep,polite greetings and occasional Sunday tea.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Two young women who were sisters paragraph",
+      "limit": "Reported individuals,not reconstruction of every working woman's household."
+    },
+    {
+      "id": "C11",
+      "claim": "Waters says she slept9pm to2:30am except Saturday,initially relied on husband and alarm,later woke habitually; earliest customer20minutes away at3am.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "'When did I get my sleep...' full paragraph",
+      "limit": "No medical endorsement,no universal night-worker schedule; exact self-report not independently verified."
+    },
+    {
+      "id": "C12",
+      "claim": "Waters reports difficult rain/wind/slush,retirement handing rounds to a struggling neighbour; author warns competition reduced opportunities.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Weather,retirement and final Note",
+      "limit": "Do not promise her reported income as typical. No universal disappearance date."
+    },
+    {
+      "id": "C13",
+      "claim": "Different ways of arranging sleep could coexist: Waugh's worker goes home to bed,while Waters reports early bedtime plus husband/alarm and daytime shop.",
+      "type": "I",
+      "sources": [
+        "SRC01",
+        "SRC02"
+      ],
+      "locator": "Compared passages C1/C9/C11",
+      "limit": "Comparison across separate accounts/places/dates; not two descriptions of one person."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "A city wakes while one worker goes to bed",
+      "scenes": [
+        [
+          "Manchester, eighteen sixty-two. The night has been wet, and a man with a long wand is finally going home to bed.",
+          "C1",
+          "manchester",
+          "wide",
+          "Wet quiet Manchester lane at early dawn; male knocker-up walks left with long wand angled safely upward.",
+          "look-around",
+          "Manchester,1862 · Waugh,ch.IX"
+        ],
+        [
+          "His job is to get other people out of bed, so they can begin their work.",
+          "C1,C0",
+          "manchester",
+          "medium",
+          "Same man passing shuttered coffee stall, shoulders tired but relaxed; no crowds.",
+          null
+        ],
+        [
+          "Imagine the service arriving at your bedroom window: tap, tap. Someone outside expects more from you than a sleepy groan.",
+          "C0,C5",
+          "wakewindow",
+          "close",
+          "External wooden rod tip at upper sash pane; one sleepy adult face visible behind glass.",
+          "closeup-listening",
+          "Illustration of a reported waking service"
+        ],
+        [
+          "That person is a knocker-up. Paying someone to wake you raises two questions.",
+          "C0,C5",
+          "wakewindow",
+          "wide",
+          "Woman below left with rod touching upper window; enough distance to explain physical reach.",
+          null
+        ],
+        [
+          "Why pay a human being when clocks already exist? And, more urgently, who makes sure the human being wakes up?",
+          "C0,C2,C11",
+          "editorial",
+          "graphic",
+          "Two simple questions side by side,not two clocks.",
+          "closeup-thoughtful",
+          null,
+          "WHY PAY? | WHO WAKES THE WAKER?"
+        ],
+        [
+          "A Victorian account answers that second question. It is less mysterious than the usual guessing game.",
+          "C11",
+          "interview",
+          "medium",
+          "Elderly Waters at simple table in interview setting, thoughtful expression; paper blank.",
+          null,
+          "Account published1877"
+        ],
+        [
+          "First, forget the idea that everyone was waiting for somebody to invent an alarm clock. Alarms were already old.",
+          "C2",
+          "editorial",
+          "graphic",
+          "Simple timeline anchored by museum clock date and nineteenth-century service.",
+          null,
+          "Science Museum Group,1951-217",
+          "1640–1662: CLOCK WITH ALARM | LATER: KNOCKER-UPS"
+        ],
+        [
+          "A London-made clock in the Science Museum Group collection has an alarm and dates from the sixteen hundreds.",
+          "C2",
+          "editorial",
+          "graphic",
+          "Original schematic of one-hand lantern clock with bell,weight and cord; not museum photo.",
+          null,
+          "Knifton,1640–1662 · object1951-217",
+          "AN ALARM ALREADY EXISTED"
+        ],
+        [
+          "Owning a clock, hearing it, and leaving bed are different problems. A waking service could help with the last one.",
+          "C0,C4",
+          "wakewindow",
+          "interior",
+          "View inside same window room; adult customer sitting up on edge of bed,feet floor; pane intact.",
+          null
+        ],
+        [
+          "Waugh was writing during the cotton famine. This is not a picture of every mill running happily.",
+          "C1",
+          "manchester",
+          "wide",
+          "Restrained skyline with mostly quiet chimneys,wet street and few pedestrians; no celebratory busy mill scene.",
+          "watch-arms-crossed",
+          "Waugh's1862 account · cotton-famine context"
+        ],
+        [
+          "He notices coffee stalls packing up and the knocker-up heading home. Even before breakfast, different working days are already pulling apart.",
+          "C1,C0",
+          "manchester",
+          "detail",
+          "Stallkeeper puts plain cups away while wand-carrier recedes; no printed labels.",
+          null
+        ],
+        [
+          "One woman's detailed recollections help explain what it took to make that morning service a business.",
+          "C3",
+          "interview",
+          "close",
+          "Older Waters' attentive face and hands at table; no counterfeit portrait claim.",
+          "closeup-thoughtful",
+          "Mrs Waters · reported recollections"
+        ]
+      ]
+    },
+    {
+      "title": "Mrs Waters finds her first customer",
+      "scenes": [
+        [
+          "In eighteen seventy-seven, Chambers's Journal published the recollections of Mrs Waters. The writer leaves her northern-English town unnamed, apart from an initial.",
+          "C3",
+          "interview",
+          "medium",
+          "Interview room side angle,elderly Waters with interviewer; do not display Manchester name.",
+          null,
+          "Chambers's Journal,17Nov1877"
+        ],
+        [
+          "We cannot turn her into our Manchester worker. What follows is her reported story, illustrated rather than independently verified.",
+          "C3,C13",
+          "editorial",
+          "graphic",
+          "Two labelled source blocks keep Manchester and unnamed town separate.",
+          null,
+          "Different accounts",
+          "MANCHESTER,1862 | WATERS' RECOLLECTIONS,PUBLISHED1877"
+        ],
+        [
+          "She said her husband injured his back at the foundry and could no longer work. The household needed another way to earn.",
+          "C3",
+          "watershome",
+          "wide",
+          "Earlier-career Waters in middle age,husband supported in bed,plain room; no injury reenactment or diagnosis.",
+          "glance-nervous",
+          "Waters' account · career dates unspecified"
+        ],
+        [
+          "An opportunity came through somebody wanting an early start. He offered to pay her to wake him at three.",
+          "C3",
+          "watershome",
+          "medium",
+          "Waters listening to an adult visitor near doorway; no mouth bubbles or invented written contract.",
+          null
+        ],
+        [
+          "This was not simply another factory worker rushing for the same bell. She described him as a man doing design work.",
+          "C3,C4",
+          "firstcustomer",
+          "wide",
+          "Small workroom adjoining bedroom,designer at wooden desk with blank sheets; predawn light and plain lamp.",
+          null
+        ],
+        [
+          "He said quiet mornings suited him. Unfortunately, good intentions the evening before did not reliably produce an awake designer.",
+          "C4,C0",
+          "firstcustomer",
+          "medium",
+          "Designer asleep in bed,desk visible beyond; no readable drawings or text.",
+          "eyebrow-raise"
+        ],
+        [
+          "According to Waters, he could sleep through an alarm, or wake and drift off again before it finished making its noise.",
+          "C4",
+          "firstcustomer",
+          "detail",
+          "Sleeping adult,small indistinct period clock on shelf; no modern twin-bell object or ringing animation.",
+          null,
+          "Reported by Mrs Waters"
+        ],
+        [
+          "The purchase was therefore quite specific: another person would come to the house and make getting up harder to postpone.",
+          "C0,C4",
+          "firstcustomer",
+          "exterior",
+          "Same customer's sash window from outside,Waters below carrying rod; keep house geometry distinct from generic window scene.",
+          null
+        ],
+        [
+          "She accepted. And she said that within a year she had thirty customers, most needing her between five and six.",
+          "C6",
+          "route",
+          "wide",
+          "Waters begins round through compact brick lanes; a few distinct upper windows; no thirty cloned figures.",
+          null,
+          "Waters' reported first-year growth"
+        ],
+        [
+          "One unusually early customer had opened a door into a wider market. Other people also needed help keeping their morning promises.",
+          "C0,C6",
+          "route",
+          "medium",
+          "Adult worker acknowledges from one window while another house remains dark; no universal factory whistle.",
+          null
+        ],
+        [
+          "The useful part was a person prepared to be outside while the customer stayed warm inside.",
+          "C0,C5",
+          "wakewindow",
+          "low angle",
+          "Wet rod held steadily by Waters,upper window lit faintly from interior; her ordinary clothes subdued.",
+          "watch-arms-crossed"
+        ],
+        [
+          "But making the loudest possible noise is surprisingly bad business when you wake a whole round of customers.",
+          "C5,C0",
+          "wakewindow",
+          "wide",
+          "Several neighbouring dark bedroom windows surrounding target; rod lowered before next demonstration.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Why the window mattered",
+      "scenes": [
+        [
+          "Waters described an earlier method: knocking or ringing at the front door. It could wake the person who had paid you.",
+          "C5",
+          "wakewindow",
+          "medium",
+          "Illustrative earlier method:Waters hand near door knocker,rod absent; quiet daylight explanatory reconstruction.",
+          null,
+          "Earlier method described by Waters"
+        ],
+        [
+          "It could also wake the neighbours, who had paid nothing. Some did not want your service at any price that morning.",
+          "C5,C0",
+          "wakewindow",
+          "wide",
+          "Adjacent upstairs adult faces reacting to door disturbance; restrained annoyance,not slapstick mob.",
+          "eyebrow-raise"
+        ],
+        [
+          "Neighbours were disturbed, while the knocker-up was accidentally providing several households with a free wake-up call.",
+          "C5",
+          "editorial",
+          "graphic",
+          "Simple three-house schematic:paid centre,unwanted/free neighbours; clearly explanatory diagram.",
+          null,
+          "Explanation from Waters' account",
+          "ONE PAYING HOUSE | SEVERAL DISTURBED NEIGHBOURS"
+        ],
+        [
+          "A fishing-rod-like wand offered a targeted approach: tap the bedroom window close to the sleeper you actually mean.",
+          "C5",
+          "wakewindow",
+          "wide",
+          "Return to rod method,Waters below target upper-left window; rod straight and physically reaching pane.",
+          null
+        ],
+        [
+          "The trick was contact at the right window. This was tapping glass, not smashing it, and certainly not poking through it.",
+          "C5,C0",
+          "wakewindow",
+          "detail",
+          "Single slender rounded tip lightly touching outside of intact sash pane; no crack or penetration.",
+          "closeup-listening"
+        ],
+        [
+          "Then came the useful bit: a reply. Waters remembered customers answering with a tap, footsteps, or a few words from the window.",
+          "C5",
+          "wakewindow",
+          "interior",
+          "Adult standing by window,hand raised toward pane; no disembodied hands or sound lettering.",
+          null
+        ],
+        [
+          "A clock can finish while you fall asleep. A person outside can notice whether anybody has answered.",
+          "C0,C4,C5",
+          "wakewindow",
+          "medium",
+          "Exterior view,Waters looks up toward visible responding customer,rod lowered slightly.",
+          null
+        ],
+        [
+          "Sending a signal is easier than knowing somebody has acted on it. The reply makes a difference.",
+          "C0",
+          "editorial",
+          "graphic",
+          "Two-stage local diagram with tap icon and reply icon; no modern phone.",
+          "closeup-thoughtful",
+          null,
+          "TAP → REPLY"
+        ],
+        [
+          "The relationship could be pleasant. Waters said a friendly greeting made a difference after several bad-tempered customers had already answered her.",
+          "C5,C8",
+          "wakewindow",
+          "medium",
+          "Customer gives small friendly nod through opened upper sash after tapping ended; Waters smiles slightly.",
+          null
+        ],
+        [
+          "It could also wear thin. She remembered giving up one regular payer because he was repeatedly insulting when she woke him.",
+          "C8",
+          "wakewindow",
+          "exterior",
+          "Different customer's curt adult expression at neighbouring window; Waters steps away calmly; no alcohol caricature.",
+          null,
+          "One customer in Waters' recollection"
+        ],
+        [
+          "Payment apparently did not buy an unlimited right to abuse the person delivering the service. She could stop coming.",
+          "C0,C8",
+          "route",
+          "reaction",
+          "Waters turns along lane,rod resting at shoulder; empty customer window behind.",
+          "watch-arms-crossed"
+        ],
+        [
+          "But once dozens of people depend on you, how do you get around before everybody is late?",
+          "C0,C6",
+          "route",
+          "wide",
+          "Lane branches into short passage and longer street; clear walkable paths,no exact invented map.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The route and the price",
+      "scenes": [
+        [
+          "Waters said her round grew to around eighty houses, sometimes more. Those figures are her recollection, not a surviving customer database.",
+          "C6",
+          "route",
+          "wide",
+          "Many distinct small terraces recede into distance; woman follows lane,not eighty rendered people.",
+          null,
+          "Reported scale,not an audited register"
+        ],
+        [
+          "Her explanation was organization: learn shortcuts, keep moving, and get good at rousing people without lingering beneath one window.",
+          "C6",
+          "route",
+          "tracking still",
+          "Waters passes through same short brick passage toward next house; no impossible teleportation.",
+          null
+        ],
+        [
+          "Two distant customers cannot both receive your personal attention at exactly the same instant.",
+          "C0",
+          "editorial",
+          "graphic",
+          "Hypothetical map with two separated houses and one worker marker; no historical street names.",
+          "closeup-thoughtful",
+          "Illustrative scheduling problem",
+          "ONE PERSON | TWO PLACES"
+        ],
+        [
+          "So a list of addresses is not enough. Timing and distance matter, and they appeared in the prices she described.",
+          "C0,C7",
+          "route",
+          "detail",
+          "Two house windows at visibly different distances,Waters foreground; no model-drawn timetable.",
+          null
+        ],
+        [
+          "Her very first customer offered half a crown a week. Once other early customers joined, she said she reduced his charge.",
+          "C7",
+          "firstcustomer",
+          "exterior",
+          "Designer at window acknowledges Waters; small blank coins in hand at doorway inset not required.",
+          null,
+          "Her personal weekly rates"
+        ],
+        [
+          "The point was not one fixed price for everybody. An awkwardly early call could cost substantially more than a later one nearby.",
+          "C7,C0",
+          "editorial",
+          "graphic",
+          "Earlier/later weekly comparison without inflation equivalent.",
+          null,
+          "Waters' account",
+          "EARLIER + FARTHER CAN COST MORE"
+        ],
+        [
+          "Before four, she reported charging eighteenpence a week. Soon after four, the price was a shilling. These were weekly charges.",
+          "C7",
+          "editorial",
+          "graphic",
+          "Two large local time/price rows; no coin faces generated.",
+          null,
+          "Waters' rates,not a national tariff",
+          "BEFORE4:18d/WEEK | SOON AFTER4:1s/WEEK"
+        ],
+        [
+          "Between five and six, she described charges ranging from sixpence down to threepence, depending on the time and the distance.",
+          "C7",
+          "editorial",
+          "graphic",
+          "Single readable rate band with large numerals,small source label; no tiny full table.",
+          null,
+          "Waters' reported weekly rates",
+          "5–6AM:6d TO3d/WEEK"
+        ],
+        [
+          "Most customers were in that cheaper group. The especially early designer was not the standard customer.",
+          "C7",
+          "route",
+          "medium",
+          "Later predawn scene with more windows softly awake; designer house not cloned into every shot.",
+          null
+        ],
+        [
+          "A small recurring payment could reduce the risk of a much worse morning.",
+          "C0,C8",
+          "wakewindow",
+          "medium",
+          "Worker getting coat on by door after window call; no invented wage number.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Waters described clients worrying about losing money for lateness. A missed start could make the wake-up service look like money well spent.",
+          "C8",
+          "route",
+          "wide",
+          "Adult workers walking purposefully down lane after round; not frantic uniform crowd.",
+          null,
+          "Loss for lateness described in the account"
+        ],
+        [
+          "But a price list does not collect itself. Once everybody is awake, you still have to get paid.",
+          "C0,C8",
+          "watershome",
+          "detail",
+          "Waters at plain household table with a few unmarked coins and closed blank notebook.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The second half of the business",
+      "scenes": [
+        [
+          "She said most payments came on Saturdays. Some customers called at her house; others left money with people she appointed.",
+          "C8",
+          "watershome",
+          "medium",
+          "Saturday daylight,customer handing unmarked coins across table to Waters; no giant coin or modern till.",
+          null,
+          "Waters' recollections"
+        ],
+        [
+          "For slow payers, her warning was direct: fall behind, and you might find yourself allowed to oversleep one morning.",
+          "C8",
+          "watershome",
+          "reaction",
+          "Waters calmly gestures toward unpaid blank notebook,customer listens; no aggressive debt collector pose.",
+          "eyebrow-raise"
+        ],
+        [
+          "That was leverage only because the customers valued the service. It depended on their needing her again next week.",
+          "C0,C8",
+          "route",
+          "wide",
+          "Quiet repeat view of familiar paying houses,Waters pauses at junction.",
+          null
+        ],
+        [
+          "She also claimed exceptions for people struggling with sickness or large families. Her account includes judgement, not just a tariff.",
+          "C8",
+          "watershome",
+          "medium",
+          "Waters gently declines coins from tired adult neighbour; no fabricated children or specific disease.",
+          null
+        ],
+        [
+          "And the morning round was not her only business. After she began knocking up, Waters opened a shop.",
+          "C9",
+          "shop",
+          "wide",
+          "Anchor shop shelves with plain brushes,unlabelled blacking containers,metal pots and pans; Waters left counter.",
+          "look-around"
+        ],
+        [
+          "She sold practical household goods, including brushes, blacking, pots and pans. They did not need selling before they spoiled.",
+          "C9",
+          "shop",
+          "detail",
+          "Simple orderly shelf of brushes and metal household pans,no food or labels.",
+          null
+        ],
+        [
+          "She explained that choice in business terms: little perishable stock, less worry about changing fashions, and customers bringing money.",
+          "C9",
+          "shop",
+          "medium",
+          "Customer exchanges coins for brush at counter,one clear transaction.",
+          null
+        ],
+        [
+          "Her shop and her waking round could fit into different parts of the day. That does not mean the day was easy.",
+          "C0,C9,C11",
+          "shop",
+          "medium",
+          "Waters works at shop in daylight,same muted clothes with shawl set aside on peg.",
+          null
+        ],
+        [
+          "She said she did not sleep during the day because she had a shop to mind. Hold that thought.",
+          "C9,C11",
+          "shop",
+          "close",
+          "Waters' hands arranging stock with tired but composed expression; no heroic glow.",
+          "closeup-thoughtful"
+        ],
+        [
+          "How much night remained once she had finished everything else? We will come back to that.",
+          "C0,C11",
+          "watershome",
+          "wide",
+          "Evening household with small warm lamp,bed and table,husband resting.",
+          null
+        ],
+        [
+          "For now, there is another mistake to avoid. Customers who struggled to wake were not necessarily people with nothing to do.",
+          "C0,C10",
+          "sisters",
+          "wide",
+          "Two adult sisters at small room table,one mending garment,other tidying; modest warm light.",
+          null
+        ],
+        [
+          "Waters remembered two sisters whose evenings help explain why somebody might need a knock after a night's sleep.",
+          "C10",
+          "sisters",
+          "medium",
+          "Same two adult sisters finishing mending in small rented room; respectful ordinary setting.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "What happened before bedtime",
+      "scenes": [
+        [
+          "The sisters worked at a mill, she said. They had saved enough to take and furnish a room together.",
+          "C10",
+          "sisters",
+          "wide",
+          "Daylight room with two adult sisters returning in simple working clothes; no invented factory machinery.",
+          null,
+          "Two customers in Waters' account"
+        ],
+        [
+          "That room also needed cleaning, and their clothes needed mending. Some of the work continued after the paid working day.",
+          "C10",
+          "sisters",
+          "detail",
+          "One sister stitches plain fabric,other folds clothes; small sewing tools historically simple.",
+          null
+        ],
+        [
+          "They went to bed tired and sometimes late. A missed morning could follow an evening spent keeping ordinary life together.",
+          "C10,C0",
+          "sisters",
+          "medium",
+          "Sisters set mending aside and approach bed area; no underwear or intrusive sleeping view.",
+          null
+        ],
+        [
+          "It is easy to make the human alarm clock into a joke. The workload behind the service is less funny.",
+          "C0,C10",
+          "sisters",
+          "reaction",
+          "Quiet room with completed mending on chair,soft late light,Visitor small at safe right foreground.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Waters recalled these customers warmly. They greeted her kindly, insisted on paying, and sometimes invited her for Sunday tea.",
+          "C10",
+          "sisters",
+          "medium",
+          "Daylight Sunday illustration,Waters at table with adult sisters and three plain teacups; not daily round.",
+          null,
+          "Sunday visit recalled by Waters"
+        ],
+        [
+          "That was a different relationship from the angry customer at the window. The same service could produce very different mornings.",
+          "C0,C8,C10",
+          "sisters",
+          "close",
+          "Waters exchanges relaxed smile with one sister across tea table.",
+          null
+        ],
+        [
+          "It also complicates the idea that this was just a person behaving like a machine. Customers knew who was coming.",
+          "C0,C10",
+          "wakewindow",
+          "medium",
+          "Friendly customer recognises Waters at usual window; no source-text speech bubble.",
+          null
+        ],
+        [
+          "The job included remembering people, collecting payments, finding routes, and putting up with the weather. The tapping was the visible part.",
+          "C5,C6,C8,C12",
+          "route",
+          "wide",
+          "Waters carrying wand through familiar lane,small pouch at waist,wet stone underfoot.",
+          null
+        ],
+        [
+          "Even her account of success needs care. It is a story told by a retired worker through an anonymous writer.",
+          "C3",
+          "interview",
+          "medium",
+          "Older Waters speaking with interviewer,blank notes on his lap; illustrative not literal transcript.",
+          null,
+          "A mediated recollection"
+        ],
+        [
+          "The article's closing note warns that competition had grown. Her reported results were not a promise for anybody picking up a stick.",
+          "C12",
+          "editorial",
+          "graphic",
+          "One reported experience and competition caution,not earnings chart.",
+          null,
+          "Chambers's Journal,closing note",
+          "ONE CAREER ≠ EVERY WORKER'S INCOME"
+        ],
+        [
+          "Nor should one woman's schedule become a rule for the whole trade. Our Manchester observer had already shown a different pattern.",
+          "C13",
+          "manchester",
+          "wide",
+          "Return to Waugh's male worker going home in dawn drizzle; obvious different person from Waters.",
+          "closeup-thoughtful",
+          "Back to Manchester,1862"
+        ],
+        [
+          "The Manchester knocker-up was heading to bed. Waters had a shop to open after her round.",
+          "C13",
+          "shop",
+          "wide",
+          "Daylight Waters opens modest shop shutters; no Manchester geographic label.",
+          null,
+          "Waters' separate recollection"
+        ]
+      ]
+    },
+    {
+      "title": "Who woke the person waking everyone else?",
+      "scenes": [
+        [
+          "Who woke her? The account answers without leaving us with an endless chain of knockers-up.",
+          "C11,C0",
+          "interview",
+          "close",
+          "Elderly Waters thoughtful in interview room; no infinite clones.",
+          "closeup-listening"
+        ],
+        [
+          "Waters said she went to bed at nine, except on Saturdays, and got up again at half past two.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Simple reported overnight interval; no health claim or literal captured timepiece.",
+          null,
+          "Waters' reported routine",
+          "9PM → 2:30AM"
+        ],
+        [
+          "Her earliest customer lived about twenty minutes away and wanted waking at three. There was not much spare morning to lose.",
+          "C11",
+          "route",
+          "wide",
+          "Dark short lane to first customer; Waters walking purposefully,not sprinting.",
+          null
+        ],
+        [
+          "But when she was younger, she said, she slept heavily after her active days. Habit alone was not the original solution.",
+          "C11",
+          "watershome",
+          "medium",
+          "Younger-career Waters asleep,husband awake in nearby bed area,small period clock indistinct on shelf.",
+          null
+        ],
+        [
+          "Her husband woke her. And she explicitly credits an alarm as well. The human alarm service could depend on an alarm.",
+          "C11",
+          "watershome",
+          "medium",
+          "Husband gently wakes Waters without standing or showing miraculous recovery; clock remains small,unlabelled.",
+          "eyebrow-raise",
+          "Husband AND alarm · Waters' account"
+        ],
+        [
+          "That detail matters. These were overlapping ways to manage time, not a neat world of humans suddenly replaced by machines.",
+          "C0,C2,C11",
+          "editorial",
+          "graphic",
+          "Three linked roles:clock,household help,paid caller; restrained schematic.",
+          null,
+          "Interpretation from the account",
+          "CLOCK + HOUSEHOLD HELP + PAID SERVICE"
+        ],
+        [
+          "She said that after several years she began waking naturally, which became important when her husband was no longer alive.",
+          "C11",
+          "watershome",
+          "medium",
+          "Later-career Waters awake alone at early dark window,same room with empty bed space; quiet respectful mood.",
+          null
+        ],
+        [
+          "That is her experience, not advice to train yourself out of needing sleep, and not an explanation for every knocker-up.",
+          "C11,C13",
+          "interview",
+          "medium",
+          "Older Waters at interview table,plain background; source label prominent.",
+          null,
+          "One person's reported routine"
+        ],
+        [
+          "She also remembered making tea for her husband after the earliest call. Paid work and care occupied the same small hours.",
+          "C11",
+          "watershome",
+          "detail",
+          "Earlier household phase,Waters offers plain teacup to resting husband; explicit return to earlier routine.",
+          null,
+          "Earlier part of her recollection"
+        ],
+        [
+          "Read the account closely and the clever waking trick turns into a household working out how to support itself.",
+          "C0,C3,C11",
+          "watershome",
+          "wide",
+          "Earlier household overview with both adults,small fire and table; no medical claim.",
+          null
+        ],
+        [
+          "There is a business outside the window. There is another set of responsibilities waiting for its owner back inside.",
+          "C0,C9,C11",
+          "shop",
+          "wide",
+          "Waters tidies shop beside doorway into small living room,daylight.",
+          null
+        ],
+        [
+          "None of this made a cold, wet street feel like an extra hour under the blanket.",
+          "C0,C12",
+          "route",
+          "low angle",
+          "Wet paving,Waters' modest shoes and rod bottom,coat hem above puddle; no severe distress.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "A small job holding up a morning",
+      "scenes": [
+        [
+          "Rain and wind were among the difficulties Waters remembered most sharply. Slushy streets made a working round less charming than its postcard version.",
+          "C12",
+          "route",
+          "wide",
+          "Winter slush and drizzle on same lane,Waters dressed warmly in muted shawl,rod controlled.",
+          null,
+          "Weather in Waters' recollection"
+        ],
+        [
+          "When she retired, she said, she passed the knocking-up work to a neighbour who needed it.",
+          "C12",
+          "route",
+          "medium",
+          "Older Waters hands wand to ordinary adult male neighbour in plain coat; neither in ceremonial uniform.",
+          null,
+          "Reported retirement"
+        ],
+        [
+          "A route was more than a stick. It meant customers who expected someone, at a particular window, at a particular time.",
+          "C0,C6,C12",
+          "wakewindow",
+          "wide",
+          "Neighbour takes place below familiar window in illustrative transfer; no exact recorded address.",
+          null
+        ],
+        [
+          "That is why the service makes more sense once we stop treating it as proof that Victorian people had no clocks.",
+          "C0,C2,C4",
+          "editorial",
+          "graphic",
+          "Return to simple paired concepts,not full source wall.",
+          "closeup-thoughtful",
+          null,
+          "HAVING A CLOCK ≠ GETTING UP"
+        ],
+        [
+          "Some needed help waking. Some needed an answer demanded from the street. The account describes a market built around those ordinary failures.",
+          "C4,C5,C0",
+          "wakewindow",
+          "medium",
+          "Awake adult at window replies to caller below,visually clear two-person exchange.",
+          null
+        ],
+        [
+          "Its providers made their own calculations about time, distance, payment, family, and the next working day.",
+          "C6,C7,C8,C11",
+          "route",
+          "wide",
+          "Waters moves toward next house through lane,quiet predawn light; no unearned all-city panorama.",
+          null
+        ],
+        [
+          "Back in Waugh's Manchester, the coffee stalls are closing and the man with the long wand is going home.",
+          "C1",
+          "manchester",
+          "wide",
+          "Same opening man and coffee stall; dawn drizzle and few pedestrians,consistent geometry.",
+          null,
+          "Manchester,1862 · Waugh,ch.IX"
+        ],
+        [
+          "We cannot give every knocker-up his schedule, or give every customer Mrs Waters' prices. These are particular windows into the work.",
+          "C13,C7",
+          "editorial",
+          "graphic",
+          "Two source cards with dates,clearly separate; no city conflation.",
+          null,
+          "Sources describe different people",
+          "WAUGH,1862 | CHAMBERS'S JOURNAL,1877"
+        ],
+        [
+          "But together they show something easily missed: one person's start to the day could be the result of somebody else's labour.",
+          "C0,C13",
+          "manchester",
+          "medium",
+          "Male worker recedes toward own modest door as another adult leaves house for work.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The customer might remember a few taps on the glass. Behind those taps were a route, a payment, and another tired person.",
+          "C0,C5,C6,C8",
+          "wakewindow",
+          "detail",
+          "Rod tip lowered beside window after acknowledged call; caller partially visible below.",
+          null
+        ],
+        [
+          "So the next time an alarm rings, consider the alternative: someone outside, already dressed, waiting for you to prove you are awake.",
+          "C0",
+          "wakewindow",
+          "reaction",
+          "Customer answers window while caller waits,Visitor listening quietly on right.",
+          "closeup-listening"
+        ],
+        [
+          "The noise was the smallest part of the service. The expensive part was having another human being care whether you got up.",
+          "C0",
+          "wakewindow",
+          "wide",
+          "Final warm window and caller departing into cool lane; open calm right side for endscreen,not overt sentimental glow.",
+          null
+        ]
+      ]
+    }
+  ],
+  "research": "Use the familiar human-alarm premise to reveal a small service business and answer who woke the knocker-up. Main bookends are Waugh's Manchester1862 observation. Most of the episode is explicitly a retrospective account published in1877 from an unnamed northern town,not a Manchester biography. Entire primary article read,including the easily omitted sentence crediting both husband AND alarm. Alarm clocks already existed; the title refers to household reliance,not invention. Modern research's Leeds assignment and1847 priority wording are not adopted. Fees remain weekly personal rates; income is not presented as typical,author's competition warning retained. Waugh's cotton-famine context blocks a generic booming1862city scene. Initial exact-script and two final slate reviews remain pending.",
+  "description": "A tap at the bedroom window could be somebody's paid job. Follow the people who woke industrial workers,then meet a woman whose account describes the prices,customers and awkward question behind the trade: who woke her? Our starting point is Manchester in1862; Mrs Waters' story comes from an1877 account that leaves her northern-English town unnamed.",
+  "tags": [
+    "knocker up",
+    "knocker upper",
+    "Victorian history",
+    "industrial Britain",
+    "history of alarm clocks",
+    "Manchester history",
+    "everyday history",
+    "working class history",
+    "Life Previously"
+  ],
+  "pinned_comment": "Would a person waiting for your reply get you out of bed more reliably than an alarm?",
+  "pilot": [
+    "S001",
+    "S003",
+    "S015",
+    "S019",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "WAKE UP!",
+      "chip": "YOUR HUMAN ALARM",
+      "scope": "Northern England,nineteenth century; illustrative waking service",
+      "pose": "closeup-listening",
+      "background": "Left-side tight brick-house sash-window vignette, a slender wand visibly tapping the outside of the closed pane from below; sleepy adult customer behind glass. Tool contact clear,not a weapon or hand through glass. Calm right third for Visitor. No text drawn.",
+      "rationale": "Immediate visual puzzle with the action readable at phone size; title supplies the job's historical context.",
+      "payoff_scene_ids": [
+        "S003",
+        "S028",
+        "S030"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "WHO WAKES HER?",
+      "chip": "THE KNOCKER-UP",
+      "scope": "Waters' reported routine,published1877",
+      "pose": "closeup-thoughtful",
+      "background": "Muted working woman's plain bedroom at left with woman still in bed, a small period clock shape beside her and soft light through small sash window; no precise clock mechanism generated. Right third calm. No extravagant costume or giant props.",
+      "rationale": "Opens the episode's second question without promising a universal answer.",
+      "payoff_scene_ids": [
+        "S077",
+        "S078",
+        "S081"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "PAY TO WAKE?",
+      "chip": "A VICTORIAN JOB",
+      "scope": "Illustrative nineteenth-century northern-English waking round",
+      "pose": "eyebrow-raise",
+      "background": "Close simple window scene at left with woman holding slender tapping rod below window; three small blank copper coin shapes on a restrained local graphic inset area,no numerals generated. Right third empty for Visitor.",
+      "rationale": "Frames the service as a practical purchase rather than a claim nobody had clocks.",
+      "payoff_scene_ids": [
+        "S041",
+        "S043",
+        "S044"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Who woke the knocker-up?",
+      "from_scene": "S073",
+      "to_scene": "S080",
+      "hook": "The human alarm clock needed an alarm too.",
+      "description": "Mrs Waters' reported routine in an1877 account; one person's system,not a universal rule."
+    },
+    {
+      "title": "Why tap the window instead of the door?",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "A loud wake-up call could create a business problem.",
+      "description": "A contemporary account explains the shift from disruptive door noise to targeted window taps."
+    },
+    {
+      "title": "Your wake-up call has a price list",
+      "from_scene": "S043",
+      "to_scene": "S050",
+      "hook": "An earlier start could cost more.",
+      "description": "Mrs Waters' personal weekly rates,reported in1877; not a national tariff."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "The Visitor stays an understated modern guide. No top hat,comic nightshirt or oversized Victorian costume; historical workers carry the setting.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Normal orange hoodie remains restrained in area and expression. Historical Waters gets modest consistent everyday clothing,not the Visitor's identity."
+  },
+  "pronunciations": {
+    "status": "director_selected",
+    "entries": [
+      {
+        "term": "Waugh",
+        "say": "WAW",
+        "note": "Edwin Waugh,surname rhymes with law."
+      },
+      {
+        "term": "Chambers",
+        "say": "CHAYM-berz",
+        "note": "The periodical."
+      },
+      {
+        "term": "knocker-up",
+        "say": "NOCK-er UP",
+        "note": "Clear pause around first explanation; do not turn into a running innuendo."
+      }
+    ],
+    "rule": "Read naturally; use modern alarm pronunciation in narration even when source spells alarum."
+  },
+  "sound_plan": {
+    "status": "direction_ready_assets_unselected",
+    "music": "Low channel theme with occasional intentional gaps; no spooky stalking score.",
+    "mix": "Narration clear; taps much quieter than narration and never sharp enough to startle. No loud alarm gag.",
+    "new_assets": [
+      {
+        "id": "window_tap_soft",
+        "description": "Quiet dry wooden tip against glass,2–3 light taps; no phone notification."
+      },
+      {
+        "id": "wet_steps",
+        "description": "Sparse soft shoes on wet stone; no theatrical splash."
+      }
+    ],
+    "acquisition": "Use inspected licensed local assets where suitable; otherwise free original Foley or quote paid needs under contract. Never assume an old bell asset matches.",
+    "cues": [
+      {
+        "scene_id": "S003",
+        "asset": "window_tap_soft",
+        "timing": "After hook sentence,brief gap."
+      },
+      {
+        "scene_id": "S029",
+        "asset": "window_tap_soft",
+        "timing": "At visible exterior contact."
+      },
+      {
+        "scene_id": "S085",
+        "asset": "wet_steps",
+        "timing": "Brief low texture under weather passage."
+      }
+    ],
+    "intentional_silence": [
+      "S079",
+      "S080"
+    ]
+  },
+  "extra_specs": []
+}

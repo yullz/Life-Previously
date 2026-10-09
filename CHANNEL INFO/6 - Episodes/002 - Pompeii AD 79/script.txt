@@ -1,0 +1,262 @@
+// Episode 002. Every factual line traces to a checked row in claims.md. Line-by-line pass and production audit: build/factcheck/script_pass.json (wf_78c7ed0c-97c), all findings applied 2026-10-07.
+// The Visitor is never drawn by the image model: [pose: ...] places a drawing from the pose library.
+// Wall writing in every image is blurred brush strokes or scratches with no letter shapes; the real texts are spoken and shown as [note:] labels.
+TITLE: What Was Written on Pompeii's Walls Before the Eruption?
+
+## Cold open
+::: S001 | Interior of a cramped wooden loft room above a Roman shop in early morning: a low ceiling of rough beams, a plank floor, an empty thin straw mattress, a full body length long, lying along the right side of the floor, an opening in the floor on the left with the top of a wooden ladder, pale daylight from one small window with a wooden shutter [pose: lying-shocked 0.80,0.82 0.34] [zoom-in]
+You wake up on a thin straw mattress, in a cramped wooden loft above somebody's shop. And you're very thirsty.
+::: S002 | High view looking down from a small upper-floor window, framed on the left by its single solid shutter of vertical wooden planks: far below, a narrow Roman street in early morning, plastered house fronts in red and ochre with patches of faded red brush strokes, a few locals in tunics walking on the raised pavements [zoom-in] [sfx: crowd-roman-street 0.4]
+Outside, the street is waking up. And the walls are full of writing.
+::: S003 | A close view of the flat plaster face of a Roman house wall filling the whole frame edge to edge in morning light, an empty wall: two flat white lime-wash rectangles painted on it, each filled with several horizontal rows of soft smudged red brush strokes like lines of writing with no letter shapes, and around them many tiny thin lines scratched into the plaster in its own pale colour, little scratched stick figures, boats and animals [still]
+Big painted letters. Tiny scratched messages. Names, numbers, little drawings.
+::: S004 | Wide panorama of the Roman town of Pompeii at sunrise seen from outside its walls: red-tiled roofs, temples and the town wall, the Bay of Naples shining on the left, the green slope of Mount Vesuvius covered in vineyards rising behind the town under a clear sky [pan-right]
+Because this is Pompeii, a Roman town on the Bay of Naples, in the year seventy-nine A.D.
+::: S005 | Mount Vesuvius rising green and peaceful behind red-tiled Roman rooftops on a clear blue morning, neat rows of vineyards on its lower slopes, seen from the end of a narrow street, an empty stretch of raised pavement in the foreground on the left [pose: scratch-head 0.3,0.97 0.6 flip] [still]
+And yes. That's the mountain.
+::: S006 | A Roman street corner by day, locals in tunics walking past a painted house front, an empty stretch of raised pavement on the right [pose: shrug-smirk 0.78,0.75 0.48]
+Now you're probably thinking: Pompeii? That's the town buried in lava, where everyone froze on the spot.
+::: S007 | A busy Roman street seen from the raised pavement, shopkeepers at wide open shop fronts, a donkey carrying baskets walking past, locals chatting in pairs [pan-left]
+Hold that thought. Most of it is wrong. And right now, this town is very much alive.
+::: S008 | High view over Pompeii's tight grid of streets, red roofs and small courtyards in the morning, tiny figures moving along every street [zoom-out]
+Nobody knows exactly how many people live here. Estimates run from under ten thousand to twenty thousand or more.
+::: S009 | A painted Roman house front with a wide shop opening, the plaster wall above it painted with rows of flat white lime-wash rectangles, each filled with soft smudged red brush strokes, a local in a tunic pausing to look up at them, empty pavement on the right [pose: watch-arms-crossed 0.59,0.86 0.55]
+And they write all over town. These walls will tell you where to rent a room, where to get a drink, and who to vote for.
+::: S010 | A Roman street corner with a public fountain: a square stone basin with a carved stone spout, water spilling over its rim onto the paving, morning light, an empty stretch of pavement on the left [pose: count-fingers 0.22,0.71 0.45 flip]
+So today, you'll live like a Pompeian. Where do you get water when your room has no tap? What does a cup of wine cost?
+::: S011 | Mount Vesuvius at dusk seen across the calm Bay of Naples, the sky fading from orange to deep blue [still]
+And the day the volcano erupted, the date everyone knows... is it even right? We'll answer that one at the very end.
+::: S012 | Inside a small Roman shop in the morning seen from the back: a closed ceiling of wooden planks with a square hatch in it on the left and a wooden ladder rising up through the hatch, a masonry counter, clay jars on wooden shelves, the wide rectangular front opening onto the bright street, an empty floor in the middle [pose: step-forward 0.55,0.95 0.6 flip]
+First, though, you need a drink.
+
+## Water on every corner
+::: S013 | [reuse S010] [zoom-in]
+Here's your first surprise. Most homes in Pompeii have no piped water at all.
+::: S014 | A simple Roman room with plastered walls, a woman carrying a heavy clay water jug on her shoulder in through the doorway, an empty floor on the right [pose: look-around 0.73,0.97 0.69]
+Someone in the house fetches it from the corner fountain, or draws rainwater from a cistern.
+::: S015 | Map: a simple illustrated plan of a Roman town seen straight from above, plain with no labels: an irregular oval ring wall, an older core of skewed blocks in the lower left and straighter blocks elsewhere, and more than forty small blue dots for fountains, each dot at a crossroads between the blocks [still]
+There are at least forty street fountains across town. For most people, one is just a short walk away.
+::: S016 | [reuse S010] [pose: splash-face 0.74,0.97 0.55] [sfx: water-splash]
+And they run nonstop, day and night.
+::: S017 | A tall narrow Roman water tower of brick and plaster at a street corner with a lead tank on top and a lead pipe running down its side, locals walking past below [zoom-out]
+It arrives by aqueduct, probably from springs near Serino, in the mountains to the east. Towers like this one share it out.
+::: S019 | A Roman street with overflow water from a fountain running down the grey stone paving between two high raised pavements, three large oval stepping stones crossing the road [zoom-in]
+All that overflow runs down the street. Which explains these.
+::: S020 | [reuse S019] [pose: tiptoe 0.53,0.75 0.25]
+Pavements are high, and big stepping stones let you cross with dry feet.
+::: S021 | Object insert: two deep parallel ruts worn by cart wheels into large grey paving blocks, filling the frame
+Cart wheels have worn deep ruts into the stone. And some streets are one-way.
+::: S022 | A narrow Roman street with a mule cart waiting at a corner, the man driving it shrugging, an empty stretch of pavement on the right [pose: eyebrow-raise 0.89,0.97 0.6] [still]
+Yes. Even in seventy-nine A.D., there are traffic rules.
+::: S023 | A Roman house front under repair: wooden scaffolding, two plasterers smoothing fresh white plaster on the wall, broken roof tiles and a trench with a lead pipe dug up in the street [pan-right]
+But look down the street. Men are replastering walls. Stretches of water pipe lie dug up.
+::: S024 | A Roman street just after an earthquake: cracked walls, fallen roof tiles and a toppled column, townspeople clearing rubble with baskets [still]
+In sixty-two or sixty-three A.D., a powerful earthquake wrecked much of Pompeii. Sixteen or seventeen years later, parts of town are still rebuilding.
+::: S025 | The upper floor of a Roman building seen from the street: small shuttered windows above a row of shops, a woman shaking out a blanket from one window
+So where does everyone actually live?
+
+## A room to let
+::: S026 | The exterior of a row of Roman shops opening onto the street, each with a small loft window above, a family eating at the back of one open shop, an empty stretch of pavement on the left [pose: watch-arms-crossed 0.22,0.97 0.6 flip]
+A lot of people live like you did: in a back room or a loft over the shop. Others rent a flat upstairs.
+::: S027 | A grand Roman atrium house seen from the street: a tall entrance doorway in the middle of a painted house front, a small open shop with its own counter on each side of it, and through the doorway a glimpse of the atrium with its roof opening over a rainwater basin and red and yellow painted walls [zoom-in]
+The better-off live in big atrium houses, often with shops along the front that they rent out.
+::: S028 | A painted Roman house front, on its left half a doorway with a flat white lime-wash rectangle beside it, filled with small soft smudged red brush strokes, an empty stretch of pavement on the right [pose: scratch-head 0.90,0.97 0.55 flip]
+And landlords advertise. On the wall, of course.
+::: S123 | The corner of a large Roman building block on a side street: a flat white lime-wash rectangle painted high on the plaster, filled with soft smudged red brush strokes, small shops with loft windows above them along the street [note: To-let notice of Gnaeus Alleius Nigidius Maius, Pompeii, by AD 79]
+One landlord offers shops with their lofts, and upstairs flats fit for a knight. For details, ask his slave, Primus.
+::: S029 | Object insert: a flat white lime-wash rectangle painted straight onto the plaster beside a tall doorway, filled with neat rows of small soft smudged red brush marks [note: Rental notice on Julia Felix's property, Pompeii, by AD 79] [zoom-in]
+On the property of a woman called Julia Felix, a painted notice offers a five-year lease.
+::: S030 | A bath suite in a fine Roman property: a vaulted room with a plunge pool and painted walls, and through an arch, a row of shops with rooms above
+A fine bath suite, shops, upper rooms and apartments. Starting on the thirteenth of August.
+::: S032 | A Roman woman in a fine mantle standing at the entrance of her large property, a steward beside her holding a closed wooden writing tablet
+And look who owns it. In Pompeii, women own and run property.
+::: S033 | [reuse S034] [pose: watch-arms-crossed 0.72,0.94 0.50] [zoom-out]
+Earlier in the first century A.D., a public priestess called Eumachia paid for a grand building on the Forum with her own money.
+::: S034 | Closer view in the same colonnaded corridor: the same marble statue of the priestess in her niche and the same two men in plain work tunics standing proudly at its base, an empty stretch of paving on the left [same-as: S033] [pose: thumbs-up 0.72,0.94 0.50]
+And the fullers, the cloth-cleaners, put up a statue in her honour.
+::: S035 | A Roman street corner in the morning, a masonry food counter with clay jars set into its top, steam rising, locals waiting, an empty stretch of pavement on the right [pose: clutch-stomach 0.90,0.97 0.55] [sfx: stomach-growl]
+Right. Breakfast. Luckily, food counters are everywhere.
+
+## Breakfast at the counter
+::: S036 | Wide view of a Roman street with several masonry food counters at the street corners, clay jars set into their tops, customers leaning on them [pan-right] [sfx: crowd-roman-street 0.3]
+In the ruins today, the archaeological park counts about eighty food counters. One detailed survey finds about a hundred and sixty.
+::: S037 | A Roman street-corner food counter whose painted front shows a sea nymph riding a sea-horse, two ducks and a rooster, clay jars set into the counter top, a cook ladling stew, an empty stretch of pavement on the right [pose: watch-arms-crossed right 0.62]
+A modern excavation, completed in twenty-twenty, uncovered a counter like this, painted with a sea nymph, ducks and a rooster.
+::: S038 | Object insert: clay jars sunk into a masonry counter top, holding stew with pieces of duck, fish and snails in their shells [same-as: S037]
+The jars still held scraps of duck, pig, goat or sheep, fish... and snails.
+::: S039 | Object insert: a close daylight view of the street end of the same masonry food counter, standing on grey paving stones: a thick pale stone counter top with the rim of a clay pot set into it, the end panel painted cream inside a dark-red border band, a brown dog with a plain collar painted on it in loose flat fresco style on matte plaster, a short scrawl of thin scratched lines along the red border band below the dog, and the edge of the sea-horse panel turning the corner at the left [same-as: S037] [still]
+And someone scratched a rude insult on the frame around the painting of a dog.
+::: S040 | Inside a Roman bar: a masonry counter with clay jars, wine amphorae stacked against the back wall, a woman serving behind the bar pouring wine into a clay cup, the plastered wall behind covered in small unreadable scratched marks, two local men leaning on the far end of the counter on the right, an empty floor on the left [pose: count-fingers 0.25,0.97 0.74 flip] [sfx: tavern-crowd 0.25]
+Back in seventy-nine A.D., let's get some wine. One bar wall carries a price list, in a woman's name.
+::: S041 | Object insert: a patch of whitewashed Roman plaster with a few lines of faint thin scratched marks, unreadable [note: Price list scratched on a bar wall, Pompeii, by AD 79] [zoom-in] [card: hedone_prices 0.5,0.42 0.62 +0.6]
+"Hedone says: you can drink here for one copper. Pay two, and you'll drink better."
+::: S042 | A woman serving behind a masonry bar counter slides a clay cup of deep red wine to a local man, who sets down four small copper coins in a row [same-as: S040] [still] [sfx: coins]
+"Pay four, and you'll drink Falernian." The top of the range.
+::: S043 | Object insert: five small copper coins in a row on a worn masonry counter, the first one slid a little apart from the other four
+A copper is small change. One list scratched on a wall puts a daily allowance at five coppers. So the cheap wine is a fifth of that.
+::: S044 | A Roman bakery: a domed brick oven with a fire glowing inside, round loaves scored into segments cooling on a wooden board, a baker holding a long wooden peel
+For bread, there are more than thirty bakeries in town.
+::: S045 | A paved Roman bakery room with two tall hourglass-shaped grey stone mills: on the left a donkey harnessed by a breast strap to a wooden bar fixed in its mill, walking in a circle; on the right an enslaved worker pushing a separate wooden bar on the other mill; flour dust in the air, plain plastered walls with sacks of grain against them [sfx: mill-grind]
+Grain is ground in big stone mills, turned by donkeys, or by enslaved workers.
+::: S046 | A dim, closed Roman mill-room: plain plastered walls, only small barred windows high up near the ceiling, a stone mill in the middle of the room, worn circular grooves in the stone floor around it, an empty stretch of floor on the right [zoom-out]
+We know about one mill-room from a modern excavation in twenty twenty-three. It worked like a prison. No door to the street. Just small barred windows, high up.
+::: S048 | A modest Roman neighbourhood near a town gate: small shops and plain houses along a street, a stone drain opening in the roadway, an empty stretch of pavement on the right [pose: shrug-smirk 0.86,0.97 0.6] [still]
+You might assume ordinary people lived on scraps while the rich ate well. In one part of town, the drains say otherwise.
+::: S049 | Object insert: a scatter of tiny finds from an ancient drain on a stone slab: small pointed olive stones, tiny flat lens-shaped lentils, grape seeds, thin fish bones, broken eggshell and cracked nut shells
+They held grain, fruit, nuts, olives, lentils, fish, eggs, even salt fish from Spain.
+::: S050 | Behind a Roman house: a stone drain opening in a paved yard, and beside it a heap of food scraps with a long butchered giraffe leg bone showing cut marks, oyster shells and the spiny shell of a sea urchin, empty paving on the right [pose: freeze-lantern right 0.6] [still]
+And one drain held shellfish, sea urchin... and a butchered bone from a giraffe's leg.
+::: S051 | Code-drawn schematic, not an image-model picture (build/director_review/T06_S051/draft_s051_schematic.py): the four single-handled fish-sauce jars (urcei) of the atrium mosaic, each with its own label and translation, and a small plan with one jar at each corner of the rain pool. Never regenerate it with the image model [note: Fish-sauce jars in the floor mosaic of A. Umbricius Scaurus' house, Pompeii, by AD 79 (schematic)] [zoom-in]
+Fish sauce. One maker, Aulus Umbricius Scaurus, put his jars on his floor in mosaic: "flower of garum, made from mackerel, from the workshop of Scaurus."
+::: S124 | [reuse S035] [pose: thumbs-up 0.90,0.97 0.55] [still]
+Breakfast, done. Now, how does this town earn its money? Fair warning: the next job smells worse than fish sauce.
+
+## Wool, work and urine
+::: S052 | A Roman house turned into a laundry: a large stone basin in the hall full of soaking cloth, workers in short tunics treading cloth in tubs at the back, long strips of cloth drying on the roof terrace above [pan-right] [sfx: water-splash 0.5]
+Cleaning cloth is big business in this town.
+::: S053 | [reuse S052] [pose: cover-nose 0.20,0.97 0.6 flip] [still]
+In the fullery of Stephanus, a whole house has been turned into a laundry, with a big basin in the hall and tubs out back.
+::: S054 | A large clay pot standing at a Roman street corner, a passer-by in a tunic eyeing it doubtfully, an empty stretch of pavement on the right
+And yes, fullers did use urine. But the famous story of pots on street corners, for passers-by to fill?
+::: S055 | [reuse S054] [pose: shrug-smirk 0.15,0.84 0.55] [still]
+The evidence for that is pretty weak.
+::: S056 | A Roman house courtyard turned into a workshop: women spinning wool with spindles and one weaving at an upright loom under a colonnade, small unreadable scratched marks on the plaster of the portico [note: Wool allotment list scratched in a portico, Pompeii, by AD 79]
+Wool work happens at home too. In one house's portico, someone scratched about a dozen women's names, each given a weight of wool.
+::: S057 | The plastered wall of a Roman front hall with a long column of small scratched marks and tallies, unreadable, a wooden bench below it [note: Food list scratched in a front hall, Pompeii, by AD 79] [zoom-in]
+Someone else kept a running food list on the wall of a front hall, for about a week.
+::: S058 | Object insert: on a wooden table, a round loaf, a wedge of cheese, a small jar of olive oil, a cup of wine, onions, leeks, a sausage, a few dates and a few lumps of incense in a tiny clay dish
+Bread every day. Cheese, oil, wine, onions, leeks, a sausage, dates. Even incense.
+::: S059 | A young boy in a plain worn tunic carrying a round loaf of bread through a Roman kitchen doorway [still]
+And separate entries: "bread for the boy". The boy is probably a slave.
+::: S060 | [reuse S061] [still]
+We don't know how many Pompeians were enslaved. One recent study suggests perhaps a fifth to nearly a third of the town.
+::: S061 | The same banker at his wooden table outdoors under the forum colonnade, writing on a wax tablet with a stylus, its marks tiny and unreadable, a stack of closed hinged wooden tablets beside him [same-as: S060] [still]
+Enslaved people turn up in a banker's auction records, on that food list, and in that barred mill-room. So who runs this town?
+
+## Election season
+::: S062 | A Roman street at midday, the plaster house fronts painted with rows of flat white lime-wash rectangles, each filled with soft smudged red brush strokes, a crowd passing beneath them [pan-left] [sfx: crowd-roman-street 0.4]
+Back on the street, the walls are shouting. Most of the painted notices are election adverts. About two and a half thousand survive.
+::: S063 | Split composition: on the left a Roman magistrate in a toga inspecting workers relaying the grey stone paving of a road between plastered red and ochre house fronts, the green slope of Vesuvius behind; on the right a magistrate in a toga seated on a folding stool on a raised platform, listening to two townsmen arguing their case
+Every year, probably in March, Pompeii elects its magistrates, the men who run the town.
+::: S064 | Object insert: a flat patch of fresh white lime-wash on a plastered wall, painted with a few big soft smudged red brush strokes [note: Election notices, Pompeii, by AD 79: O V F = "I ask you to elect him"] [still]
+Many notices carry three letters: O, V, F. Short for "I ask you to elect him."
+::: S065 | A Roman street at night: a sign painter on a wooden ladder painting big soft smudged red brush strokes onto a flat white lime-wash rectangle on the plaster wall, a helper holding up a small hand lantern with cloudy horn sides and steadying the ladder, a third man whitewashing a patch of wall beside them, a single moon in the sky
+Most are probably the work of sign painters, often in teams, and some seem to work at night.
+::: S066 | The same night street seen closer: the painter on the ladder, the white lime-wash rectangle beside him half filled with soft smudged red brush strokes, his helper below holding up a small hand lantern with cloudy horn sides in one hand and steadying the ladder with the other, a third man brushing whitewash onto the wall beside them, an empty stretch of pavement on the far right [same-as: S065] [pose: watch-arms-crossed 0.17,0.995 0.8 flip]
+One whitewashes the wall. Another holds the lantern, and the ladder.
+::: S067 | Object insert: a short band of soft smudged red brush strokes painted straight onto old plaster above a doorway [note: Painted next to an election notice, Pompeii, by AD 79] [still] [card: lantern_carrier 0.5,0.33 0.45 +2.2]
+Next to one notice, someone painted: "Lantern-carrier, hold the ladder."
+::: S068 | A lone Roman man, a sign painter, on a ladder against a house wall at night under a single full moon, brush in hand, the wall beside him painted with soft smudged red brush strokes on a white lime-wash rectangle, no one else in the street [zoom-in] [card: alone_by_moon 0.27,0.14 0.42 +3.7]
+One painter, Aemilius Celer, signed a notice for the games: "alone, by the moon".
+::: S069 | A Roman house front by day with several flat white lime-wash rectangles painted on the plaster, each filled with soft smudged red brush strokes, a group of cloth-workers in plain tunics pointing proudly at one of them, an empty stretch of pavement on the right [pose: count-fingers right 0.6]
+The notices also say who's backing whom. "All the fullers." "All the fruit-sellers." "The neighbours."
+::: S070 | A group of cheerful Roman men holding clay cups outside a bar in the evening, raising their cups and laughing, grouped on the left and in the centre, an empty stretch of pavement on the right [still] [sfx: crowd-laugh 0.5]
+And sometimes... "all the late-night drinkers". Or "the little thieves".
+::: S071 | [reuse S070] [pose: shrug-smirk 0.87,0.97 0.5]
+Real fans? A joke? A rival trying to embarrass the candidate? We can't tell.
+::: S072 | A Roman woman in a mantle standing beside a flat white lime-wash rectangle filled with soft smudged red brush strokes, painted on a house front, pointing at it proudly
+Women can't vote. But they still back candidates in public. About one in fifty messages of support comes from a woman.
+::: S073 | Close view of an older Roman woman with grey hair and a warm smile standing in front of a plastered wall painted with soft smudged red brush strokes
+One calls herself the candidate's "eager grandmother".
+::: S074 | A Roman street crowd in front of plaster walls painted with rows of white lime-wash rectangles filled with soft smudged red brush strokes, some people looking at them closely, others walking past without a glance, an empty stretch of pavement on the left [pose: scratch-head 0.06,0.80 0.45 flip]
+But how many people here can actually read all this? Honestly, nobody knows.
+::: S075 | Split composition: on the left a Roman man standing in front of a plastered wall, his hands empty, pointing up at a white lime-wash rectangle of soft smudged red brush strokes painted on it and reading it aloud to a small group of listeners; on the right a shopkeeper scratching small tally marks on a wax tablet
+One famous estimate says only about one in ten people in the Roman world could read. Others think many more managed names, numbers and greetings.
+
+## Baths, toilets and gossip
+::: S076 | The courtyard of Roman public baths in the afternoon: a colonnaded exercise yard, people arriving with small bundles of clothes, a bath building with low domed roofs [pan-right] [sfx: crowd-roman-street 0.15]
+Either way, it's time for a wash. The Roman architect Vitruvius says bathing hours run mainly from noon to evening.
+::: S077 | The exterior of an old Roman bath building on a side street, a small separate doorway on the left with a woman going in through it, an empty stretch of pavement on the right [pose: look-around right 0.6]
+The Stabian Baths are the oldest public baths in town, about two hundred years old. Women get a smaller, plainer suite, with its own street door.
+::: S078 | Cross-section of a Roman bath's hot room that fills the frame edge to edge: above, men bare-chested with linen cloths wrapped at the waist sitting on marble benches in steam; below the raised floor, a shallow empty space held up by rows of knee-high stacks of square tiles, hot air flowing between them from a glowing furnace mouth on the left where one stoker stands outside, and the heat rising through hollow box tiles inside the walls
+Hot air from furnaces runs under the floors and inside the walls.
+::: S080 | A small Roman kitchen: a raised masonry hearth at table height with a cooking pot over a small fire, and right beside it a narrow alcove with a low masonry bench, a single round seat opening cut into its top over a pit [zoom-in]
+And the toilet? At home, many houses have their own: usually a single seat, often right in the kitchen.
+::: S081 | [reuse S080] [pose: gag-back-away 0.82,0.93 0.52]
+Yes, where the dinner is cooked. And it empties into a cesspit, not a sewer.
+::: S082 | Object insert: a natural sea sponge fixed on the end of a wooden stick, standing in a clay pot of water beside a low masonry latrine bench with a round seat opening cut into its top [still]
+And the famous sponge on a stick? The Roman writer Seneca does mention one, in the latrine of a school for beast-fighters.
+::: S083 | [reuse S080] [pose: freeze-embarrassed 0.6,0.97 0.6]
+But nothing tells us exactly how Pompeians wiped. Some archaeologists think the sponge cleaned the toilet, not you.
+::: S084 | A narrow Roman back alley between plastered walls, big soft smudged white brush strokes painted straight onto the plaster of the left wall, nobody about [note: Painted warning in an alley, Pompeii, by AD 79] [card: cacator_short 0.20,0.34 0.33 +4.0]
+People here have views on toilet manners, too. In one alley, a big painted warning to anyone relieving himself there: "Crapper, beware of trouble."
+::: S085 | [reuse S084] [pose: walk-fast 0.56,0.97 0.52 flip] [card: cacator_long 0.215,0.40 0.36 +0]
+A longer version adds that if you ignore it, you'll have Jupiter angry with you.
+::: S086 | The plastered wall of a Roman corridor covered with small scratched messages and little drawings of boats and animals, all unreadable, two local people reading them and laughing on the left, an empty stretch of floor on the right [card: samius 0.71,0.24 0.40 +2.0]
+Many messages are more personal. "Samius to Cornelius: go hang yourself."
+::: S087 | A Roman weaver at an upright loom glancing hopefully at a young woman carrying a basket past his door, who ignores him [still]
+And a love triangle. Successus the weaver loves a slave girl called Iris. She doesn't care for him, writes his rival.
+::: S088 | [reuse S086] [pose: eyebrow-raise 0.76,0.99 0.75] [still]
+Successus writes back.
+::: S089 | The interior of an elegant Roman atrium with painted walls, small scratched graffiti near the entrance and beside a wooden staircase, unreadable, an empty floor on the right [pose: look-around right 0.6]
+And this isn't vandalism. People write inside houses too, even rich ones: in entrance halls, in the atrium, by the stairs.
+::: S090 | Object insert: childish charcoal scribbles low on a plastered wall just above the floor: little stick drawings of fighters with shields and swords and of a boxer lying flat, and small traced outlines of little hands [note: Children's charcoal drawings, Pompeii, by AD 79] [still]
+Even the kids join in. Low on one wall, small children drew in charcoal: gladiators, and a boxer knocked flat.
+::: S091 | [reuse S090] [pose: closeup-smile 0.22,1.04 0.95 flip]
+They traced round their own hands, too. Archaeologists think they were about seven. So where does a seven-year-old get the idea of gladiators?
+
+## The games
+::: S092 | A Roman house front with one very wide white lime-wash band painted on the plaster, filled with big soft smudged red brush strokes, local people gathering in front of it excitedly [sfx: crowd-roman-street 0.4]
+From the walls, for a start. There are notices for the games.
+::: S093 | Split composition: on the left pairs of gladiators fighting in a sandy arena; on the right a big canvas awning stretched over tiers of stone seats in bright sun
+One notice, painted years earlier, promised twenty pairs of gladiators, a proper animal hunt and, the real selling point, awnings to keep off the sun.
+::: S094 | High three-quarter view from outside Pompeii's amphitheatre on a sunny day: a complete oval of grey stone seat rows running all the way round, near side included, dug down into the ground so the pale yellow sand arena floor lies well below the forecourt; around the outside a plain stone retaining wall about one storey high with a single row of shallow blind arches; two wide stone staircases climbing along the outside face of that wall to a walkway on the top rim; at the near end a wide vaulted stone passage sloping visibly down into the arena, its big wooden double gate standing open; the town wall with a square stone tower beside it on the right; crowds climbing the stairs and walking down through the gate [pan-right]
+The shows happen here, in the amphitheatre, built around seventy B.C. by two local magistrates.
+::: S095 | View from the top seat rows of the same open-air amphitheatre: the oval sandy arena sunk below, plain grey stone seat rows all the way round with a low plain stone parapet at the top, a canvas awning on wooden masts drawn over one side, spectators filling the seats, an empty stretch of stone seat row in the foreground on the right [same-as: S094] [pose: thumbs-up 0.8,0.97 0.4] [sfx: crowd-arena 0.3]
+It may hold around twenty thousand people. In our time, it's the oldest securely dated amphitheatre still standing.
+::: S126 | A large open square surrounded by a long colonnade behind a Roman theatre, men training as gladiators with wooden swords and shields on the sandy ground
+And after the earthquake, this colonnaded square behind the big theatre became the gladiators' barracks.
+::: S096 | A small courtyard of a Roman house surrounded by plastered columns, one column in the foreground on the left, scratched with small unreadable marks, an empty stretch of paving on the right [pose: eyebrow-raise right 0.6] [card: celadus 0.33,0.22 0.44 +4.1]
+Gladiators have fans. On a column in their old barracks, someone scratched: "Celadus the Thracian, the girls' heartthrob."
+::: S097 | [reuse S096] [card: celadus 0.33,0.22 0.44 +0] [note: Three fights — CIL IV 4342] [still]
+He'd fought three times.
+::: S098 | The same amphitheatre in the same view during a riot: spectators brawling on the stone seat rows and on the open ground outside, stones flying, frightened bystanders running away [same-as: S094] [sfx: crowd-riot]
+But twenty years ago, in fifty-nine A.D., a show here went badly wrong.
+::: S099 | The same riot seen closer at the amphitheatre's outer staircases: two groups of townsmen shouting, throwing stones, and a few of them waving short knives [same-as: S098] [sfx: crowd-riot 0.45]
+Pompeians and visitors from neighbouring Nuceria traded insults. Then stones. Then blades.
+::: S100 | Wounded men being carried away on stretchers along a Roman road, women weeping beside them [still]
+Many Nucerians were carried to Rome, maimed and wounded. Many mourned dead children or parents.
+::: S101 | The same amphitheatre in the same view standing empty and silent, its big wooden double gate shut, no one on the stone seats or the stairs [same-as: S094] [zoom-out]
+Rome banned Pompeii from holding such gatherings for ten years.
+::: S102 | [reuse S098] [still] [note: Our drawing of the riot of AD 59. The real wall painting of it, from house I.3.23, is in the Naples Archaeological Museum]
+And someone had the riot painted on a wall of their house.
+
+## The end of the story
+::: S103 | Mount Vesuvius on the left of the frame, seen across Pompeii's rooftops on a calm clear day, open sky on the right [pose: closeup-worried 0.70,1.04 0.95] [still]
+So, back to the question from the start. When does all of this end?
+::: S104 | Object insert: a single loose leaf of old parchment lying on a wooden desk, covered in small faded brown handwriting, blurred and unreadable [note: Pliny the Younger, Letters 6.16 and 6.20, written years after AD 79] [zoom-in]
+To work out the date today, we turn to the oldest copies of a letter by the Roman writer Pliny. They give the twenty-fourth of August.
+::: S105 | Interior of a dim Roman room: a plastered wall with a short line of faint black charcoal marks at head height on the left half of the wall, blurred and unreadable, a beaten-earth floor with an empty stretch on the right [note: Charcoal note, Pompeii: "16th day before the Kalends of November" (17 October), year unknown] [zoom-in]
+But in a modern excavation in twenty-eighteen, a charcoal note turned up on a house wall, dated the seventeenth of October.
+::: S106 | [reuse S105] [pose: closeup-thoughtful right 0.95] [still]
+So lots of people switched to October. But the note has no year.
+::: S107 | The same dim plastered wall seen close: a few fresh, crisp black charcoal squiggles, unreadable, a stick of charcoal resting on a stone ledge below [same-as: S105]
+And when park staff wrote on that wall in fresh charcoal, it was still easy to read ten months later.
+::: S108 | [reuse S105] [pose: shrug-smirk right 0.6]
+So the note could be from seventy-eight A.D., the year before the eruption. Which means we don't know the exact day.
+::: S109 | View across the Bay of Naples from a terrace at Misenum: a young Roman man watching a huge pine-tree-shaped cloud rising from Vesuvius far across the water [zoom-in]
+Back in seventy-nine A.D., we have an eyewitness to the eruption. Pliny the Younger, aged seventeen, watched from Misenum, across the bay.
+::: S110 | Grey ash and small pale pumice stones falling onto Roman ships at sea, sailors covering their heads with their cloaks [sfx: rumble-deep 0.5]
+He describes a cloud shaped like a pine tree. Ash, then pumice, falling on the ships.
+::: S111 | Near-black darkness inside a small room: closed wooden shutters on the left with only a thin cool grey line of light along their edges; on a shelf a clay oil lamp, its wick cold and black, a thin curl of grey smoke rising from it, picked out in dim cool grey; nothing else visible [still]
+And then a darkness, he wrote, like a closed room with the lamp put out.
+::: S112 | A Roman study at night, lit by a single clay oil lamp: an older man in a fine tunic seated at a wooden table writing on a wax tablet with a stylus, the marks tiny and unreadable, an empty stretch of floor on the right [pose: eyebrow-raise 0.78,0.99 0.9] [still]
+Funny thing: in those letters, he never mentions Pompeii at all.
+::: S113 | A Roman street in Pompeii under a heavy ash-grey sky, pumice and ash falling thickly and piling on the pavements, people hurrying away holding bundles over their heads, an empty stretch of pavement on the right [pose: cushion-overhead 0.73,0.97 0.5] [sfx: pumice-fall 0.5] [sfx: pumice-fall 0.5 +4.6]
+And this eruption brings no lava at all. For about eighteen hours, pumice and ash rain on the town, piling up two to three metres deep.
+::: S114 | A Roman street buried knee to waist deep in pale grey pumice stones and ash, more small pumice stones falling thickly from a dark grey sky, pumice heaped on the roofs, one tiled roof sagging and caving in, its beams cracking [still] [sfx: pumice-fall 0.4] [sfx: pumice-fall 0.4 +1.8]
+Roofs cave in. Then, early the next morning, scorching currents of gas and ash sweep through the streets.
+::: S115 | Wide view of a Roman town gate, a tall round-headed arch of cut stone blocks over a vaulted stone passage between two square stone towers in the town wall, under a dark grey sky thick with falling pumice, grey pumice lying on the roofs and the road, long lines of frightened people with handcarts and bundles hurrying out through the gate [zoom-out] [sfx: pumice-fall 0.35]
+Modern excavations have found the remains of about thirteen hundred people. But the ancient town held many thousands.
+::: S116 | [reuse S115] [still] [sfx: pumice-fall 0.3]
+Most probably got out while the pumice was still falling. How many died as they fled, no one can say.
+::: S117 | [reuse S003] [pose: closeup-thoughtful right 0.95]
+Remember all that writing? Someone once scratched a little poem on a wall of the basilica.
+::: S118 | Object insert: a few lines of thin scratched marks on old pale plaster, unreadable [note: Graffito in the basilica, Pompeii, by AD 79] [still] [card: marvel_wall 0.5,0.38 0.62 +0.1]
+"I marvel, wall, that you haven't collapsed under the boring scribbles of so many writers."
+::: S119 | [reuse S009] [pose: shrug-smirk 0.61,0.86 0.55]
+Why the walls? Because that's where the whole street will see it. Strip away the Latin, and it's rent, wine prices, elections and gossip. Sound familiar?
+::: S120 | Object insert: a cracked, weathered fragment of old Roman plaster wall, its faded red brush smudges and thin scratched marks still visible, grey dust and small pieces of pale pumice at its foot [zoom-out]
+Almost two thousand years later, we're still reading their scribbles. Boring? Hardly.
+::: S121 | [reuse S001] [pose: thumbs-up 0.55,0.97 0.55] [still]
+And if you'd like another day in another town, medieval London is waiting for you, right here.

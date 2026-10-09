@@ -1,0 +1,341 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "Two imagined households and the Visitor's choice are composite framing for Paris1783, not a recovered day's menu or a claim that all rich/poor people ate alike.",
+    "sources": [],
+    "locator": "Original comparison structure.",
+    "limit": "No invented names, household accounts, exact daily budget or universal meal.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S006",
+      "S010",
+      "S013",
+      "S019",
+      "S020",
+      "S021",
+      "S022",
+      "S024",
+      "S025",
+      "S030",
+      "S031",
+      "S034",
+      "S035",
+      "S036",
+      "S040",
+      "S042",
+      "S043",
+      "S044",
+      "S045",
+      "S049",
+      "S062",
+      "S066",
+      "S069",
+      "S073",
+      "S088",
+      "S089",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "Mercier describes abundant food at Les Halles and prominent pastry, charcuterie and roast-food displays in Paris.",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Chapter67 opening and chapter362 opening.",
+    "limit": "Availability in shops does not establish affordability for all; do not reproduce his precise counts or every-day guarantees.",
+    "scene_ids": [
+      "S007",
+      "S009",
+      "S011",
+      "S012",
+      "S013",
+      "S015"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "E",
+    "claim": "Mercier calls bread a principal food of the urban poor.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Chapter631 paragraph beginning Le pain qu'on mange à Paris.",
+    "limit": "Not their sole food, not a quantified calorie percentage; no modern nutrition equivalence.",
+    "scene_ids": [
+      "S019",
+      "S023"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Mercier gives an example of a poor household whose small sausage purchase supplies its limited good fare, and argues small purchases can be costly.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter67 paragraph Plus les classes sont indigentes.",
+    "limit": "One author's example, not a universal diet or measured representative family; no assertion the portion was all calories for a whole day.",
+    "scene_ids": [
+      "S015",
+      "S017",
+      "S018",
+      "S019",
+      "S024",
+      "S026",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "His account also names soup and boiled beef, evening beef dishes and Sunday mutton among ordinary Parisian meals.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter67 À dîner,la soupe,le bouilli.",
+    "limit": "Do not turn his broad rhetorical population estimate into data or suggest these meals were within every destitute person's reach.",
+    "scene_ids": [
+      "S026",
+      "S027",
+      "S028"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "I",
+    "claim": "The relevant comparison includes quantity, choice, preparation and access, not a rule that poor people ate no meat or that cabbage meant poverty.",
+    "sources": [
+      "SRC01",
+      "SRC05"
+    ],
+    "locator": "Ordinary-meal and sausage passages; Menon cabbage recipe.",
+    "limit": "Synthesis of cited examples, not a claim of identical diets or an affordability index.",
+    "scene_ids": [
+      "S005",
+      "S009",
+      "S014",
+      "S021",
+      "S029",
+      "S030",
+      "S050",
+      "S060",
+      "S085",
+      "S086",
+      "S087",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "Menon's1755cookbook lists roast poultry by season and explains spit preparation; poultry also appears in Mercier's roast-shop descriptions.",
+    "sources": [
+      "SRC05",
+      "SRC02"
+    ],
+    "locator": "MenonIII pp29–33; Mercier362.",
+    "limit": "Supports an illustrative affluent poultry dish, not a specific1783banquet menu or universal luxury item.",
+    "scene_ids": [
+      "S020",
+      "S037",
+      "S038",
+      "S039"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "Menon's cabbage recipe blanches, cools and squeezes the cabbage, then braises it and serves it around meat.",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "VolumeIII p24,Ragoûts de Choux.",
+    "limit": "Descriptive history, not modern recipe/safety advice; no unsourced exact cooking times.",
+    "scene_ids": [
+      "S036",
+      "S045",
+      "S046",
+      "S051",
+      "S052",
+      "S053",
+      "S054",
+      "S063",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Its sauce uses ham,mushrooms,garlic with a clove,broth/coulis; it is reduced,strained and finished with pepper.",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "VolumeIII p24,same recipe.",
+    "limit": "Do not replace cabbage sauce with neighbouring cauliflower's butter recipe. No invented cream in this particular sauce.",
+    "scene_ids": [
+      "S036",
+      "S047",
+      "S055",
+      "S056",
+      "S057",
+      "S058",
+      "S059",
+      "S063",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "I",
+    "claim": "This recipe demonstrates that an ordinary vegetable can involve multiple ingredients,stages,fuel and skilled work; the finished plate hides some preparation.",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "Cabbage/sauce sequence.",
+    "limit": "No measured labour hours,cost or assumption every wealthy household used this recipe.",
+    "scene_ids": [
+      "S032",
+      "S035",
+      "S043",
+      "S044",
+      "S048",
+      "S049",
+      "S050",
+      "S060",
+      "S061",
+      "S071",
+      "S073",
+      "S074",
+      "S088",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "E",
+    "claim": "Mercier describes small households with limited hearths sending meat to pastry-shop ovens, partly to save wood; they pay for cooking.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Chapter362 paragraph Les petits ménages.",
+    "limit": "Modest households able to buy meat, not necessarily the poorest. No universal home-oven absence or exact charge schedule.",
+    "scene_ids": [
+      "S032",
+      "S033",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S069",
+      "S070",
+      "S071",
+      "S072",
+      "S073",
+      "S074",
+      "S085",
+      "S090",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "Mercier says some wealthy-household servants ate better than modest bourgeois because lavish tables left food; this is his social observation.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Chapter67 un laquais; chapter383 on service and food.",
+    "limit": "Explicitly attributed, not every servant, not proof servants had more power or better lives than employers.",
+    "scene_ids": [
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080",
+      "S085",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "E",
+    "claim": "Menon gives a rissoles recipe starting with leftover roast poultry, turning it into filling enclosed in thin pastry and fried as crescents.",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "VolumeIII p26,Rissoles à la Béchamel; p27game alternative separately.",
+    "limit": "Use poultry recipe only; do not claim all leftovers followed this route or identify it as a modern croquette.",
+    "scene_ids": [
+      "S075",
+      "S076",
+      "S081",
+      "S082",
+      "S083",
+      "S084",
+      "S085",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "type": "I",
+    "claim": "Mercier uses sharp social criticism and staged dialogue mocking wealthy diners' demands for novelty; this differs from a prescriptive cookbook. Neither supplies a whole society's actual menu or a single cause of revolution.",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03",
+      "SRC05"
+    ],
+    "locator": "Cross-source synthesis.",
+    "limit": "No cake quotation, famine spectacle or claim dinner alone caused1789.",
+    "scene_ids": [
+      "S007",
+      "S008",
+      "S016",
+      "S041",
+      "S042",
+      "S087",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

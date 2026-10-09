@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: You Join the Gold Rush in 1849. Can You Get Rich?
+
+## You found gold. Are you rich?
+::: S001 | Tiny gold flecks against wet black sand in plain pan; no huge nugget. [pose: closeup-smile 0.8,1.02 0.82] [zoom-in]
+You have finally found gold. There are little yellow flecks in the pan, and for a moment everything seems worth it.
+
+::: S002 | Counter with used rocker, two pans, kettle and modest provisions, no painted prices. [pan-left]
+Then you remember the equipment, the food, and the fact that somewhere to sleep may cost money too.
+
+::: S003 | Small gold icon and separate expenses column, no fictional balance. [still]
+The gold is real. The fortune is still a question. Those are very different things when you have bills to pay.
+
+::: S004 | Dry Bidwell river bar, trio by bank with oak ridge and shallow water. [pose: look-around 0.8,0.94 0.6] [pan-right]
+We are on California's Feather River in autumn eighteen forty-nine, following one small group's choices.
+
+::: S005 | Plain source card, memoir title and publication date. [still]
+Kimball Webster's account describes their encouraging start—and an unwelcome change in circumstances.
+
+::: S006 | Trio examines exposed bank; Visitor separate at right, no tool added. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S004] [pan-left]
+The Visitor will follow their decisions. This is one experience, not a paycheck we can promise every miner.
+
+::: S007 | Four simple decision icons, no game score or guaranteed route. [still]
+Take paid work or dig for yourself. Buy equipment, find a claim, and see what the weather does to your plans.
+
+::: S008 | House frame with two workers and plain hand tools, not completed mansion. [pan-right]
+By the end, a job paying less than those exciting early returns might look much more attractive.
+
+::: S009 | Few flakes collected toward pan edge; no overflowing bag. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [zoom-in]
+Can you get rich here? What has to happen before gold becomes money you keep?
+
+::: S010 | Two dated points, earlier discoveries and1848 Marshall find, no origin myth. [still]
+The discovery at Sutter's mill helped ignite the rush. It was not the first time anybody had found gold in California.
+
+::: S011 | Several small work groups spaced along bar, no impossible mass crowd. [same-as: S004] [zoom-out]
+By eighteen forty-nine, newcomers were pouring in. The opportunity was real, and the work was already underway.
+
+::: S012 | Low diversion works, hand barrow and two labourers on bank; clear place for Visitor. [pose: look-around 0.8,0.94 0.6] [pan-right]
+Before buying a claim, they found an employer offering a daily rate and meals while they worked.
+
+## A job with meals
+::: S013 | Three newcomers face foreman beside small temporary works, no contract signature invented. [same-as: S012] [zoom-in]
+At Bidwell's Bar, Webster and two companions agreed to work on a river-diversion dam for six dollars each per day, with board.
+
+::: S014 | Temporary diversion channel skirting low barrier, no full-scale reservoir or exposed fantasy gold vein. [same-as: S012] [pan-left]
+The dam would divert water so the riverbed could be mined. Building it was heavy labour.
+
+::: S015 | Two workers carry loaded wooden hand barrow with coherent grips and path. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S012] [zoom-out]
+Webster describes carrying rocks and gravel on hand barrows. This was hard work, even before anybody found gold.
+
+::: S016 | Personal wage card and simple meal icon, no lodging icon. [still]
+Yet the offer had an advantage: an agreed daily rate, with food included.
+
+::: S017 | Trio pauses at bank watching separate miners work a rocker, no staged jackpot. [same-as: S004] [zoom-in]
+Imagine watching the independent miners beside you. Their successes look more exciting than your next load of stones.
+
+::: S018 | Hand barrow set down, trio standing apart with tired posture, no medical collapse. [same-as: S012] [pan-left]
+One of Webster's companions found the labour too much. After two and three-quarter working days, the group left to mine independently.
+
+::: S019 | Two choices on parchment with no invented expected-value percentages. [still]
+They exchanged a stated rate for an uncertain return, hoping their own claim would reward the effort.
+
+::: S020 | Visitor views river from safe bank as three men move toward equipment. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S004] [pan-right]
+That might feel like the reason for coming. You did not cross a continent to carry somebody's gravel.
+
+::: S021 | Used rocker on counter-side ground, two pans together, kettle separated. [same-as: S002] [zoom-in]
+But independence has a shopping list. Before a good day pays you, there are things to buy.
+
+::: S022 | Three sets of historical hands inspect rocker rim, keep hands distinct. [same-as: S002] [pan-left]
+A team can share equipment and divide tasks. That does not make the equipment free.
+
+::: S023 | Heading for documented shared purchases, empty rows pending next chapter. [still]
+Webster recorded several purchases. We can count these real expenses without inventing a complete budget.
+
+::: S024 | Complete plain wooden rocker beside river, upper screen and runners visible. [pose: eyebrow-raise 0.8,0.94 0.6] [pan-right]
+The largest item sounds much gentler than the work it will be doing.
+
+## Buying your independence
+::: S025 | Same rocker on curved runners, aged wood intact; local cost overlay only. [note: GROUP PURCHASE: $50] [same-as: S024] [zoom-in]
+They paid fifty dollars for an old cradle: a wooden machine used to wash gold-bearing dirt, also called a rocker.
+
+::: S026 | Two plain pans, one kettle, pick and shovel clearly separate; local labels on safe margins. [same-as: S002] [pan-left]
+Two tin pans cost eight dollars together. A kettle added another four. They also bought a pick and shovel, whose price is not given.
+
+::: S027 | 50+8+4=62, conspicuous GROUP label and unknown-tools note. [still]
+That is at least sixty-two dollars in the purchases we can price. It is the group's total, not sixty-two dollars charged to each man.
+
+::: S028 | Group-cost card stays without personal-share arithmetic. [still]
+Nor can we invent each person's bill. The account does not explain the full arrangement of shares.
+
+::: S029 | One worker adds dirt to upper hopper, another holds water vessel, third grips rocker; all stationary. [same-as: S024] [zoom-in]
+Now it must earn something. Dirt goes into the screen, water is added, and the cradle is rocked.
+
+::: S030 | Local rocker sectional schematic, downward water/material arrows and riffles; no impossible uphill flow. [still]
+Coarse material stays in the screen. Below it, washing removes lighter material while heavier gold remains.
+
+::: S031 | Trio observes neighbouring rocker across small gap; similar machine with distinct people. [same-as: S024] [zoom-out]
+Watching is not the same as learning. Webster's group copied experienced miners as best they could.
+
+::: S032 | Full hopper of gravel, water poised, no animated overflow implied. [same-as: S024] [pan-right]
+Initially, they pushed through as much dirt as possible. A busy day felt like a productive one.
+
+::: S033 | Dark concentrate with tiny flakes, no clean pile yet. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S001] [zoom-in]
+Then came the awkward part. Their collected material still contained black sand mixed with gold.
+
+::: S034 | Miner tilts pan gently; mixed material still visible, no complete success state. [same-as: S001] [pan-left]
+They struggled to separate it, and could not tell how much their day's work had produced.
+
+::: S035 | Trio studies pan at dusk, tools set aside, no ledger numbers. [pose: scratch-head 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+You can be exhausted without knowing whether the effort paid. The answer is still mixed up in the pan.
+
+::: S036 | Opposite-bank working recess identified as different claim within same river setting, no unlabelled property takeover. [same-as: S004] [pan-right]
+They moved to another claim. Several days later, finishing the separation revealed a result worth getting excited about.
+
+## The number everybody wants to hear
+::: S037 | Small separated gold dust sample beside remaining black sand, not a full ounce rendered to scale. [same-as: S001] [zoom-in]
+Webster says that after five days on that claim, they had averaged nearly one ounce of gold each per day. An encouraging beginning.
+
+::: S038 | Small balance scale and gold dust packet, blank weights, local source label. [note: WEBSTER'S REPORTED EXCHANGE VALUE] [same-as: S002] [pan-left]
+He describes gold dust exchanging at sixteen dollars an ounce, which helps explain their excitement.
+
+::: S039 | NEARLY1oz × reported$16/oz, label GROSS VALUE, no equals exact$16. [still]
+That is nearly sixteen dollars in gross gold value during a good spell. It is not sixteen dollars in daily profit.
+
+::: S040 | Gold dust on scale left, provision bundle and kettle right, no automatic balanced value. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S002] [pan-right]
+Equipment and provisions still cost money. Gold in the pan is different from money available to take home.
+
+::: S041 | Two cards: wage+board versus reported gross find; no misleading shared axis. [still]
+Compare carefully: the six-dollar job included meals. The gold figure describes a find before expenses.
+
+::: S042 | Trio carefully stores small gold sample in plain pouch, no despair over real success. [same-as: S001] [pan-left]
+The distinction matters when you decide whether a few good days can support your plans.
+
+::: S043 | Working riverbank under clear sky, darker cloud edge far away, one sun only. [same-as: S004] [zoom-out]
+Webster thought continuing at that rate would exceed his hopes. The dangerous word is continuing.
+
+::: S044 | Same trio rests beside rocker while cloud cover increases; do not raise water yet. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S004] [pan-right]
+You might build your future around a week that never repeats. The gold need not disappear for circumstances to change.
+
+::: S045 | Open camp bedrolls and cooking kit, tools idle beside oak. [zoom-in]
+The attractive story is a pan of gold. Less visible is the time you cannot work it.
+
+::: S046 | Blankets directly on dry sand, no tent; kettle and fire at safe distance. [same-as: S045] [pan-left]
+Food is still needed then. So is shelter, especially when your sleeping arrangement depends on kind weather.
+
+::: S047 | Three bedrolls under oak, late-evening clear sky, no romantic luxury. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S045] [zoom-out]
+Their group had been sleeping outside. Dry conditions made that seem manageable while they got started.
+
+::: S048 | Edit dry river anchor to wet higher water, exact ridge and oaks retained, subdued grey daylight. [pan-right]
+Then the rainy season arrived, bringing a different set of costs.
+
+## When the river takes back the workplace
+::: S049 | Former dry gravel platform now underwater; recognisable red bank and oak. [pose: look-around 0.8,0.94 0.6] [same-as: S048] [zoom-in]
+Webster dates the change to late October. Rain fell repeatedly, and the rising river covered bars where miners had been working.
+
+::: S050 | Rocker moved safely up bank, trio looks toward covered bar; no workers submerged. [same-as: S048] [pan-left]
+Equipment cannot earn anything on a flooded working place. Getting gold out became much harder.
+
+::: S051 | Loaded mule and handler stopped beside soft track, no animal drowning. [zoom-out]
+The trouble also travelled along the supply route. Mud made it difficult to bring provisions in by the usual pack animals.
+
+::: S052 | Two arrows: WORK INTERRUPTED and SUPPLIES DISRUPTED, no unsupported exact volumes. [still]
+Two problems came together: less opportunity to earn, and more difficulty obtaining necessities.
+
+::: S053 | Plain flour sack in damp store, locally composited before/after price card with clear attribution. [note: WEBSTER'S ACCOUNT • PER POUND] [same-as: S002] [zoom-in]
+In Webster's account, flour rose from forty cents a pound to a dollar and fifty cents. His local example, not a universal price list.
+
+::: S054 | Identical dollar symbol beside smaller flour icon after price rise; label illustrative, not actual ration. [still]
+Their money now bought much less flour. Some gold might still leave little after paying for necessities.
+
+::: S055 | Same camp under rain, rolled blankets gathered off ground, no unsafe fire beneath wet tree. [same-as: S045] [zoom-out]
+Sleeping outside also became a practical problem as the ground grew wet.
+
+::: S056 | Shared tent interior with multiple blankets and narrow aisle, principal trio near opening. [pose: closeup-listening 0.8,1.02 0.82] [pan-right]
+They found space in a large tent belonging to other miners, and each paid two dollars a week for the privilege of sleeping there.
+
+::: S057 | Personal blankets on ground beside tent pole, no mattress or room partition. [same-as: S056] [zoom-in]
+They still supplied their own blankets. The payment bought shelter, not a private hotel room with a bed and meals included.
+
+::: S058 | Separate meal icon for job, shelter icon for tent, no merged package. [still]
+That is a different purchase from the board included in their earlier wage. Combining the two would produce a very misleading budget.
+
+::: S059 | Trio sits around cold covered provision sack, ordinary expressions, no starvation caricature. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S056] [zoom-out]
+Imagine your new week: less work, dearer food, and a fresh charge to sleep under canvas.
+
+::: S060 | Small gold sample in hand beside plain folded blanket, no disappearing coins. [same-as: S001] [pan-right]
+Gold is still valuable. Getting it out and meeting your expenses have become the harder part.
+
+## A promising claim still has expenses
+::: S061 | Different bank recess indicated with plain stakes, no official deed or fake mine sign. [same-as: S048] [zoom-in]
+Webster and one companion also paid forty dollars for another claim in the riverbank. Previous productivity made it look worth considering.
+
+::: S062 | Wet excavated bank and idle hand tools, no visible rich gold vein. [same-as: S048] [pan-left]
+According to his account, it proved little better than their earlier ground. Paying for access did not ensure that the results would improve.
+
+::: S063 | Income and costs near balance without invented dollar totals, attribution conspicuous. [still]
+For the rainy period, his verdict was that they could do little more than cover their expenses despite working when conditions allowed.
+
+::: S064 | Small pouch and basic supplies on cloth, no fabricated financial ledger. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S056] [pan-right]
+No exact net balance is given. We need not invent a dramatic loss to illustrate their disappointment.
+
+::: S065 | Several calendar-like blocks labelled productive/limited work, no exact date counts. [still]
+The best day is a poor description of the whole enterprise. Unproductive days belong in the calculation too.
+
+::: S066 | Different rocky gulch; traveller examines crevice with small hand tool. [note: ELSEWHERE: MOKELUMNE • 1849] [pan-left]
+A different witness, the traveller Bayard Taylor, tried looking for gold in the Mokelumne region. His own brief attempt produced nothing.
+
+::: S067 | Small offered mineral sample in two distinct hands, no secretly planted nugget. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S066] [zoom-out]
+Friends gave him the specimens he took away. Not everybody failed, but fortunes were not effortless.
+
+::: S068 | Three miners converse beside rough shelter, speech text omitted; no omniscient profit labels. [same-as: S066] [pan-right]
+Taylor also found it difficult to learn people's true gains. A camp story might conceal success, disguise disappointment, or repeat somebody else's rumour.
+
+::: S069 | Two men roll blankets to leave, third absent after moving elsewhere; maintain continuity. [same-as: S056] [zoom-in]
+Back on the Feather River, the question became whether to stay. Leaving could mean a change of work, not final defeat.
+
+::: S070 | Two departing miners look back at river from raised track, no theatrical despair. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S048] [pan-left]
+You have already paid for things. That can make it tempting to stay simply because leaving feels like admitting the original plan was wrong.
+
+::: S071 | Two men carry bedrolls along valley path; no loaded mule magically theirs. [same-as: S051] [zoom-out]
+Yesterday's expense cannot predict tomorrow's conditions. Our pair went looking for another way to earn.
+
+::: S072 | Same timber frame introduced earlier, two newcomers beside stacked boards and employer. [same-as: S008] [pan-right]
+By late November, they had accepted a different kind of opportunity. This time, the work involved building a house instead of washing river gravel.
+
+## The rush needed more than miners
+::: S073 | Two workers beside hand tools and timber frame, modest meal vessel nearby. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S008] [zoom-in]
+The offer was four dollars and fifty cents each per day, with board. Webster and his companion agreed to take the work.
+
+::: S074 | Three accurately qualified cards, no false continuous wage graph. [still]
+Lower than their first dam wage, and below the gross value of those promising gold returns.
+
+::: S075 | Timber workbench and simple food bundle, no claim of permanent security. [same-as: S008] [zoom-out]
+But it offered agreed pay with food while mining was difficult. Changed circumstances made the offer attractive.
+
+::: S076 | Workers build while provisions are delivered by ordinary handler, no triumphant merchant caricature. [same-as: S008] [pan-right]
+The rush created demand for labour, supplies and services. It did not guarantee every business success.
+
+::: S077 | Queue outside plain postal window with hill tents behind; no Feather River people reused. [note: SAN FRANCISCO • 1849] [zoom-in]
+Consider a separate example in San Francisco, where arriving mail drew long lines of people hoping for news from home.
+
+::: S078 | Coffee vendor beside patiently waiting adults, one simple tray, no modern takeaway cups. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S077] [pan-left]
+People sold places in the queue, or coffee, pastries and newspapers to those waiting.
+
+::: S079 | Plain cup passed between two historical hands, blank newspaper folded nearby. [same-as: S077] [zoom-out]
+Here, time and a small service were valuable, rather than another supposedly rich patch of gravel.
+
+::: S080 | Vendor checks limited coffee kettle and pastry tray, no giant cash pile. [same-as: S077] [pan-right]
+Appealing from the riverbank, perhaps. But it still needed supplies, customers and work.
+
+::: S081 | Vendor, queue and Visitor observing at edge; no instant-rich arrow. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S077] [zoom-in]
+We cannot promise our Visitor a coffee fortune, any more than a fortune from buying a shovel.
+
+::: S082 | Queue with coffee vendor and nearby plain supply stall, only a few focal figures. [same-as: S077] [pan-left]
+The useful point is that gold drew people, and people needed ordinary things. Some opportunities came from supplying those needs instead of digging.
+
+::: S083 | Return to two workers at house frame, ordinary focused labour rather than celebration. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S008] [zoom-out]
+For the individual newcomer, success might mean changing plans. A decision that looked unexciting on arrival could look sensible after a difficult month.
+
+::: S084 | River and oak landscape with established paths, no empty pristine paradise or settlement demolition. [pan-right]
+Another cost cannot be entered as a miner's purchase. This was somebody else's homeland before the rush.
+
+## Whose opportunity?
+::: S085 | Same landscape with established paths and river access; no invented attack scene. [same-as: S084] [zoom-in]
+California's Indigenous peoples had long histories here. The rush came on top of earlier colonization, bringing further dispossession, resource loss and violence.
+
+::: S086 | Simple homeland/arrival map with broad California outline, no unsourced tribal boundaries. [still]
+For those communities, newcomers' dreams of wealth could mean threats to land, livelihoods and safety. The story cannot begin with an empty map.
+
+::: S087 | River, oak gathering landscape and maintained path, no claim all people vanished. [same-as: S084] [zoom-out]
+Native communities survived and continued rebuilding their lives. Recognizing their experience changes what a celebration of the rush leaves out.
+
+::: S088 | Two short questions, no numerical moral-balance graphic. [still]
+Our Visitor's question is about getting rich. History also asks whose opportunities were supported, and whose losses made those opportunities possible.
+
+::: S089 | Two men work calmly at house frame, wet valley beyond. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S008] [zoom-in]
+For Webster's small group, the answer in this stretch of eighteen forty-nine was mixed: real gold, difficult costs, and a change of occupation.
+
+::: S090 | Return to original small gold sample and pan, identical scale and no magically increased amount. [same-as: S001] [pan-left]
+Their story does not settle every miner's fate. It shows why one exciting daily return can mislead.
+
+::: S091 | Dry river shown as labelled earlier moment, match original anchor exactly. [note: EARLIER: THE PROMISING START] [same-as: S004] [zoom-out]
+So yes, finding valuable gold was possible. Getting ahead depended on much more than spotting yellow in the bottom of a pan.
+
+::: S092 | Three simple ledger headings, unknown values left absent rather than zero. [still]
+Consider what the work produced, what it cost, and what happened when conditions changed.
+
+::: S093 | Three paths with tool/rocker/cup icons, no winner badge. [still]
+Paid work, independent mining, or a service business: which would you choose first, and what would persuade you to try something else?
+
+::: S094 | Two bedroll-carrying men arrive at building work, modest view toward house frame. [same-as: S051] [pan-left]
+Our pair changed course when the goldfields disappointed them. A more useful ending than an invented jackpot.
+
+::: S095 | Small gold pouch beside provisions, clean end-screen space, no giant inflation arrow. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S002] [zoom-out]
+This is Life, Previously. A rush can make the reward look enormous while making the ordinary business of living surprisingly expensive.
+
+::: S096 | Quiet close-up tiny flakes against black sand; hold with clear end-screen margin. [same-as: S001] [pan-right]
+The flakes in the pan tell you that you found gold. The rest of the story tells you whether you got richer.

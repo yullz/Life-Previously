@@ -1,0 +1,508 @@
+{
+  "episode": "wartime-rations",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S022",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S022",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S022",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S022",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S022",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S022",
+      "status": "not_generated"
+    },
+    {
+      "id": "S063",
+      "parent": "S022",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S071",
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S071",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S076",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S045",
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S078",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S001",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S003",
+      "text": "RATIONED ITEMS",
+      "label": "Explanation,not a complete allowance display",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S004",
+      "text": "RATIONS + OTHER FOODS + OTHER MEALS",
+      "label": "Ministry of Food,1951report,paras23–25,47",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S006",
+      "text": "ENTITLEMENT | MONEY | AVAILABILITY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S009",
+      "text": "JULY1944",
+      "label": "Date matters",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S014",
+      "text": "RATIONING | PRICE CONTROLS | SUBSIDIES",
+      "label": "Ministry of Food,1951report,paras19–20,28",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S016",
+      "text": "REGISTER WITH RETAILERS",
+      "label": "Child ration book,1940 · TNA BT131/40",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S017",
+      "text": "SHOPKEEPER REMOVES COUPONS",
+      "label": "1940book,instruction6",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S019",
+      "text": "UNUSED WEEKLY COUPONS DO NOT ROLL OVER",
+      "label": "1940book,instruction9",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S026",
+      "text": "BREAD RATIONING:21JULY1946",
+      "label": "Hansard,27June1946announcement",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S038",
+      "text": "ONE ALLOWANCE | DIFFERENT CHOICES",
+      "label": "Illustrative trade-off,not a1944price list",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S040",
+      "text": "ORDINARY CHEESE RATION:2oz/WEEK",
+      "label": "Hansard,9June1944,col1663",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S042",
+      "text": "LATER:15OCTOBER → 3oz/WEEK",
+      "label": "Hansard,28September1944",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S044",
+      "text": "CHECK WHO QUALIFIES",
+      "label": "Household members could have different provision",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S065",
+      "text": "SAME RULE ≠ SAME SHOPPING DAY",
+      "label": "Interpretation from reported shopping difficulties",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S067",
+      "text": "SATISFACTION REPORTED | COMPLAINTS ALSO REPORTED",
+      "label": "Home Intelligence,18July1944,section14",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S073",
+      "text": "HOME + MEALS ELSEWHERE",
+      "label": "Ministry of Food,1951report,paras23–25",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S082",
+      "text": "RATIONING IN BRITAIN,1944",
+      "label": "IWM COI155 · catalogue description",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S083",
+      "text": "PUBLIC MESSAGE | REPORTED EXPERIENCE",
+      "label": "IWM catalogue + Home Intelligence",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S086",
+      "text": "BOOK | MONEY | SUPPLIES | WORK",
+      "label": "Synthesis",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S090",
+      "text": "ENOUGH TO EAT? | ENOUGH VARIETY?",
+      "label": "Reported satisfaction and complaints",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

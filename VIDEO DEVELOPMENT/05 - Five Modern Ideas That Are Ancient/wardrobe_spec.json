@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "The Visitor crosses several places and centuries as an explicitly modern guide. Keep his familiar outfit throughout; changing to multiple loosely researched ancient costumes would distract from the mechanisms.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Keep him modestly scaled and secondary to each mechanism. Local cast remain period-correct; no extra accessories."
+}

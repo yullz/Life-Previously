@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "No traditional costume is needed. The Visitor remains a subtle modern observer; background shoppers and clerks wear restrained1910s everyday clothing.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Keep his identity and orange hoodie unchanged. Do not add a grocer apron, exaggerated moustache or basket to an approved pose."
+}

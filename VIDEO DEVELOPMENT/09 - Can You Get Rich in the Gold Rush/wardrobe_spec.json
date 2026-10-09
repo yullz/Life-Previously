@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "Visitor observes choices and accounts. Keep normal look; no conspicuous cowboy costume or costume borrowed from Indigenous communities.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Historical miners wear ordinary1849 work shirts, trousers and modest felt hats. No branded riveted jeans or modern mining PPE; Visitor identity unchanged."
+}

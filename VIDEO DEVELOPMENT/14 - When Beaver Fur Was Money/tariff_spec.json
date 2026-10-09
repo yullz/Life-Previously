@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "status": "director_draft_exact_script_review_pending",
+  "historical_scope": "Fort Albany, James Bay, 1733, using the schedule printed by Arthur Dobbs in1744,pp193–194.",
+  "authority": "SRC01 original print. Browser inspection2026-10-09 confirms printed dates and rates. OCR and later tables are subordinate to the scan.",
+  "rates": [
+    {
+      "item": "fishhooks",
+      "quantity": 20,
+      "unit": "hooks",
+      "made_beaver": 1,
+      "source": "p194row26"
+    },
+    {
+      "item": "knives",
+      "quantity": 8,
+      "unit": "knives",
+      "made_beaver": 1,
+      "source": "p194row40"
+    },
+    {
+      "item": "breeches",
+      "quantity": 1,
+      "unit": "pair",
+      "made_beaver": 3,
+      "source": "p194row22"
+    },
+    {
+      "item": "blanket",
+      "quantity": 1,
+      "unit": "blanket",
+      "made_beaver": 6,
+      "source": "p193row15"
+    },
+    {
+      "item": "brass kettle",
+      "quantity": 1,
+      "unit": "pound of kettle weight",
+      "made_beaver": 1,
+      "source": "p193row3"
+    },
+    {
+      "item": "sugar",
+      "quantity": 2,
+      "unit": "pounds",
+      "made_beaver": 1,
+      "source": "p193row7"
+    },
+    {
+      "item": "broadcloth",
+      "quantity": 1,
+      "unit": "yard",
+      "made_beaver": 2,
+      "source": "p193row14"
+    },
+    {
+      "item": "thread",
+      "quantity": 1,
+      "unit": "pound",
+      "made_beaver": 2,
+      "source": "p193row11"
+    },
+    {
+      "item": "gun",
+      "quantity": 1,
+      "unit": "gun",
+      "made_beaver_options": [
+        10,
+        11,
+        12
+      ],
+      "source": "p194row30"
+    }
+  ],
+  "illustrative_calculations": [
+    {
+      "id": "KETTLE",
+      "scene_ids": [
+        "S037",
+        "S038",
+        "S039"
+      ],
+      "input": "Hypothetical3lb kettle",
+      "calculation": "3lb × 1MB/lb =3MB",
+      "not_claimed": "No surviving3lb specimen or receipt; no universal fixed kettle price."
+    },
+    {
+      "id": "BASKET",
+      "scene_ids": [
+        "S077",
+        "S079",
+        "S080",
+        "S081",
+        "S083",
+        "S084",
+        "S085",
+        "S086"
+      ],
+      "budget_MB": 6,
+      "option_A": {
+        "blanket": 1,
+        "total_MB": 6
+      },
+      "option_B": {
+        "breeches_pairs": 1,
+        "fishhooks": 20,
+        "knives": 8,
+        "sugar_lb": 2,
+        "total_MB": 6
+      },
+      "rule": "Alternatives separated by OR. Three+one+one+one=six. Never imply both options can be purchased together for six."
+    }
+  ],
+  "graphics": "All numerals, labels, counted20-hook/8-knife sets, running totals and source excerpts are local SVG/PNG. If simplified to one representative object, attach ×quantity explicitly. Six accounting squares must look like modern teaching graphics, not historical metal tokens.",
+  "rejected_inputs": [
+    "Later heritage-derived tables giving blanket1, breeches1 or broadcloth2yards/1 contradict original print.",
+    "UVic compilation gives several incorrect item counts; do not copy its table.",
+    "No needle quantity: original row includes a technical size assortment and was not needed for the story.",
+    "No Canadian-dollar conversion, earnings-per-hour estimate, gun-height barter rule or later token imagery."
+  ],
+  "historical_characters": "Fictional customer pair remains consistent across1733scenes. Whatting1706 appears only in the labelled earlier account, without portrait or cultural identity claimed beyond source. Do not turn him into our1733customer.",
+  "layout_links": [
+    {
+      "derived_location": "cloth",
+      "reference_scene": "S006",
+      "instruction": "Macro angles preserve counter, window and cloth-bolt family. They do not require an exact fort floor plan."
+    }
+  ],
+  "visual_qa": [
+    "Correct units and alternatives remain visible at mobile size.",
+    "No later striped point blankets, fabricated seals or paper currency.",
+    "Indigenous adults are purposeful customers with equal physical scale; no caricature or generic Plains regalia.",
+    "Brass kettle is a cooking vessel with bail, not a spouted modern tea kettle.",
+    "Scope cards distinguish1733,1706flashback, winter context and European workshop."
+  ]
+}

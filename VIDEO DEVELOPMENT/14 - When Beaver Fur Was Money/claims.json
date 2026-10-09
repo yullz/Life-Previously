@@ -1,0 +1,405 @@
+[
+  {
+    "id": "C0",
+    "claim": "Visitor visit, dialogue-free choices, six-unit budget and shopping basket are explicitly illustrative, not a recovered transaction or named customer's experience.",
+    "type": "F",
+    "sources": [],
+    "locator": "Director framing",
+    "limit": "Signal 'imagine'/'our example'; do not invent a quotation, documented name, exact fort plan or typical household budget.",
+    "scene_ids": [
+      "S002",
+      "S003",
+      "S004",
+      "S023",
+      "S026",
+      "S030",
+      "S032",
+      "S039",
+      "S040",
+      "S064",
+      "S069",
+      "S076",
+      "S078",
+      "S079",
+      "S086",
+      "S087",
+      "S088",
+      "S092",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "claim": "Dobbs1744 prints a1733trade standard for Albany Fort, Moose River and East Main; this episode uses Albany on James Bay as its setting.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Dobbsp193heading; Museum seal-site paragraph",
+    "limit": "Not AlbanyNY, YorkFactory1740 or a nationwide fixed tariff.",
+    "scene_ids": [
+      "S004",
+      "S022",
+      "S023",
+      "S063"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "claim": "Made beaver was an exchange/accounting unit equivalent to the value of one prime beaver pelt, used to value goods and other furs.",
+    "type": "E",
+    "sources": [
+      "SRC02",
+      "SRC01"
+    ],
+    "locator": "Glossary Made beaver; Dobbsp196heading",
+    "limit": "No claim that every physical pelt always equals one unit or that a metal token is required.",
+    "scene_ids": [
+      "S005",
+      "S006",
+      "S007",
+      "S089",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "claim": "European felt-hat demand valued beaver underfur, processed into felt rather than a whole animal worn on the head.",
+    "type": "E",
+    "sources": [
+      "SRC04",
+      "SRC03"
+    ],
+    "locator": "European market; From pelt to felt",
+    "limit": "Not every hat100%beaver; no invented first-invention date or detailed process/chemistry tutorial.",
+    "scene_ids": [
+      "S010",
+      "S011",
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S056",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "claim": "Dobbs's1733schedule quotes20fishhooks or8knives for one beaver unit.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p194rows26and40, visually checked",
+    "limit": "Alternative purchases; not20hooksAND8knivesfor1. Use local counted graphics.",
+    "scene_ids": [
+      "S001",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S083"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "claim": "The same schedule lists one pair of breeches for3beaver units and one blanket for6.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p194row22; p193row15, visually checked",
+    "limit": "Do not repeat later summaries' one-unit prices; no point-blanket stripes or size claim.",
+    "scene_ids": [
+      "S001",
+      "S009",
+      "S028",
+      "S029",
+      "S033",
+      "S081",
+      "S082"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "claim": "Brass kettles are priced by weight: one pound for one beaver unit in this list.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p193row3; 'Ditto' inherits pounds from first row, visually checked",
+    "limit": "Not any kettle for1; hypothetical3lbkettle→3units is arithmetic, not a documented specimen.",
+    "scene_ids": [
+      "S033",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "claim": "Two pounds of sugar cost one beaver unit; a yard of broadcloth is2; a pound of thread is2 in this schedule.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p193rows7,14,11, visually checked",
+    "limit": "All alternative listed rates, not modern retail equivalents; no modern packaged granulated-sugar bag.",
+    "scene_ids": [
+      "S020",
+      "S031",
+      "S033",
+      "S034",
+      "S083"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "claim": "Guns appear at10,11or12beaver units in the schedule, and gunpowder, shot and flints have separate rows.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p194rows29–30; p193rows5–6",
+    "limit": "No gun-height-pelt-stack rule; no advice on operating weapons. Existence of separate lines does not prove every sale had identical terms.",
+    "scene_ids": [
+      "S042",
+      "S043"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "claim": "Museum research describes Indigenous consumers assessing cloth quality and demanding better stock; weights and colours mattered.",
+    "type": "E",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "Paragraphs on cloth and quality",
+    "limit": "Do not portray one invented inspection as a recorded1733incident; do not say all cloth defective or all transactions fair.",
+    "scene_ids": [
+      "S021",
+      "S041",
+      "S044",
+      "S045",
+      "S046",
+      "S047",
+      "S053",
+      "S054",
+      "S055",
+      "S056",
+      "S057",
+      "S089",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "claim": "Lead bale seals could indicate cloth standards or tax payment; English seals were recovered at Fort Albany, with other seals at French posts.",
+    "type": "E",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "Seal-function and three-site paragraphs",
+    "limit": "A seal is not a made-beaver coin, modern guarantee, or single universal maker's mark. Use schematic diagram, not an invented exact inscription.",
+    "scene_ids": [
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S053"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "claim": "Dobbs's note says York and Churchill's standard was higher, attributing the difference to less nearby French competition than Albany and Moose.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p193note, visually read",
+    "limit": "Attribute explanation to source. Do not imply every customer had an easy nearby alternative or quantify unseen travel distance.",
+    "scene_ids": [
+      "S058",
+      "S059",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "claim": "Trade involved organised parties and personal relationships; Preston reports Whatting arriving at Albany with20canoes in1706 and receiving a coat, tobacco, knives and a hatchet.",
+    "type": "E",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "Eighteenth-century opening; cites Williams1983p30",
+    "limit": "Explicit1706flashback, no actual portrait or guaranteed identity asCree; not a standard free-gift allowance for every shopper.",
+    "scene_ids": [
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S069"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "claim": "Preston dates the beginning of equipment credit at Moose and Albany to the interval1726–1737, linking supplies to later fur returns.",
+    "type": "E",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "Credit paragraph citing Williams1983p32",
+    "limit": "State approximate period, not exact1733launch. No modern instalment terms or claim every hunter was indebted; distinguish relationship from cash purchase.",
+    "scene_ids": [
+      "S070",
+      "S071",
+      "S072",
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C14",
+    "claim": "Cree traders used birchbark canoes to reach bayside posts; winter fur work and other seasonal food work lay behind trade.",
+    "type": "E",
+    "sources": [
+      "SRC06"
+    ],
+    "locator": "PDFp6/printedp4",
+    "limit": "Regional context; no invented day's wage, catch-rate, travel duration, or claim all Indigenous traders wereCree.",
+    "scene_ids": [
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S016",
+      "S064",
+      "S065",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C15",
+    "claim": "The six-unit teaching basket can buy a6unitblanket, or3unitbreeches+1unithooks+1unitknives+1unitsugar; both sum6.",
+    "type": "I",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "C4,C5,C7;3+1+1+1=6",
+    "limit": "Explicit illustrative alternatives, no blanketANDotherbasket; no real household need or market availability guaranteed.",
+    "scene_ids": [
+      "S079",
+      "S081",
+      "S082",
+      "S083",
+      "S084",
+      "S085",
+      "S086"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C16",
+    "claim": "A common unit permits comparison; physical item counts, weights, quality and local terms still matter. Listed exchange value cannot by itself yield modern purchasing power or earnings per hour.",
+    "type": "I",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Synthesis of schedule units, differing post terms and quality evidence",
+    "limit": "No exchange rate into modern dollars; no claim of equal bargaining power.",
+    "scene_ids": [
+      "S003",
+      "S006",
+      "S008",
+      "S011",
+      "S012",
+      "S016",
+      "S021",
+      "S023",
+      "S027",
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S035",
+      "S036",
+      "S038",
+      "S040",
+      "S041",
+      "S043",
+      "S044",
+      "S046",
+      "S047",
+      "S051",
+      "S055",
+      "S057",
+      "S063",
+      "S064",
+      "S068",
+      "S069",
+      "S071",
+      "S072",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S080",
+      "S086",
+      "S087",
+      "S088",
+      "S089",
+      "S090",
+      "S091",
+      "S093",
+      "S094",
+      "S095"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

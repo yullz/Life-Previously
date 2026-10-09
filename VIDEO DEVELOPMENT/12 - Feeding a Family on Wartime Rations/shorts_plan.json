@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "wartime-rations",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "Rationed does not mean free",
+      "from_scene": "S013",
+      "to_scene": "S020",
+      "hook": "You needed more than coupons at the grocer.",
+      "description": "The difference between entitlement,payment and supply in Britain's wartime food system.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Why bread coupons do not belong in1944",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "A common wartime-food mistake mixes up the dates.",
+      "description": "Bread and potatoes were outside ordinary retail rationing in1944; bread rationing came after the war.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "A pie without the meat",
+      "from_scene": "S049",
+      "to_scene": "S056",
+      "hook": "The filling uses vegetables the recipe names.",
+      "description": "A Wooltonpie demonstration,not a claim that every wartime family ate the same dish.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

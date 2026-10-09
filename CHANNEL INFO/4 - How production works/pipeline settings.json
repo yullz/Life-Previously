@@ -1,0 +1,197 @@
+{
+  "channel": "Life, Previously",
+  "script": {
+    "words_per_minute": 160,
+    "max_words_per_scene": 28,
+    "target_minutes": [
+      10,
+      12.5
+    ]
+  },
+  "narration": {
+    "direction": [
+      "Conversational, like telling a friend a story over a drink. Not an announcer, not a trailer voice.",
+      "Dry humour: say the jokes straight and let them land. Don't sell them.",
+      "Questions should sound genuinely curious, not rhetorical.",
+      "About 150 to 160 words per minute, with a beat of breathing room at each chapter heading.",
+      "Read the text exactly as written. If a line doesn't work in your mouth, flag it rather than changing it."
+    ]
+  },
+  "align": {
+    "model": "base.en"
+  },
+  "voice": {
+    "voice_id": "YPRmL2oHPibcUwJtQnPM",
+    "model_id": "eleven_v4",
+    "output_format": "mp3_44100_128",
+    "settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75
+    },
+    "chapter_gap": 0.6,
+    "pronunciations": {
+      "Southwark": "Suthuck",
+      "Edward III": "Edward the Third",
+      "Hedone": "Heh-doh-nay",
+      "Eumachia": "Yoo-mah-kee-uh",
+      "Umbricius": "Um-brick-ee-us",
+      "Scaurus": "Skow-rus",
+      "garum": "gah-rum",
+      "Misenum": "Mih-say-num",
+      "Serino": "Seh-ree-no",
+      "Nuceria": "Noo-chair-ee-uh",
+      "Nucerians": "Noo-chair-ee-unz",
+      "Stabian": "Stay-bee-un",
+      "Successus": "Suk-sess-us",
+      "Falernian": "Fuh-lur-nee-un",
+      "Deir el-Medina": "Dair el Madeena",
+      "Ramesses": "Ram-seez",
+      "Amunnakht": "Ah-moon-nakht",
+      "Thebes": "Theebz"
+    }
+  },
+  "images": {
+    "provider": "higgsfield-connector",
+    "model": "Nano Banana Pro",
+    "model_id": "nano_banana_pro",
+    "model_params": {
+      "resolution": "2k"
+    },
+    "credits_per_image": 2,
+    "quality": "2k",
+    "aspect_ratio": "16:9",
+    "thumbnail": {
+      "model_id": "gpt_image_2_5",
+      "params": {
+        "quality": "high",
+        "resolution": "2k"
+      },
+      "credits_per_image": 2.75,
+      "_note": "UNUSED: no code reads this block. Thumbnail backgrounds use the episode's image model (Nano Banana Pro, 2K), per hard rule 7."
+    },
+    "candidate_models": [
+      "Seedream 4.5",
+      "Seedream 5.0 Lite",
+      "GPT Image",
+      "Nano Banana"
+    ],
+    "style": "Flat 2D cartoon illustration for a history explainer video. Simple round-headed cartoon people with small black dot eyes, expressive eyebrows and simple mouths, rounded bodies and simple rounded hands, clean medium-weight dark brown outlines, flat colours with soft cel shading. Muted earthy historical palette of ochre, olive green, brick red, slate blue and parchment cream. One clear focal point, readable silhouettes, uncluttered background, period-accurate clothing, tools and buildings.",
+    "suffix": "Widescreen 16:9 composition with important action away from the edges. Leave document and sign surfaces blank for checked compositor overlays. No letters, numbers, pseudo-writing or invented glyphs. No watermark or border.",
+    "reference_note": "The attached image is the style reference: match its drawing style, outline weight, flat colours, palette and paper texture exactly. Draw a new scene; do not reuse its layout, buildings or characters.",
+    "composition": "One clear focal point and readable silhouettes against an uncluttered background. Widescreen 16:9 framing with the main action kept away from the edges, as a full-bleed illustration that runs to every edge.",
+    "cast_rule": "Every person in the scene wears clothing of the period in muted colours and has a natural number of arms, hands and fingers.",
+    "no_orange": "Nobody in the scene wears orange.",
+    "text_rule": "Leave document and sign surfaces blank. All writing is added later as checked compositor overlays.",
+    "avoid": "modern clothing or objects, labels, captions, watermarks, signatures, photorealism, 3D rendering",
+    "pose_background": "a plain, flat, evenly lit chroma-key green background (#00B140) filling the whole frame, with no shadow, no floor and no gradient",
+    "characters": {
+      "Visitor": "The Visitor is a modern man in his late twenties with an adult face and build: a defined jaw, adult proportions about four heads tall, messy dark brown hair, a bright orange hoodie, blue jeans and white sneakers. He is the only person in modern clothes, and he must match the attached Visitor reference sheet exactly."
+    }
+  },
+  "poses": {
+    "default_size": 0.72
+  },
+  "finish": {
+    "paper_strength": 0.5
+  },
+  "video": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "crf": 20,
+    "preset": "medium",
+    "workers": 6,
+    "motion_strength": 0.08,
+    "tail_seconds": 0.8,
+    "cut_lead": 0.08,
+    "default_motions": [
+      "zoom-in",
+      "pan-right",
+      "zoom-out",
+      "pan-left"
+    ],
+    "end_hold_seconds": 3.0,
+    "end_fade_seconds": 2.0
+  },
+  "music": {
+    "volume": 0.22
+  },
+  "master": {
+    "lufs": -14,
+    "true_peak": -2.0,
+    "lra": 11
+  },
+  "sfx": {
+    "default_volume": 0.5,
+    "target_lufs": {
+      "spot": -26,
+      "ambience": -30,
+      "accent": -23
+    }
+  },
+  "thumbnail": {
+    "font": "C:/Windows/Fonts/seguibl.ttf",
+    "headline_font": "C:/Windows/Fonts/impact.ttf",
+    "note_font": "C:/Windows/Fonts/segoeuib.ttf",
+    "text_color": "#FFFFFF",
+    "accent_color": "#FF7A1A",
+    "stroke_color": "#2B1D14",
+    "chip_color": "#FF7A1A",
+    "chip_text_color": "#2B1D14"
+  },
+  "banned_title_words": [
+    "ancient humans",
+    "disturbing",
+    "terrifying",
+    "nobody tells you",
+    "shocking"
+  ],
+  "banned_phrases": [
+    "delve",
+    "tapestry",
+    "testament to",
+    "in a world where",
+    "dive into",
+    "dive in",
+    "buckle up",
+    "fascinating",
+    "it's important to note",
+    "it is important to note",
+    "little did they know",
+    "game-changer",
+    "game changer",
+    "unravel",
+    "intricate",
+    "realm",
+    "embark",
+    "journey through",
+    "nestled",
+    "bustling",
+    "vibrant",
+    "rich history",
+    "shed light",
+    "in conclusion",
+    "imagine a world",
+    "but here's the thing",
+    "the answer may surprise you",
+    "nobody tells you",
+    "what if i told you",
+    "stands as a",
+    "a symphony of",
+    "plays a crucial role",
+    "navigate the complexities",
+    "ever wondered",
+    "let that sink in",
+    "mind-blowing",
+    "you won't believe"
+  ],
+  "recurring_props": {
+    "fountains?": 0.2,
+    "water towers?": 0.15,
+    "lime-wash": 0.35
+  },
+  "retired_poses": [
+    "closeup-phone",
+    "phone-up"
+  ]
+}

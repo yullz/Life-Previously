@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "gladiator-school",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "A Gladiator's First Opponent Could Be a Post",
+      "from_scene": "S033",
+      "to_scene": "S040",
+      "hook": "The other fighter is not moving.",
+      "description": "Wooden practice weapons and a surviving Roman lamp reveal a quieter side of gladiator training. The Carnuntum scene is a reconstruction.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Why Would a Gladiator School Have Baths?",
+      "from_scene": "S065",
+      "to_scene": "S072",
+      "hook": "This part of the school looks surprisingly comfortable.",
+      "description": "Carnuntum's interpreted bathing facilities show how investment in fighters could coexist with control over their lives.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Did Losing a Gladiator Fight Always Mean Death?",
+      "from_scene": "S077",
+      "to_scene": "S084",
+      "hook": "A defeat could end more than one way.",
+      "description": "Roman evidence allows mercy, but does not give a new recruit a promise of safety. No invented survival odds.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

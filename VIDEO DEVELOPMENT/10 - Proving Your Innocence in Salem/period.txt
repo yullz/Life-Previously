@@ -1,0 +1,15 @@
+Salem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.
+
+Avoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers.
+
+village: Salem Village,1692. Modest timber meetinghouse, unpaved path, scattered clapboard houses and trees; no modern tourist street or grand courthouse.
+examination: Salem Village,19April1692; Mary Warren examination. Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.
+nurse_home: Salem Village,1692; Nurse's community. Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.
+nurse_trial: Salem Town,lateJune1692; Nurse trial. Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.
+wardwell: Wardwell confession and recantation,September1692. Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book.
+easty: Salem,September1692; Mary Esty petitions. Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.
+cloyce: Salem,September1692; Esty and Cloyce petition. Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card.
+petition: 1692 documents in modern source graphics. Channel parchment cards, checked names and short passages set locally; no generated handwriting or counterfeit facsimile.
+prison: Salem,1692; illustrative confinement. Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene.
+aftermath: Salem,1693. Quiet plain court room, record bundle, spring daylight; no claim suffering ended for everyone.
+editorial: Modern explanatory graphic. Minimal diagrams distinguishing allegation, interpretation and conclusion. Any specter silhouette stays within a clearly labelled ALLEGED graphic.

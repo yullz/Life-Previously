@@ -1,0 +1,42 @@
+{
+  "status": "direction_ready_assets_unselected",
+  "music": "Quiet channel theme with gentle domestic warmth, no stereotyped gong, mystical chimes or invented traditional melody.",
+  "mix": "Voice dominant; sparse fire, cloth and wooden threshold details. No loud roar suggesting the floor is burning.",
+  "new_assets": [
+    {
+      "id": "small_wood_fire",
+      "description": "Low contained wood-fire crackle."
+    },
+    {
+      "id": "wood_door",
+      "description": "Soft wooden door movement."
+    },
+    {
+      "id": "cloth_bedding",
+      "description": "Quiet cloth unfolding."
+    }
+  ],
+  "acquisition": "Reuse suitable licensed local effects or original Foley; paid assets require authorization.",
+  "cues": [
+    {
+      "scene_id": "S005",
+      "asset": "wood_door",
+      "timing": "Brief threshold cue."
+    },
+    {
+      "scene_id": "S025",
+      "asset": "small_wood_fire",
+      "timing": "Very low under kitchen reveal."
+    },
+    {
+      "scene_id": "S044",
+      "asset": "cloth_bedding",
+      "timing": "Short evening preparation cue."
+    }
+  ],
+  "intentional_silence": [
+    "S073",
+    "S074"
+  ]
+}
+

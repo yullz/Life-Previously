@@ -1,0 +1,337 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "Visitor choices and accounting questions are original framing; Webster's group is one documented example, not an average miner.",
+    "sources": [],
+    "locator": "Editorial framing.",
+    "limit": "No simulated balance presented as a historical ledger.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S006",
+      "S007",
+      "S008",
+      "S009",
+      "S017",
+      "S019",
+      "S020",
+      "S021",
+      "S022",
+      "S024",
+      "S035",
+      "S042",
+      "S044",
+      "S045",
+      "S046",
+      "S059",
+      "S070",
+      "S071",
+      "S076",
+      "S080",
+      "S081",
+      "S083",
+      "S088",
+      "S090",
+      "S093",
+      "S095"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "The1848 Marshall find helped trigger large1849 arrivals, but California gold had been found earlier.",
+    "sources": [
+      "SRC05",
+      "SRC08"
+    ],
+    "locator": "State Parks opening; CGS1842 discussion.",
+    "limit": "No first-ever-discoverer claim.",
+    "scene_ids": [
+      "S010",
+      "S011"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "E",
+    "claim": "Webster and two companions agreed to heavy dam labour at Bidwell's Bar for$6 each per day with board; quit after2.75 workdays.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter V pp107–108.",
+    "limit": "Reported arrangement, not average wage; board does not establish a private room.",
+    "scene_ids": [
+      "S004",
+      "S005",
+      "S011",
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S016",
+      "S018",
+      "S041",
+      "S058",
+      "S074"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Their old cradle cost$50, two pans together$8, kettle$4, plus unpriced pick/shovel: at least$62 known shared purchases.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter V p108;50+8+4=62.",
+    "limit": "Group total, not per person or complete startup cost; no assumed equal shares.",
+    "scene_ids": [
+      "S021",
+      "S022",
+      "S023",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S028"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "Webster describes screened dirt, water and rocking separating lighter material from gold; their first difficulty was separating final black sand from gold.",
+    "sources": [
+      "SRC01",
+      "SRC07"
+    ],
+    "locator": "Chapter V pp109,112; Smithsonianp1.",
+    "limit": "No exact efficiency, modern industrial machinery or mercury in their ordinary rocker.",
+    "scene_ids": [
+      "S022",
+      "S025",
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S033",
+      "S034"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "After five days on another claim, Webster reports nearly one ounce each per day; his account gives$16 per ounce as gold-dust exchange value.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter V pp102–103,113.",
+    "limit": "A reported good spell and gross value before costs, not guaranteed wage; retain nearly.",
+    "scene_ids": [
+      "S005",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S041",
+      "S043",
+      "S074",
+      "S089",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "LateOctober rain submerged working bars, disrupted transport and made provisions scarce; he reports flour rising from40cents to$1.50 per pound.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter V pp113–115.",
+    "limit": "His local experience, not universal price or meteorological record.",
+    "scene_ids": [
+      "S005",
+      "S044",
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S053",
+      "S054",
+      "S055",
+      "S059"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "Each paid$2 per week for sleeping space in a shared tent, providing own blankets; rainy-period work barely covered expenses. Webster and Pinney also paid$40 for a bank claim that proved little better than their previous one.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter V pp115–116.",
+    "limit": "Shelter only; no invented exact net-profit amount.",
+    "scene_ids": [
+      "S046",
+      "S047",
+      "S055",
+      "S056",
+      "S057",
+      "S058",
+      "S059",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S089"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "In lateNovember Webster and Pinney accepted Burch's building work at$4.50 each per day with board.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter V pp116–118.",
+    "limit": "Temporary job, not guaranteed annual earnings or full-life result.",
+    "scene_ids": [
+      "S008",
+      "S069",
+      "S071",
+      "S072",
+      "S073",
+      "S074",
+      "S075",
+      "S083",
+      "S089",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "Taylor's own attempt at picking gold from crevices failed; friends gave him specimens. He described difficulty learning miners' true gains.",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "VolII chI end,p14;chII pp15–17.",
+    "limit": "One traveller, not proof everyone failed; hearsay remains hearsay.",
+    "scene_ids": [
+      "S066",
+      "S067",
+      "S068"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "E",
+    "claim": "San Francisco's1849 mail queues offered opportunities to sell places in line, coffee, pastries and newspapers.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Mail Melee.",
+    "limit": "Separate comparison, not the trio's business or assured profits.",
+    "scene_ids": [
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S082"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "The rush occurred on Indigenous homelands; colonization and gold-rush expansion brought displacement, loss of resources and violence; communities survived.",
+    "sources": [
+      "SRC06"
+    ],
+    "locator": "Full introductory essay.",
+    "limit": "Broader history; no invented specific1849 attack or extinction claim.",
+    "scene_ids": [
+      "S084",
+      "S085",
+      "S086",
+      "S087",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "I",
+    "claim": "Gold found and profit kept differ: equipment, provisions, shelter, transport and unproductive periods affect outcomes.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Synthesis of reported expenses, weather and uncertain returns.",
+    "limit": "No typical budget or success probability.",
+    "scene_ids": [
+      "S002",
+      "S003",
+      "S008",
+      "S009",
+      "S016",
+      "S019",
+      "S035",
+      "S039",
+      "S040",
+      "S041",
+      "S042",
+      "S043",
+      "S045",
+      "S050",
+      "S052",
+      "S054",
+      "S060",
+      "S061",
+      "S062",
+      "S064",
+      "S065",
+      "S069",
+      "S071",
+      "S075",
+      "S076",
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S083",
+      "S090",
+      "S091",
+      "S092",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "status": "director_specified_listen_at_recording",
+  "entries": [
+    {
+      "written": "Louis Morin",
+      "spoken_guide": "loo-EE moh-RAN; French nasal ending; use an episode-scoped alias if needed"
+    },
+    {
+      "written": "Saint-Simon",
+      "spoken_guide": "san see-MON; do not pronounce Saint as English saint"
+    },
+    {
+      "written": "Versailles",
+      "spoken_guide": "ver-SIGH"
+    }
+  ],
+  "rule": "Pronunciation guides are directions, not automatic replacements. Audition these exact phrases in the paid chapter pilot; preserve historical spelling in captions. Do not introduce global common-word replacements."
+}
+

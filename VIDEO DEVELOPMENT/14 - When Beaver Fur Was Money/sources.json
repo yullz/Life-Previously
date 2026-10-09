@@ -1,0 +1,53 @@
+[
+  {
+    "id": "SRC01",
+    "title": "Arthur Dobbs, An Account of the Countries adjoining to Hudson's Bay (1744), Standard of Trade, pp.193–197",
+    "url": "https://archive.org/details/accountofcountri01dobb/page/193/mode/1up",
+    "text_url": "https://archive.org/download/accountofcountri01dobb/accountofcountri01dobb_djvu.txt",
+    "read": "Original OCR pp.193–197 read; pp.193–194 inspected in the browser at readable enlargement on 2026-10-09. A second 1744 scan (cihm_35075) cross-checked. Printed 1733 date, blanket six, pound-based brass-kettle rate, breeches three, hooks twenty and knives eight confirmed visually.",
+    "limit": "A published trade schedule and colonial author's account, not a receipt for our invented customer. Dobbs argued against the Company's monopoly and promoted expansion. Do not adopt his moral judgments, geographical claims or 'fair price' assumptions. The OCR misreads 1733 as1753. Modern summaries and the UVic transcription contain material numeric errors."
+  },
+  {
+    "id": "SRC02",
+    "title": "Archives of Manitoba, Hudson's Bay Company Archives: Glossaries",
+    "url": "https://www.gov.mb.ca/chc/archives/hbca/glossaries.html",
+    "read": "Made beaver, factory, account books, standard of trade and credit terminology read.",
+    "limit": "Definitions cover a long period; not evidence that later tokens, ranks or boats existed here in1733."
+  },
+  {
+    "id": "SRC03",
+    "title": "Canadian Museum of History, Sealed and Delivered (2017)",
+    "url": "https://www.historymuseum.ca/blog/sealed-and-delivered",
+    "read": "Entire article read, including seal contexts, cloth-quality assessment and English/French competition.",
+    "limit": "Regional interpretation across multiple sites and centuries. Do not transplant the pictured French Mackinac seal into Fort Albany or claim its design was universal. Some-post cloth share is not a1733Albany statistic."
+  },
+  {
+    "id": "SRC04",
+    "title": "Canadian Museum of History, Virtual Museum of New France: Fur Trade",
+    "url": "https://www.historymuseum.ca/virtual-museum-of-new-france/economic-activities/fur-trade/",
+    "read": "European market and pelt-to-felt sections read; underfur, felt and coat/parchment distinctions.",
+    "limit": "Use only the broad material explanation; do not transplant French legal arrangements or exact French prices into the English post."
+  },
+  {
+    "id": "SRC05",
+    "title": "Richard Preston, James Bay Cree: respect relations within the great community of persons",
+    "url": "https://www.richardpreston.ca/Anthropology/james-bay-cree-document",
+    "read": "Eighteenth-century ethnohistorical section read completely, including Whatting1706, credit1726–1737 and the author's explicit interpretation/identity caveats.",
+    "limit": "Scholarly synthesis citing Williams and Bishop. Do not assert all Albany traders were Cree, place the1757debt dispute in1733, or present the author's proposed leadership interpretation as uncontested fact."
+  },
+  {
+    "id": "SRC06",
+    "title": "Ann M. Carlos and Frank D. Lewis, Property Rights, Standards of Living, and Economic Growth: Western Canadian Cree (2010 working paper)",
+    "url": "https://www.econstor.eu/bitstream/10419/67758/1/623444887.pdf",
+    "read": "PDFp6/printedp4 read fully: wooded region, birchbark canoe trade and seasonal activities. Bibliographic title/authors checked.",
+    "limit": "Regional synthesis, not a particular family's diary. Do not use its unreviewed living-standard model or call the era a universal golden age. Ignore the passage's directional shorthand 'up river' when mapping a trip to a coastal post."
+  },
+  {
+    "id": "SRC07",
+    "title": "Chris Willmore, Castor compilation, transcription of Dobbs pp.130–132",
+    "url": "https://onlineacademiccommunity.uvic.ca/willmore/wp-content/uploads/sites/5845/2022/08/castor.pdf",
+    "read": "Tariff section used as a discovery aid, then checked against the original scan.",
+    "limit": "Do not use as numeric authority: several quantities disagree with the printed original, including knives and hatchets. Its introductory biography also has errors. Excluded from audience source list.",
+    "public": false
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing channel theme quietly under narration; brief pause before each mechanism reveal, no science-fiction stings.",
+  "mix": "Near -14 LUFS integrated and true peak <= -1 dBTP. Effects below narration at their exact cues.",
+  "new_assets": [
+    {
+      "id": "coin_plate",
+      "description": "Single light metal coin landing on a small metal plate."
+    },
+    {
+      "id": "small_water",
+      "description": "Short gentle water stream into shallow bowl."
+    },
+    {
+      "id": "wood_hinge",
+      "description": "Brief quiet wooden door hinge movement, no modern motor."
+    },
+    {
+      "id": "low_fire",
+      "description": "Soft contained wood-fire crackle."
+    }
+  ],
+  "acquisition": "Reuse inspected library cues where suitable. Quote only missing assets within the production allowance.",
+  "cues": [
+    {
+      "scene_id": "S062",
+      "asset": "coin_plate",
+      "timing": "Single light coin cue at cut to the state showing the coin landing; omit if no visible landing transition is built."
+    },
+    {
+      "scene_id": "S064",
+      "asset": "small_water",
+      "timing": "Brief gentle water cue at cut to the diagram showing flow; stop before S065's closed state."
+    },
+    {
+      "scene_id": "S082",
+      "asset": "wood_hinge",
+      "timing": "Brief hinge cue at cut to open-door diagram. Do not imply a continuously moving door if only static states are used."
+    },
+    {
+      "scene_id": "S048",
+      "asset": "low_fire",
+      "timing": "Brief low ambient bed behind visible furnace, fade before next scene."
+    }
+  ],
+  "intentional_silence": [
+    "No automated checkout beep.",
+    "No magical whoosh or divine voice.",
+    "Static illustrated people have no fabricated dialogue."
+  ]
+}

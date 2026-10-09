@@ -1,0 +1,42 @@
+{
+  "status": "direction_ready_assets_unselected",
+  "music": "Channelthemequiet;open-seawind/watertexturesusedsparingly. Noswellingpiratescore.",
+  "mix": "Narrationdominates;nostartlingmastcrash,screamorstormwall. Silenceforthedeathpassage.",
+  "new_assets": [
+    {
+      "id": "deck_creak",
+      "description": "Subtlewoodendeckcreakwithgentlewavewash,noelectronicambience."
+    },
+    {
+      "id": "paper_turn",
+      "description": "Softtwo-pagesheetturn."
+    },
+    {
+      "id": "sail_luff",
+      "description": "Quietslacksailclothflutter,notthunderousflag."
+    }
+  ],
+  "acquisition": "InspectlicensedlocalororiginalFoleyassets; no paidassetswithoutcontractapproval.",
+  "cues": [
+    {
+      "scene_id": "S003",
+      "asset": "deck_creak",
+      "timing": "Briefunderdeparture."
+    },
+    {
+      "scene_id": "S040",
+      "asset": "sail_luff",
+      "timing": "Calmsequencegap."
+    },
+    {
+      "scene_id": "S079",
+      "asset": "paper_turn",
+      "timing": "Finalpaperreveal."
+    }
+  ],
+  "intentional_silence": [
+    "S069",
+    "S070",
+    "S071"
+  ]
+}

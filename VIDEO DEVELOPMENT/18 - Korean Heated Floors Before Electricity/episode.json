@@ -1,0 +1,1482 @@
+{
+  "id": "18",
+  "slug": "korean-heated-floors",
+  "title": "How Did Koreans Heat Their Floors Before Electricity?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "Why Was the Warmest Place in a Korean House the Floor?",
+    "How a Kitchen Fire Heated an Entire Korean Room"
+  ],
+  "period": "Seoul, Korea, circa 1900. An illustrative winter visit to a compact hanok with one heated room, a lower adjacent kitchen, a wooden maru and a courtyard. The fictional household is comfortable but not royal; no claim that this is a measured reconstruction of a named surviving house. A clearly labelled summer comparison briefly changes season.",
+  "avoid": "No electric heating, hot-water pipes or radiators in the historical ondol; no open flames or smoke in the occupied room; no glowing transparent real floor, Japanese tatami, shoji grid copied from Japan, Chinese palace, pagoda, royal throne, oversized ceremonial clothing, modern trainers indoors, snow indoors, enormous chimney on every house, exact legendary warmth duration, universal claim that Korea lacked electricity in 1900.",
+  "locations": {
+    "courtyard": {
+      "scope": "Seoul c.1900, fictional hanok, winter",
+      "design": "Compact rectangular courtyard; main heated room at rear right, raised unheated wooden maru at rear left, lower kitchen at right end adjoining heated room. Grey tiled eaves, timber posts, pale plaster infill, paper-latticed doors, low stone base. One modest external chimney behind heated room; a little snow in shaded courtyard. No palace scale."
+    },
+    "room": {
+      "scope": "Same hanok heated room, winter",
+      "design": "Rectangular room, ochre-buff paper floor, pale paper walls, timber lintel. Courtyard door front-left; kitchen/firebox beyond right wall; modest rear window and small cupboard left. Low plain dining table removable; folded bedding in cupboard area. No fixed bed, modern sofa or stove in room. No shoes beyond threshold."
+    },
+    "kitchen": {
+      "scope": "Same hanok lower kitchen, winter",
+      "design": "Earth work floor below room level; masonry cooking hearth at left against heated-room right wall, single iron pot above firebox. Small tidy brushwood stack by outer door. Firebox feeds under-floor channels leftward toward room and rear chimney. No second random stove or disconnected chimney."
+    },
+    "street": {
+      "scope": "Seoul c.1900 winter, illustrative lane",
+      "design": "Low plaster and timber compounds, grey tiles and some thatch in distance, plain gate, brushwood carrier or laden ox at selected shots only. No royal procession, streetcar or electric signage necessary. Diffuse cold afternoon light."
+    },
+    "maru": {
+      "scope": "Same house wooden maru, winter unless explicitly summer",
+      "design": "Raised brown plank hall adjoining heated-room left side; visible air gap under wooden boards; courtyard opening and timber posts. No ondol flues under this maru. Same posts, step and doors as courtyard anchor."
+    },
+    "summer": {
+      "scope": "Same fictional hanok, explicit summer comparison",
+      "design": "Reuse courtyard and maru geometry with no snow, green vegetation, open shutters and airy light. No fire needed for this shot; do not imply all summer cooking automatically heats this room.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "reference_house": {
+      "scope": "Samcheong-dong, Seoul, c.1890 architectural example; interpretive schematic",
+      "design": "Restrained original block plan illustrating compact separate courtyards and quarters from Kim Chun-yeong house plaque, not an exact survey or excavated heating plan. Do not show modern relocated Namsangol site as original location."
+    },
+    "diagram": {
+      "scope": "Explanatory graphic, not a physical transparent house",
+      "design": "Original side cutaway of this episode's room: kitchen/firebox at right below room level, flues underneath stone floor, chimney at far left exterior. Label arrows locally. Transparent section is an explanatory convention."
+    },
+    "temple": {
+      "scope": "Korean temple cell in Bishop's 1890s account, a separate illustrative example",
+      "design": "Plain small cell, floor-level sleeping area, simple paper door and window, no main-house cupboard or courtyard geometry. Adjacent kitchen beyond wall; no precise named temple plan."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "National Institute of Korean History — development of ondol culture",
+      "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_044_0050&tabId=01&treeId=010304&whereStr=",
+      "read": "Read Korean primary-source commentary and mechanism paragraph on 2026-10-09; combustion path and uncertainty of origins confirmed.",
+      "limit": "Use mechanism and historical variation only. No exact invention date or national-priority claim."
+    },
+    {
+      "id": "SRC02",
+      "title": "National Folk Museum of Korea — Hanok",
+      "url": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en",
+      "read": "Full English educational text read in browser on 2026-10-09.",
+      "limit": "Wooden maru ventilation and heated-room contrast. Formal gender-separated plan especially upper class, not every household."
+    },
+    {
+      "id": "SRC03",
+      "title": "Korean Film Council — Ondol and floor construction",
+      "url": "https://www.koreanfilm.or.kr/eng/news/location.jsp?blbdComCd=601020&mode=VIEW&pageIndex=2&pageRowSize=5&seq=151",
+      "read": "Construction section read on 2026-10-09: lowered kitchen, flues, stone, earth and paper layers; warmer near fire; modern water pipes distinct.",
+      "limit": "Do not repeat incorrect etymology, exact construction dimensions as universal, or claim thicker stones prevent all heat loss."
+    },
+    {
+      "id": "SRC04",
+      "title": "Isabella Bird Bishop, Korea and Her Neighbors (1898)",
+      "url": "https://www.gutenberg.org/cache/epub/69300/pg69300-images.html",
+      "read": "Read pp.40–41 Seoul fuel/smoke, rural-house and inn heating passages, temple overheating, and pp.306–307 paper manufacture. Selected passages, not whole book.",
+      "limit": "Outsider with prejudicial judgments: exclude those. No fuel efficiency numbers, exact citywide firing time, Manchurian kang conflation, or traveller's camp-bed as Korean custom."
+    },
+    {
+      "id": "SRC05",
+      "title": "Gook-Sup Song — contact with ondol floor materials, Energy and Buildings 37 (2005)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378778804001616",
+      "read": "Abstract and accessible introduction read on 2026-10-09; traditional stone slabs described as thermal storage mass.",
+      "limit": "Only storage mechanism. Modern eight-person experiment, water temperatures and neutral-temperature findings are not historical room measurements."
+    },
+    {
+      "id": "SRC06",
+      "title": "Korea.net / Cultural Heritage Administration — ondol heritage",
+      "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=156191",
+      "read": "Full article read on 2026-10-09; floor sitting, eating, sleeping and shoe-removal passage.",
+      "limit": "No simplistic West-versus-Korea heat-transfer comparison, chronology or claim all homes identical."
+    },
+    {
+      "id": "SRC07",
+      "title": "Academy of Korean Studies — Kim Chun-yeong house plaque",
+      "url": "https://dh.aks.ac.kr/~heritage/wiki/index.php/삼청동_오위장_김춘영_가옥",
+      "read": "Full English plaque read on 2026-10-09: c.1890 owner, original Samcheong-dong, compact layout, 1998 relocation, middle/upper-class context.",
+      "limit": "Architectural example only; not our fictional household or proof of its exact under-floor plan."
+    },
+    {
+      "id": "SRC08",
+      "title": "National Folk Museum — Men's hanbok",
+      "url": "https://www.nfm.go.kr/k-box/ui/hanbok/male.do?lang=en",
+      "read": "Full clothing text and jacket/trousers photograph visually inspected on 2026-10-09.",
+      "limit": "Use garment construction, ankle ties, understated adapted winter outfit; not scholar's hat or ceremonial robe. Reference image is not dated as the exact 1900 garment."
+    },
+    {
+      "id": "SRC09",
+      "title": "National Institute of Korean History — ondol educational explanation",
+      "url": "https://contents.history.go.kr/front/tz/view.do?levelId=tz_b40",
+      "read": "Full scenario read and compared with Korean source commentary on 2026-10-09.",
+      "limit": "Use names agungi/gorae/gulttuk, varied channel layouts and soban relationship. Reject 49/100-day legend as performance data, total disappearance of chairs, all houses reduced to one storey, and English class-spread mistranslation."
+    },
+    {
+      "id": "SRC10",
+      "title": "National Folk Museum — ondol and floor-sitting education",
+      "url": "https://nfm.go.kr/english/subIndex/969.do",
+      "read": "Ondol and Floor-Sitting Culture programme entry read on 2026-10-09.",
+      "limit": "Corroborates soban and floor culture; modern programme is not a 1900 diary."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "type": "F",
+      "claim": "Visitor, host, chosen winter evening, dinner, household tasks and arrangement of one illustrative hanok are fictional framing.",
+      "sources": [],
+      "locator": "Original framing",
+      "limit": "No named historical resident, exact house survey, documented dinner or measured temperature implied."
+    },
+    {
+      "id": "C1",
+      "type": "E",
+      "claim": "Traditional ondol sends hot combustion gases from a firebox through under-floor passages, warming stone slabs before smoke exits a chimney.",
+      "sources": [
+        "SRC01",
+        "SRC03"
+      ],
+      "locator": "Mechanism paragraph and construction section",
+      "limit": "Combustion gases stay below the sealed floor; not hot water or room ventilation."
+    },
+    {
+      "id": "C2",
+      "type": "E",
+      "claim": "A lowered kitchen hearth can combine cooking above the firebox with heating an adjoining room; stone, earth and paper form layers above flues.",
+      "sources": [
+        "SRC03",
+        "SRC04"
+      ],
+      "locator": "KOFIC construction; Bishop inn furnace passage",
+      "limit": "One arrangement, not every ondol; no exact dimensions. Never put paper directly above open flames."
+    },
+    {
+      "id": "C3",
+      "type": "E",
+      "claim": "Stone slabs act as thermal storage, retaining heat after the fire has declined; duration depends on conditions.",
+      "sources": [
+        "SRC05"
+      ],
+      "locator": "Accessible introduction, traditional stone slab paragraph",
+      "limit": "No historical thermostat reading, promised hours, modern experiment extrapolation or perpetual heat."
+    },
+    {
+      "id": "C4",
+      "type": "E",
+      "claim": "The floor near the firebox tends to be warmer; heat distribution and channel arrangement vary.",
+      "sources": [
+        "SRC03",
+        "SRC09"
+      ],
+      "locator": "Stone-layer paragraph; gorae layout discussion",
+      "limit": "No uniform temperature map or universal hottest-seat etiquette."
+    },
+    {
+      "id": "C5",
+      "type": "E",
+      "claim": "Floor heating is associated with sitting, eating and sleeping at floor level; outdoor shoes are generally removed; small soban tables serve floor-level dining.",
+      "sources": [
+        "SRC06",
+        "SRC09",
+        "SRC10"
+      ],
+      "locator": "Floor lifestyle passages and museum education entry",
+      "limit": "No disappearance of all chairs or one posture mandatory for every person."
+    },
+    {
+      "id": "C6",
+      "type": "E",
+      "claim": "Hanok can combine a heated room with a ventilated raised wooden maru useful in summer.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Opening hanok paragraph",
+      "limit": "Maru is not heated stone flooring; no universal house plan or quantitative cooling guarantee."
+    },
+    {
+      "id": "C7",
+      "type": "E",
+      "claim": "Bishop described brushwood entering Seoul and smoke from cooking/heating fires; fuel gathering and delivery supported household warmth.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "Printed pp.40–41",
+      "limit": "Attribute observation; no exact daily schedule, pollution statistic, fuel price or efficiency ratio."
+    },
+    {
+      "id": "C8",
+      "type": "E",
+      "claim": "Bishop described becoming uncomfortably hot in a Korean temple cell heated by adjacent kitchen flues.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "Temple cell beside guests' kitchen, 91°F passage",
+      "limit": "Her particular reported experience; do not transfer to Seoul household or imply normal temperature; do not narrate exact number."
+    },
+    {
+      "id": "C9",
+      "type": "E",
+      "claim": "Bishop noted tough buff oiled paper used on floors of middle- and upper-class houses.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "Printed pp.306–307 paper manufacture",
+      "limit": "Not every floor or class; no unsupported recipe or durability promise."
+    },
+    {
+      "id": "C10",
+      "type": "E",
+      "claim": "Kim Chun-yeong's c.1890 Samcheong-dong house illustrates compact middle/upper-class Seoul housing; it was later moved for preservation.",
+      "sources": [
+        "SRC07"
+      ],
+      "locator": "English plaque paragraphs 1–3",
+      "limit": "Not a poor family's house; no original Namsangol location or measured ondol plan."
+    },
+    {
+      "id": "C11",
+      "type": "E",
+      "claim": "Men's traditional clothing includes jeogori, baji with ankle ties and outer coats; padded winter clothing appears in contemporary accounts.",
+      "sources": [
+        "SRC08",
+        "SRC04"
+      ],
+      "locator": "Museum men's hanbok; Bishop winter clothing p.27",
+      "limit": "Visitor clothing is an understated adaptation, not a documented person's exact outfit or every local's costume."
+    },
+    {
+      "id": "C12",
+      "type": "I",
+      "claim": "The system trades fuel and tending work for stored warmth; an intact separated combustion route is essential to the illustrated mechanism.",
+      "sources": [
+        "SRC01",
+        "SRC03",
+        "SRC05",
+        "SRC07"
+      ],
+      "locator": "Synthesis of construction, fuel and thermal storage",
+      "limit": "Not a building manual, health guarantee, emissions comparison or numerical efficiency claim."
+    },
+    {
+      "id": "C13",
+      "type": "E",
+      "claim": "Early partial-floor heating and later whole-floor arrangements differed; modern hydronic ondol uses pipes and is mechanically different from the illustrated hearth system.",
+      "sources": [
+        "SRC01",
+        "SRC03"
+      ],
+      "locator": "Historical-development paragraph; modern apartment paragraph",
+      "limit": "No precise universal transition date, invention race, or claim no electricity existed in Seoul c.1900."
+    }
+  ],
+  "research": "Explain one cold-weather visit through a single consistent house. The historical engine is the combustion path, thermal storage and floor-level daily life; the narrative engine is the Visitor discovering that a kitchen fire changes where he eats, sits and sleeps. The house and host are illustrative. Distinguish source evidence from explanatory engineering inference. National-history English outreach contains exaggerations and a class-translation problem: use the more cautious Korean commentary for historical claims. Bishop supplies contemporary material and fuel observations but is a biased outsider, not a neutral authority on Korean society. Her hot temple cell remains a labelled aside, not this household. No spectacular invented duration, free-energy claim or construction tutorial.",
+  "description": "Step into an illustrative Seoul home around 1900 and follow a kitchen fire beneath the floor. Traditional ondol warmed stone slabs, reshaped daily life and made the floor a place to sit, eat and sleep. We trace the smoke route, the work behind the warmth, and the wooden hall that offered a different answer in summer.",
+  "tags": [
+    "Korean history",
+    "ondol",
+    "underfloor heating",
+    "hanok",
+    "Seoul history",
+    "Korean traditional house",
+    "history of everyday life",
+    "Life Previously",
+    "historical engineering",
+    "Joseon daily life",
+    "gudeul",
+    "traditional heating"
+  ],
+  "pinned_comment": "Which part surprised you most: the kitchen connection, the stored warmth, or the separate wooden hall for summer?",
+  "pilot": [
+    "S001",
+    "S002",
+    "S012",
+    "S048",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "FIRE UNDER HERE?",
+      "chip": "KOREA · c.1900",
+      "scope": "Illustrative ondol cutaway",
+      "pose": "closeup-thoughtful",
+      "background": "Warm paper-floored room above a clean original cutaway strip. Firebox at far right below kitchen pot; small flame contained there. Orange route through flues beneath opaque stone slabs, chimney far left. No flame licking feet or smoke entering room.",
+      "rationale": "Immediate tactile mystery with the actual engineering answer visible at small size. Single focal floor and controlled warm/cold contrast.",
+      "payoff_scene_ids": [
+        "S013",
+        "S016",
+        "S021",
+        "S022"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "THE FLOOR IS WARM",
+      "chip": "SEOUL · c.1900",
+      "scope": "Same room, winter",
+      "pose": "eyebrow-raise",
+      "background": "Low room viewpoint, buff floor and small table, cold courtyard visible through partly open door. Visitor in quiet winter jacket; no bright modern socks, red-hot floor or palace interior.",
+      "rationale": "Relatable comfort contrast; useful alternative if cutaway becomes too busy.",
+      "payoff_scene_ids": [
+        "S005",
+        "S008",
+        "S037",
+        "S044"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "ONE FIRE. TWO JOBS.",
+      "chip": "COOKING + HEATING",
+      "scope": "Original simplified house cutaway",
+      "pose": "closeup-smile",
+      "background": "Single cooking pot and single heated room linked by one legible lower-floor channel. Cooking flame on right, room on left; no duplicate hearth or split-screen unrelated house.",
+      "rationale": "Concrete mechanism promise without claiming every Korean home used this exact arrangement.",
+      "payoff_scene_ids": [
+        "S025",
+        "S026",
+        "S028",
+        "S033"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Why Was the Floor Warm in a Korean House?",
+      "from_scene": "S013",
+      "to_scene": "S020",
+      "hook": "Follow the smoke, not a wire.",
+      "description": "A simplified traditional ondol cutaway: firebox, under-floor flues, stone slabs and an outside chimney."
+    },
+    {
+      "title": "One Kitchen Fire, Two Jobs",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "Dinner above. A warm room beside it.",
+      "description": "One historical arrangement linked cooking and under-floor heating; the channels and floor stayed separate from the room's air."
+    },
+    {
+      "title": "A Korean House Had Two Different Floors",
+      "from_scene": "S049",
+      "to_scene": "S056",
+      "hook": "Warm stones for winter. An airy wooden hall for summer.",
+      "description": "How an ondol room and a raised wooden maru served different seasonal needs in a traditional hanok."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_reference_inspected",
+    "mode": "episode_private_traditional_variant",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "selection": "Plain padded men's jeogori in muted warm grey with narrow matching ties, loose slate-grey baji gathered with ankle ties; plain light cloth socks indoors. Outdoors add a quiet brown-grey calf-length coat and simple dark shoes. No hat, pattern, crest or ceremonial accessory.",
+    "historical_basis": "National Folk Museum men's jacket/trousers construction photograph inspected; contemporary Bishop winter clothing description corroborates padding. Outfit is a restrained character adaptation.",
+    "references": [
+      "https://www.nfm.go.kr/k-box/ui/hanbok/male.do?lang=en",
+      "https://www.nfm.go.kr/k-box/images/kbox/sub/cont_p_04_02_02.jpg"
+    ],
+    "identity_lock": "Keep Visitor face, skin, hair, proportions and expression unchanged. No topknot, beard, ethnicity change or gendered short cropped jacket.",
+    "continuity": "Indoor poses use socks and no coat. Exterior poses use coat and shoes; threshold close-ups avoid an unshown footwear discontinuity. Never put outdoor shoes on the paper floor. No Japanese split-toe sock styling.",
+    "production_review": "Create private variants for the actually used poses only. Pilot one indoor standing and one close-up plus one exterior variant, inspect silhouette and composites before remaining poses.",
+    "pose_states": {
+      "outdoor": [
+        "look-around",
+        "step-forward",
+        "walk-fast"
+      ],
+      "indoor": "All other used poses, including all three thumbnail poses."
+    }
+  },
+  "pronunciations": {
+    "status": "director_guide",
+    "entries": [
+      {
+        "term": "ondol",
+        "say": "ON-dol",
+        "note": "Keep vowels short; verify Korean pronunciation before voice."
+      },
+      {
+        "term": "hanok",
+        "say": "HAH-nok",
+        "note": "Two syllables."
+      },
+      {
+        "term": "maru",
+        "say": "MAH-roo",
+        "note": "Two syllables."
+      },
+      {
+        "term": "soban",
+        "say": "SOH-bahn",
+        "note": "Small dining table."
+      },
+      {
+        "term": "Seoul",
+        "say": "soul",
+        "note": "Natural English place-name pronunciation."
+      },
+      {
+        "term": "Kim Chun-yeong",
+        "say": "Kim Choon-yuhng",
+        "note": "Guide only; check Korean audio reference before paid narration."
+      }
+    ],
+    "rule": "Do not spend voice credits until names and selected narrator reads are checked; technical Korean terms appear sparingly."
+  },
+  "sound_plan": {
+    "status": "direction_ready_assets_unselected",
+    "music": "Quiet channel theme with gentle domestic warmth, no stereotyped gong, mystical chimes or invented traditional melody.",
+    "mix": "Voice dominant; sparse fire, cloth and wooden threshold details. No loud roar suggesting the floor is burning.",
+    "new_assets": [
+      {
+        "id": "small_wood_fire",
+        "description": "Low contained wood-fire crackle."
+      },
+      {
+        "id": "wood_door",
+        "description": "Soft wooden door movement."
+      },
+      {
+        "id": "cloth_bedding",
+        "description": "Quiet cloth unfolding."
+      }
+    ],
+    "acquisition": "Reuse suitable licensed local effects or original Foley; paid assets require authorization.",
+    "cues": [
+      {
+        "scene_id": "S005",
+        "asset": "wood_door",
+        "timing": "Brief threshold cue."
+      },
+      {
+        "scene_id": "S025",
+        "asset": "small_wood_fire",
+        "timing": "Very low under kitchen reveal."
+      },
+      {
+        "scene_id": "S044",
+        "asset": "cloth_bedding",
+        "timing": "Short evening preparation cue."
+      }
+    ],
+    "intentional_silence": [
+      "S073",
+      "S074"
+    ]
+  },
+  "chapters": [
+    {
+      "title": "The warmest place is under your feet",
+      "scenes": [
+        [
+          "You arrive in Seoul around nineteen hundred. The cold follows you all the way to the doorstep.",
+          "C0",
+          "courtyard",
+          "wide",
+          "Winter establishing view; modest snow only in courtyard shadows.",
+          "look-around",
+          "SEOUL · c.1900",
+          null
+        ],
+        [
+          "Our host opens the door. Inside, there is no stove in the corner and no radiator beneath the window.",
+          "C0",
+          "room",
+          "medium",
+          "Look through doorway toward plain room; no heater furniture.",
+          null,
+          null,
+          null
+        ],
+        [
+          "You search for the fire anyway. A room cannot decide to be warm because everyone would prefer it.",
+          "C0",
+          "room",
+          "close-up",
+          "Doorway close angle on bare floor and wall.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Then you notice where people are sitting. The floor itself is part of the answer, and your shoes stay at the threshold.",
+          "C5",
+          "room",
+          "medium",
+          "Local adult in plain clothes seated beside small low table; outdoor shoes outside.",
+          "eyebrow-raise",
+          null,
+          null
+        ],
+        [
+          "This is an illustrative home, but its heating system is real: traditional ondol brings heat beneath the room.",
+          "C0,C1",
+          "room",
+          "wide",
+          "Canonical room anchor wide; stable cupboard, door and window positions.",
+          null,
+          "ILLUSTRATIVE HOUSE",
+          null
+        ],
+        [
+          "The fire is somewhere else. That matters, because the people enjoying its warmth do not have to sit beside its flames.",
+          "C1",
+          "room",
+          "medium",
+          "Local host and another adult comfortably on floor; no indoor flames.",
+          null,
+          null,
+          null
+        ],
+        [
+          "You can see a kitchen next door, a wooden hall on the other side, and a small courtyard beyond the threshold.",
+          "C0",
+          "courtyard",
+          "wide",
+          "Higher view connecting kitchen right, room rear right and maru left.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Each space does a different job. Picking the right place to sit will turn out to be surprisingly important tonight.",
+          "C0",
+          "room",
+          "medium",
+          "Paper floor and seated host on left, clear right foreground with unobstructed floor for separately composited socked feet.",
+          "awkward-stand",
+          null,
+          null
+        ],
+        [
+          "Our host asks you inside before you let any more cold air through the door.",
+          "C0",
+          "room",
+          "medium",
+          "Host gestures inward; one partially open door, no text.",
+          null,
+          null,
+          null
+        ],
+        [
+          "You obey, still looking for whatever is doing the heating. The most interesting part of this house is almost entirely hidden.",
+          "C0",
+          "room",
+          "close-up",
+          "Empty floor remains central; room detail on left, calm right third for close-up composite.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "We are going to lift the floor in a diagram. Please do not attempt that during somebody's dinner.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Original transition from opaque room to explanatory section.",
+          null,
+          null,
+          "UNDER THE FLOOR"
+        ],
+        [
+          "First, follow the fire. Then follow the smoke. They take a route through the building that your feet will never see.",
+          "C1",
+          "kitchen",
+          "medium",
+          "Kitchen doorway glimpse of contained hearth and pot; no visible transparent walls.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Follow the smoke",
+      "scenes": [
+        [
+          "In this cutaway, fire burns in a low hearth beside the room. The occupied floor sits above its route.",
+          "C1,C2",
+          "diagram",
+          "graphic",
+          "Canonical labelled side section; kitchen right lower, room left upper.",
+          null,
+          "SIMPLIFIED SECTION",
+          "FIREBOX → FLUES → CHIMNEY"
+        ],
+        [
+          "Hot gases travel from the firebox into passages beneath the floor. Those passages carry heat along the underside of the stones.",
+          "C1",
+          "diagram",
+          "graphic",
+          "Same section stage two, orange gas arrows below slabs only.",
+          null,
+          null,
+          "HOT GASES BELOW"
+        ],
+        [
+          "The stones warm up. Earth and a paper surface complete the layers in the arrangement shown here.",
+          "C2",
+          "diagram",
+          "graphic",
+          "Exploded detail stone, earth, paper with correct order and no air gap into room.",
+          null,
+          null,
+          "STONE · EARTH · PAPER"
+        ],
+        [
+          "The paper is not stretched across an open fire. Solid layers separate the surface from the channel below.",
+          "C2",
+          "diagram",
+          "graphic",
+          "Close section reassembled; solid floor closure legible.",
+          null,
+          null,
+          "A SOLID FLOOR"
+        ],
+        [
+          "Meanwhile, the smoke continues towards an outside chimney. The goal is to warm the room without sending that smoke through it.",
+          "C1",
+          "courtyard",
+          "medium",
+          "Back outside chimney outlet; sparse smoke outside, no smoke through room door.",
+          null,
+          null,
+          null
+        ],
+        [
+          "That distinction is essential. Warmth comes through the floor; the combustion gases have a separate route out of the building.",
+          "C1,C12",
+          "diagram",
+          "graphic",
+          "Two separate arrow systems: orange gases below, amber heat through slab, labelled locally.",
+          null,
+          null,
+          "HEAT UP · SMOKE OUT"
+        ],
+        [
+          "The stone floor holds some of that heat. It can remain warm after the fire has settled, rather than cooling immediately.",
+          "C3",
+          "diagram",
+          "graphic",
+          "Same slab after reduced flame; residual warmth subtle amber, no timer.",
+          null,
+          null,
+          "STORED HEAT"
+        ],
+        [
+          "How long depends on the building, the firing and the conditions. This house has no magical warmth guarantee.",
+          "C3,C12",
+          "room",
+          "close-up",
+          "Evening room in natural colours, no glow or thermometer.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Nor does every ondol have the same hidden layout. Builders arranged the channels in different ways beneath different rooms.",
+          "C4",
+          "diagram",
+          "graphic",
+          "Two restrained plan sketches marked examples; no performance ranking.",
+          null,
+          null,
+          "CHANNEL LAYOUTS VARIED"
+        ],
+        [
+          "Our drawing uses one arrangement you can follow. It explains the mechanism, rather than surveying a particular address.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Return to single canonical side section; other examples gone.",
+          null,
+          "ILLUSTRATIVE PLAN",
+          "ONE HOUSE TO FOLLOW"
+        ],
+        [
+          "Put the floor back. Inside, all that engineering becomes an ordinary surface on which everyday life can happen.",
+          "C1,C5",
+          "room",
+          "wide",
+          "Return opaque real room, low table, seated host, subdued warm light.",
+          null,
+          null,
+          null
+        ],
+        [
+          "And if you want to know who keeps that surface warm, you need to leave the comfortable room and visit the kitchen.",
+          "C0,C12",
+          "kitchen",
+          "medium",
+          "View through kitchen doorway, adult tending hearth with safe clear space.",
+          "closeup-listening",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Dinner and heating share a fire",
+      "scenes": [
+        [
+          "An iron cooking pot sits above the hearth. One fire can prepare food and heat the adjoining room.",
+          "C2",
+          "kitchen",
+          "wide",
+          "Canonical kitchen anchor, iron pot above firebox, wood stack by door.",
+          null,
+          null,
+          null
+        ],
+        [
+          "It is a useful partnership. The cook is dealing with dinner while the building uses heat that passes beyond the firebox.",
+          "C2",
+          "kitchen",
+          "medium",
+          "Local adult tending pot, other adult brings small fuel bundle; no modern cookware.",
+          null,
+          null,
+          null
+        ],
+        [
+          "But useful does not mean effortless. Somebody has to bring fuel, prepare the fire and keep an eye on what is happening.",
+          "C7,C12",
+          "kitchen",
+          "medium",
+          "Hands place modest brushwood beside hearth safely, no huge logs.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "Our host's warm floor begins here, with a person crouched beside a hearth rather than a finger pressing a switch.",
+          "C0,C2",
+          "kitchen",
+          "medium",
+          "Tending adult in practical padded jacket, clear firebox and pot geometry.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The traveller Isabella Bird Bishop described brushwood being brought into Seoul, then smoke rising as fires served cooking and heating.",
+          "C7",
+          "street",
+          "wide",
+          "Laden ox with brushwood bundle in lane; one handler, no overload fantasy.",
+          null,
+          "BISHOP · 1898 ACCOUNT",
+          null
+        ],
+        [
+          "Her account gives the cosy room a wider setting: fuel moves through the city before warmth reaches the household.",
+          "C7,C12",
+          "street",
+          "medium",
+          "Same animal and handler approaching plain gate; no exact price sign.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Bishop's prejudices require care. Here, we are using her observation of fuel arriving, rather than her judgments about Korean society.",
+          "C7",
+          "street",
+          "close-up",
+          "Quiet crop of brushwood load and street; source label retained.",
+          null,
+          "OBSERVATION, NOT A CITYWIDE MEASURE",
+          null
+        ],
+        [
+          "We are not turning that observation into a universal heating bill. Different houses and fires demanded different amounts.",
+          "C7,C12",
+          "kitchen",
+          "close-up",
+          "Small fuel pile beside hearth, no scales or numerical cost graphic.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Back in our kitchen, the pot and the room still share the same fire. That connection is convenient, but it requires planning.",
+          "C2,C12",
+          "kitchen",
+          "medium",
+          "Pot steam rises above pot only; hearth smoke follows flue, never steam under floor.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Cooking and heating are linked in this arrangement. Wanting more of one does not always mean you want more of the other.",
+          "C2,C12",
+          "diagram",
+          "graphic",
+          "Simple original two-output graphic with single hearth centre.",
+          null,
+          null,
+          "COOKING + ROOM HEAT"
+        ],
+        [
+          "This is a working system, with people making decisions around it throughout the day.",
+          "C12",
+          "courtyard",
+          "medium",
+          "Host travels kitchen-to-room across small courtyard, same geometry.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Tonight the meal is nearly ready. You return to the room, feeling rather grateful that someone else understood the fire first.",
+          "C0",
+          "room",
+          "close-up",
+          "Doorway and warm room on left, calm right third for close-up composite.",
+          "closeup-smile",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The room changes around you",
+      "scenes": [
+        [
+          "A small table comes in, low enough for eating on the floor. This kind of table is called a soban.",
+          "C5",
+          "room",
+          "medium",
+          "Plain small wooden soban carried carefully by local adult; no exact feast claim.",
+          null,
+          "SOBAN · SMALL DINING TABLE",
+          null
+        ],
+        [
+          "Suddenly, the space you were inspecting has become a place to eat. The floor is not merely something underneath the furniture.",
+          "C5",
+          "room",
+          "close-up",
+          "Two locals seated with simple bowls and spoon; calm right third for separate close-up.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "You keep your shoes outside and settle into the visit. Our imaginary dinner needs no royal banquet to make its point.",
+          "C0,C5",
+          "room",
+          "medium",
+          "Low table with plain bowls, no rich ceremonial spread or crown.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Heating a surface people sit on changes their relationship with the room. Warmth is close at hand.",
+          "C3,C5",
+          "room",
+          "close-up",
+          "Close view clothed local hand resting naturally on floor beside knee.",
+          null,
+          null,
+          null
+        ],
+        [
+          "It is not necessarily equally warm everywhere. The area nearer the firebox tends to be warmer than the farther end.",
+          "C4",
+          "diagram",
+          "graphic",
+          "Room plan with gentle qualitative warmth gradient, kitchen marked right.",
+          null,
+          null,
+          "WARMTH CAN VARY"
+        ],
+        [
+          "Our host shifts a little, and you follow. Every square foot does not feel exactly the same.",
+          "C0,C4",
+          "room",
+          "medium",
+          "Local person shifts sitting place subtly, same clothing and table position.",
+          null,
+          null,
+          null
+        ],
+        [
+          "There is also more than one way to occupy the room. Eating, sitting and sleeping can all take place at floor level.",
+          "C5",
+          "room",
+          "medium",
+          "Table removed toward door, maintain cupboard and floor, no simultaneous duplicates.",
+          null,
+          null,
+          null
+        ],
+        [
+          "For tonight's imagined household, bedding comes out after the meal. The room becomes a sleeping space without acquiring a permanent bedframe.",
+          "C0,C5",
+          "room",
+          "medium",
+          "Local adult unfolds plain bedding where table had been; no people underneath fabric.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The change is small, but the idea is striking: daily activities move through a room whose warmest feature is already built in.",
+          "C5",
+          "room",
+          "wide",
+          "Wide room evening bedding arrangement; clear walking space.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Korean rooms did not all have identical furniture, and chairs did not vanish. We are following one floor-centred way of living.",
+          "C5",
+          "room",
+          "close-up",
+          "Small cupboard, rolled cloth, plain walls; no universal all-houses graphic.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "From the doorway, the paper floor still looks unremarkable. Underneath it, the stones are doing work you cannot see.",
+          "C2,C3",
+          "room",
+          "medium",
+          "Low doorway view across opaque paper floor with quiet evening light.",
+          null,
+          null,
+          null
+        ],
+        [
+          "There is another part of the house where copying this cosy arrangement would miss the point. Step onto the wooden hall.",
+          "C6",
+          "maru",
+          "wide",
+          "Wooden hall threshold, colder light, visible board surface distinct from paper floor.",
+          "closeup-listening",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The other floor is for another season",
+      "scenes": [
+        [
+          "A Korean house could combine an ondol room with a raised wooden hall, or maru. They served different purposes.",
+          "C6",
+          "maru",
+          "wide",
+          "Canonical maru anchor with raised planks and visible underside.",
+          null,
+          "MARU · WOODEN HALL",
+          null
+        ],
+        [
+          "Air could circulate around the wooden hall, making it useful in hot weather. This was not another heated stone floor.",
+          "C6",
+          "maru",
+          "close-up",
+          "Board ends and shaded air gap; no flues underneath.",
+          null,
+          null,
+          null
+        ],
+        [
+          "For a moment, imagine the same house in summer. The snow is gone, the openings are wider, and the courtyard looks different.",
+          "C0",
+          "summer",
+          "wide",
+          "Exact courtyard geometry summer edit, green vegetation, no snow.",
+          null,
+          "SUMMER COMPARISON",
+          null
+        ],
+        [
+          "Now the airy wooden space makes sense. You might prefer this part of the building to the room that pleased you in winter.",
+          "C0,C6",
+          "summer",
+          "medium",
+          "Maru with locals lightly dressed for summer; Visitor absent for wardrobe clarity.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The house is responding to more than one season. A clever winter solution does not have to be the answer to summer too.",
+          "C6",
+          "summer",
+          "medium",
+          "View from maru toward courtyard, restrained sunlight, same posts and step.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Keep the surfaces separate: the warm room has its solid floor, while the hall has raised wooden boards.",
+          "C6",
+          "diagram",
+          "graphic",
+          "Local two-panel surface diagram, no duplicate confusing whole-house plan.",
+          null,
+          null,
+          "HEATED ROOM · AIRY HALL"
+        ],
+        [
+          "Do not imagine every board hides a chimney channel. Different parts of the building do different jobs.",
+          "C1,C6",
+          "maru",
+          "close-up",
+          "Return winter maru, subtle snow beyond, correct board construction.",
+          "closeup-thoughtful",
+          "BACK TO WINTER",
+          null
+        ],
+        [
+          "Back in winter, you are less tempted to linger here. The warm room is beginning to look like a very good idea.",
+          "C0",
+          "maru",
+          "close-up",
+          "Wooden hall doorway in winter, no exaggerated shivering figure.",
+          "glance-nervous",
+          null,
+          null
+        ],
+        [
+          "But before we return, look at the whole house. Its layout also reflects how much space and money a household could command.",
+          "C10",
+          "courtyard",
+          "wide",
+          "Whole illustrative compound, modest footprint, not palace.",
+          null,
+          null,
+          null
+        ],
+        [
+          "A surviving Seoul example, built for Kim Chun-yeong around eighteen ninety, fitted separate quarters and courtyards into a compact urban plot.",
+          "C10",
+          "reference_house",
+          "graphic",
+          "Original abstract blocks showing compact arrangement, not accurate surveyed plan.",
+          null,
+          "SAMCHEONG-DONG · c.1890",
+          "A COMPACT SEOUL HOUSE"
+        ],
+        [
+          "This represents middle- and upper-class housing. Our illustrated home borrows the period, not that owner's personal story.",
+          "C0,C10",
+          "reference_house",
+          "graphic",
+          "Keep abstract building blocks, no owner portrait or false ordinary poor-family caption.",
+          null,
+          null,
+          "ONE EXAMPLE, NOT EVERY HOME"
+        ],
+        [
+          "That distinction matters. A historical heating system can be widespread while the size, comfort and arrangement of individual homes still differ.",
+          "C10,C12",
+          "courtyard",
+          "medium",
+          "Return original household courtyard, unchanged roofline and room order.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Comfort has limits",
+      "scenes": [
+        [
+          "It is tempting to imagine a perfect room: warm forever, free to run and pleasant in every corner.",
+          "C0",
+          "room",
+          "close-up",
+          "Quiet ordinary room with floor and small table visible; no magic symbols or numerical claim.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "The evidence gives us something more interesting. This was a practical technology, built and tended by people, with real constraints.",
+          "C1,C7,C12",
+          "kitchen",
+          "medium",
+          "Hands adjusting fuel with plain tool; no dangerous use demonstration.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Fuel still had to arrive. Heat still escaped from the building. Stored warmth was useful precisely because the fire did not do everything instantly.",
+          "C3,C7,C12",
+          "courtyard",
+          "medium",
+          "Cold exterior and warm room visible through small doorway, no thermal-camera rendering.",
+          null,
+          null,
+          null
+        ],
+        [
+          "More heat was not always better. Bishop described a Korean temple cell becoming uncomfortably hot from the adjacent kitchen flues.",
+          "C8",
+          "temple",
+          "wide",
+          "Separate illustrative temple cell, sparse floor and window, no host from main story.",
+          null,
+          "SEPARATE EXAMPLE · BISHOP'S TEMPLE STAY",
+          {
+            "scope": "Korean temple cell in Bishop's 1890s travels, not the Seoul household",
+            "frame": "Distinct plain temple cell; do not reuse the exact household room."
+          }
+        ],
+        [
+          "That was her experience in one place, not a temperature reading for every home. It punctures the perfect-comfort fantasy.",
+          "C8",
+          "temple",
+          "medium",
+          "Same separate cell, open window, no thermometer or measured heat gradient.",
+          null,
+          "ONE TRAVELLER'S EXPERIENCE",
+          {
+            "scope": "Same separate temple example",
+            "frame": "Maintain temple cell from previous shot; no named temple exterior invented."
+          }
+        ],
+        [
+          "Our household returns us to the everyday question: how much fire is useful now, and where will people actually sit or sleep?",
+          "C0,C4,C12",
+          "room",
+          "wide",
+          "Back to main house clear cupboard/window/table landmarks.",
+          null,
+          "BACK IN OUR ILLUSTRATIVE HOME",
+          null
+        ],
+        [
+          "The paper surface is another easily missed detail. Bishop noted tough, buff-coloured oiled paper on floors in better-off houses.",
+          "C9",
+          "room",
+          "close-up",
+          "Close floor edge and paper texture, no visible writing or glossy modern vinyl.",
+          null,
+          "BISHOP · FLOOR MATERIALS",
+          null
+        ],
+        [
+          "So the finished room need not look like a bare stone chamber. The stones can do their work beneath a carefully finished surface.",
+          "C2,C9",
+          "room",
+          "medium",
+          "Opaque finished floor and tiny explanatory layer inset added locally.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Warmth and appearance are separate parts of the design. What you see above is not a complete guide to what happens below.",
+          "C2,C12",
+          "diagram",
+          "graphic",
+          "Small floor stack local graphic, same colours/order as S015.",
+          null,
+          null,
+          "SURFACE ABOVE · HEAT BELOW"
+        ],
+        [
+          "Smoke must stay separate from the living space. Our diagram explains that separation; it cannot certify a real building.",
+          "C1,C12",
+          "diagram",
+          "graphic",
+          "Intact section, no leak simulation, room labelled occupied space.",
+          null,
+          null,
+          "SEPARATE COMBUSTION ROUTE"
+        ],
+        [
+          "This is history, not a construction guide. Success depended on the building as well as the fire.",
+          "C12",
+          "courtyard",
+          "medium",
+          "Exterior chimney and roof context, no construction dimensions or demonstration steps.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The quiet room now seems more impressive. Its comfort has been made, rather than simply switched on.",
+          "C0,C12",
+          "room",
+          "close-up",
+          "Quiet household settles at left; evenly lit calm right third.",
+          "closeup-smile",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "An old idea without a single fixed design",
+      "scenes": [
+        [
+          "Another trap is treating every heated floor across Korean history as if it looked exactly like ours.",
+          "C13",
+          "diagram",
+          "graphic",
+          "Two simple labelled silhouettes, partial and whole-floor, no exact date ticks.",
+          null,
+          null,
+          "THE DESIGN CHANGED"
+        ],
+        [
+          "Earlier arrangements could heat only part of a room. Whole-floor systems and their construction developed over time, with different layouts.",
+          "C13",
+          "diagram",
+          "graphic",
+          "Partial strip compared with whole-room channels, explanatory only.",
+          null,
+          null,
+          "PART OF A FLOOR → WHOLE-FLOOR ARRANGEMENTS"
+        ],
+        [
+          "The history is more varied than one invention moment. We need no legendary first inventor to explain tonight's house.",
+          "C0,C13",
+          "courtyard",
+          "close-up",
+          "Main house exterior at dusk, no ancient inventor character.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Modern heated apartment floors use different machinery. They can circulate hot water through pipes beneath the room.",
+          "C13",
+          "diagram",
+          "graphic",
+          "Clearly labelled modern hydronic pipe schematic separate from historical section.",
+          null,
+          "MODERN COMPARISON",
+          "HOT WATER IN PIPES"
+        ],
+        [
+          "The comfort connects them. A boiler and pipework are different from smoke passing beneath stone slabs.",
+          "C1,C13",
+          "diagram",
+          "graphic",
+          "Side-by-side historic flue and modern pipe, no mixed arrows.",
+          null,
+          null,
+          "SIMILAR COMFORT · DIFFERENT SYSTEMS"
+        ],
+        [
+          "Our visit follows the older arrangement. This household needs fuel and a hearth to heat its floor.",
+          "C0,C1",
+          "kitchen",
+          "medium",
+          "Return period kitchen, one contained fire, no modern switch.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "We are describing a mechanism that works without electricity, not claiming that Seoul had none.",
+          "C0,C13",
+          "kitchen",
+          "medium",
+          "Stay tightly on hearth/stone junction, no citywide dark-map inference.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Inside the room, the people using it need none of our arrows or labels. They know where the kitchen is and how the floor feels.",
+          "C0",
+          "room",
+          "medium",
+          "Host seated comfortably, local clothing quiet, all explanatory overlays removed.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Their knowledge is practical: bring in the table, clear a place, prepare for the night, and pay attention to the fire.",
+          "C0,C5,C12",
+          "room",
+          "medium",
+          "Table against wall and folded bedding moved naturally, no simultaneous time montage.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The technology fits those ordinary actions. Nobody needs to announce that engineering has happened.",
+          "C0,C12",
+          "room",
+          "close-up",
+          "Plain domestic detail of cup on low table and hand, no text.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "It has happened under their feet, through a building that turns a fire in one place into comfort in another.",
+          "C1",
+          "courtyard",
+          "medium",
+          "Exterior relationship view kitchen and room, no transparent generated architecture.",
+          null,
+          null,
+          null
+        ],
+        [
+          "And for a visitor arriving from the cold, that is a much more persuasive explanation than any claim about ancient genius.",
+          "C0",
+          "room",
+          "close-up",
+          "Room doorway and paper floor on left, warm subdued light.",
+          "closeup-smile",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "What the floor really changed",
+      "scenes": [
+        [
+          "Before you leave, follow the route one last time. Fuel arrives, the hearth burns, and hot gases travel beneath the stones.",
+          "C1,C7",
+          "diagram",
+          "graphic",
+          "Canonical section recap, three stages only, no new geometry.",
+          null,
+          null,
+          "FUEL → FIRE → WARM FLOOR"
+        ],
+        [
+          "Smoke exits outside. Heat reaches the room through the floor. Some remains stored in the stone after the fire has eased.",
+          "C1,C3",
+          "diagram",
+          "graphic",
+          "Same section with outside outlet and subtle stored heat emphasis.",
+          null,
+          null,
+          "SMOKE OUT · WARMTH STAYS FOR A WHILE"
+        ],
+        [
+          "Above it, people can eat, talk, or prepare a sleeping space. Heating helps shape the room's daily use.",
+          "C5",
+          "room",
+          "medium",
+          "Same household at floor level, low table off-centre, no exact historical named family.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The wooden hall answers a different need in warmer weather. One building holds more than one response to the seasons.",
+          "C6",
+          "maru",
+          "medium",
+          "Winter maru view, small local summer inset clearly labelled if used.",
+          null,
+          null,
+          null
+        ],
+        [
+          "None of this removes the labour of feeding the fire or the differences between households. Comfort always has a setting and a cost.",
+          "C7,C10,C12",
+          "kitchen",
+          "medium",
+          "Small remaining fuel stack, adult finishes kitchen task, no invented money amount.",
+          null,
+          null,
+          null
+        ],
+        [
+          "But it changes what the floor can be. Instead of merely separating you from the ground, it becomes something the household actively uses.",
+          "C1,C5",
+          "room",
+          "medium",
+          "Low floor-level composition showing hand, small table legs and socked feet.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Our host closes the door after you, keeping the room ready for the night. Outside, the courtyard feels cold again.",
+          "C0",
+          "courtyard",
+          "wide",
+          "View from courtyard toward closing room door; clear earth path on right for separately composited departing figure.",
+          "step-forward",
+          null,
+          null
+        ],
+        [
+          "You look back at the roof and the little chimney. From here, the hidden channels are once again impossible to see.",
+          "C0",
+          "courtyard",
+          "medium",
+          "Same chimney correct rear position, faint exterior smoke, one moon only if visible.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "The house looks ordinary. An ingenious arrangement does not have to announce itself to everyone passing.",
+          "C0",
+          "courtyard",
+          "wide",
+          "Quiet exterior wide, no palace backdrop or dramatic effects.",
+          null,
+          null,
+          null
+        ],
+        [
+          "For the people inside, the important result is much simpler. There is somewhere warm to sit when the evening turns cold.",
+          "C0,C5",
+          "room",
+          "medium",
+          "Earlier interior callback, local adult on floor, no Visitor magically back inside.",
+          null,
+          "INSIDE THE HOUSE",
+          null
+        ],
+        [
+          "You came looking for the heater. You found a kitchen, floor, chimney, and the work that makes them function together.",
+          "C0,C1,C12",
+          "courtyard",
+          "wide",
+          "Short lane outside same compound, clear earth path at right, distant gate and consistent roofline.",
+          "walk-fast",
+          null,
+          null
+        ],
+        [
+          "And now, when someone invites you to sit on the floor, you might want to find out what is underneath it first.",
+          "C0",
+          "room",
+          "medium",
+          "Final original room detail, warm paper surface and simple table, clean end-screen space.",
+          null,
+          null,
+          null
+        ]
+      ]
+    }
+  ],
+  "local_graphic_pilot": [
+    "S013",
+    "S015",
+    "S018"
+  ],
+  "extra_specs": [
+    "heating_system_spec.json"
+  ]
+}

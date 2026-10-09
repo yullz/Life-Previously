@@ -1,0 +1,15 @@
+{
+  "status": "director_selected_reference_inspected",
+  "mode": "episode_private_traditional_variant",
+  "policy": "../WARDROBE_POLICY.md",
+  "selection": "Plain padded men's jeogori in muted warm grey with narrow matching ties, loose slate-grey baji gathered with ankle ties; plain light cloth socks indoors. Outdoors add a quiet brown-grey calf-length coat and simple dark shoes. No hat, pattern, crest or ceremonial accessory.",
+  "historical_basis": "National Folk Museum men's jacket/trousers construction photograph inspected; contemporary Bishop winter clothing description corroborates padding. Outfit is a restrained character adaptation.",
+  "references": [
+    "https://www.nfm.go.kr/k-box/ui/hanbok/male.do?lang=en",
+    "https://www.nfm.go.kr/k-box/images/kbox/sub/cont_p_04_02_02.jpg"
+  ],
+  "identity_lock": "Keep Visitor face, skin, hair, proportions and expression unchanged. No topknot, beard, ethnicity change or gendered short cropped jacket.",
+  "continuity": "Indoor poses use socks and no coat. Exterior poses use coat and shoes; threshold close-ups avoid an unshown footwear discontinuity. Never put outdoor shoes on the paper floor. No Japanese split-toe sock styling.",
+  "production_review": "Create private variants for the actually used poses only. Pilot one indoor standing and one close-up plus one exterior variant, inspect silhouette and composites before remaining poses."
+}
+

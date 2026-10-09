@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "status": "template_not_completed",
+  "episode_id": null,
+  "assignment_id": null,
+  "director_brief_version": null,
+  "relevant_lessons": [],
+  "prevention_coverage": [],
+  "issues_found": [],
+  "repairs": [],
+  "experiments": [],
+  "metrics": {
+    "first_candidates_reviewed": null,
+    "first_candidates_accepted_without_correction": null,
+    "corrective_regenerations": null,
+    "optional_creative_regenerations": null,
+    "credits_spent": null,
+    "accepted_backgrounds_used": null,
+    "late_discoveries": null,
+    "known_error_recurrences": null
+  },
+  "review_limitations": [],
+  "owner_instructions": [],
+  "proposed_changes_for_director": [],
+  "director_decisions": [],
+  "release_blockers": [],
+  "evidence_files": [],
+  "retrospective_status": "not_started",
+  "director_approved": false
+}

@@ -1,0 +1,26 @@
+{
+  "status": "director_guidance_listen_to_generated_voice",
+  "entries": [
+    {
+      "term": "Mary Easty",
+      "say": "MAIR-ee EE-stee",
+      "note": "Archive also spells Esty; narration consistent."
+    },
+    {
+      "term": "Sarah Cloyce",
+      "say": "SAIR-uh CLOYSS",
+      "note": "Rhymes with voice."
+    },
+    {
+      "term": "Samuel Wardwell",
+      "say": "SAM-yoo-ul WARD-well",
+      "note": "Natural cadence."
+    },
+    {
+      "term": "Phips",
+      "say": "FIPS",
+      "note": "Do not add second syllable."
+    }
+  ],
+  "rule": "Listen to names in first voice batch; retake before edit timing."
+}

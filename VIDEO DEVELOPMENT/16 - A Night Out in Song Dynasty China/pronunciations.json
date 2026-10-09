@@ -1,0 +1,26 @@
+{
+  "status": "director_guide_voice_listening_pending",
+  "entries": [
+    {
+      "term": "Kaifeng",
+      "say": "KAI-fung",
+      "note": "Mandarin Kāifēng; natural English narration, no comic accent."
+    },
+    {
+      "term": "Meng Yuanlao",
+      "say": "mung ywen-laow",
+      "note": "孟元老; confirm voice take against Mandarin pronunciation, not phonetic text inserted into captions."
+    },
+    {
+      "term": "Song",
+      "say": "soong",
+      "note": "Dynasty name 宋."
+    },
+    {
+      "term": "Fengle",
+      "say": "fung-luh",
+      "note": "豐樂; omit from narration if unnecessary."
+    }
+  ],
+  "rule": "Keep original spelling in on-screen sources; listen to actual voice output before acceptance."
+}

@@ -1,0 +1,41 @@
+{
+  "status": "director_specified_not_voiced",
+  "entries": [
+    {
+      "term": "Liber Albus",
+      "say": "LEE-ber AL-bus",
+      "note": "Book title, not a person."
+    },
+    {
+      "term": "St Mary-le-Bow",
+      "say": "Saint MARE-ee luh BOH",
+      "note": "Bow rhymes with go."
+    },
+    {
+      "term": "Newgate",
+      "say": "NEW-gayt",
+      "note": "Not the later building."
+    },
+    {
+      "term": "mainprise",
+      "say": "MAYN-prize",
+      "note": "Explain as release under guarantees to keep the peace, not acquittal."
+    },
+    {
+      "term": "William Moot",
+      "say": "WILL-yum MOOT",
+      "note": "Moot rhymes with boot."
+    },
+    {
+      "term": "Henham",
+      "say": "HEN-um",
+      "note": "Name in the recorded case."
+    },
+    {
+      "term": "Fraunceys",
+      "say": "FRAN-sis",
+      "note": "Caption retains source spelling."
+    }
+  ],
+  "rule": "Read6s8d as six shillings and eight pence; distinguish or from and in every penalty. Fifteen and fifty must not be confused."
+}

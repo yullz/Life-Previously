@@ -1,0 +1,16 @@
+{
+  "status": "director_selected",
+  "entries": [
+    {
+      "term": "Woolton",
+      "say": "WOOL-tun",
+      "note": "First syllable wool,not wool-tonne."
+    },
+    {
+      "term": "swede",
+      "say": "SWEED",
+      "note": "The root vegetable called rutabaga inNorthAmerica; explain naturally once."
+    }
+  ],
+  "rule": "Narrate ounces as words; local graphics may add approximate grams. No exact monetary price needing invented conversion."
+}

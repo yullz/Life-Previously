@@ -1,0 +1,358 @@
+[
+  {
+    "id": "C0",
+    "claim": "Second-person questions, analogies, hypothetical routes and concluding interpretation are explanatory framing, not attested personal events.",
+    "type": "F",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Episode framing",
+    "limit": "Always mark schematic/example; no invented named witness or outcome.",
+    "scene_ids": [
+      "S002",
+      "S003",
+      "S004",
+      "S005",
+      "S009",
+      "S011",
+      "S018",
+      "S020",
+      "S022",
+      "S023",
+      "S024",
+      "S026",
+      "S029",
+      "S031",
+      "S032",
+      "S035",
+      "S036",
+      "S039",
+      "S040",
+      "S042",
+      "S046",
+      "S048",
+      "S051",
+      "S056",
+      "S058",
+      "S059",
+      "S063",
+      "S064",
+      "S066",
+      "S067",
+      "S073",
+      "S078",
+      "S082",
+      "S083",
+      "S084",
+      "S087",
+      "S088",
+      "S089",
+      "S093",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "claim": "Waugh's1862 Manchester morning shows a knocker-up with long wand going home to bed, coffee stalls closing, and wet weather.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Chapter IX opening paragraph and preface",
+    "limit": "No precise date,exact hourly job schedule or claim all mills were busy.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S010",
+      "S011",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "claim": "Alarm-equipped clocks predate Victorian knocker-ups: Knifton clock1640–1662 has an alarm.",
+    "type": "E",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "Object1951-217 date and mechanism description",
+    "limit": "No first-invention claim or universal household ownership.",
+    "scene_ids": [
+      "S005",
+      "S007",
+      "S008",
+      "S078",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "claim": "Chambers1877 presents Mrs Waters' recollections in an unnamed northern-English town; she said her injured husband could no longer work and a designer first offered her a three-o'clock waking job.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Article opening through first customer's offer and explanation",
+    "limit": "Reported account,not independently verified autobiography; no exact career dates or invented diagnosis.",
+    "scene_ids": [
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S016",
+      "S017",
+      "S069",
+      "S082"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "claim": "Waters said her first customer slept through or returned to sleep after an alarm and wanted quiet morning working time.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Paragraph 'The reason why knocking-up...' and designer passage",
+    "limit": "Her explanation and this customer's reported situation,not claim all alarm clocks failed.",
+    "scene_ids": [
+      "S009",
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S031",
+      "S088",
+      "S089"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "claim": "Waters describes replacing disruptive door knocking/ringing with rod taps on bedroom windows and customers replying.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "'Yes;a knocker-up has a good chance...' through good-tempered reply-tap",
+    "limit": "Rod,not pea-shooter; targeted does not mean literally inaudible to all neighbours.",
+    "scene_ids": [
+      "S003",
+      "S004",
+      "S023",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S033",
+      "S068",
+      "S089",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "claim": "Waters reports30customers after one year,around80houses after five and occasionally95; she emphasized shortcuts and organizing rounds.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Growth,fees and 'You can't see how...' paragraphs",
+    "limit": "Reported scale only; never animate an invented actual timed route or guarantee all in one hour.",
+    "scene_ids": [
+      "S021",
+      "S022",
+      "S036",
+      "S037",
+      "S038",
+      "S068",
+      "S087",
+      "S090",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "claim": "Waters reports initial half-crown fee later reduced; regular rates18pence before4,one shilling soon after4,6–3pence from5–6 depending time/distance.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "'What did they pay? All prices.'",
+    "limit": "Weekly,her rates,career date unspecified; no inflation-equivalent or national standard.",
+    "scene_ids": [
+      "S040",
+      "S041",
+      "S042",
+      "S043",
+      "S044",
+      "S045",
+      "S090",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "claim": "Waters says she collected mainly Saturdays, threatened withdrawal for arrears, sometimes did not press poor or sick clients, and dismissed an insulting customer.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Bad debts and customer temperament passages",
+    "limit": "Self-reported business practice; no exact fine amount or claim all clients fined.",
+    "scene_ids": [
+      "S033",
+      "S034",
+      "S035",
+      "S046",
+      "S047",
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S066",
+      "S068",
+      "S090",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "claim": "Waters ran a shop selling black-lead,blacking,brushes,pots and pans alongside rounds; she selected stock unlikely to perish or go out of fashion and avoided selling on credit.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Shop decision and stock paragraphs",
+    "limit": "Not all knocker-ups had shops; avoid modern product packaging.",
+    "scene_ids": [
+      "S053",
+      "S054",
+      "S055",
+      "S056",
+      "S057",
+      "S083"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "claim": "Waters reports two adult orphaned sisters,mill work,evening mending,heavy sleep,polite greetings and occasional Sunday tea.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Two young women who were sisters paragraph",
+    "limit": "Reported individuals,not reconstruction of every working woman's household.",
+    "scene_ids": [
+      "S059",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "claim": "Waters says she slept9pm to2:30am except Saturday,initially relied on husband and alarm,later woke habitually; earliest customer20minutes away at3am.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "'When did I get my sleep...' full paragraph",
+    "limit": "No medical endorsement,no universal night-worker schedule; exact self-report not independently verified.",
+    "scene_ids": [
+      "S005",
+      "S006",
+      "S056",
+      "S057",
+      "S058",
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S083",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "claim": "Waters reports difficult rain/wind/slush,retirement handing rounds to a struggling neighbour; author warns competition reduced opportunities.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Weather,retirement and final Note",
+    "limit": "Do not promise her reported income as typical. No universal disappearance date.",
+    "scene_ids": [
+      "S068",
+      "S070",
+      "S084",
+      "S085",
+      "S086",
+      "S087"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "claim": "Different ways of arranging sleep could coexist: Waugh's worker goes home to bed,while Waters reports early bedtime plus husband/alarm and daytime shop.",
+    "type": "I",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Compared passages C1/C9/C11",
+    "limit": "Comparison across separate accounts/places/dates; not two descriptions of one person.",
+    "scene_ids": [
+      "S014",
+      "S071",
+      "S072",
+      "S080",
+      "S092",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

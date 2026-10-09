@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "status": "director_draft_initial_review_pending",
+  "household": {
+    "adults": 2,
+    "children": [
+      14,
+      8
+    ],
+    "record_status": "Invented illustrative household; no exact real-family entitlement,totalbudget or dailycalorieclaim",
+    "visitor": "Normalclothing,separatecomposite"
+  },
+  "date_lock": "London,July1944",
+  "ordinary_cheese": {
+    "weekly_oz": 2,
+    "approx_grams": 57,
+    "exceptions": "Special-category allowances differ; do not totalfouradults",
+    "later_comparison": "3ozfrom15October1944,explicitlylater"
+  },
+  "book_graphics": {
+    "source_year": 1940,
+    "source": "TNA BT131/40childbook",
+    "instruction": "Localparaphrasecardswith1940label; do not callthisa1944adultbook. Backgroundbooksblank."
+  },
+  "bread": {
+    "july_1944": "No breadcoupons",
+    "comparison": "Bread/flourrationingfrom21July1946onlyinlabelledgraphic"
+  },
+  "pie": {
+    "source": "SRC06",
+    "sequence": "S049–S059",
+    "status": "Conditional1941recipe demonstration,not documentedJuly1944meal",
+    "filling": [
+      "potato",
+      "cauliflower",
+      "swede",
+      "carrot",
+      "springonions ifavailable",
+      "vegetableextract",
+      "oatmeal"
+    ],
+    "quantity_policy": "No exactoatmealquantity; source reproductionsconflict. Noinventedserving/calorieclaim.",
+    "crust": "Modestwheatmealpastrylid,no cheese/cream/meat",
+    "continuity": "Rawingredients→cook→cool→filldish→cover→brownedpie→serve. Do not showrawrootchunksinside cookedfinishedpie.",
+    "seasonality": "Swedeautumn/wintercrop; nofreshJulyharvestclaim. Actualfamilycouldneedsubstitution;recipeexampleexplicitconditional."
+  },
+  "graphics": {
+    "cheese": "Use locallycontrolledschematicfor2oz/57g,not modelsizeasmeasurement",
+    "points": "Illustrativebaronly; noinventedpointpricesorperiodlength"
+  },
+  "source_balance": "July18report records bothbroad satisfaction andcomplaints; keepboth.",
+  "production_checks": [
+    "Childrenlooktheirages,noadult-onlystyleconstraint",
+    "No1946breadcouponsin1944",
+    "Couponsandcashdistinct",
+    "Recipeingredientsnevertransformintomeat",
+    "No impliedcompleteweek'sdietfromthumbnailpile",
+    "S094returns toearlier dinner,notsecondmeal"
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "episode": "australia-voyage-1854",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S004",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S016",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S029",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S014",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S014",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S014",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": "S027",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S014",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S014",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S073",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S084",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S084",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S084",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S084",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S084",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S084",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S003",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S013",
+      "text": "FIRST CABIN: A SMALL MINORITY",
+      "label": "Chronicle,2September1854",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S020",
+      "text": "AN ONBOARD PAPER WITH A PROMOTIONAL VOICE",
+      "label": "Chronicle,29July1854,ToOurReaders",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S031",
+      "text": "SHIP'S STORES | INDIVIDUAL MEALS",
+      "label": "Inventory≠individualration",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S044",
+      "text": "LIGHT WINDS | UNCERTAIN ARRIVAL",
+      "label": "Chronicle,23September1854",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S046",
+      "text": "1852:FORBES | 1854:WILD",
+      "label": "Separate voyages",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S063",
+      "text": "REPEAT OFFENCE:SEVERE PUNISHMENT THREATENED",
+      "label": "Warning for a repeat offence",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S067",
+      "text": "REPORTS CHANGED DURING THE VOYAGE",
+      "label": "Chronicle,5August/12August/14October",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S069",
+      "text": "MRS LANGFORD AND HER INFANT | WILLIAM GORE TIPPER",
+      "label": "Chronicle,14October1854",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S074",
+      "text": "PAPER PLANNED FOR10ISSUES",
+      "label": "Chronicle,14October1854,LastoftheChronicles",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S076",
+      "text": "23SEPTEMBER → 14OCTOBER",
+      "label": "Preserved issue dates",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S080",
+      "text": "THE SHIP'S LONGEST PASSAGE SO FAR",
+      "label": "WilliamWild,14Octoberissue",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S086",
+      "text": "A COLONIAL CITY ON KULIN COUNTRY",
+      "label": "MuseumsVictoria,TheFoundingofMelbourne",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S089",
+      "text": "ROUTINE | STRANGERS | WAITING",
+      "label": "Voyage synthesis",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

@@ -1,0 +1,21 @@
+{
+  "status": "director_selected",
+  "entries": [
+    {
+      "term": "Piggly Wiggly",
+      "say": "PIG-lee WIG-lee",
+      "note": "Natural brand name, no comic voice."
+    },
+    {
+      "term": "Saunders",
+      "say": "SAWN-derz",
+      "note": "Clarence Saunders."
+    },
+    {
+      "term": "Memphis",
+      "say": "MEM-fiss",
+      "note": "Tennessee."
+    }
+  ],
+  "rule": "Speak patent dates in natural English; do not read the patent number on every source appearance."
+}

@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "effective_date": "2026-10-08",
+  "owner_requested": true,
+  "purpose": "Turn production mistakes and results into specific, tested improvements across research, writing, images, narration, editing, packaging and delivery.",
+  "execution_model": "Runs as part of authorized production tasks and handoffs. This is not a background service, scheduled automation or permission to spend.",
+  "authority": {
+    "director": "Astra decides editorial wording, methods, preventive rules, experiments and adoption. Reviews evidence before approval.",
+    "executor": "Claude records observations, diagnoses with evidence, proposes options and implements the director's explicit instructions. Unspecified editorial or repair choices return to Astra.",
+    "owner": "Approves every new spend and publication change and may give viewing/listening feedback. Routine take and repair choices belong to Astra; do not ask the owner to make them."
+  },
+  "files": {
+    "register": "channel/learning_register.json",
+    "episode_review_template": "templates/learning_review.json",
+    "workflow": "channel/production_workflow.json"
+  },
+  "cycle": [
+    {
+      "id": "L01",
+      "trigger": "Before a new episode or repair handoff",
+      "action": "Read the register. Select global rules plus lessons relevant to this period, shot types, historical evidence, narration and delivery format. Produce a coverage table linking each relevant lesson to a concrete scene or pipeline check. Do not paste the entire lessons log into every image prompt.",
+      "output": "Episode build/learning_review.json: relevant_lessons and prevention_coverage"
+    },
+    {
+      "id": "L02",
+      "trigger": "When a fault, uncertain observation, failed request or repeated revision is found",
+      "action": "Open or link an issue before further paid attempts. Record the exact asset/version, expected and observed result, detection stage, severity, evidence, cost and confidence. Separate factual/historical failure from optional creative revision. A suspected ASR mismatch is not a confirmed narration error.",
+      "output": "Updated learning register issue and episode issue reference"
+    },
+    {
+      "id": "L03",
+      "trigger": "Before fixing a confirmed fault",
+      "action": "Identify the controllable cause. Avoid labels such as 'AI mistake'. State which source, prompt clause, reference, scene specification, implementation or approval gap produced the problem. Separate observed evidence from causal inference. If uncertain, record alternatives.",
+      "output": "Root-cause statement with evidence and confidence"
+    },
+    {
+      "id": "L04",
+      "trigger": "When choosing a repair",
+      "action": "Astra chooses the precise repair and prevention. Prefer a structural control at the earliest applicable stage. Specify how it will be verified. Claude implements only the chosen approach within existing authorization; paid actions still require owner approval.",
+      "output": "Director decision plus preventive control and regression case"
+    },
+    {
+      "id": "L05",
+      "trigger": "After implementation",
+      "action": "Record implementation and validation separately. Test the relevant historical failure and an ordinary unaffected case when tests are authorized. Visual correctness requires visual inspection; listening requires actual audio perception. Failed, unavailable and unperformed checks remain open. Current owner restrictions on check runs override this step and must be recorded explicitly.",
+      "output": "Validation evidence tied to files, versions and reviewer modality"
+    },
+    {
+      "id": "L06",
+      "trigger": "After each image batch and candidate delivery",
+      "action": "Compare observed acceptance, revisions, cost and defects with the baseline. Stop before buying another batch if an unresolved shared cause appears. Record what improved, what regressed and what remains uncertain.",
+      "output": "Episode metrics and release-blocker list"
+    },
+    {
+      "id": "L07",
+      "trigger": "At the end of an episode or bounded repair assignment",
+      "action": "Astra reviews the retrospective and promotes proven controls to the active workflow. Keep unsuccessful experiments and retired rules with reasons. Update targeted regression cases and episode templates. Do not mark a lesson proven merely because it was written down.",
+      "output": "Director-reviewed retrospective, adopted controls and next-episode requirements"
+    }
+  ],
+  "issue_fields": [
+    "issue_id",
+    "episode_id",
+    "scene_or_component",
+    "asset_version_or_hash",
+    "expected",
+    "observed",
+    "evidence",
+    "confidence",
+    "severity",
+    "detected_stage",
+    "root_cause",
+    "root_cause_confidence",
+    "repair_status",
+    "prevention",
+    "regression_case",
+    "validation_status",
+    "reviewer_and_modality",
+    "spend",
+    "affected_versions",
+    "director_decision"
+  ],
+  "rules": [
+    "Keep reported, confirmed, implemented, validated and director-approved states distinct.",
+    "No autonomous expansion of scope, model/style changes, paid generations or publication changes.",
+    "Do not create a new blanket negative prompt for every mistake. Apply a relevant positive specification or structural control first.",
+    "Preserve historical uncertainty. Improvements to clarity must not turn an estimate into a fact or invent an exact date.",
+    "Record earlier failures permanently; never erase them to improve the score.",
+    "Do not optimize speed, credit use or acceptance statistics by accepting historical, visual or audio errors.",
+    "An owner watching a candidate is recorded as owner viewing, not automatic approval of every finding or a director review.",
+    "If the owner stops agent checks, keep unknowns open and continue only explicitly allowed technical work and requested listening/viewing.",
+    "High-severity recurrence reopens the control and blocks the next affected stage until the director supplies a correction.",
+    "Local repair scripts must stage candidates before acceptance just as paid generation does. Writing directly into accepted images and restoring failed attempts later is a recurrence, not successful staging.",
+    "Director instructions are also subject to learning: test a crop against its exact exclusion goal and record when the prescribed coordinates fail. Do not blame an executor for faithfully applying a deficient specification.",
+    "A scene or wording change invalidates affected upload copy, descriptions, captions and thumbnails as well as the render. The final upload packet must contain no working placeholders.",
+    "A discovered factual conflict blocks its affected paid request even when the batch cost was approved. Track the conflict against the exact claim and script hashes; an unrelated checked marker cannot clear it.",
+    "Compare a report's summary against its cited evidence. Keep inserted or omitted words visible even when a numeric transcript similarity score looks good. An ASR anomaly is evidence to investigate, not proof of an audible defect.",
+    "Record approved maximum cost, actual request receipts and reconciled balance change separately. A discounted observation is not a standing future rate, and unused allowance does not authorize extra requests.",
+    "Close an observation as a non-defect only with an explicit director rationale. General narration need not show every listed object simultaneously; named evidence and explicit visible relationships must match."
+  ],
+  "metrics": {
+    "first_pass_acceptance": "First candidate explicitly accepted without correction / first candidates actually reviewed. Requires an acceptance ledger; do not infer it from generation count.",
+    "revision_rate": "Assets receiving a corrective second or later production attempt / generated assets. Separate optional creative changes.",
+    "cost_per_accepted_background": "Actual recorded generation credits / distinct accepted background versions used in the approved cut. Do not infer approval from download completion.",
+    "late_discovery_rate": "Confirmed defects first found after final rendering / all confirmed defects for the episode.",
+    "recurrence": "Previously recorded failure types that recur after their preventive control was adopted.",
+    "coverage": "Relevant high-severity lessons mapped to and checked at the appropriate stage.",
+    "viewer_results": "When owner-provided or authorized analytics become available, link retention observations and feedback to exact moments. Treat causal explanations as hypotheses; no background monitoring is implied."
+  },
+  "experiments": {
+    "owner_spend_approval_required": true,
+    "director_approval_required": true,
+    "method": "Change one meaningful variable at a time on a representative small set. Define success and regression criteria in advance. Use existing assets and local fixtures first; do not spend to run an experiment without a quote and approval.",
+    "required_fields": [
+      "hypothesis",
+      "change",
+      "control_or_baseline",
+      "sample",
+      "success_criteria",
+      "regression_criteria",
+      "cost",
+      "director_decision",
+      "owner_spend_approval",
+      "result",
+      "adopt_or_reject_reason"
+    ]
+  },
+  "current_exception": {
+    "episode_ids": [
+      "001-medieval-london-day",
+      "002-pompeii-life"
+    ],
+    "owner_instruction": "No further agent check runs; owner has watched both candidates.",
+    "effect": "Do not launch new inspector agents, broad audits or repeated full review runs. Follow handoff/director_decisions_2026-10-08_followup_002.json for the remaining bounded free work. Existing unverified findings stay visible; editorial decisions are not delegated to the owner. The pilot's 9:24 runtime is explicitly accepted by the owner."
+  }
+}

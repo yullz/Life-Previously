@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "status": "director_source_and_visual_direction_ready_media_pending",
+  "main_scope": "Kaifeng c.1120, imagined warm-season night. No exact date or fixed-hour walking itinerary.",
+  "timeline": [
+    {
+      "scenes": "S001–S036",
+      "light": "Evening into night",
+      "event": "Food stalls and restaurant; memory/source cards are explanatory."
+    },
+    {
+      "scenes": "S037–S060",
+      "light": "Night",
+      "event": "Wine-house exterior, tea, entertainment. Specific programme order fictional."
+    },
+    {
+      "scenes": "S061–S072",
+      "light": "Later night",
+      "event": "Tea sellers, workers, fire watch and source reflection."
+    },
+    {
+      "scenes": "S073–S078",
+      "light": "Night passing toward dawn",
+      "event": "Source explanation, early markets and bakery."
+    },
+    {
+      "scenes": "S079–S084",
+      "light": "Dawn bookend",
+      "event": "S081 and S082 are labelled earlier-night and memoir callbacks, not chronological regressions."
+    }
+  ],
+  "location_dependencies": [
+    {
+      "child": "late_street",
+      "parent": "S001",
+      "change": "Same market geometry at a later hour; close some shutters, reduce crowd/lights, preserve fixed buildings."
+    },
+    {
+      "child": "dawn",
+      "parent": "S001",
+      "change": "Same geometry under pale dawn; early provisioning replaces late customers."
+    },
+    {
+      "child": "kitchen",
+      "parent": "S012",
+      "change": "Same restaurant; keep serving hatch and circulation coherent."
+    }
+  ],
+  "food_rules": [
+    "No modern Sichuan chilli dishes; only broadly sourced noodle/meat/fish categories.",
+    "Warm-season episode: winter list appears only as a labelled contrast, never a simultaneous summer stall inventory.",
+    "Summer liquorice iced drink is a named offering, not an exact recipe or universal habit.",
+    "Do not add tomato, potato, modern takeaway boxes or invented menu prices."
+  ],
+  "lighting_rules": [
+    "Night sky dark, exposure concentrated around actual lamps/candles.",
+    "No lantern repeated in every image or modern-festival red lantern canopy.",
+    "No precise reconstructed lamp design close-up unless independently referenced.",
+    "Dawn scenes retain same street and become progressively lighter; no abrupt noon sun."
+  ],
+  "visual_reference_review": {
+    "clothing": "https://depts.washington.edu/chinaciv/clothing/11qmsht1.jpg inspected in browser.",
+    "architecture": "https://depts.washington.edu/chinaciv/painting/4urbcom3.jpg inspected in browser.",
+    "limitation": "These are details from the Northern Song painting, not proof of exact night illumination; institutional caption cross-checked against Palace Museum original object."
+  },
+  "performance_rules": [
+    "Original illustrative storyteller; no invented speech presented as a quote.",
+    "Shadow theatre schematic only; no claim of exact surviving Kaifeng puppet forms.",
+    "No Qing opera masks, microphones, modern theatrical lighting or tickets with invented prices."
+  ],
+  "acceptance": [
+    "Visitor's private outfit remains identical across every used pose and thumbnail.",
+    "No generic national costume or ethnicity change.",
+    "Restaurant serves plausible bowls with coherent hands; do not literalise the memoir's astonishing twenty-bowl description.",
+    "Source phrases and place names are local text, never image-model lettering.",
+    "84 shots are deliberate; no filler scenes needed solely to reach96. Narration pacing must still meet the actual10-minute minimum."
+  ]
+}

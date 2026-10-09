@@ -1,0 +1,335 @@
+[
+  {
+    "id": "C0",
+    "claim": "The Visitor's household, choices, objects and callbacks are explicitly invented illustrations; no exact household budget, occupation, address or survival probability is claimed.",
+    "type": "F",
+    "sources": [],
+    "locator": "Editorial framing; spoken reconstruction disclaimer in opening",
+    "limit": "Do not turn the hypothetical Visitor into an attested1709 person.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S004",
+      "S007",
+      "S008",
+      "S009",
+      "S012",
+      "S016",
+      "S019",
+      "S020",
+      "S021",
+      "S022",
+      "S027",
+      "S028",
+      "S030",
+      "S032",
+      "S036",
+      "S038",
+      "S039",
+      "S040",
+      "S046",
+      "S048",
+      "S051",
+      "S056",
+      "S058",
+      "S059",
+      "S062",
+      "S070",
+      "S077",
+      "S083",
+      "S085",
+      "S091",
+      "S092",
+      "S093",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "claim": "The narrative begins in Paris in January1709 and follows the crisis into spring and August;1709's exceptional cold did not remain uninterrupted all winter.",
+    "type": "E",
+    "sources": [
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Météo-France temperature/calibration section; Morin analysis discussion",
+    "limit": "Exact day-to-day timeline uses observations, not Saint-Simon's compressed rhetorical duration.",
+    "scene_ids": [
+      "S003",
+      "S004",
+      "S015",
+      "S047",
+      "S049"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "claim": "Morin made repeated Paris weather observations; modern researchers interpret early nonstandard measurements. The record shows severe cold interrupted by milder periods.",
+    "type": "E",
+    "sources": [
+      "SRC03",
+      "SRC02"
+    ],
+    "locator": "Morin methods and historical measurements; Météo-France opening weather sections",
+    "limit": "No invented thermometer scale or unsupported numeric graph; use categorical sequence only.",
+    "scene_ids": [
+      "S011",
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S050"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "claim": "Saint-Simon reports frozen rivers and pieces of ice falling from bottles at a Versailles supper despite nearby fires.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "ChapterXLIV, opening four paragraphs",
+    "limit": "Attribute the anecdote to Saint-Simon and label Versailles; not every home, all drinks or guaranteed literal conditions everywhere.",
+    "scene_ids": [
+      "S016",
+      "S017",
+      "S018",
+      "S024",
+      "S025"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "claim": "Ice and difficult routes disrupted the movement of provisions and wood; a city's fuel and food relied on deliveries.",
+    "type": "E",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Van der Cruysse quotation on frozen watercourses and difficult roads",
+    "limit": "Disruption, not total halt of every route for every day. No invented cart journey or quantified fuel cost.",
+    "scene_ids": [
+      "S005",
+      "S010",
+      "S020",
+      "S023",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S031",
+      "S086",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "claim": "Saint-Simon describes rising bread prices, hoarding of existing grain and fear for the next harvest after frost damage.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "ChapterXLIV, barley and grain paragraphs",
+    "limit": "Keep attribution; do not validate all his accusations, a universal fixed price or a shortage conspiracy.",
+    "scene_ids": [
+      "S005",
+      "S033",
+      "S034",
+      "S037",
+      "S038",
+      "S042",
+      "S043",
+      "S044",
+      "S079",
+      "S087"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "claim": "Repeated frost and thaw damaged crops; replacement sowing of barley is documented as a response to lost wheat, with permission in April described by the historian.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Saint-Simon chXLIV resown barley; Météo-France government-response section",
+    "limit": "Barley helped; it did not erase famine or instantly feed everyone. No unsupported nationwide percentage.",
+    "scene_ids": [
+      "S034",
+      "S035",
+      "S048",
+      "S049",
+      "S051",
+      "S052",
+      "S053",
+      "S054",
+      "S055",
+      "S056",
+      "S058",
+      "S079",
+      "S088",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "claim": "Relief included alms, soup distribution and public work; Saint-Simon describes people formerly able to give alms falling into need themselves.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "ChXLIV charity paragraphs; Météo-France response",
+    "limit": "Availability/access varied; do not call it universal entitlement, copy1693 soup print as1709, or invent exact recipes/rations.",
+    "scene_ids": [
+      "S004",
+      "S058",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S069",
+      "S071",
+      "S079",
+      "S080",
+      "S081",
+      "S089",
+      "S090",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "claim": "Saint-Simon's account describes summer bread unrest and a20August bread shortage at boulevard earthworks paid with bread.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "ChXLIV Summer came and hillock between Portes SaintDenis/SaintMartin paragraphs",
+    "limit": "Reported event, not all work schemes; show summer. No invented speech or graphic violence.",
+    "scene_ids": [
+      "S006",
+      "S071",
+      "S072",
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S080",
+      "S081"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "claim": "France's continuing war formed part of the economic setting; harsh weather interacted with purchasing power, provisioning and relief rather than acting as an isolated inconvenience.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "ChXLIV exhausted finances and peace negotiations; Météo-France response/context",
+    "limit": "Avoid attributing the whole crisis to a single cause or presenting1709 as trigger of1789.",
+    "scene_ids": [
+      "S045",
+      "S080"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "claim": "Being able to reach or afford food and fuel differs from their physical existence. A thaw cannot immediately replace a damaged harvest.",
+    "type": "I",
+    "sources": [
+      "SRC01",
+      "SRC04"
+    ],
+    "locator": "Inference from price, transport and replacement-crop evidence above",
+    "limit": "Explanatory reasoning, not a quantified model or statement every household faced identical choices.",
+    "scene_ids": [
+      "S005",
+      "S006",
+      "S008",
+      "S009",
+      "S010",
+      "S021",
+      "S023",
+      "S026",
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S033",
+      "S035",
+      "S036",
+      "S041",
+      "S046",
+      "S051",
+      "S052",
+      "S057",
+      "S065",
+      "S069",
+      "S078",
+      "S079",
+      "S082",
+      "S086",
+      "S087",
+      "S088",
+      "S090",
+      "S091",
+      "S092",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "claim": "The crisis was lethal and access to resources and assistance mattered. A March 1709 contemporary account quoted by Le Roy Ladurie singles out children and older people without adequate protection.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Saint-Simon ch. XLIV hunger/charity; Météo-France interview, quotation from La clef du cabinet, March 1709",
+    "limit": "No casualty number, survival odds or graphic deaths are given.",
+    "scene_ids": [
+      "S066",
+      "S068",
+      "S069",
+      "S081",
+      "S082",
+      "S083",
+      "S084",
+      "S089"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

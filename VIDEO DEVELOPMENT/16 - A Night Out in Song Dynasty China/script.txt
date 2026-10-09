@@ -1,0 +1,261 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: What Was a Night Out Like in China 900 Years Ago?
+
+## The city is still serving
+::: S001 | Warm food stall at left with cook, bowls and two customers; deep blue evening beyond, quiet right foreground for Visitor. [pose: look-around 0.8,0.94 0.6] [zoom-in]
+It is dark, you are hungry, and the street ahead is still selling dinner. Welcome to a night out in China, nine centuries ago.
+
+::: S002 | Cook tends modest hearth under timber stall; local lamp warms counter and faces while nearby street stays dark. [same-as: S001] [pan-left]
+There are no electric signs to follow. A pool of lamplight, a cooking stall, and people waiting can make the invitation perfectly clear.
+
+::: S003 | Simple original China location map with Kaifeng dot, no modern national boundary claim or decorative pagodas. [still]
+We are in Kaifeng around eleven twenty, the capital of the Northern Song. Our guide is a man remembering the city he knew.
+
+::: S004 | Anonymous illustrative writer at quiet desk with brush and blank sheets; no claimed portrait likeness. [note: Meng Yuanlao · Dongjing meng Hua lu] [pan-right]
+Meng Yuanlao later wrote about its streets, food, shops and entertainments. His memories give us a remarkable way into an ordinary evening.
+
+::: S005 | Four simple stops as narrative order only: market, restaurant, entertainment, dawn. No false walking-distance map. [still]
+Our route is invented, but the things drawing us along it come from his account. First food. Then perhaps one more stop.
+
+::: S006 | Three distinct modest offerings at established stall: mutton pieces, flatbread nearby and a bowl; no huge banquet pile. [pose: overwhelmed 0.8,0.94 0.6] [same-as: S001] [pan-left]
+The first problem is choosing. Near Zhou Bridge, Meng lists enough snacks and dishes to make a hungry visitor dangerously indecisive.
+
+::: S007 | Cook turns small mutton pieces over hearth with simple utensil; no chilli, tomatoes or modern grill grate. [same-as: S001] [zoom-out]
+We can find mutton being cooked and other ready-to-eat food. This is a place to buy something, rather than cook it ourselves.
+
+::: S008 | Three separate simple dishes: flatbread, plain noodles and mutton bowl. Original illustration, no exact recipe claim. [pan-right]
+Farther into his descriptions come flatbreads, noodles, different eating houses and regional specialities. Dinner is not one identical bowl for everybody.
+
+::: S009 | Several separated lit shops on established street under dark sky, not every building open or illuminated. [note: Meng, volume 3 · night markets] [same-as: S001] [zoom-in]
+And the evening has time to develop. Meng says night markets can continue well into the night, with the busiest places continuing until dawn.
+
+::: S010 | Same district with one darker side lane and a late pedestrian, food light visible behind; preserve street geometry. [pose: glance-nervous 0.8,0.94 0.6] [pan-left]
+That does not mean every street is a party. His account also distinguishes quieter places, and people coming home late from their business.
+
+::: S011 | Customer considers stall and nearby restaurant doorway, clear distance and modest buildings; no modern menu board. [same-as: S001] [zoom-out]
+For us, the next decision is pleasantly simple. Eat standing near a stall, or go inside and let somebody take our order?
+
+::: S012 | Diners at simple tables, server moving toward one group, rear serving hatch established. Visitor stays on clear floor. [pose: eyebrow-raise 0.8,0.94 0.6] [pan-right]
+Let us try a table. There is a surprise waiting there: the customer may be considerably more demanding than we expected.
+
+## A city with more than one dinner
+::: S013 | Two tables receive visibly different simple bowls; one noodles, one meat dish, no identical cloned meals. [same-as: S012] [zoom-in]
+Inside, the meal need not be whatever one large pot happens to contain. Meng describes restaurants offering different foods and preparations.
+
+::: S014 | Two locally typeset restaurant categories beside neutral bowls, no modern provincial borders or chilli icons. [still]
+He mentions Sichuan-style restaurants and establishments serving southern food. People could encounter regional differences without leaving the capital for another province.
+
+::: S015 | Plain noodle and fish dishes beside chopsticks; no takeout carton, fortune cookie, chilli or plastic tray. [same-as: S008] [zoom-out]
+Those names are not permission to put a modern takeaway menu on the table. We are following the dishes and choices in this source.
+
+::: S016 | Customer at table watches server approach, another table eating; differing choices visible without textual menu. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S012] [pan-right]
+The important point is the range. A city meal could involve choosing an establishment, then choosing what you wanted it to prepare.
+
+::: S017 | Summer bowl and winter hearth icons separated with explicit season labels; not one simultaneous stall inventory. [still]
+At the street stalls, the season changes the offer too. Meng gives separate summer and winter lists near Zhou Bridge.
+
+::: S018 | Small ceramic drinking bowl near a modest chilled vessel, restrained indication of cold; no modern ice cubes or fridge. [note: Summer offerings · Meng, volume 2] [same-as: S008] [pan-left]
+His summer list even includes iced cooling drinks, among them liquorice water. A warm evening could have its own cold temptation.
+
+::: S019 | Drink displayed simply with source-caption space; no modern ingredients list, price or health claim. [same-as: S008] [zoom-out]
+We are not reconstructing the exact recipe, or promising every passer-by could buy one. It is a named offering in his account.
+
+::: S020 | Anonymous writer's hand beside blank page; small original food vignettes added locally around page, not actual handwriting. [same-as: S004] [pan-right]
+That variety is part of the pleasure of reading him. He remembers particular foods, particular places, and the choices between them.
+
+::: S021 | Customers and workers vary in restrained clothing and activity; no automatic identical wealth or extravagant feast. [same-as: S001] [zoom-in]
+It is also a reason to be careful. A long list of things for sale does not tell us what every household could afford.
+
+::: S022 | Server beside one table holding small slip/paper and chopsticks only if visually workable; no readable writing or modern pad. [same-as: S012] [pan-left]
+For tonight's imagined visit, we have chosen a modest meal. The server arrives, and our simple order joins everybody else's particular instructions.
+
+::: S023 | Two diners gesture modestly toward distinct bowl positions; server attentive, no speech text painted. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S012] [zoom-out]
+Somebody wants one preparation. Another wants something different. The challenge is not merely carrying a bowl. It is remembering whose bowl is whose.
+
+::: S024 | Server faces serving hatch, cook behind it listens; same hatch orientation as dining-room anchor. [note: Meng, volume 4 · restaurants] [pan-right]
+Meng takes us close enough to hear the process: orders gathered at the tables, then called toward the kitchen for preparation.
+
+## Your order is somebody else's test
+::: S025 | Server beside table, three distinct small bowl icons as local overlay for different requests, no literal dialogue. [same-as: S012] [zoom-in]
+The server asks each diner what they want. Hot, cold, or prepared another way: Meng describes customers making their own particular requests.
+
+::: S026 | Server speaks toward cook across hatch; no shouting caricature, cooking fire safely behind cook. [same-as: S024] [pan-left]
+Those choices have to reach the kitchen. The server calls them out, so the people preparing the food know what has been asked for.
+
+::: S027 | Server carries three manageable bowls toward diners, clear route between tables. No impossible twenty-bowl tower. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S012] [zoom-out]
+Then the dishes must return to the right customers. Several tables can become several small tests of memory, balance and attention.
+
+::: S028 | Three bowls securely supported with plausible hand positions; no extra fingers, stacking on head or shoulders. [same-as: S008] [pan-right]
+Meng admires astonishing feats of bowl carrying. We do not need to stage an impossible balancing act to understand why the skill mattered.
+
+::: S029 | Illustrative diner pauses over bowl while server checks table; no claim this actual incident happened. [same-as: S012] [zoom-in]
+Imagine waiting for a hot dish and receiving the wrong order. For the customer, a disappointment. For the server, potentially something worse.
+
+::: S030 | Brief attributed source card, neutral list of possible consequences without coins or invented wage amount. [still]
+The writer says a complaint could bring a reprimand, a loss of wages, or even dismissal. Correct service came with pressure behind it.
+
+::: S031 | Server carefully sets correct bowl before diner; kitchen staff visible beyond hatch, calm serious focus. [same-as: S012] [zoom-out]
+That is his account, rather than a rule we can impose on every employer. But it changes how we watch the room.
+
+::: S032 | Diners settled and eating while server moves through clear aisle; Visitor listens at edge. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S012] [pan-right]
+Our evening feels leisurely because somebody else is concentrating. A complicated order gives the customer choice and gives the worker more to remember.
+
+::: S033 | Single noodle bowl set on table beside correctly placed chopsticks; no hand clipping through ceramic. [same-as: S008] [zoom-in]
+So when our bowl arrives, let us at least know what we asked for. The person carrying it has enough to keep track of.
+
+::: S034 | Cook passes one bowl through established hatch while another awaits preparation, coherent progression of food. [same-as: S024] [pan-left]
+The scene feels surprisingly recognisable: different tastes, a busy kitchen, and somebody trying to get dinner to the right person while it matters.
+
+::: S035 | View from dining-room doorway toward distant warmly lit building, without changing interior layout. [same-as: S012] [zoom-out]
+Still, dinner is only one part of the city after dark. Outside, some establishments are trying to impress you before you even enter.
+
+::: S036 | Text-based reconstruction of linked timber buildings, warm upper windows and modest elevated walkways, dark sky. [pose: look-up-worried 0.8,0.94 0.6] [pan-right]
+A grand wine house offers a different scale of night out. Our next stop is a look at that spectacle from outside.
+
+## The expensive-looking part of the evening
+::: S037 | Five plausible connected building masses arranged around shared space; visible bridges have supported ends and rails. [note: Fengle wine house · reconstruction from Meng, volume 2] [same-as: S036] [zoom-in]
+Meng describes the Fengle wine house with facing buildings, three storeys, connecting bridges and railings. Lamps and candles make the place shine.
+
+::: S038 | Simple labelled massing sketch, clearly an interpretation of text rather than excavated plan. [still]
+This is an impression built from his words. We do not possess a floor plan that lets us place every stair and doorway.
+
+::: S039 | Warm upper balcony and entrance seen from street, a few well-dressed patrons, no imperial throne or palace guard. [same-as: S036] [zoom-out]
+But the contrast with a modest food stall is real in the account. Some businesses sell a setting as well as something to consume.
+
+::: S040 | Low view toward linked upper levels, correct scale and restrained warm light; Visitor small at right. [pose: overwhelmed 0.8,0.94 0.6] [same-as: S036] [pan-right]
+Imagine arriving here after a quick snack outside. The light, height and activity make a different kind of invitation to spend the evening.
+
+::: S041 | Visitor observes exterior while patrons enter; no gold payment, reserved table or invented admission price. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S036] [zoom-in]
+We can admire it without pretending our imagined visitor has booked the finest room, or that every city resident could afford the same experience.
+
+::: S042 | Three original silhouette comparisons: open stall, modest room, multi-level wine house; no price rankings. [still]
+Meng's city contains choices at different scales. A stall, a table, a grand establishment: they should not all look like the same luxurious hall.
+
+::: S043 | Lit windows and entrance fade into genuine dark street; no sky-filling glow or decorative lantern strings. [same-as: S036] [zoom-out]
+Nor should the whole street glow like a festival decoration. Light belongs to lamps, candles and the places where people are using them.
+
+::: S044 | Dark street transition with modest lit teahouse ahead; same architectural vocabulary, no sudden palace avenue. [pose: step-forward 0.8,0.94 0.6] [same-as: S010] [pan-right]
+Beyond those pools of light, our route grows quieter. We have eaten. We have looked at the grander night out. What about tea?
+
+::: S045 | Small rockwork grotto and short safe bridge beside simple tea area, restrained lamps, mixed adult visitors. [note: Beishanzi teahouse · Meng, volume 2] [zoom-in]
+Meng mentions a teahouse with a grotto and a bridge, and people visiting at night to drink tea. Another setting for lingering.
+
+::: S046 | Visitors sit at plain timber table with ceramic tea bowls; no modern elaborate tea ceremony or themed signage. [same-as: S045] [pan-left]
+The exact arrangement here is imagined. The garden-like features and nighttime visits come from his description, rather than from a modern themed restaurant.
+
+::: S047 | Two small ceramic bowls on table, soft lamp light and rockwork blurred behind; Visitor remains a standing close-up composite. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S045] [zoom-out]
+For our evening, it offers a pause. Sit a moment, look around, and decide whether this is finally the last stop.
+
+::: S048 | Simple covered performance shed with audience gathering; food seller at side, no grand theatre facade. [pan-right]
+Of course, somewhere nearby there is entertainment. Our sensible plan to go home has just acquired one more complication.
+
+## Choosing what to watch
+::: S049 | Performance shed at left, small food seller and ordinary pedestrians nearby; no fifty-stage crowd spectacle. [same-as: S048] [zoom-in]
+The commercial entertainment districts in Meng's account are places where different activities gather together. Watching a performance need not be an isolated event.
+
+::: S050 | Visitor looks between stage entrance and snack stall; both modest and legible, no invented ticket price. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S048] [pan-left]
+Food, other sellers and amusements share the district. You can see how an intended brief visit might become a much longer one.
+
+::: S051 | Four simple original icons: storyteller, puppet, shadow screen, balanced acrobat silhouette. No modern opera mask. [still]
+Meng names performers and kinds of performance. Storytelling, puppetry, shadow plays and physical feats all appear in the city's repertoire.
+
+::: S052 | Audience faces simple platform, no readable programme board or specific named performer likeness. [same-as: S048] [pan-right]
+This is a list of possibilities, not a recovered programme for our particular night. We are choosing an illustrative stop from that wider world.
+
+::: S053 | Anonymous storyteller gestures on modest platform toward attentive adults; no literal historical battle appearing behind. [same-as: S048] [zoom-in]
+A storyteller needs no giant painted battlefield for an audience to follow a story. The attraction can be the telling itself.
+
+::: S054 | Storyteller's open hand and audience faces, no subtitle presenting an invented quotation. [same-as: S048] [pan-left]
+We are not inventing his words or borrowing a later script. The image shows the form, while the source tells us it belonged here.
+
+::: S055 | Simple screen with two modest original silhouettes, lamp behind safely separated, audience in front; no electric projector. [zoom-out]
+Another option is a shadow performance. Light, a screen and moving figures create something very different from the busy street outside.
+
+::: S056 | Schematic side cutaway: controlled light behind flat figure, shadow on screen, viewers opposite. All labels local. [same-as: S055] [pan-right]
+The mechanics shown are explanatory. We do not claim these are the exact puppets or characters that a named Kaifeng audience watched.
+
+::: S057 | Performer gestures while audience watches, no exaggerated applause or coins flying through air. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S048] [zoom-in]
+For the Visitor, a small stage is enough. For the person giving the performance, our entertainment is skilled work that has to hold attention.
+
+::: S058 | Adjacent modest shed and food seller beyond current audience; no impossible infinite street of stages. [same-as: S048] [pan-left]
+And there are other attractions waiting if attention wanders. A district with many things happening can keep offering another reason to stay.
+
+::: S059 | Our four-stop itinerary marked as imagined, each icon complete; no map distance or clock times. [still]
+We have now eaten, browsed the brighter streets, taken tea and watched a performance. The evening has acquired an impressive number of endings.
+
+::: S060 | One remaining food light in street, another shuttered shop; dark sky and fewer pedestrians than earlier. [pose: look-around 0.8,0.94 0.6] [same-as: S010] [pan-right]
+There is still the walk home. And if we become hungry again, the late-night city may not have finished offering things to buy.
+
+## The people still working
+::: S061 | Tea seller with small vessel serves a plainly dressed late pedestrian; no revelry or invented drunkenness. [note: Meng, volume 3 · late tea sellers] [same-as: S010] [zoom-in]
+Late customers are not all out for pleasure. Meng explains that people returning late from their affairs create a market for tea sellers.
+
+::: S062 | One pair strolling and one worker returning with empty carrying gear, modest distinction without invented biographies. [same-as: S010] [pan-left]
+That detail changes the mood of the street. Someone else's night out can overlap with your late journey back from work or business.
+
+::: S063 | Three simple framed callbacks to approved cook, server and performer; no new costumes or unrelated workplaces. [still]
+The cook at the stall is also still cooking. The server at the table is still remembering orders. The performer is still performing.
+
+::: S064 | Cook tidies bowls while another customer approaches, practical work in small light pool; no celebratory montage. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [pan-right]
+A lively night economy requires more than people enjoying themselves. It requires people preparing, carrying, serving and keeping those activities going.
+
+::: S065 | Modest elevated watch structure beyond roofs with observer silhouette; local street watch below, no active fire. [note: Fire prevention · Meng, volume 3] [same-as: S010] [zoom-in]
+Meng's account also describes fire watch and firefighting equipment. With shops, homes and flames close together, the city had something serious to watch for.
+
+::: S066 | Plain water buckets, rope and ladder stored neatly; period-compatible wood and fibre, no hose reel or red metal truck. [same-as: S008] [pan-left]
+Buckets and ladders belong in that description. A modern fire engine does not. Neither does an invented blaze just to make our evening exciting.
+
+::: S067 | Watch figure observes street while tea seller serves customer below; calm and grounded. [same-as: S010] [zoom-out]
+We do not need a disaster to see the work behind the scene. Even a pleasant evening depends on people paying attention.
+
+::: S068 | Anonymous writer at desk with faint locally composed street vignette as memory device, not supernatural apparition. [same-as: S004] [pan-right]
+And we should remember who is telling us about it. Meng is looking back fondly, after warfare forced him away from the city.
+
+::: S069 | Short faithful paraphrase of preface admission with source; no invented direct English quote. [still]
+His preface admits places he never visited, things learned from other people, and gaps that others might help him fill.
+
+::: S070 | Blank manuscript beside brush and simple lamp, no fake Chinese characters; source note lower area. [same-as: S004] [pan-left]
+That makes him a valuable guide, not an all-seeing camera. We can enjoy the details while keeping the limits in view.
+
+::: S071 | Late customer receives bowl as worker clears another table; modest varied clothing, no universal luxury. [same-as: S001] [zoom-out]
+A city full of desirable things is not proof that everybody lived well. Its pleasures and its labour belong in the same picture.
+
+::: S072 | Visitor looks down street where darkest blue begins to pale slightly; no sunrise yet. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S010] [pan-right]
+For our imagined visitor, though, one final decision remains. Go home now, or stay long enough to see the next day begin?
+
+## When the evening becomes tomorrow
+::: S073 | Simple dark-to-pale sequence with some stalls closing/reopening and one continuous light. No exact modern clock. [still]
+Meng says some markets close and reopen in the early hours, while the busiest places can keep going through the night.
+
+::: S074 | Five abstract night segments labelled watch divisions, with no fabricated hour labels; explain approximate sequence only. [still]
+He describes the third and fifth watches. We need not force those night divisions into one exact clock time for every season.
+
+::: S075 | Some shutters closed, one tea stall active, another vendor begins setting up; preserve established architecture. [same-as: S010] [zoom-out]
+So our evening does not end with a switch that turns the whole city off. Different people and businesses have different rhythms.
+
+::: S076 | Same street under pale pre-sunrise sky; market preparation begins, a few lamps remain. No unverified instrument close-up. [note: Dawn markets · Meng, volume 3] [pan-right]
+As dawn approaches, Meng describes callers announcing the morning, people rising, markets opening, and food and drink already being sold.
+
+::: S077 | Baker prepares dough at timber bench near oven, modest roof and bowls; no modern loaf tin or bakery machinery. [same-as: S076] [zoom-in]
+The bread shops have their own early sounds of work. The next day's appetite arrives before our imagined night out feels quite finished.
+
+::: S078 | Late pedestrian moves away while two provision carriers approach, distinct figures with practical carrying loads. [same-as: S076] [pan-left]
+That is the final surprise. Stay out long enough, and the people beginning their day can replace the people ending their evening.
+
+::: S079 | Four clean original icons from episode, warm-to-cool palette; no modern city comparison footage. [still]
+We came expecting a distant city. Instead, we found familiar decisions: what to eat, where to sit, what to watch, and when to leave.
+
+::: S080 | Broad final view of modest Northern Song street forms, varied everyday clothing, no generic Asian palace skyline. [same-as: S076] [pan-right]
+The familiar feeling should not erase the differences. These streets, foods, buildings and performances belong to a particular place and a particular historical account.
+
+::: S081 | Earlier-night callback to server and cook through fixed hatch; explicit recap transition avoids returning dawn to night unnoticed. [same-as: S012] [zoom-in]
+Nor should it hide the people making the evening possible. Somebody cooked the meal, carried the bowl, and kept the audience listening.
+
+::: S082 | Anonymous writer beside blank pages, small source title composed locally, no exact portrait claim. [same-as: S004] [pan-left]
+Meng remembered a city worth describing in all that detail. Our imaginary night is only one way of following the invitations he left.
+
+::: S083 | Visitor looks toward waking street, no tired caricature or oversized costume; pale light and quiet background. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S076] [zoom-out]
+Would you stop at the food stall, settle into the teahouse, or lose another hour to a performance before finally heading home?
+
+::: S084 | Baker and early food seller begin work in same street, Visitor small in foreground; calm final image. [same-as: S076] [pan-right]
+Our sensible answer was one quick meal. Kaifeng had other possibilities. By the time we finished looking, somebody was already preparing breakfast.

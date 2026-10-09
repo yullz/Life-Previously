@@ -1,0 +1,41 @@
+{
+  "status": "direction_ready_assets_unselected",
+  "music": "Low channel theme; practical household mood,not heroic wartime march.",
+  "mix": "Speechdominates;quietpaper/crockerysounds,no air-raid siren gimmick or loud bombing bed.",
+  "new_assets": [
+    {
+      "id": "paper_book",
+      "description": "Soft paper book handed across wooden counter."
+    },
+    {
+      "id": "pot_simmer",
+      "description": "Quiet covered saucepan simmer,brief not constant."
+    },
+    {
+      "id": "plate_set",
+      "description": "Single gentle ceramic plate on table."
+    }
+  ],
+  "acquisition": "Inspect suitablelicensedlocalassets or record simpleoriginalFoley; quoteanypaidneedsundercontract.",
+  "cues": [
+    {
+      "scene_id": "S015",
+      "asset": "paper_book",
+      "timing": "Brief handover gap."
+    },
+    {
+      "scene_id": "S052",
+      "asset": "pot_simmer",
+      "timing": "Low source while pot visible."
+    },
+    {
+      "scene_id": "S058",
+      "asset": "plate_set",
+      "timing": "After final recipe sentence."
+    }
+  ],
+  "intentional_silence": [
+    "S071",
+    "S087"
+  ]
+}

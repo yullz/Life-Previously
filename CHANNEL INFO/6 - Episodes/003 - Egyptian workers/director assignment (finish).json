@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.0",
+  "message_type": "director_end_to_end_production_release",
+  "assignment_id": "LP-20261009-EP003-001",
+  "continuation_id": "EP003-FINISH-001",
+  "visual_plan_version": 4,
+  "issued_on": "2026-10-09",
+  "episode_id": "003-egyptian-workers",
+  "objective": "Finish Episode 003 end to end: generate and inspect the Egyptian illustrations, generate and listen to the narration, assemble and review the full video, finish the real thumbnail, captions, packaging and three Shorts, and deliver one clear review folder. Do not return another preparation-only report in place of production.",
+  "owner_instruction": "also on the next handoff ask claude to start finishing the video end to end, for some reason it still didn't requested the images from higgsfield. Also It has to to a proper thumbnail as well(half way there but there is no proper background for it yet from higgsfield)",
+  "authorization_and_precedence": {
+    "basis": "The owner's latest explicit request to proceed with end-to-end production, including Higgsfield images and the finished thumbnail, following the itemised executor quote, together with the earlier instruction to prioritise premium production and forget a fixed creative budget.",
+    "supersedes": "The preparation-only/zero-spend restriction and requirement to stop for a further production-release handoff in the earlier version 4 assignment, START message and director brief. This is a continuation of the existing plan, not a new script or episode restart.",
+    "scope": "Paid services needed for this Episode 003 production run, within the director execution limits below. These limits are director allocations for this run, not a claim that the owner dictated these exact numerical ceilings.",
+    "do_not_ask_again_for": "Routine typography, the nine decisions resolved below, approved scene jobs, the selected thumbnail concept, or passing dependency gates within this release.",
+    "still_excluded": ["Publishing or changing YouTube uploads", "Any change to episodes 001/002", "Changing the narrator, image model, season style or approved narration", "New subscriptions or top-ups", "Unrelated paid work", "Spawning agents"]
+  },
+  "director_review": {
+    "report": "handoff/claude_to_director_episode_003_2026-10-09.json",
+    "report_sha256": "49e4e13ebf7deb9ee65ed94c5795625271d1a622e0cd1732c6a4b7cc58fe904b",
+    "result": "Preparation accepted as the basis for production, with the directed corrections below. No finished media, final thumbnail, listening or release approval is implied.",
+    "verified_by_astra": [
+      "All 160 staged-manifest files matched; manifest SHA-256 90301a75f1bcc7f80435230b2c85a85b4fd921281597af33f9bcb5e0f6306544 matched the report.",
+      "All 13 reported executor implementation/job file hashes matched.",
+      "21 of 23 reported input hashes matched; AGENTS.md and channel/lessons.md had later topic/owner-feedback updates. Rebaseline current metadata; do not overwrite those updates.",
+      "Native lp.py check passed: 105 scenes, 1790 spoken words, nine chapters, 47 Visitor appearances; no accepted scene images yet.",
+      "All 26 pipeline regression tests passed. These used local test fixtures/mocks; they were not paid production requests.",
+      "Reviewed the exact prompt compiler's source/reference handling, all nine pilot scene descriptions and the existing voice pronunciation substitution path.",
+      "Viewed the graphic overview, overlay stand-in sheet, both Visitor comparison sheets, and individual S013, S052 and owner-lead D assets. This was a director sample/decision review, not a claim of full-size inspection of every asset or actual playback."
+    ]
+  },
+  "execution_limits": {
+    "higgsfield": {
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "core_episode_results": 90,
+      "core_breakdown": "15 new Egyptian anchors plus 75 distinct views edited from accepted Episode 003 parents. The ten-result pilot is included, not extra.",
+      "lead_thumbnail_backdrop_results": 1,
+      "targeted_repair_results_max": 10,
+      "max_results_this_release": 101,
+      "observed_credits_per_result": 2,
+      "base_estimate_credits": 182,
+      "estimate_including_full_repair_reserve": 202,
+      "price_status": "The 2-credit rate is observed account history, not a live Ultra tariff guarantee. Start with one of the nine pilot anchors, S014, and check its recorded charge before continuing. Stop new paid submissions if the unit price differs; explain the revised total. Never buy a top-up automatically.",
+      "repair_rule": "Reserve is for a documented failed acceptance criterion, not alternate looks or random retries. Inspect and diagnose first. Do not repeat an unchanged request; after two failures of the same requirement, stop that affected dependency chain and report the cause while continuing independent work. Extra quantities beyond this release need a new decision.",
+      "submission_rule": "Save every returned job ID immediately. Unknown outcome is not a failed submission: query the existing job before any retry. Preserve prior files and paid attempts. Use staged fetch and explicit accept."
+    },
+    "elevenlabs": {
+      "voice_id": "YPRmL2oHPibcUwJtQnPM",
+      "model_id": "eleven_v4",
+      "initial_requests": 9,
+      "initial_tts_characters_after_directed_aliases": 10825,
+      "largest_chapter_characters": 1472,
+      "targeted_chapter_retakes_max": 2,
+      "maximum_requests": 11,
+      "maximum_submitted_characters_at_current_text": 13769,
+      "credit_ceiling_at_one_per_character": 13769,
+      "expected_initial_charge": "Approximately 1300 credits if the previous effective billing rate repeats; this is not guaranteed. The conservative initial ceiling is 10825.",
+      "terms": "Use included account credits, overage disabled. Confirm the current account/model and count before submission. Preserve all takes. A retake requires an audible defect or misread, not an arbitrary alternative. No narration rewrite; real duration must be measured."
+    },
+    "other_paid_services": "None. Use the existing theme and existing/free properly licensed assets only; no paid music or new Visitor generation."
+  },
+  "resolved_executor_decisions": [
+    {
+      "id": 1,
+      "decision": "Use the staged cleaned Visitor copies for Episode 003.",
+      "implementation": "Implement an episode-scoped pose resolver, preferably episodes/003-egyptian-workers/poses/<pose>.png, falling back to the library for other episodes. Copy the reviewed derivatives with provenance; do not overwrite the library. Route render, compose checks, missing-asset checks, dependency manifests and cache keys through the same resolver. A declared override that is missing or hash-mismatched must fail, not silently fall back. Existing thumbnails already specify explicit pose files.",
+      "verification": "Test that Episode 003 selects its private file, another episode keeps the library file, the actual pose hash appears in the manifest, and changing the override invalidates the relevant cached frame. Inspect all used silhouettes on actual light/dark backgrounds. Zero green-count alone is not acceptance."
+    },
+    {
+      "id": 2,
+      "decision": "Default all six overlay cards to [card: NAME 0.35,0.18 0.60 +0].",
+      "implementation": "Keep the existing readable type size. After removing duplicate footers, fit the card to its content with rendered height no more than 276 px at 1920x1080. This default gives at least a 5% top/left margin. Make bounded scene-specific placement adjustments when actual subject visibility requires them; preserve words and avoid faces, hands, evidence and the Visitor. Such technical adjustments do not need another owner choice."
+    },
+    {
+      "id": 3,
+      "decision": "Use one source/context note per overlay scene, in the existing bottom note box. Remove the duplicate source footer from the six overlay-card PNGs.",
+      "notes_exact": {
+        "S006": "Viewer thought experiment",
+        "S025": "UC39606 • Year 4, reign unidentified • paraphrase",
+        "S043": "Deir el-Medina • evidence across several reigns",
+        "S070": "Turin Strike Papyrus • Ramesses III, Year 29 • reconstruction",
+        "S071": "Turin Strike Papyrus • Ramesses III, Year 29 • translation",
+        "S074": "Turin Strike Papyrus • Ramesses III, Year 29 • paraphrase"
+      },
+      "implementation": "Apply to script tags, scene-plan note fields and preview builders together. Keep source links and translation attribution in package.md. Remove production-language footers such as 'three quoted words' and 'no statutory entitlement promised' from viewer-facing cards. Do not remove factual scope qualifications from narration or standalone evidence graphics."
+    },
+    {
+      "id": 4,
+      "decision": "Accept restored spacing, proper apostrophes, the single-line PAY · SUPPORT · TRUSTING PAYDAY heading and quotation marks around WE ARE HUNGRY. No narration rewrite."
+    },
+    {
+      "id": 5,
+      "decision": "Accept the clearer labelled icons and the supplied ENTRANCE / MAIN ROOM / KITCHEN / ROOF STAIR, LINEN / OIL / GRAIN and SUPERVISOR labels. Keep REPRESENTATIVE / SCHEMATIC qualifiers. Inspect every complete graphic at final viewing size before installing; preserve prior versions."
+    },
+    {
+      "id": 6,
+      "decision": "Owner lead remains Did Ancient Egyptian Workers Have Better Jobs Than Us? with PAID SICK DAYS? and the plain EGYPT chip. D is the only lead. A/B/C remain archived alternates; correct any stale 'A director lead' metadata without rebuilding them. Do not create extra alternate backgrounds."
+    },
+    {
+      "id": 7,
+      "decision": "Use the following TTS-only pronunciation aids; keep proper spellings in the authored script, captions, graphics and metadata.",
+      "aliases": {"Deir el-Medina": "Dair el Madeena", "Ramesses": "Ram-seez", "Amunnakht": "Ah-moon-nakht", "Thebes": "Theebz"},
+      "leave_unmodified": ["Anne Austin", "Egyptologist"],
+      "unused_candidate": "Theban is not in the current spoken script; do not create an unnecessary alias.",
+      "basis": "Conventional English narration, not a claim to reconstructed ancient speech. Cambridge gives Ramses /ˈræm.siːz/ (https://dictionary.cambridge.org/pronunciation/english/ramses). Deir el-Medina and Amunnakht aids are director-selected English approximations whose generated sound still requires listening; no museum audio verification is claimed.",
+      "verification": "Dry-run the existing speakable/chapters_of path first. Astra's in-memory test produced 10825 total characters in chapters [1019,1100,1381,1472,1073,1066,1145,1339,1230]. Listen to each actual occurrence; do not infer correctness from spelling, ASR or a dictionary entry."
+    },
+    {
+      "id": 8,
+      "decision": "Correct 'Exactly 1 background people' to 'Exactly one background person' in all 26 affected canonical prompts and any corresponding current specification fields. Preserve the original plan snapshot and regenerate affected native job payloads with new hashes; do not submit stale jobs.",
+      "overlay_prompt_addition": "For S006, S025, S043, S070, S071 and S074 only, add to the canonical request: 'Reserve the upper-left rectangle, x=5–65% and y=5–33% of the frame, as a calm, naturally blank wall or background for a later overlay. Keep essential faces, hands, goods and actions outside that rectangle, preferably below y=36%. Do not draw a card, label, lettering or a blank floating panel.' Keep all existing people counts, historical objects and parent dependencies."
+    },
+    {
+      "id": 9,
+      "decision": "Proceed under this release to finished review deliverables. The earlier no-spend preparation restriction is lifted for the stated Episode 003 scope. Apply the resolved free fixes, validate, then submit the first paid pilot anchor; do not wait for another routine handoff. Publication remains unapproved."
+    }
+  ],
+  "lead_thumbnail_backdrop": {
+    "request_id": "EP003-TH-D-01",
+    "method": "paid_edit_after_parent_acceptance",
+    "parent_scene": "S050",
+    "source_rule": "Use the exact accepted Episode 003 S050 HOME_REST local image, bound by path, SHA-256 and matching uploaded media ID, as the only reference. Never use a Pompeii background, an old remote result superseded by a local correction, or an unapproved parent.",
+    "generation_decision": "First test the accepted S050 crop in the D layout. If its subject cannot remain recognisable beneath the text and Visitor, use the one authorised dedicated Higgsfield backdrop request below. The delivered background must be actual inspected Egyptian artwork, never the labelled placeholder.",
+    "prompt": "Recompose the accepted Egyptian HOME_A resting-worker illustration as a premium 16:9 thumbnail background. Preserve its flat 2D channel drawing, earthy palette, mudbrick room, low built-in left bench, single support post and simple rear-left doorway. Exactly one adult Egyptian worker in plain light linen reclines on the low bench in the lower-left area, roughly x=8–55% and y=58–90%; the entire torso and legs rest on the bench, head supported on folded fabric, hands and limbs clear and separate. His resting posture must read at small size. A small plain grain container may sit on the floor near the bench as an illustrative link to grain pay, without numbers or markings. Keep the upper-left wall, x=5–62% and y=5–53%, quiet and low-detail for large words added later. Keep the rightmost thirty percent empty and subdued for the Visitor head-and-shoulders artwork added later. Maintain coherent soft upper-left daylight and sufficient tonal contrast between the reclining figure, bench and wall. The image is an illustrative reconstruction of the Ramesside Deir el-Medina community across several reigns, not an exact recorded sick day or historical portrait. No Visitor, orange hoodie or additional person. No modern bed, mattress, hospital, medical cross, pills, thermometer, banknote, coin, crown, fake hieroglyph, readable writing, logo, border or floating text panel. Keep the same illustration style; no photorealism or medieval/Roman architecture. Full-bleed 16:9, 2K.",
+    "composite": "Use the accepted episode-specific eyebrow-raise Visitor and exact headline PAID / SICK DAYS? with plain EGYPT chip. D's current face size and text treatment are a starting layout, not a reason to hide the resting worker. Adjust bounded typography/placement to preserve all three readable elements: headline, Visitor expression, resting-worker context. Do not invent new anatomy to repair crop geometry.",
+    "acceptance": "Inspect the raw backdrop full size, then the exact final composition at full size, 320 px and 160 px. Check posture/support, absence of forbidden objects/text, character edges, headline visibility and recognisable Egyptian/resting context. Remove the placeholder label only when replacing the placeholder. Deliver a high-quality PNG master and a 1280x720 JPEG suitable for upload."
+  },
+  "execution_sequence": [
+    "Preserve the preflight report and staged manifest. Record this continuation; rebaseline current instructions without erasing later owner/topic/lesson updates. Inspect existing job records to avoid duplicate submissions if any work has begun since the report.",
+    "Apply the bounded pose-routing, source-note, card-position, pronunciation and prompt fixes above. Preserve backups; keep the original 1790 spoken words and all 105 scene IDs. Verify script/plan/asset mapping, regenerate native jobs and run the relevant regression tests plus lp.py check. Install the 15 local graphics and six corrected overlays only after their full-size inspection.",
+    "Submit S014 first from the planned nine-anchor pilot, record the returned job ID and charge, fetch to candidates and inspect. If accepted at the quoted rate, submit the other eight pilot anchors. Generate pilot S050 only after accepted S014 is correctly bound. These are ten results within the 90, not extra tests. Do not send all 90 at once.",
+    "Generate the nine narration chapters with the locked voice/model and directed aliases. Listen to every chapter and inspect alignment/voice_diff. Preserve takes, use at most the allocated targeted retakes for demonstrated defects, and measure real duration. Prepare narration concurrently with independent image work where the tools permit.",
+    "Inspect all ten pilot results individually at full size and in their actual scene composites. Compare recurring place/figure anchors. Check style contamination, period forms, anatomy/support, lighting, text artifacts, subject/card/Visitor collisions and narrative fit. Resolve failures before dependent submissions. Record this honestly as executor inspection with a separate review pass, not a second model's approval.",
+    "Astra preauthorises continued batches when all pilot acceptance criteria pass with evidence and the actual narration supports the planned duration. Do not stop solely to request another checkpoint. Generate the remaining six anchors and 74 continuity edits in accepted-parent order, in batches no larger than 12, inspecting and accepting each before its children. An unresolved parent blocks only its descendants. Never bypass a real unresolved defect to meet a date.",
+    "Finish the selected thumbnail using accepted S050 or the authorised dedicated edit. Complete source cards and the actual composites. Do not spend on A/B/C backgrounds or restart approved work.",
+    "Assemble and render the full episode with readable captions, restrained motion and the existing music. Check chapter joins, every image/pose/overlay, actual duration, loudness and peaks. No stale preview or missing-asset placeholder may survive into the review candidate.",
+    "Watch and listen to the exact complete rendered candidate continuously, as well as using frame samples and technical checks. Fix demonstrated issues, then recheck affected intervals and the resulting complete cut. Where a tool cannot provide actual listening/playback, state precisely what remains unheard; never mark that gate passed from ASR, screenshots or meters.",
+    "Cut and inspect the three existing Shorts concepts from the approved-for-review master. Finish captions, measured chapter timestamps, description/sources, tags, pinned-comment copy and the selected title/thumbnail package. Keep public copy preferences and accurate internal provenance; actual platform disclosure remains a publication-time assessment.",
+    "Deliver the finished review package below and one concise evidence-backed completion report. Do not upload or publish."
+  ],
+  "acceptance": {
+    "duration": "10:00 minimum, target 10–12 minutes; do not pad silence or unnaturally stretch delivery. If the authored content cannot meet it naturally, report the measured problem to Astra before rewriting.",
+    "audio": "Approximately -14 LUFS within the established tolerance; true peak at or below -1 dBTP. Voice intelligible throughout; effects must fit the scene and stay below narration. Actual listening required.",
+    "images": "Every accepted image/composite inspected; exact parent identity and historical setting retained; source notes correct and readable; no repeated defect knowingly accepted.",
+    "thumbnail": "Owner title plus PAID SICK DAYS?; real inspected Egyptian background; no placeholder label or background; mobile-readable finished composition.",
+    "evidence": "Hashes identify the final video, thumbnail, captions, Shorts and selected inputs; retain paid job IDs, actual costs and the known limitations. Technical success is not a substitute for perceptual review.",
+    "handover": "Mark ready for owner review only when the required executor work is complete. Owner publication approval remains separate."
+  },
+  "delivery": {
+    "folder": "REVIEW EPISODE 003",
+    "files": [
+      "01 - Full video.mp4",
+      "02 - Thumbnail.jpg",
+      "03 - Captions.srt",
+      "04 - Upload details.md",
+      "Shorts/01 - Grain pay.mp4",
+      "Shorts/02 - Absence records.mp4",
+      "Shorts/03 - We are hungry.mp4",
+      "README.md"
+    ],
+    "rule": "Expose only the current selected review copies here, with a simple README and exact hashes/provenance. Keep full-quality thumbnail/Shorts masters and all prior candidates in the episode folder. Do not overwrite an existing approved master or permanently delete older files. If the review folder already has files, preserve them in a dated subfolder first.",
+    "report_path": "handoff/claude_to_director_episode_003_completion_2026-10-09.json",
+    "report_contents": ["Final deliverable paths and SHA-256 hashes", "Actual runtime and audio measurements", "What was actually seen/heard, by whom and using which tool", "Paid request IDs, accepted/rejected results and actual credits", "A concise account of targeted repairs", "Any remaining blocker stated plainly", "Learning review tied to evidence"],
+    "progress": "Give brief progress updates during production, but do not turn each batch or routine choice into an owner decision. If context resets, resume from saved job IDs, accepted hashes and this continuation."
+  }
+}

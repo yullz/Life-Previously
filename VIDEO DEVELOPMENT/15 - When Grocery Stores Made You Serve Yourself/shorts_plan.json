@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "self-service-groceries",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "The store that made you walk past everything",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "The long route was part of the business idea.",
+      "description": "Saunders's1917patent explicitly planned exposure to the assortment. This illustrates a design intention, not a measured extra-purchase rate.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Self-service still had a cashier",
+      "from_scene": "S049",
+      "to_scene": "S056",
+      "hook": "Picking the goods yourself did not mean operating the till.",
+      "description": "The original1917design retained staffed checking, wrapping and payment. No barcode scanner or self-checkout screen.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "What the first Piggly Wiggly ads promised",
+      "from_scene": "S067",
+      "to_scene": "S074",
+      "hook": "Ready-packed goods, a cashier—and no delivery.",
+      "description": "Based on September1916launch advertisements. Their promises are historical advertising, not proof of every customer's experience.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

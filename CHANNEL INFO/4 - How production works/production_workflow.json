@@ -1,0 +1,323 @@
+{
+  "schema_version": "1.5",
+  "workflow_id": "life-previously-director-executor",
+  "effective_date": "2026-10-08",
+  "owner_authorized": true,
+  "roles": {
+    "director": {
+      "model_requested_by_owner": "GPT-6 Astra",
+      "responsibilities": [
+        "Research, verify sources, write and separately critically self-review the script",
+        "Own story, pacing, titles, thumbnail decisions, scenes and exact prompts",
+        "Resolve editorial issues and review production outputs",
+        "Approve gates using actual evidence; never mark missing checks passed",
+        "Publish only after owner authorization"
+      ]
+    },
+    "executor": {
+      "model_requested_by_owner": "Claude Opus 5.5",
+      "responsibilities": [
+        "Implement the supplied script and production specifications",
+        "Build graphics, native jobs, narration assembly, composites, edits, captions and technical checks",
+        "Report incidental contradictions or implementation blockers without editorial rewriting",
+        "Operate paid services only within later owner-approved scope",
+        "Return one evidence-backed production report"
+      ]
+    },
+    "image_production": {
+      "service": "Higgsfield",
+      "model": "Nano Banana Pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "season_style_change_authorized": false
+    },
+    "owner": {
+      "responsibilities": [
+        "Approve each itemized paid batch or service spend",
+        "Review the finished episode",
+        "Explicitly authorise publication and scheduling"
+      ]
+    }
+  },
+  "communication": {
+    "transport": "Structured JSON files in the shared project, delivered through an available authorized Claude conversation or integration",
+    "api_connection_established": false,
+    "required_handoff_fields": [
+      "assignment_id",
+      "version",
+      "objective",
+      "scope",
+      "constraints",
+      "tasks",
+      "acceptance_criteria",
+      "return_report",
+      "relevant_lesson_ids",
+      "prevention_coverage"
+    ],
+    "executor_acknowledgement": [
+      "assignment_id and version",
+      "actual model if known; do not invent it",
+      "scope understood",
+      "conflicts or missing inputs",
+      "planned files and outputs"
+    ],
+    "executor_report": [
+      "completed and blocked task IDs",
+      "changed files and their SHA-256 hashes",
+      "backup locations",
+      "exact commands and check results",
+      "candidate output paths and hashes",
+      "visual and audio review coverage",
+      "remaining defects and uncertainties",
+      "incremental spend and any proposed paid fixes",
+      "Issue/lesson references and recurrence",
+      "Measured acceptance and costs with unknowns explicitly null",
+      "Proposed process changes with evidence and director decision"
+    ],
+    "truthfulness": "Prepared, delivered, acknowledged, executed and approved are different states. Record only states supported by evidence. Never impersonate the other assistant's acknowledgement or review."
+  },
+  "standing_rules": [
+    "AGENTS.md and the owner's direct instructions remain binding. Preserve the channel's style, Visitor and narrator.",
+    "Never silently substitute a different executor model or claim that a model/API connection exists without verification.",
+    "The executor can propose improvements, but changes to approved facts, scope, style, historical interpretation or spending must return to the director or owner as appropriate.",
+    "Do not use another channel's creative work as a template or input.",
+    "No paid generation, including a retry, without an itemized count/cost approved by the owner. Save job IDs immediately and resolve uncertain submissions before resubmitting.",
+    "Preserve prior approved assets and masters before modifications. Use candidate versions during repair and retain provenance.",
+    "An approval identifies the exact reviewed files. Changes invalidate affected downstream approvals.",
+    "A completed generation or render is not a quality approval. Unresolved errors and unperformed checks cannot be hidden or marked passed.",
+    "The learning loop is mandatory. Do not paste all lessons into every prompt; choose relevant constraints and map them to checks.",
+    "No further agent check runs for the current episode 001/002 repair assignment, per owner instruction. Preserve unknowns instead of converting them to approvals.",
+    "A cost approval does not clear a factual or asset preflight blocker. Submit only requests whose exact wording, claim support, references and approval scope pass; hold affected requests and return the conflict to Astra.",
+    "Astra chooses takes and repair methods. A selection for candidate assembly is not a claim that listening or release review occurred. Never ask the owner to settle routine editorial choices.",
+    "Quote ceilings, observed per-request charges and reconciled account usage are separate fields. Unused authorization is not permission for additional requests or unrelated fixes.",
+    "Owner reinforced 2026-10-09: no known error or unperformed review can pass release. Astra performs script challenge; do not add a Claude script-review loop. Zero unknown errors cannot honestly be guaranteed."
+  ],
+  "episode_gates": [
+    {
+      "id": "G00",
+      "name": "Relevant lessons and production risks",
+      "executor_delivers": [
+        "Technical implementation constraints in the supplied direction"
+      ],
+      "approver": "director",
+      "director_delivers": [
+        "Relevant historical failures selected from the register",
+        "Scene/stage coverage for the preventive controls",
+        "Explicit unresolved carry-over issues",
+        "Planned representative test cases and cost"
+      ]
+    },
+    {
+      "id": "G01",
+      "name": "Episode promise",
+      "executor_delivers": [
+        "Technical implementation constraints in the supplied direction"
+      ],
+      "approver": "director",
+      "director_delivers": [
+        "Audience and topic rationale",
+        "Original angle",
+        "Working title and thumbnail concept",
+        "Opening promise and outline"
+      ]
+    },
+    {
+      "id": "G02",
+      "name": "Evidence",
+      "executor_delivers": [],
+      "approver": "director",
+      "director_delivers": [
+        "Source passages read with exact locators",
+        "Exact claim-to-narration mapping and qualifications",
+        "Separate critical self-review of chronology, quotes, numbers, inference and scope",
+        "Corrections and approval of exact script version",
+        "Visual references and reconstruction limits"
+      ],
+      "reviewer": "Director Astra, per latest owner instruction; no Claude script challenge assigned"
+    },
+    {
+      "id": "G03",
+      "name": "Script and scene plan",
+      "executor_delivers": [
+        "Technical feasibility and exact payload check",
+        "Scene/asset/caption reference validation",
+        "Implementation blockers and incidental contradictions, without editorial rewriting"
+      ],
+      "approver": "director",
+      "director_delivers": [
+        "Natural narration mapped to checked claims",
+        "Explicit scene records",
+        "Location continuity plan",
+        "Visitor pose and placement plan",
+        "Evidence overlays and camera intent",
+        "Prompt conflict audit"
+      ]
+    },
+    {
+      "id": "G04",
+      "name": "Representative test batch",
+      "executor_delivers": [
+        "Risk-based selection across the episode's difficult shot types",
+        "Exact references and prompts",
+        "Itemized cost quote",
+        "Full-resolution images and actual composites after authorized generation",
+        "Failure causes and corrective decisions"
+      ],
+      "approvers": [
+        "owner for spending",
+        "director for visual acceptance"
+      ]
+    },
+    {
+      "id": "G05",
+      "name": "Production assets",
+      "executor_delivers": [
+        "Approved versioned assets",
+        "Full-size scene-by-scene inspection",
+        "Continuity comparisons",
+        "Narration verification and readable subtitles",
+        "Actual costs and job receipts"
+      ],
+      "approver": "director"
+    },
+    {
+      "id": "G06",
+      "name": "Candidate master",
+      "executor_delivers": [
+        "Candidate long video and Shorts",
+        "No missing assets or placeholders",
+        "Technical checks",
+        "Exact source and output hashes",
+        "Complete playback review plus targeted full-size frame checks",
+        "Explicit report of any unavailable review modality or unresolved issue"
+      ],
+      "approver": "director"
+    },
+    {
+      "id": "G07",
+      "name": "Owner delivery",
+      "executor_delivers": [
+        "Director-approved master",
+        "Packaging and source links",
+        "Captions and Shorts",
+        "Truthful current QA and status"
+      ],
+      "approver": "owner",
+      "publication": "Only after explicit owner authorization"
+    },
+    {
+      "id": "G08",
+      "name": "Production retrospective",
+      "executor_delivers": [
+        "Confirmed defects and causes",
+        "Implemented versus validated controls",
+        "Actual acceptance, rework and credit metrics",
+        "Recurrences and escaped defects",
+        "Proposed changes with expected benefit and risks"
+      ],
+      "approver": "director",
+      "restriction": "No extra agents, experiments or paid work are authorized by this gate; current owner restrictions and each assignment's allowance still apply."
+    }
+  ],
+  "scene_record_fields": [
+    "episode_id",
+    "scene_id",
+    "narration",
+    "claim_ids",
+    "purpose",
+    "location_id",
+    "historical_date",
+    "time_of_day",
+    "shot_type",
+    "camera_intent",
+    "visible_people",
+    "essential_props",
+    "historical_reference_ids",
+    "style_reference_id",
+    "visitor_pose_and_grounding",
+    "evidence_overlay",
+    "reuse_or_edit_source_version",
+    "positive_visual_description",
+    "scene_specific_exclusions",
+    "acceptance_checks",
+    "narrative_frame",
+    "time_anchor",
+    "source_discovery_date_if_relevant",
+    "spoken_frame_transition",
+    "relevant_lesson_ids",
+    "prevention_checks"
+  ],
+  "release_rule": "No known unresolved factual, visual, narration, subtitle or technical errors. A check that cannot be performed remains unverified. The director must not approve the affected gate without resolving it; report any cost or access obstacle to the owner.",
+  "publication_ai_disclosure": {
+    "decision_date": "2026-10-09",
+    "basis": "Latest explicit owner instruction: keep No for the current eight stylised videos. Apply the actual Studio question; background AI music is not the video's main focus.",
+    "setting": "No for episodes 001/002 and their six Shorts",
+    "scope": "These eight uploads only; reassess future uploads against their actual content and current platform criteria.",
+    "description": "Omit optional AI/tool-production statements from public descriptions, channel copy and upload templates per the owner's 9 October request. Preserve source references and required credits, keep internal AI provenance accurate, and do not claim human-only or handmade production. Mandatory platform disclosure is assessed separately.",
+    "verification": "Confirm the selected choice and completed save on every entry; record the exact video ID and any policy ambiguity.",
+    "supersedes": "The temporary Yes decision made earlier on 2026-10-09"
+  },
+  "metrics": [
+    "First-pass acceptance by shot type",
+    "Credits per approved background",
+    "Revisions by root cause",
+    "Unplanned scope changes",
+    "Review coverage tied to asset versions"
+  ],
+  "updated_at": "2026-10-09",
+  "duration_policy": {
+    "minimum_seconds": 600,
+    "exceptions": [
+      {
+        "episode_id": "001-medieval-london-day",
+        "accepted_duration": "9:24",
+        "owner_instruction": "the first video is an exeption (9:24) don't worry",
+        "date": "2026-10-08",
+        "effect": "Do not pad or re-voice the pilot for length; no other episode inherits this exception."
+      }
+    ],
+    "preflight": "Use actual narration duration before the main image batch and distinguish hard minimums from soft pacing targets."
+  },
+  "local_edit_staging": {
+    "applies_to": [
+      "generated images",
+      "local crops",
+      "paint-outs",
+      "composites",
+      "narration edits",
+      "thumbnails"
+    ],
+    "rule": "Write candidates outside accepted asset directories. Compare the exact candidate and accepted-source hash before installation; preserve backups. An edit being free or local does not bypass staging.",
+    "status": "Mandatory workflow control; universal code enforcement is not yet verified."
+  },
+  "learning": {
+    "process": "channel/learning_loop.json",
+    "register": "channel/learning_register.json",
+    "episode_template": "templates/learning_review.json",
+    "mandatory": "Read relevant lessons before work; record defects and evidence during work; return a measured retrospective and director decisions at delivery.",
+    "background_service": false
+  },
+  "decision_authority": {
+    "editorial_wording": "director",
+    "repair_method": "director",
+    "take_selection": "director; record evidence and whether selection is for assembly or final approval",
+    "audio_review_truthfulness": "No assistant may mark a listening check passed from a transcript, waveform or generated clip alone.",
+    "scope_changes": "director",
+    "new_spending": "owner",
+    "publication": "owner",
+    "youtube_operator": "Astra; Claude prepares assets and reports, and must not alter YouTube uploads or schedules under a repair handoff",
+    "executor": "Implements explicit instructions, drafts options where a choice is not specified and waits for Astra's decision.",
+    "research_and_script_authorship": "Astra performs research, scriptwriting and a separate critical self-review. Claude handles bounded production implementation; no separate script challenge is assigned under the owner's final 2026-10-09 instruction."
+  },
+  "allocation_policy": {
+    "owner_clarification": "2026-10-09 final instruction: Astra researches, scripts and critically reviews its own script. Claude implements production, without an assigned script challenge.",
+    "basis": "Complementary functions and observable results, not an unsupported model ranking.",
+    "adjustment": "Director may change task allocation after comparing defect rate, rework, cost and completion evidence; owner retains spending/publication decisions.",
+    "review_method": "Separate critical self-review after authorship, with claim evidence and source limits; never described as independent-model review."
+  },
+  "visual_scope_policy": {
+    "owner_clarification": "2026-10-09: forget the fixed budget; choose scenes needed for roughly ten-minute episodes, with episode 002 as a variety reference.",
+    "planning": "Meaningful visual changes, credible continuity, evidence clarity and actual pacing determine the count. Do not target spend, silently economize with repetitive shots or generate quota-filling variants.",
+    "cost": "Track and report actual price and count; no guarantee that all future episodes stay under 300 credits. Spending approval and acceptance gates still apply."
+  }
+}

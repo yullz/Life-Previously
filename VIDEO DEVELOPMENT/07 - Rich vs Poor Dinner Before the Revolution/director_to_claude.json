@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "message_type": "complete_episode_execution_brief",
+  "episode_slug": "paris-dinner",
+  "title": "Rich vs Poor: Dinner Before the French Revolution",
+  "status": "development_in_progress_do_not_execute_yet",
+  "owner_authorization": "All director development authorized. Paid production quote and publication approval remain separate.",
+  "read_first": [
+    "START_HERE.md",
+    "../PRODUCTION_CONTRACT.md",
+    "research.md",
+    "claims.md",
+    "script.txt",
+    "scene_plan.json",
+    "director_prompt_plan.json",
+    "image_prompts.json",
+    "wardrobe_spec.json",
+    "sound_plan.json",
+    "EXECUTION.md",
+    "thumbnail_brief.md",
+    "package.md",
+    "shorts_plan.json"
+  ],
+  "director_decisions": {
+    "lead_title": "Rich vs Poor: Dinner Before the French Revolution",
+    "lead_thumbnail": "A",
+    "narration": "Use exact supplied wording after director review release; Claude implements, no script challenge assignment.",
+    "creative_budget": "Story-led premium visual coverage; quote actual current costs. Do not replace with sparse stock backgrounds.",
+    "pirate_hat": false
+  },
+  "counts": {
+    "narration_words": 1758,
+    "chapters": 8,
+    "shots": 96,
+    "illustrations": 90,
+    "local_graphics": 6,
+    "thumbnail_backgrounds": 3
+  },
+  "pilot": [
+    "S001",
+    "S004",
+    "S007",
+    "S036",
+    "S052",
+    "TH-A"
+  ],
+  "execution": "After completion status and launch cost approval, continue end to end through the shared contract. Do not stop at planning. Deliver full film, lead and alternate thumbnails, captions, upload text and three Shorts, with review evidence.",
+  "protected": "Existing episodes and shared approved assets; never reuse Episode003 spend authorization.",
+  "production_checks_pending": [
+    "live provider price and balance",
+    "generated-image visual inspection",
+    "actual voice listening and duration",
+    "composite inspection",
+    "continuous final audiovisual playback",
+    "thumbnail full/small-size inspection",
+    "Shorts review",
+    "owner approval for publication"
+  ]
+}

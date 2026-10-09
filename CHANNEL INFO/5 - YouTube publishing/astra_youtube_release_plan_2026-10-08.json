@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "message_type": "astra_publication_plan",
+  "date": "2026-10-08",
+  "operator": "GPT-6 Astra",
+  "channel": {
+    "name": "Life, Previously",
+    "handle": "@LifePreviously",
+    "channel_id": "UCOt5ow5AZYQWuh49YP56vvA"
+  },
+  "state": "Historical plan executed on 2026-10-09 after owner audiovisual approval and explicit upload authorization. Both episodes and six Shorts uploaded and scheduled. Current actual IDs and verification are recorded in handoff/youtube_publication_2026-10-09.json; old observed_live_state below remains historical evidence only. No remote originals were deleted by Astra.",
+  "current_authorization": "handoff/owner_publication_authorization_2026-10-09.json",
+  "current_ai_disclosure": "No for these eight uploads under the specific Studio criteria, per the owner's final explicit instruction; optional AI-production notes removed per the owner's subsequent request; internal provenance and required credits retained. See handoff/ai_disclosure_decision_2026-10-09.json. The temporary Yes setting is superseded.",
+  "owner_delegation": {
+    "source": "Owner message relayed in handoff/claude_to_director_2026-10-08_followup.json",
+    "scope": "Astra handles uploads, scheduling and professional channel setup, and may improve thumbnails. Paid generation still requires a separate quote and approval.",
+    "pilot_exception": "Owner directly confirmed the 9:24 pilot is acceptable."
+  },
+  "production_preconditions": [
+    "R01-R05 closeout deliverables received; reported hashes verified. Use the exact current candidate versions recorded in amendment 005.",
+    "Resolve final release approval, explicitly retaining any limitation of unperformed direct listening; current sessions have no audio perception.",
+    "Confirm the selected upload files, captions, metadata and thumbnails describe the same version.",
+    "Do not upload the previously scheduled London original as though it contained the repairs."
+  ],
+  "observed_live_state": {
+    "inspection_date": "2026-10-08",
+    "long_video": {
+      "id": "VGfYk488-pA",
+      "title": "What Did People in Medieval London Actually Do All Day?",
+      "visibility": "Scheduled",
+      "date": "2026-10-10",
+      "displayed_duration": "9:25 (Studio rounding of original upload)",
+      "holds": "Original upload; local repair candidates are separate files"
+    },
+    "shorts": [
+      {
+        "id": "BICkOSQ2UBU",
+        "title": "How Did Medieval Londoners Go to the Toilet?",
+        "date": "2026-10-11",
+        "visibility": "Scheduled"
+      },
+      {
+        "id": "pweCmwyOSo0",
+        "title": "Did Medieval People Really Drink Beer Instead of Water?",
+        "date": "2026-10-13",
+        "visibility": "Scheduled"
+      },
+      {
+        "id": "Pn1aGk7mgMk",
+        "title": "7 Years, No Wife: Life as a Medieval Apprentice",
+        "date": "2026-10-15",
+        "visibility": "Scheduled"
+      }
+    ],
+    "scheduling_time": "19:00 Europe/Sofia is documented in the project; the list view verified dates, not the time picker. Verify the exact time and timezone during the upload workflow.",
+    "channel_setup": "Existing avatar, banner, watermark for entire video, profile text and enabled Home tab observed. Home has For you, Videos, Short videos and Created playlists, plus empty default sections.",
+    "audience_data": "Dashboard shows 0 subscribers and 3 views; the content view contains only the scheduled original. There is no observed basis for claiming a superior publication hour.",
+    "about_policy": "The existing 'New episode every other week' is intentional under channel/bible.md until four weekly episodes ship on time. Preserve this conservative promise; do not misclassify it as drift."
+  },
+  "schedule_decision": {
+    "keep_existing_slots": true,
+    "timezone": "Europe/Sofia",
+    "long_form": [
+      {
+        "episode": "001",
+        "local_datetime": "2026-10-10T19:00:00"
+      },
+      {
+        "episode": "002",
+        "local_datetime": "2026-10-17T19:00:00"
+      }
+    ],
+    "shorts_001": [
+      "2026-10-11T19:00:00",
+      "2026-10-13T19:00:00",
+      "2026-10-15T19:00:00"
+    ],
+    "shorts_002": [
+      "2026-10-18T19:00:00",
+      "2026-10-20T19:00:00",
+      "2026-10-22T19:00:00"
+    ],
+    "rationale": "Keep the owner's consistent baseline. YouTube says publish time is not known to affect long-term performance; audience activity may help early viewing. Change the slot only with relevant audience evidence, not generic best-time claims.",
+    "source": "https://support.google.com/youtube/answer/141805"
+  },
+  "replacement_strategy": {
+    "technical_fact": "YouTube's standard upload workflow cannot replace a video's file while preserving its URL; a corrected upload has a new ID.",
+    "source": "https://support.google.com/youtube/answer/55770",
+    "sequence": [
+      "Keep the original scheduled files intact while the revised masters are still unapproved.",
+      "After release clearance, upload the repaired London master and any changed Shorts as new private entries and wait for processing/checks.",
+      "Apply the chosen metadata, captions, thumbnails, playlist and available end-screen/related-video links to the new IDs.",
+      "Verify the replacements and exact schedules; then make the superseded scheduled originals private so both versions cannot publish in the same slot. Preserve them instead of deleting.",
+      "Update all internal publication records and episode/Short links to the new IDs. Do not pretend existing views or links transferred."
+    ],
+    "preserve_original_files_and_remote_uploads": true,
+    "no_permanent_deletion": true
+  },
+  "packaging_decisions": {
+    "london": {
+      "title": "What Did People in Medieval London Actually Do All Day?",
+      "thumbnail": "episodes/001-medieval-london-day/thumbnail_D.jpg",
+      "thumbnail_sha256": "2efc811354cfe769caf4868c5653c8918e413dab9cb6bc32d06697a3809c18b6",
+      "thumbnail_source_note": "The episode's thumbs/thumb_D_contract.png also exists; use the explicitly selected upload JPEG above.",
+      "description_correction": "The repaired version wakes beside three strangers. Replace the live description's sharing-a-mattress phrase with 'You wake up beside three strangers'. Preserve its useful source and topic information; local package.md has the corrected opening and actual chapters."
+    },
+    "pompeii": {
+      "title": "What Was Written on Pompeii's Walls Before the Eruption?",
+      "thumbnail": "episodes/002-pompeii-life/thumbnail.jpg",
+      "thumbnail_sha256": "548adc6726e527dc8143b58f66c6eff9ff7b168065d804ad4510d6bea6699cbc",
+      "thumbnail_acceptance": "Edge-cleaned A_v3 accepted and installed locally by Astra in handoff/director_thumbnail_acceptance_2026-10-09_007.json. Thumbnail work complete; no audience-performance claim. B_v2 remains unselected.",
+      "description": "Use the current package.md and the final candidate's chapter times and captions; preserve the hedges about dates and survival."
+    },
+    "validation": "Re-run the repository's exact-title duplication check on upload day. No other channel's creative work is to be copied or used as a template.",
+    "thumbnails": "Use actual story promises, readable contrast and the approved Visitor. Compare original and variant at phone size. Do not promise increased CTR before real results.",
+    "metadata": "Use the source-backed descriptions, correct language/category, accurate audience/disclosure settings and topic-specific tags. Do not add unrelated trends or keyword stuffing."
+  },
+  "channel_setup_after_release": {
+    "retain": "Name, handle, established season identity, existing branding and conservative About cadence.",
+    "homepage": "Feature the released long-form episode and relevant history playlist when public content is available; retain Videos and Shorts. Empty sections need no urgent repair while they are not shown publicly.",
+    "cross_linking": "Connect each new Short to its correct long-form episode using related-video controls when eligible; update end screens and playlist links to the new IDs. Do not promise clickable description links on Shorts.",
+    "owner_only": "Country of residence, legal/tax details, credential changes and owner verification actions are not inferred from a professional-setup request."
+  },
+  "learning_and_measurement": {
+    "source": "channel/learning_loop.json",
+    "after_launch": "When analytics are available and access is authorized, record thumbnail/title versions, impressions, CTR with context, watch time, early retention, retention at scene/time-frame changes, and Short-to-long conversion where available.",
+    "experiment": "Treat a thumbnail variant as a hypothesis. Prefer the platform's available native test and watch-time outcomes; do not infer improvement from a tiny sample or change several variables at once.",
+    "no_background_monitor_created": true
+  },
+  "not_done": [
+    "Direct listening and final release not passed",
+    "London Short descriptions not yet captured locally from their existing Studio entries",
+    "No corrected upload, schedule replacement or channel-setting publication performed"
+  ],
+  "next_action": "Thumbnail work is complete and the local upload records name the accepted file. Astra retains the unresolved listening/release decision; thumbnail acceptance does not clear that gap. After release clearance, capture the live London Short descriptions and follow the prepared replacement-upload sequence."
+}

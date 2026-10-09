@@ -1,0 +1,530 @@
+{
+  "episode": "self-service-groceries",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S016",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S076",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S046",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S002",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S004",
+      "text": "A SHOPPING TRIP THROUGH THE 1917 PATENT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S008",
+      "text": "CHOOSE YOUR GOODS · FOLLOW THE ROUTE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S009",
+      "text": "OUR IMAGINARY LIST: SUGAR · SOAP",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S010",
+      "text": "THE SHELVES SET THE ROUTE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S015",
+      "text": "LOBBY → SALES ROOM → STOCKROOM",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S018",
+      "text": "ONE CONTINUOUS CIRCUIT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S020",
+      "text": "CHOICE OF GOODS · A GUIDED ROUTE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S026",
+      "text": "THE AIM: SHOW YOU THE ASSORTMENT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S030",
+      "text": "EXPOSURE IS THE PLAN · PURCHASE IS A POSSIBILITY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S033",
+      "text": "THE LAYOUT DOES PART OF THE SELLING",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S035",
+      "text": "AN IMAGINED PURCHASE · A DOCUMENTED DESIGN",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S040",
+      "text": "THE PATENTED DESIGN",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S052",
+      "text": "SELECT → CHECK → PAY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S056",
+      "text": "IN → AROUND → CHECKOUT → OUT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S057",
+      "text": "A SYSTEM FOR SELLING GROCERIES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S059",
+      "text": "THE INVENTOR'S AIM: LOWER OVERHEAD",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S063",
+      "text": "“HER OWN CLERK” · THE 1916 ADVERTISEMENT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S065",
+      "text": "WHAT ABOUT DELIVERY?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S066",
+      "text": "MEMPHIS · SEPTEMBER 1916",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S067",
+      "text": "NO FREE OR PAID DELIVERY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S069",
+      "text": "CHOOSE DIRECTLY · COLLECT AND CARRY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S071",
+      "text": "A DIFFERENT SHOPPING BARGAIN",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S073",
+      "text": "“MEAN BUSINESS” · THE 1916 ADVERTISEMENT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S078",
+      "text": "A SYSTEM THAT COULD BE FRANCHISED",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S079",
+      "text": "THIS DESIGN IS NOT EVERY STORE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S080",
+      "text": "SAUNDERS'S SELF-SERVING STORE · 1917",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S081",
+      "text": "BASKET · ROUTE · PACKAGES · CHECKOUT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S084",
+      "text": "THE DESIGN PUTS GOODS IN YOUR PATH",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S087",
+      "text": "THE WORK IS DIVIDED DIFFERENTLY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S090",
+      "text": "IMAGINED TIN · DOCUMENTED ROUTE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S093",
+      "text": "YOUR CHOICES · THE STORE'S ROUTE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S096",
+      "text": "SUGAR · SOAP · ONE EXTRA IDEA",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "SRC01",
+    "title": "UVA Salem Witch Trials Documentary Archive — Mary Warren,SWP135",
+    "url": "https://salem.lib.virginia.edu/n135.html",
+    "read": "2026-10-09: complete April19 examination through magistrates' commitment, including final note on fits and confession.",
+    "limit": "Reports behavior and claims; no proof of supernatural causation or modern diagnosis. Examination,not final trial; closing note not a controlled experiment."
+  },
+  {
+    "id": "SRC02",
+    "title": "UVA — Rebecca Nurse,SWP94",
+    "url": "https://salem.lib.virginia.edu/n94.html",
+    "read": "2026-10-09: character petition,Nathaniel Putnam petition,Thomas Fisk declaration and Nurse appeal in full.",
+    "limit": "Petition date uncertain. Fisk/Nurse July4 texts preserved through Calef1700/Burr,not both surviving original trial transcripts. Attribute Nurse's stated meaning."
+  },
+  {
+    "id": "SRC03",
+    "title": "UVA — Samuel Wardwell,SWP133",
+    "url": "https://salem.lib.virginia.edu/n133.html",
+    "read": "2026-10-09: full September1 confession and September13 grand-jury recantation note.",
+    "limit": "Confession content is allegation; recantation followed by execution does not prove it was sole cause or that maintaining confession guaranteed safety."
+  },
+  {
+    "id": "SRC04",
+    "title": "UVA — Mary Esty,SWP45",
+    "url": "https://salem.lib.virginia.edu/n45.html",
+    "read": "2026-10-09: joint Esty/Cloyce petition and final Esty petition in full.",
+    "limit": "September9/15 dates editorially supplied; narration saysSeptember. Easty modern spelling,Esty archival. Requests not proof proposals were implemented."
+  },
+  {
+    "id": "SRC05",
+    "title": "Peabody Essex Museum — The Salem Witch Trials of1692",
+    "url": "https://www.pem.org/the-salem-witch-trials-of-1692",
+    "read": "2026-10-09: timeline,Towne sisters,Bridget Bishop,innocent-victims FAQ and location explanations. Final timeline through1693 read;September22 executions andOctober29 dissolution verified.",
+    "limit": "Museum cross-check of outcomes. Read ending timeline before locking any aftermath detail; no single-cause explanation."
+  },
+  {
+    "id": "SRC06",
+    "title": "UVA — Sarah Cloyce,SWP33",
+    "url": "https://salem.lib.virginia.edu/n33.html",
+    "read": "2026-10-09: all three indictment texts and Ignoramus endorsements,editorially datedJanuary13,1693.",
+    "limit": "Grand-jury rejection,not an explanation for why she survived; old-style1692 document year must not overwrite modern1693 dating."
+  }
+]

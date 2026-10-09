@@ -1,0 +1,31 @@
+{
+  "status": "director_guidance_listen_to_generated_voice",
+  "entries": [
+    {
+      "term": "Carnuntum",
+      "say": "kar-NOON-tum",
+      "note": "Keep one Anglicized pronunciation throughout."
+    },
+    {
+      "term": "lanista",
+      "say": "lah-NISS-tah",
+      "note": "No need to overemphasize."
+    },
+    {
+      "term": "secutor",
+      "say": "seh-KOO-tor",
+      "note": "One clear spoken introduction."
+    },
+    {
+      "term": "retiarius",
+      "say": "reh-tee-AH-ree-us",
+      "note": "Maintain natural cadence."
+    },
+    {
+      "term": "Seneca",
+      "say": "SEN-eh-kuh",
+      "note": "Standard English."
+    }
+  ],
+  "rule": "Test these together with first narration batch; retake pronunciation errors before timing images."
+}

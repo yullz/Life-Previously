@@ -1,0 +1,78 @@
+[
+  {
+    "id": "SRC01",
+    "title": "The National Archives,child ration book1940,BT131/40:instructions",
+    "url": "https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/ration-book/",
+    "read": "2026-10-09: complete transcribed book instructions and retailer registration page read.",
+    "limit": "Use the primary1940 instructions with date visible,not the modern intro's undated16-coupon summary as a1944allowance. It is a child's sample book,not an adult1944cover. No source-image reuse assumed.",
+    "public": true
+  },
+  {
+    "id": "SRC02",
+    "title": "Ministry of Food,The Urban Working-Class Household Diet1940to1949,First National Food Survey report,HMSO1951",
+    "url": "https://assets.publishing.service.gov.uk/media/5a7f8e1940f0b62302690313/The_Urban_Working_-_Class_Household_Diet_1940-1949.pdf",
+    "read": "2026-10-09: cover,preface; PDFpp15–17 paragraphs19–30; PDFpp24–25 paragraphs45–49 read,including points,communal meals,priority nutrition,unrationed staple policy and changing supplies.",
+    "limit": "Official retrospective survey,not every household. Bibliographic printedpp8–10 and17–18 correspond to PDF15–17/24–25. No individual family's calories/income inferred; no claim wartime diet was universally healthy.",
+    "public": true
+  },
+  {
+    "id": "SRC03",
+    "title": "Hansard,Ministry of Food debate,9June1944,vol400,cols1662–1663",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1944/jun/09/ministry-of-food",
+    "read": "2026-10-09: minister's surrounding passage on ordinary milk allocation,priority exceptions,cheese2oz and fruit/supply constraints read.",
+    "limit": "Ordinary cheese allowance,not agricultural/special ration. Milk statement excludes priority consumers; no family total calculated from adult rate.",
+    "public": true
+  },
+  {
+    "id": "SRC04",
+    "title": "Ministry of Information,Home Intelligence Weekly Report,18July1944,sections14 and14a",
+    "url": "https://moidigital.ac.uk/reports/home-intelligence-reports/home-intelligence-special-reports-inf-1-292-2-c/idm140465683214048/",
+    "read": "2026-10-09: complete Food and Shopping Difficulties sections read,including broad satisfaction as well as complaints; London/evacuation context also read.",
+    "limit": "Official summaries of reported opinion across regions,not representative polling or every London shop. Label as reported complaints; neither blanket misery nor universal fairness.",
+    "public": true
+  },
+  {
+    "id": "SRC05",
+    "title": "Hansard,Rationed Foods,28September1944,vol403,cols469–470W",
+    "url": "https://api.parliament.uk/historic-hansard/written-answers/1944/sep/28/rationed-foods",
+    "read": "2026-10-09: whole question and answer read.",
+    "limit": "3ozcheese restoration takes effect15October1944; do not put that allowance intoJuly.24points per period retained,not24perweek; exact point budgets omitted from narration.",
+    "public": true
+  },
+  {
+    "id": "SRC06",
+    "title": "Chertsey Museum,Second World War resources,p12:Woolton pie recipe",
+    "url": "https://chertseymuseum.org/domains/chertseymuseum.org.uk/local/media/images/medium/Resources_For_..._The_Second_World_War_final_version.pdf",
+    "read": "2026-10-09: full indexed recipe reproduction read. Live PDF link404; cached text available via web search. Alternate earlier resource p29 corroborates ingredients/method.",
+    "limit": "Museum reproduction of1941recipe,not the original Times scan. Do not claim exact first-publication day. Oatmeal teaspoon/tablespoon differs across reproductions: omit quantity; no generated spoon-size proof. Carrot-cake adjacent recipe has inconsistent egg mention and is not used. Recipe treatment under200derivedwords."
+  },
+  {
+    "id": "SRC07",
+    "title": "Imperial War Museums,1944film Rationing in Britain,COI155,catalogue description",
+    "url": "https://film.iwmcollections.org.uk/record/800",
+    "read": "2026-10-09: full catalogue synopsis and production metadata read; film playback not performed.",
+    "limit": "Only catalogue-supported point:official explanatory film uses a selected family of four and emphasizes rationing's benefits. Do not quote film or claim watched footage. No footage licensed or included."
+  },
+  {
+    "id": "SRC08",
+    "title": "The National Archives,Home Front film sources:using film as evidence",
+    "url": "https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-film-sources-2/",
+    "read": "2026-10-09: framing and Rationing in Britain entry read.",
+    "limit": "Context for interpreting government information film aimed at Americans; not proof of every household's experience."
+  },
+  {
+    "id": "SRC09",
+    "title": "Hansard,Bread and Flour Rationing (Government Decision),27June1946",
+    "url": "https://hansard.parliament.uk/Commons/1946-06-27/debates/4e76b33a-d07e-4237-bc1d-511c6bd213ce/BreadAndFlourRationing%28GovernmentDecision%29",
+    "read": "2026-10-09: government announcement of scheme beginning21July1946 read through indexed primary text.",
+    "limit": "Post-war contrast only; no1944bread coupons.",
+    "public": true
+  },
+  {
+    "id": "SRC10",
+    "title": "Royal Horticultural Society,How to grow swedes:identification and names",
+    "url": "https://www.rhs.org.uk/vegetables/swede/grow-your-own",
+    "read": "2026-10-09: Getting Started section read for names,root colour and normal harvest season.",
+    "limit": "Botanical/terminology reference,not evidence ofJuly1944shopstock. Swedes normally harvestedautumn/winter; recipe demonstration must not imply every named vegetable was freshly harvested inJuly."
+  }
+]

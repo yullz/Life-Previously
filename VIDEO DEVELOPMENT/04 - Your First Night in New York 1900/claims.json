@@ -1,0 +1,323 @@
+[
+  {
+    "id": "C0",
+    "claim": "The arriving Visitor, his choices, tiredness and imagined room search are fictional viewer framing.",
+    "type": "F",
+    "sources": [],
+    "locator": "Opening explicitly defines a reconstructed search, not an individual immigration diary.",
+    "limit": "No invented named resident's dialogue or guarantee of vacancy, work or admission.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S005",
+      "S006",
+      "S008",
+      "S011",
+      "S012",
+      "S014",
+      "S020",
+      "S021",
+      "S024",
+      "S027",
+      "S028",
+      "S033",
+      "S040",
+      "S042",
+      "S047",
+      "S054",
+      "S056",
+      "S057",
+      "S067",
+      "S071",
+      "S077",
+      "S081",
+      "S082",
+      "S083",
+      "S084",
+      "S091",
+      "S092",
+      "S093",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "claim": "Mills House No.1 opened in1897 on Bleecker Street and offered low-cost rooms intended for single working-class men.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC06"
+    ],
+    "locator": "Riis pp.89–91; historic-site opening and clientele paragraphs.",
+    "limit": "Not a family hotel or universal option; Bleecker is not Orchard.",
+    "scene_ids": [
+      "S006",
+      "S009",
+      "S010",
+      "S019",
+      "S022",
+      "S023",
+      "S032",
+      "S073",
+      "S076",
+      "S079",
+      "S087"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "claim": "Riis's1900 account gives Mills lodging at20cents nightly and a separate restaurant dinner at15cents.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Printed pp.89–90.",
+    "limit": "Historical reported charge, not entire daily living cost or guaranteed booking. No invented current-dollar equivalence.",
+    "scene_ids": [
+      "S008",
+      "S016",
+      "S017",
+      "S018",
+      "S021",
+      "S030",
+      "S073",
+      "S086"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "claim": "Mills bedrooms were small private rooms, with shared baths, reading facilities and laundry options.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Printed p.89, baths, games, library, paid and self-service laundry; p.90 rooms.",
+    "limit": "Do not draw private luxury bathroom or claim all amenities had identical availability for every guest.",
+    "scene_ids": [
+      "S010",
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S018",
+      "S021"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "claim": "Demand could exceed Mills capacity; Riis says crowds were sometimes turned away.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Printed p.90, both houses filled and crowds often turned away.",
+    "limit": "No fabricated vacancy status for a particular1900night.",
+    "scene_ids": [
+      "S024",
+      "S025",
+      "S027",
+      "S032",
+      "S073",
+      "S079",
+      "S087"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "claim": "97Orchard's1900census records boarders, including23-year-old tailor Ike Solive and21-year-old dressmaker Pauline Rudolph.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Transcription row8 and row21; boarder classification.",
+    "limit": "Names follow supplied transcription; do not claim a specific bed, room, relationship, rent or meals.",
+    "scene_ids": [
+      "S007",
+      "S035",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S044",
+      "S045",
+      "S074",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "claim": "Boarding provided household income and could share limited living space; particular agreements varied.",
+    "type": "I",
+    "sources": [
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Census boarder rows; rent article household-support discussion.",
+    "limit": "No1908boarding percentage passed off as1900, no assumption every boarder ate meals with hosts.",
+    "scene_ids": [
+      "S033",
+      "S034",
+      "S040",
+      "S041",
+      "S042",
+      "S043",
+      "S044",
+      "S046",
+      "S074"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "claim": "Veiller's1900survey found3-room rents of$12–13monthly on first floors and$9.50–10on fourth floors in a specified Lower East Side block.",
+    "type": "E",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "Veiller paragraph and footnotes1–2.",
+    "limit": "A study example, not a citywide tariff or97Orchardlease. Keep floor labels as source's US usage.",
+    "scene_ids": [
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S053",
+      "S055",
+      "S075",
+      "S089"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "claim": "97Orchard was built with22three-room apartments of roughly325squarefeet each.",
+    "type": "E",
+    "sources": [
+      "SRC07"
+    ],
+    "locator": "Opening building description.",
+    "limit": "Do not present each room as a separate bedroom or exact modern floorplan without drawing evidence.",
+    "scene_ids": [
+      "S058",
+      "S059",
+      "S064",
+      "S075"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "claim": "Harris and Jennie Levine lived/worked at97Orchard; Harris employed three garment workers, with pressing in the kitchen, and closed the workshop on Saturdays for the Jewish Sabbath.",
+    "type": "E",
+    "sources": [
+      "SRC04",
+      "SRC05"
+    ],
+    "locator": "Family story pp.1/5,1892inspection explanation; virtual tour workshop and kitchen paragraphs.",
+    "limit": "Workers are not automatically boarders. Distinguish documented workplace from invented family interactions.",
+    "scene_ids": [
+      "S007",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S066",
+      "S067",
+      "S068",
+      "S069",
+      "S070",
+      "S071",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "claim": "The1900census lists Harris, Jenny and three children in the Levine household; later family size must not be imported.",
+    "type": "E",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Rows25–29: Harris,Jenny,Pauline,Hyman,Max.",
+    "limit": "Narration uses three children only for1900. No claim that census captures every visitor or worker.",
+    "scene_ids": [
+      "S065",
+      "S066",
+      "S067"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "claim": "A nightly room, a boarding arrangement and a monthly apartment solve different housing needs; price comparisons need matching units and included services.",
+    "type": "I",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Synthesis of reported prices, boarding records and household arrangements.",
+    "limit": "Explicit interpretation; no universal ranking or invented wage budget.30nights×20c=$6is only an illustrative calculation if used.",
+    "scene_ids": [
+      "S003",
+      "S004",
+      "S017",
+      "S019",
+      "S023",
+      "S026",
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S046",
+      "S047",
+      "S048",
+      "S053",
+      "S055",
+      "S056",
+      "S057",
+      "S063",
+      "S070",
+      "S072",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080",
+      "S081",
+      "S084",
+      "S085",
+      "S086",
+      "S087",
+      "S092",
+      "S093",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

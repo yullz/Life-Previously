@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: Why Did Grocery Stores Make You Serve Yourself?
+
+## You came for groceries
+::: S001 | A shopper pauses inside the front lobby holding a small empty hand basket; entry left and checkout right. Visitor observes beside clear floor. [pose: eyebrow-raise 0.8,0.94 0.6] [zoom-in]
+You came to buy sugar. Somehow, you are now carrying a basket, fetching the goods, and following a route somebody else designed.
+
+::: S002 | Customer hands reach for a modest cloth package on timber shelving. No Visitor hand, uniform or employment badge. [pan-left]
+The shop has found a new pair of hands. Yours. Has shopping become easier, or have you acquired a job?
+
+::: S003 | Small illustrative Memphis grocery exterior. Pedestrians in restrained 1910s day clothes; no claim to exact first-store facade. [pose: look-around 0.8,0.94 0.6] [note: Memphis, 1917 · Saunders patent US 1,242,872] [zoom-out]
+Memphis, nineteen seventeen. Clarence Saunders has opened Piggly Wiggly, and patented a design for a self-serving store.
+
+::: S004 | Source-bound floor plan with lobby, sales room and stockroom as three successive bands. [still]
+We are following his patent through an imagined trip. Its promise: choose the groceries yourself.
+
+::: S005 | Adult customer faces a clerk who retrieves a package from a full shelf. Shop clean, ordinary and functional. [zoom-in]
+Picture the alternative. You give a clerk your order, and the clerk collects it from behind the counter.
+
+::: S006 | Clerk hands one plain paper package across the counter while customer waits. No caricature of lazy staff. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S005] [pan-left]
+You ask; they fetch. Self-service changes who does the fetching.
+
+::: S007 | Shopper compares two plain packages within the first aisle. Basket rests securely on forearm; clear human hand anatomy. [zoom-out]
+Now the goods are within reach. Stop, look, choose, and put a package in your basket.
+
+::: S008 | Four parallel aisles with only their correct alternating end connections. Entrance at lower left; checkout lower right. [still]
+No need to describe every item to somebody else. But the shop still has a plan for how you move.
+
+::: S009 | Locally designed simple list card beside a cloth sack and unbranded soap package; no painted writing. [pose: count-fingers 0.8,0.94 0.6] [same-as: S002] [zoom-in]
+Our imaginary list: sugar and soap. Two things. This should be a very short visit.
+
+::: S010 | Shortest imagined direct line stops against a solid shelf; valid continuous route remains clear. No arrows through walls. [still]
+Except this layout prevents a direct route to every shelf. That is part of the idea.
+
+::: S011 | Long view along stocked timber shelves; shopper small in frame. No invented brand logos or prices. [note: Saunders, self-serving store patent, 1917] [same-as: S007] [zoom-out]
+Saunders wants customers to become acquainted with the assortment. We know what we want. He has other goods to introduce.
+
+::: S012 | Entry gate on left with basket station before it. Clearly separate exit gate at far right. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S001] [pan-right]
+First, though, we need to get through the entrance. The basket is waiting. So is a gate that only goes one way.
+
+## The store gives you a basket
+::: S013 | Customer passes left entry gate with hand basket; latch and hinge plausible. Preserve front-lobby anchor geometry. [same-as: S001] [zoom-in]
+Pick up a hand basket and pass through the entrance gate. This is the moment your shopping route begins.
+
+::: S014 | Small period-compatible hand basket with two handles; no wheels, folding trolley frame or child seat. [same-as: S002] [pan-left]
+No rolling trolley here. The basket carries the packages you collect along the way.
+
+::: S015 | Three horizontal zones, preserving front at bottom and stockroom at top; small source label. [still]
+The patent has three main areas: a front lobby, a sales room, and a stockroom behind.
+
+::: S016 | View through screened partition toward first aisle; stockroom doors at distant rear, no customer shortcut. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [pan-right]
+Customers enter through the lobby. The stockroom supplies the business without joining our shopping circuit.
+
+::: S017 | Elevated explanatory oblique view of four aisles formed by three interior shelving runs and outer walls. No roof, no fifth aisle. [note: Reconstruction from patent Fig. 2] [same-as: S007] [zoom-in]
+Inside, wall shelving and three long interior shelf runs form four aisles. Their ends connect in an alternating pattern.
+
+::: S018 | Animate locally drawn route only: lower left up, rear across, down, front across, up, rear across, down right. [still]
+Up one aisle, around the end, down the next. Then around again. No convenient shortcut.
+
+::: S019 | Customer passes first shelf run and reaches its correct rear opening; fixed packages stay in their established positions. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S007] [zoom-out]
+You still choose which packages to take. The arrangement chooses the order in which you encounter the shelves along the way.
+
+::: S020 | Two separate simple icons: hand selecting package and fixed route. Neutral explanatory design, no prison imagery. [still]
+Freedom to choose the goods does not necessarily mean freedom to wander anywhere.
+
+::: S021 | Assorted modest tins, small paper packets and tied cloth sacks, each graspable; no loose open heap of sugar. [same-as: S002] [zoom-in]
+The plan also expects goods to be packaged in convenient quantities. The customer needs something manageable to lift from the shelf.
+
+::: S022 | One tied cloth sugar sack sized for five pounds, plain clean fabric; quantity added as a local explanatory caption. [note: Launch advertisement, Memphis Commercial Appeal, September 1916] [same-as: S002] [pan-left]
+A launch advertisement gives a concrete example: five pounds of granulated sugar, already waiting in a cloth bag for the shopper.
+
+::: S023 | Shopper lifts the established cloth sack from its shelf into basket. No new package shape or retail price. [same-as: S007] [zoom-out]
+Nobody needs to weigh that example out while you wait. The advertised package is ready.
+
+::: S024 | Same basket now contains exactly one cloth sugar sack; empty space for later soap and optional tin. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S002] [pan-right]
+One item accounted for. Now we can go straight to the soap. Almost.
+
+## The long way to the soap
+::: S025 | Customer sees another aisle through an explanatory cutaway, but solid cabinet blocks direct passage; no actual hole in shelf. [same-as: S007] [zoom-in]
+The next thing you want might be physically close. A shelf can still stand between you and the route that reaches it.
+
+::: S026 | Continuous path passes small generic package icons, one icon lit at a time. Source attribution below. [still]
+Saunders describes the advantage plainly: customers should review the assortment and become acquainted with different lines of goods in the store.
+
+::: S027 | Comparison view of the same conventional clerk-served counter with goods beyond customer reach. Do not portray empty stock. [same-as: S005] [zoom-out]
+A clerk could fetch your order without you encountering those goods. Here, you walk past them.
+
+::: S028 | One attractive but modest unbranded tin among ordinary packets; no speech bubble or magical spotlight. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S007] [pan-right]
+The shelves have become part of the sales pitch. They can offer a suggestion without anyone starting a conversation with you.
+
+::: S029 | Simple tomato tin with blank label reserved for a small local tomato illustration. No modern pull tab or brand. [same-as: S002] [zoom-in]
+For our imagined shopper, it is a tin of tomatoes. It was not on the list. It is now rather visible.
+
+::: S030 | One basket icon branches into two hypothetical outcomes: tin included or shelf unchanged. Do not imply measured proportions. [still]
+Perhaps you take it. Perhaps you leave it. The patent tells us what Saunders wanted the route to do, not your decision.
+
+::: S031 | Tin remains on shelf beside shopper's hand held back; calm choice rather than coercion. [same-as: S002] [zoom-out]
+Our fictional purchase supplies no honest sales statistic. The patent describes an ambition, not every customer's response.
+
+::: S032 | Shopper continues around correct front connection between middle aisles, basket holding only the established sugar sack. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S007] [pan-right]
+But the business logic is clear. While you do the collecting, the route keeps introducing you to things the shop can sell.
+
+::: S033 | Whole patent-derived plan with shelf blocks, entrance and checkout fixed. Route stays legible at mobile size. [still]
+The floor plan is doing a job. It is part of how the shop sells groceries.
+
+::: S034 | Basket now contains sugar sack, one soap packet and one tomato tin, separated clearly. No fourth item. [same-as: S002] [pan-left]
+For our imagined visit, we will take the tomatoes as well as the soap.
+
+::: S035 | Small original source card distinguishing illustrated example from patent's stated purpose. Avoid repetitive dense caveat text. [still]
+That extra purchase is invented. The effort to put more goods before your eyes is documented.
+
+::: S036 | View toward rear stockroom doors and an elevated guarded gallery; shopper remains on lower sales-room floor. [pose: look-up-worried 0.8,0.94 0.6] [same-as: S007] [pan-right]
+Our list is complete. Before paying, look behind the shelves, and above them.
+
+## Someone still runs the shop
+::: S037 | Rear stockroom contains reserve boxes and shelves; two plain access doors align with patent layout. [zoom-in]
+Packages do not arrive by magic. A stockroom supplies the sales area through connecting doors.
+
+::: S038 | Guarded gallery reached by stockroom stair or ladder; no access rising through a customer aisle. [pose: look-up-worried 0.8,0.94 0.6] [same-as: S037] [pan-left]
+Staff still have to manage the goods. Saunders even provides galleries above the display cabinets, reached from the stockroom.
+
+::: S039 | Single plainly dressed employee stands behind solid gallery rail overlooking shelves, without exaggerated spy pose. [note: Proposed galleries · patent description and Figs. 1–2] [same-as: S037] [zoom-out]
+These raised walkways connect. A floor-walker could move there, help customers, and keep an eye on stock and sales below.
+
+::: S040 | Gallery highlighted on source-bound plan; label identifies design evidence, not a photograph of every shop. [still]
+These are features of the patent, not proof that every later store operated exactly this way.
+
+::: S041 | Central front refrigerated cabinet aligns with middle shelf run and lobby screen, modest glass-fronted timber construction. [same-as: S007] [zoom-in]
+Downstairs, another feature sits near the front: a refrigerated cabinet with a glazed front, visible from the lobby through a screened opening.
+
+::: S042 | Source-informed paired cabinet doors and simple mechanical closure detail; no compressor, digital display or frost wall. [note: Patent Figs. 3–4] [same-as: S002] [pan-left]
+The drawing gives it narrow paired doors that close themselves. It is a specific cabinet, rather than a modern wall of chilled aisles.
+
+::: S043 | View from lobby through screened opening toward glazed cabinet, correct sight line; no extra transparent walls. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [zoom-out]
+The glass makes goods visible. The shop arranges visibility as carefully as movement.
+
+::: S044 | Cloth sack, paper soap packet and sealed tin arranged in their established forms; no modern production line. [same-as: S002] [pan-right]
+The ordinary packages have already been prepared for handling. Work happened before you picked them up.
+
+::: S045 | Customer carries the three-item basket along the final aisle, walking toward front-right checkout. [same-as: S007] [zoom-in]
+So when we say the customer does the work, we should be precise. You are choosing, collecting, and carrying the goods around.
+
+::: S046 | Staffed counter at front-right with basket rests, separate adding machine and register; preserve lobby orientation. [pose: look-around 0.8,0.94 0.6] [pan-left]
+Other people still run the store. The clearest reminder waits at the end of our route.
+
+::: S047 | Clerk stands behind counter with hands clear; customer approaches waiting lane. No conveyor or scanner. [same-as: S046] [zoom-out]
+A counter, a clerk, and equipment for recording the sale. Another person is still involved.
+
+::: S048 | Customer lowers same three-item basket onto a timber basket rest without removing any item yet. [same-as: S046] [pan-right]
+You fetched the groceries. Paying is a different operation. Put the basket down.
+
+## The human at the checkout
+::: S049 | Clerk removes soap packet first; sugar sack and tomato tin remain in basket. Clear hand contact. [note: Checking station · Saunders patent, 1917] [same-as: S046] [zoom-in]
+At the checking station, staff take the goods from the basket. Choosing them yourself does not mean simply walking out with them.
+
+::: S050 | Three goods aligned on counter beside paper wrapping; separate register in background. No invented amount. [same-as: S046] [pan-left]
+The patent describes the goods being checked, billed and wrapped. Payment is received, and the sale is entered in the cash register.
+
+::: S051 | Two distinct source-informed mechanical machines, plain number areas reserved for local detail if needed. No electronic screen. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S046] [zoom-out]
+An adding machine and a cash register appear as separate pieces of equipment in the drawing. No barcode scanner is involved.
+
+::: S052 | Three linked stages: customer selects, staff checks, customer pays. Distinct simple person icons. [still]
+The customer has taken over collecting the order. The checking and payment process still brings that order back to a member of staff.
+
+::: S053 | Customer waits across counter while clerk checks the sugar package; no unattended till or self-scanning. [same-as: S046] [zoom-in]
+Self-service shopping and unattended checkout are different ideas. We are looking at self-service here.
+
+::: S054 | Empty hand basket beside wrapped goods, clearly separate objects. Do not show customer keeping basket. [same-as: S002] [pan-left]
+The basket also has a job to finish. It belongs to the store, and the design calls for its return before departure.
+
+::: S055 | Clerk passes paper-wrapped goods to customer; returned empty basket stays inside beside counter. [same-as: S046] [zoom-out]
+Our groceries can be wrapped, paid for, and taken away. The basket stays behind for another person's trip around the same shelves.
+
+::: S056 | Final route arrives lower-right checkout then exit gate; entry remains lower left. Direction arrows do not reverse. [still]
+An exit gate completes the journey. Enter on one side, follow the circuit, settle the bill, and leave through the other.
+
+::: S057 | Three panels of the same layout, highlighting successive operations without changing walls or shelf geometry. [still]
+Browsing, collecting and payment form one sequence. That sequence is part of what Saunders wants to sell.
+
+::: S058 | Conventional clerk makes another trip from counter to shelf; neutral comparison, no firing scene or empty pay envelope. [note: Saunders's stated business aim] [same-as: S005] [pan-left]
+He says the arrangement can reduce overhead. Fewer clerks need to spend their time fetching each customer's order from the shelves.
+
+::: S059 | Patent objective paraphrased with visible attribution; no percentage, fabricated graph or profit total. [still]
+Those are the inventor's claims. His sales pitch is not an independently measured savings figure.
+
+::: S060 | Returned basket, clerk and exiting shopper in one stable composition; Visitor observes quietly at frame edge. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S046] [pan-right]
+But the change in the task is visible. You carried the order to the counter. The clerk did not collect it for you.
+
+## What disappears from the service
+::: S061 | Earlier-trip callback: shopper selects soap packet from shelf; identify this as recap so basket state is not current. [same-as: S007] [zoom-in]
+From the customer's side, that can feel useful. You choose a package directly instead of explaining the whole list across a counter.
+
+::: S062 | Recap basket with established sugar, soap and tomato tin; shopper's hands support its handles realistically. [same-as: S002] [pan-left]
+It also means carrying your selections through the shop. The service has changed shape; the effort has not simply vanished.
+
+::: S063 | Original local typesetting of short ad phrase with publication and September 1916 date. [still]
+The launch advertisement is blunt. It jokes that every customer will be her own clerk.
+
+::: S064 | Visitor glances at source card while customer enters with basket; no uniform, staff badge or employment paperwork. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S001] [pan-right]
+Advertising, not an employment contract. The joke is about taking over part of the service.
+
+::: S065 | Source card builds toward delivery statement; restrained newspaper-inspired local type, not generated gibberish. [still]
+And the offer removes another familiar possibility. If you expect the store to bring your groceries home, read the advertisement carefully.
+
+::: S066 | Clearly dated launch-ad transition, keeping 1916 distinct from main 1917 patent visit. [still]
+Step back to September nineteen sixteen. These launch promises do not describe every later store.
+
+::: S067 | Locally composed brief faithful paraphrase from second launch ad; source/date legible. [still]
+Piggly Wiggly says it will offer no delivery service. Not free delivery. Not even delivery that the customer pays extra to receive.
+
+::: S068 | Illustrative shopper leaves with paper-wrapped goods held close; no delivery van or store basket. [same-as: S003] [pan-right]
+The customer helps herself to ready-packed goods and pays the cashier. Taking the purchase away is part of that advertised arrangement.
+
+::: S069 | Balanced two-column comparison: choose directly / collect and carry. No implied quantified savings. [still]
+That makes the trade-off easier to see. More direct control over choosing the goods comes with doing more of the fetching and carrying.
+
+::: S070 | Shopper pauses with modest wrapped load outside doorway; no invented disability, household distance or heavy freight. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S003] [pan-left]
+Perhaps that suits our imaginary shopper. For another customer, the missing service could matter much more.
+
+::: S071 | Three neutral icons for selection, effort and service; no thumbs-up score or universal winner. [still]
+The same business idea need not suit everyone. It offers a particular bargain in how shopping works.
+
+::: S072 | Simple source-card backdrop with blank area for next scene's quoted phrase. No invented historical reader reaction. [pan-right]
+And if you thought the new store wanted everyone to wander in and admire the invention, its other advertisement has a surprise.
+
+## Please come to buy something
+::: S073 | Short selected phrase from first launch advertisement, locally typeset with date/source. No full newspaper facsimile. [still]
+The launch copy warns against timekillers, curiosity seekers and sightseers. It wants people who mean business, rather than a crowd enjoying the novelty.
+
+::: S074 | Main 1917 design recap: customer follows valid circuit, no crowd or security confrontation. [same-as: S007] [pan-left]
+So the shop can make you follow a long route past the goods while insisting you did not come merely to look around.
+
+::: S075 | Tomato tin beside sugar sack and soap packet as the three goods of our fictional purchase; no price. [same-as: S002] [zoom-out]
+There is the tension in miniature. Browsing is useful when it helps sell groceries. The advertised aim is still to make a sale.
+
+::: S076 | Visitor stands calmly beside entry area; clerk works normally, no eviction or hostile gesture. [pose: awkward-stand 0.8,0.94 0.6] [same-as: S001] [pan-right]
+Hear that as a sales campaign. Our fictional Visitor was not thrown out for hesitating.
+
+::: S077 | Small Memphis shop exterior with one locally composed Piggly Wiggly nameplate; avoid modern mascot and copied facade. [note: Piggly Wiggly history · Tennessee State Museum] [same-as: S003] [zoom-in]
+The publicity and arrangement make a recognisable business. Company and museum histories also describe the system being franchised.
+
+::: S078 | One simple shop icon branches to several generic shop icons; no exact count, dates or map of unverified locations. [still]
+Other stores could operate through it. The idea could travel beyond this one room in Memphis.
+
+::: S079 | Patent plan stays centre; surrounding generic store silhouettes are unlabelled variations, not claimed historical plans. [still]
+That does not make every modern supermarket a copy. Stores can change while keeping self-selection.
+
+::: S080 | Patent number and grant year, small source line; avoid world-first badge or invention trophy. [still]
+We need no claim that nobody elsewhere had tried self-service. Saunders's documented design is our subject.
+
+::: S081 | Five consistent icons drawn from this episode's approved basket, gate, plan, sack and checkout. [still]
+Its details are enough to make the story interesting: baskets, one-way gates, a winding route, prepared packages, and a staffed checking station.
+
+::: S082 | Recap shopper walks final aisle with three-item basket; clear earlier-trip label in editorial timing. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S007] [pan-left]
+Each does a small job. Together, they turn the customer from someone waiting for an order into someone moving that order through the shop.
+
+::: S083 | Local two-item list card beside three actual items before wrapping. Continuity uses the same sack, packet and tin. [same-as: S002] [zoom-out]
+Now return to our imaginary list. We came for sugar and soap. We leave with both, and that extra tin of tomatoes.
+
+::: S084 | Route ends at checkout with three-item basket icon; factual design and illustrative basket labelled separately. [still]
+One invented purchase illustrates the ambition: put the assortment directly in the customer's path.
+
+## Who got the better deal?
+::: S085 | Shopper carries wrapped three-item purchase outside, no basket. Visitor beside doorway on clear pavement. [pose: step-forward 0.8,0.94 0.6] [same-as: S003] [zoom-in]
+Outside, the store basket is gone from our hands. It stayed inside. The wrapped groceries are ours to take away.
+
+::: S086 | Recap of orderly checkout, returned empty basket beside counter. No duplicate goods or second purchase. [same-as: S046] [pan-left]
+We chose and carried. Staff checked, wrapped, and took payment.
+
+::: S087 | Customer tasks and staff tasks remain visible simultaneously in two columns, no disappearing people animation. [still]
+The work was divided differently. That is the heart of self-service here, and it is more interesting than saying the workers disappeared.
+
+::: S088 | Empty but fully stocked established aisle after shopper passes; package positions unchanged, warm restrained light. [same-as: S007] [pan-right]
+Saunders hoped to reduce costs. Shoppers chose directly. Shelves introduced goods beyond the original list.
+
+::: S089 | Wrapped purchase rests securely in customer's arms; one small locally illustrated tomato icon recalls extra item, not visible through paper. [same-as: S003] [zoom-in]
+Those interests can meet in the same trip. They can also pull in different directions when choosing freely means carrying more than you planned.
+
+::: S090 | Source-bound four-aisle route beside single hypothetical tin icon, clear labels. [still]
+The extra tin is a story device. The route that brought it before us is drawn in the patent.
+
+::: S091 | Final stable lobby view: new shopper enters left with basket, previous purchase leaves right. Distinct people, no duplicated limbs. [same-as: S001] [zoom-out]
+So why make customers serve themselves? To change how goods are selected and carried, and how the store spends effort making the sale.
+
+::: S092 | Two ordinary soap packages available for comparison, blank distinct wrappers; no factual claim of exact brands or prices. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S002] [pan-right]
+The clever part is that the customer can experience that change as freedom: take your time with this package, choose that one instead.
+
+::: S093 | Customer selection icon moves along fixed route, simple local line animation if supported, otherwise sequential static cards. [still]
+All while walking a path the store has already chosen. Your decisions and its design are working together, whether your list changes or not.
+
+::: S094 | Clerk at mechanical register and adding machine, calm final portrait of staffed checkout. No modern comparison screen. [same-as: S046] [pan-left]
+The cashier still waits at the end. A self-serving shop can look familiar without using unattended checkout.
+
+::: S095 | Visitor turns toward camera beside modest storefront, hands empty; shopper exits with goods. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S003] [zoom-out]
+Next time you enter a grocery store for two things, notice the route. How much of what you pass was on your list?
+
+::: S096 | Final graphic arrangement of two list items plus one tin, hand-basket silhouette behind. Clean original local typography. [same-as: S002] [pan-right]
+For our Memphis shopper, the answer was sugar and soap. The tomatoes were the store's opportunity. We provided the extra pair of hands.

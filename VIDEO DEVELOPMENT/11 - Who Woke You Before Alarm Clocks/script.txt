@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: Who Woke You Up Before You Had an Alarm Clock?
+
+## A city wakes while one worker goes to bed
+::: S001 | Wet quiet Manchester lane at early dawn; male knocker-up walks left with long wand angled safely upward. [pose: look-around 0.8,0.94 0.6] [note: Manchester,1862 · Waugh,ch.IX] [zoom-in]
+Manchester, eighteen sixty-two. The night has been wet, and a man with a long wand is finally going home to bed.
+
+::: S002 | Same man passing shuttered coffee stall, shoulders tired but relaxed; no crowds. [same-as: S001] [pan-left]
+His job is to get other people out of bed, so they can begin their work.
+
+::: S003 | External wooden rod tip at upper sash pane; one sleepy adult face visible behind glass. [pose: closeup-listening 0.8,1.02 0.82] [note: Illustration of a reported waking service] [zoom-out]
+Imagine the service arriving at your bedroom window: tap, tap. Someone outside expects more from you than a sleepy groan.
+
+::: S004 | Woman below left with rod touching upper window; enough distance to explain physical reach. [same-as: S003] [pan-right]
+That person is a knocker-up. Paying someone to wake you raises two questions.
+
+::: S005 | Two simple questions side by side,not two clocks. [pose: closeup-thoughtful 0.8,1.02 0.82] [still]
+Why pay a human being when clocks already exist? And, more urgently, who makes sure the human being wakes up?
+
+::: S006 | Elderly Waters at simple table in interview setting, thoughtful expression; paper blank. [note: Account published1877] [pan-left]
+A Victorian account answers that second question. It is less mysterious than the usual guessing game.
+
+::: S007 | Simple timeline anchored by museum clock date and nineteenth-century service. [note: Science Museum Group,1951-217] [still]
+First, forget the idea that everyone was waiting for somebody to invent an alarm clock. Alarms were already old.
+
+::: S008 | Original schematic of one-hand lantern clock with bell,weight and cord; not museum photo. [note: Knifton,1640–1662 · object1951-217] [still]
+A London-made clock in the Science Museum Group collection has an alarm and dates from the sixteen hundreds.
+
+::: S009 | View inside same window room; adult customer sitting up on edge of bed,feet floor; pane intact. [same-as: S003] [zoom-in]
+Owning a clock, hearing it, and leaving bed are different problems. A waking service could help with the last one.
+
+::: S010 | Restrained skyline with mostly quiet chimneys,wet street and few pedestrians; no celebratory busy mill scene. [pose: watch-arms-crossed 0.8,0.94 0.6] [note: Waugh's1862 account · cotton-famine context] [same-as: S001] [pan-left]
+Waugh was writing during the cotton famine. This is not a picture of every mill running happily.
+
+::: S011 | Stallkeeper puts plain cups away while wand-carrier recedes; no printed labels. [same-as: S001] [zoom-out]
+He notices coffee stalls packing up and the knocker-up heading home. Even before breakfast, different working days are already pulling apart.
+
+::: S012 | Older Waters' attentive face and hands at table; no counterfeit portrait claim. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Mrs Waters · reported recollections] [same-as: S006] [pan-right]
+One woman's detailed recollections help explain what it took to make that morning service a business.
+
+## Mrs Waters finds her first customer
+::: S013 | Interview room side angle,elderly Waters with interviewer; do not display Manchester name. [note: Chambers's Journal,17Nov1877] [same-as: S006] [zoom-in]
+In eighteen seventy-seven, Chambers's Journal published the recollections of Mrs Waters. The writer leaves her northern-English town unnamed, apart from an initial.
+
+::: S014 | Two labelled source blocks keep Manchester and unnamed town separate. [note: Different accounts] [still]
+We cannot turn her into our Manchester worker. What follows is her reported story, illustrated rather than independently verified.
+
+::: S015 | Earlier-career Waters in middle age,husband supported in bed,plain room; no injury reenactment or diagnosis. [pose: glance-nervous 0.8,0.94 0.6] [note: Waters' account · career dates unspecified] [zoom-out]
+She said her husband injured his back at the foundry and could no longer work. The household needed another way to earn.
+
+::: S016 | Waters listening to an adult visitor near doorway; no mouth bubbles or invented written contract. [same-as: S015] [pan-right]
+An opportunity came through somebody wanting an early start. He offered to pay her to wake him at three.
+
+::: S017 | Small workroom adjoining bedroom,designer at wooden desk with blank sheets; predawn light and plain lamp. [zoom-in]
+This was not simply another factory worker rushing for the same bell. She described him as a man doing design work.
+
+::: S018 | Designer asleep in bed,desk visible beyond; no readable drawings or text. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S017] [pan-left]
+He said quiet mornings suited him. Unfortunately, good intentions the evening before did not reliably produce an awake designer.
+
+::: S019 | Sleeping adult,small indistinct period clock on shelf; no modern twin-bell object or ringing animation. [note: Reported by Mrs Waters] [same-as: S017] [zoom-out]
+According to Waters, he could sleep through an alarm, or wake and drift off again before it finished making its noise.
+
+::: S020 | Same customer's sash window from outside,Waters below carrying rod; keep house geometry distinct from generic window scene. [same-as: S017] [pan-right]
+The purchase was therefore quite specific: another person would come to the house and make getting up harder to postpone.
+
+::: S021 | Waters begins round through compact brick lanes; a few distinct upper windows; no thirty cloned figures. [note: Waters' reported first-year growth] [zoom-in]
+She accepted. And she said that within a year she had thirty customers, most needing her between five and six.
+
+::: S022 | Adult worker acknowledges from one window while another house remains dark; no universal factory whistle. [same-as: S021] [pan-left]
+One unusually early customer had opened a door into a wider market. Other people also needed help keeping their morning promises.
+
+::: S023 | Wet rod held steadily by Waters,upper window lit faintly from interior; her ordinary clothes subdued. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S003] [zoom-out]
+The useful part was a person prepared to be outside while the customer stayed warm inside.
+
+::: S024 | Several neighbouring dark bedroom windows surrounding target; rod lowered before next demonstration. [same-as: S003] [pan-right]
+But making the loudest possible noise is surprisingly bad business when you wake a whole round of customers.
+
+## Why the window mattered
+::: S025 | Illustrative earlier method:Waters hand near door knocker,rod absent; quiet daylight explanatory reconstruction. [note: Earlier method described by Waters] [same-as: S003] [zoom-in]
+Waters described an earlier method: knocking or ringing at the front door. It could wake the person who had paid you.
+
+::: S026 | Adjacent upstairs adult faces reacting to door disturbance; restrained annoyance,not slapstick mob. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S003] [pan-left]
+It could also wake the neighbours, who had paid nothing. Some did not want your service at any price that morning.
+
+::: S027 | Simple three-house schematic:paid centre,unwanted/free neighbours; clearly explanatory diagram. [note: Explanation from Waters' account] [still]
+Neighbours were disturbed, while the knocker-up was accidentally providing several households with a free wake-up call.
+
+::: S028 | Return to rod method,Waters below target upper-left window; rod straight and physically reaching pane. [same-as: S003] [pan-right]
+A fishing-rod-like wand offered a targeted approach: tap the bedroom window close to the sleeper you actually mean.
+
+::: S029 | Single slender rounded tip lightly touching outside of intact sash pane; no crack or penetration. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S003] [zoom-in]
+The trick was contact at the right window. This was tapping glass, not smashing it, and certainly not poking through it.
+
+::: S030 | Adult standing by window,hand raised toward pane; no disembodied hands or sound lettering. [same-as: S003] [pan-left]
+Then came the useful bit: a reply. Waters remembered customers answering with a tap, footsteps, or a few words from the window.
+
+::: S031 | Exterior view,Waters looks up toward visible responding customer,rod lowered slightly. [same-as: S003] [zoom-out]
+A clock can finish while you fall asleep. A person outside can notice whether anybody has answered.
+
+::: S032 | Two-stage local diagram with tap icon and reply icon; no modern phone. [pose: closeup-thoughtful 0.8,1.02 0.82] [still]
+Sending a signal is easier than knowing somebody has acted on it. The reply makes a difference.
+
+::: S033 | Customer gives small friendly nod through opened upper sash after tapping ended; Waters smiles slightly. [same-as: S003] [zoom-in]
+The relationship could be pleasant. Waters said a friendly greeting made a difference after several bad-tempered customers had already answered her.
+
+::: S034 | Different customer's curt adult expression at neighbouring window; Waters steps away calmly; no alcohol caricature. [note: One customer in Waters' recollection] [same-as: S003] [pan-left]
+It could also wear thin. She remembered giving up one regular payer because he was repeatedly insulting when she woke him.
+
+::: S035 | Waters turns along lane,rod resting at shoulder; empty customer window behind. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S021] [still]
+Payment apparently did not buy an unlimited right to abuse the person delivering the service. She could stop coming.
+
+::: S036 | Lane branches into short passage and longer street; clear walkable paths,no exact invented map. [same-as: S021] [pan-right]
+But once dozens of people depend on you, how do you get around before everybody is late?
+
+## The route and the price
+::: S037 | Many distinct small terraces recede into distance; woman follows lane,not eighty rendered people. [note: Reported scale,not an audited register] [same-as: S021] [zoom-in]
+Waters said her round grew to around eighty houses, sometimes more. Those figures are her recollection, not a surviving customer database.
+
+::: S038 | Waters passes through same short brick passage toward next house; no impossible teleportation. [same-as: S021] [pan-left]
+Her explanation was organization: learn shortcuts, keep moving, and get good at rousing people without lingering beneath one window.
+
+::: S039 | Hypothetical map with two separated houses and one worker marker; no historical street names. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Illustrative scheduling problem] [still]
+Two distant customers cannot both receive your personal attention at exactly the same instant.
+
+::: S040 | Two house windows at visibly different distances,Waters foreground; no model-drawn timetable. [same-as: S021] [pan-right]
+So a list of addresses is not enough. Timing and distance matter, and they appeared in the prices she described.
+
+::: S041 | Designer at window acknowledges Waters; small blank coins in hand at doorway inset not required. [note: Her personal weekly rates] [same-as: S017] [zoom-in]
+Her very first customer offered half a crown a week. Once other early customers joined, she said she reduced his charge.
+
+::: S042 | Earlier/later weekly comparison without inflation equivalent. [note: Waters' account] [still]
+The point was not one fixed price for everybody. An awkwardly early call could cost substantially more than a later one nearby.
+
+::: S043 | Two large local time/price rows; no coin faces generated. [note: Waters' rates,not a national tariff] [still]
+Before four, she reported charging eighteenpence a week. Soon after four, the price was a shilling. These were weekly charges.
+
+::: S044 | Single readable rate band with large numerals,small source label; no tiny full table. [note: Waters' reported weekly rates] [still]
+Between five and six, she described charges ranging from sixpence down to threepence, depending on the time and the distance.
+
+::: S045 | Later predawn scene with more windows softly awake; designer house not cloned into every shot. [same-as: S021] [zoom-in]
+Most customers were in that cheaper group. The especially early designer was not the standard customer.
+
+::: S046 | Worker getting coat on by door after window call; no invented wage number. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S003] [pan-left]
+A small recurring payment could reduce the risk of a much worse morning.
+
+::: S047 | Adult workers walking purposefully down lane after round; not frantic uniform crowd. [note: Loss for lateness described in the account] [same-as: S021] [zoom-out]
+Waters described clients worrying about losing money for lateness. A missed start could make the wake-up service look like money well spent.
+
+::: S048 | Waters at plain household table with a few unmarked coins and closed blank notebook. [same-as: S015] [pan-right]
+But a price list does not collect itself. Once everybody is awake, you still have to get paid.
+
+## The second half of the business
+::: S049 | Saturday daylight,customer handing unmarked coins across table to Waters; no giant coin or modern till. [note: Waters' recollections] [same-as: S015] [zoom-in]
+She said most payments came on Saturdays. Some customers called at her house; others left money with people she appointed.
+
+::: S050 | Waters calmly gestures toward unpaid blank notebook,customer listens; no aggressive debt collector pose. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S015] [still]
+For slow payers, her warning was direct: fall behind, and you might find yourself allowed to oversleep one morning.
+
+::: S051 | Quiet repeat view of familiar paying houses,Waters pauses at junction. [same-as: S021] [zoom-out]
+That was leverage only because the customers valued the service. It depended on their needing her again next week.
+
+::: S052 | Waters gently declines coins from tired adult neighbour; no fabricated children or specific disease. [same-as: S015] [pan-right]
+She also claimed exceptions for people struggling with sickness or large families. Her account includes judgement, not just a tariff.
+
+::: S053 | Anchor shop shelves with plain brushes,unlabelled blacking containers,metal pots and pans; Waters left counter. [pose: look-around 0.8,0.94 0.6] [zoom-in]
+And the morning round was not her only business. After she began knocking up, Waters opened a shop.
+
+::: S054 | Simple orderly shelf of brushes and metal household pans,no food or labels. [same-as: S053] [pan-left]
+She sold practical household goods, including brushes, blacking, pots and pans. They did not need selling before they spoiled.
+
+::: S055 | Customer exchanges coins for brush at counter,one clear transaction. [same-as: S053] [zoom-out]
+She explained that choice in business terms: little perishable stock, less worry about changing fashions, and customers bringing money.
+
+::: S056 | Waters works at shop in daylight,same muted clothes with shawl set aside on peg. [same-as: S053] [pan-right]
+Her shop and her waking round could fit into different parts of the day. That does not mean the day was easy.
+
+::: S057 | Waters' hands arranging stock with tired but composed expression; no heroic glow. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S053] [zoom-in]
+She said she did not sleep during the day because she had a shop to mind. Hold that thought.
+
+::: S058 | Evening household with small warm lamp,bed and table,husband resting. [same-as: S015] [pan-left]
+How much night remained once she had finished everything else? We will come back to that.
+
+::: S059 | Two adult sisters at small room table,one mending garment,other tidying; modest warm light. [zoom-out]
+For now, there is another mistake to avoid. Customers who struggled to wake were not necessarily people with nothing to do.
+
+::: S060 | Same two adult sisters finishing mending in small rented room; respectful ordinary setting. [same-as: S059] [pan-right]
+Waters remembered two sisters whose evenings help explain why somebody might need a knock after a night's sleep.
+
+## What happened before bedtime
+::: S061 | Daylight room with two adult sisters returning in simple working clothes; no invented factory machinery. [note: Two customers in Waters' account] [same-as: S059] [zoom-in]
+The sisters worked at a mill, she said. They had saved enough to take and furnish a room together.
+
+::: S062 | One sister stitches plain fabric,other folds clothes; small sewing tools historically simple. [same-as: S059] [pan-left]
+That room also needed cleaning, and their clothes needed mending. Some of the work continued after the paid working day.
+
+::: S063 | Sisters set mending aside and approach bed area; no underwear or intrusive sleeping view. [same-as: S059] [zoom-out]
+They went to bed tired and sometimes late. A missed morning could follow an evening spent keeping ordinary life together.
+
+::: S064 | Quiet room with completed mending on chair,soft late light,Visitor small at safe right foreground. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S059] [still]
+It is easy to make the human alarm clock into a joke. The workload behind the service is less funny.
+
+::: S065 | Daylight Sunday illustration,Waters at table with adult sisters and three plain teacups; not daily round. [note: Sunday visit recalled by Waters] [same-as: S059] [zoom-in]
+Waters recalled these customers warmly. They greeted her kindly, insisted on paying, and sometimes invited her for Sunday tea.
+
+::: S066 | Waters exchanges relaxed smile with one sister across tea table. [same-as: S059] [pan-left]
+That was a different relationship from the angry customer at the window. The same service could produce very different mornings.
+
+::: S067 | Friendly customer recognises Waters at usual window; no source-text speech bubble. [same-as: S003] [zoom-out]
+It also complicates the idea that this was just a person behaving like a machine. Customers knew who was coming.
+
+::: S068 | Waters carrying wand through familiar lane,small pouch at waist,wet stone underfoot. [same-as: S021] [pan-right]
+The job included remembering people, collecting payments, finding routes, and putting up with the weather. The tapping was the visible part.
+
+::: S069 | Older Waters speaking with interviewer,blank notes on his lap; illustrative not literal transcript. [note: A mediated recollection] [same-as: S006] [zoom-in]
+Even her account of success needs care. It is a story told by a retired worker through an anonymous writer.
+
+::: S070 | One reported experience and competition caution,not earnings chart. [note: Chambers's Journal,closing note] [still]
+The article's closing note warns that competition had grown. Her reported results were not a promise for anybody picking up a stick.
+
+::: S071 | Return to Waugh's male worker going home in dawn drizzle; obvious different person from Waters. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Back to Manchester,1862] [same-as: S001] [zoom-out]
+Nor should one woman's schedule become a rule for the whole trade. Our Manchester observer had already shown a different pattern.
+
+::: S072 | Daylight Waters opens modest shop shutters; no Manchester geographic label. [note: Waters' separate recollection] [same-as: S053] [pan-right]
+The Manchester knocker-up was heading to bed. Waters had a shop to open after her round.
+
+## Who woke the person waking everyone else?
+::: S073 | Elderly Waters thoughtful in interview room; no infinite clones. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S006] [zoom-in]
+Who woke her? The account answers without leaving us with an endless chain of knockers-up.
+
+::: S074 | Simple reported overnight interval; no health claim or literal captured timepiece. [note: Waters' reported routine] [still]
+Waters said she went to bed at nine, except on Saturdays, and got up again at half past two.
+
+::: S075 | Dark short lane to first customer; Waters walking purposefully,not sprinting. [same-as: S021] [zoom-out]
+Her earliest customer lived about twenty minutes away and wanted waking at three. There was not much spare morning to lose.
+
+::: S076 | Younger-career Waters asleep,husband awake in nearby bed area,small period clock indistinct on shelf. [same-as: S015] [pan-right]
+But when she was younger, she said, she slept heavily after her active days. Habit alone was not the original solution.
+
+::: S077 | Husband gently wakes Waters without standing or showing miraculous recovery; clock remains small,unlabelled. [pose: eyebrow-raise 0.8,0.94 0.6] [note: Husband AND alarm · Waters' account] [same-as: S015] [zoom-in]
+Her husband woke her. And she explicitly credits an alarm as well. The human alarm service could depend on an alarm.
+
+::: S078 | Three linked roles:clock,household help,paid caller; restrained schematic. [note: Interpretation from the account] [still]
+That detail matters. These were overlapping ways to manage time, not a neat world of humans suddenly replaced by machines.
+
+::: S079 | Later-career Waters awake alone at early dark window,same room with empty bed space; quiet respectful mood. [same-as: S015] [zoom-out]
+She said that after several years she began waking naturally, which became important when her husband was no longer alive.
+
+::: S080 | Older Waters at interview table,plain background; source label prominent. [note: One person's reported routine] [same-as: S006] [pan-right]
+That is her experience, not advice to train yourself out of needing sleep, and not an explanation for every knocker-up.
+
+::: S081 | Earlier household phase,Waters offers plain teacup to resting husband; explicit return to earlier routine. [note: Earlier part of her recollection] [same-as: S015] [zoom-in]
+She also remembered making tea for her husband after the earliest call. Paid work and care occupied the same small hours.
+
+::: S082 | Earlier household overview with both adults,small fire and table; no medical claim. [same-as: S015] [pan-left]
+Read the account closely and the clever waking trick turns into a household working out how to support itself.
+
+::: S083 | Waters tidies shop beside doorway into small living room,daylight. [same-as: S053] [zoom-out]
+There is a business outside the window. There is another set of responsibilities waiting for its owner back inside.
+
+::: S084 | Wet paving,Waters' modest shoes and rod bottom,coat hem above puddle; no severe distress. [same-as: S021] [pan-right]
+None of this made a cold, wet street feel like an extra hour under the blanket.
+
+## A small job holding up a morning
+::: S085 | Winter slush and drizzle on same lane,Waters dressed warmly in muted shawl,rod controlled. [note: Weather in Waters' recollection] [same-as: S021] [zoom-in]
+Rain and wind were among the difficulties Waters remembered most sharply. Slushy streets made a working round less charming than its postcard version.
+
+::: S086 | Older Waters hands wand to ordinary adult male neighbour in plain coat; neither in ceremonial uniform. [note: Reported retirement] [same-as: S021] [pan-left]
+When she retired, she said, she passed the knocking-up work to a neighbour who needed it.
+
+::: S087 | Neighbour takes place below familiar window in illustrative transfer; no exact recorded address. [same-as: S003] [zoom-out]
+A route was more than a stick. It meant customers who expected someone, at a particular window, at a particular time.
+
+::: S088 | Return to simple paired concepts,not full source wall. [pose: closeup-thoughtful 0.8,1.02 0.82] [still]
+That is why the service makes more sense once we stop treating it as proof that Victorian people had no clocks.
+
+::: S089 | Awake adult at window replies to caller below,visually clear two-person exchange. [same-as: S003] [zoom-in]
+Some needed help waking. Some needed an answer demanded from the street. The account describes a market built around those ordinary failures.
+
+::: S090 | Waters moves toward next house through lane,quiet predawn light; no unearned all-city panorama. [same-as: S021] [pan-left]
+Its providers made their own calculations about time, distance, payment, family, and the next working day.
+
+::: S091 | Same opening man and coffee stall; dawn drizzle and few pedestrians,consistent geometry. [note: Manchester,1862 · Waugh,ch.IX] [same-as: S001] [zoom-out]
+Back in Waugh's Manchester, the coffee stalls are closing and the man with the long wand is going home.
+
+::: S092 | Two source cards with dates,clearly separate; no city conflation. [note: Sources describe different people] [still]
+We cannot give every knocker-up his schedule, or give every customer Mrs Waters' prices. These are particular windows into the work.
+
+::: S093 | Male worker recedes toward own modest door as another adult leaves house for work. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [zoom-in]
+But together they show something easily missed: one person's start to the day could be the result of somebody else's labour.
+
+::: S094 | Rod tip lowered beside window after acknowledged call; caller partially visible below. [same-as: S003] [pan-left]
+The customer might remember a few taps on the glass. Behind those taps were a route, a payment, and another tired person.
+
+::: S095 | Customer answers window while caller waits,Visitor listening quietly on right. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S003] [still]
+So the next time an alarm rings, consider the alternative: someone outside, already dressed, waiting for you to prove you are awake.
+
+::: S096 | Final warm window and caller departing into cool lane; open calm right side for endscreen,not overt sentimental glow. [same-as: S003] [pan-right]
+The noise was the smallest part of the service. The expensive part was having another human being care whether you got up.

@@ -1,0 +1,21 @@
+{
+  "status": "director_selected",
+  "entries": [
+    {
+      "term": "Waugh",
+      "say": "WAW",
+      "note": "Edwin Waugh,surname rhymes with law."
+    },
+    {
+      "term": "Chambers",
+      "say": "CHAYM-berz",
+      "note": "The periodical."
+    },
+    {
+      "term": "knocker-up",
+      "say": "NOCK-er UP",
+      "note": "Clear pause around first explanation; do not turn into a running innuendo."
+    }
+  ],
+  "rule": "Read naturally; use modern alarm pronunciation in narration even when source spells alarum."
+}

@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "Visitor is a modern observer. No invented Indigenous costume, regalia or trader uniform. Keep the orange hoodie visually secondary.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Same face, skin, hair and proportions; separate approved composited poses. Historical locals need restrained regional clothing references, not national costume shorthand."
+}

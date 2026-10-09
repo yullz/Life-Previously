@@ -1,0 +1,1300 @@
+{
+  "id": "13",
+  "slug": "australia-voyage-1854",
+  "title": "You Move to Australia in 1854. What Is the Voyage Like?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "Three Months at Sea Before Your New Life Begins",
+    "Your New Life in Australia Starts on This Ship"
+  ],
+  "period": "Main setting: aboard the Marco Polo,Liverpool-to-Melbourne voyage,July–October1854,under Captain William Wild. Three-masted wooden full-rigged merchant sailing ship,not an ocean liner or pirate vessel; shore steam tug only near departure. Dark wooden hull,long bowsprit,square sails and plausible rigging; no smokestack on Marco Polo. Exact above/below-deck interior layout is illustrative,not a recovered1854plan. Ordinary British emigrant clothing of1854: muted coats,waistcoats,shirts,trousers,wool dresses,shawls,bonnets; no bustle/Edwardian dress. Captain plain dark coat and restrained maritime dress,not tricorn/admiral costume. Separate first-cabin saloon,third-cabin shared sleeping area,open working deck; do not make all passengers first class. Chronology: July departure,early-August routine/squall,mid-August ball and calm,September delay,October final paper and arrival. Quiet respectful treatment of deaths,no falling-body or childbirth spectacle. Visitor modern normal clothes separately composited.",
+  "avoid": "No CaptainForbes or1852record passage transplanted into1854,no steam engine/funnel onMarcoPolo,no SuezCanal route,no SS GreatBritain/Ascutna/Titanic interiors,no twentieth-century linerrailings/lifeboats/electriclights,no modern flags/maps/posters,no exact65/68/93/95dayclaim before source resolution,no daily menu from whole-ship inventory,no passengers shackled for first open-flame warning,no all-class champagne banquet,no air-conditioning/fridge/shipradio,no invented childbirth diagnosis,gore,visible drowning or theatrical funeral,no empty/discoveredAustralia myth,no printedgibberish,no reusedpirateepisodebackground.",
+  "locations": {
+    "dock": {
+      "scope": "Liverpool,July1854",
+      "frame": "illustrative departure scene",
+      "design": "Merseyside working waterfront with stone quay,brick warehouses,rope coils,luggage trunks and Marco Polo's dark wooden hull alongside; steam tug separate and visibly smaller. Adult emigrants in muted1854clothes."
+    },
+    "shipwide": {
+      "scope": "Marco Polo,1854voyage",
+      "frame": "historical ship reconstruction; portrait reference pending visual audit",
+      "design": "Three-masted wooden full-rigged merchant sailing ship,black/dark-brown hull,pale trim,long bowsprit,three distinctmastbases and connected stays; no steam funnel. Sea state/weather specified per shot; all later changes preserve hull and mast positions."
+    },
+    "deck": {
+      "scope": "Aboard Marco Polo,July–October1854; scene dates specified",
+      "frame": "illustrative working-deck geography",
+      "design": "Timber deck,central mast with secured rope coils and cleats,low solid bulwark on left,rear raisedpoop accessed by steps; deck hatch at leftrear. Clear foregroundfootingright; nobody seated on another person'slegs."
+    },
+    "thirdcabin": {
+      "scope": "Marco Polo,1854; ordinary shared accommodation",
+      "frame": "illustrative period quarters,not exact measuredshipplan",
+      "design": "Low timber beams,shared wooden bunkrows alongside hull,tied personaltrunks,modest bedding,clear narrowaisle; dim natural light fromhatch/ventilator,not totalblackness. No bareflame exceptexplicit unsafeexample,never Visitorholdingcandle."
+    },
+    "saloon": {
+      "scope": "Marco Polo,1854; first-cabin area",
+      "frame": "illustrative cabin interior",
+      "design": "Modest timber saloon with longfixedtable,benches/chairs,restrainedpanelling,corridor tosmallcabins; morecomfortablethanthirdcabin butnot1912luxuryliner. No huge ballroomstairs."
+    },
+    "printroom": {
+      "scope": "Marco Polo Chronicle onboardprinting,1854",
+      "frame": "printingoffice described innewspaper; exactroom/pressmodelunknown",
+      "design": "Small securetimberworkspace withcompact manual nineteenth-centuryprintingpress,typecase,inkroller,blanktwo-pagesheets andpaperstack; no motor/modernprinter/giantindustrialpress. Exactletteringcompositedlocally."
+    },
+    "washdeck": {
+      "scope": "Marco Polo,earlyAugust1854",
+      "frame": "washing arrangement fromAugust5notice",
+      "design": "Sameworkingdeckstructures butclosearea withtwo washbasins,smallbucket andsecuredlaundryline clearofrigging; ordinary adults handwashing modestclothes. No electricalwashingmachine.",
+      "anchor_reference_scene_id": "S003"
+    },
+    "stores": {
+      "scope": "Marco Polo,September1854inventory ofvoyage stores",
+      "frame": "illustrative stowage,not measuredholdplan",
+      "design": "Woodenbarrels securedwithropes,plainfloursacks,boxes ofpreservedfood,clearpassage underbeams; no engravedlabelsor giantfooddisplay representing oneperson'sration."
+    },
+    "livestock": {
+      "scope": "Marco Polo,1854provisions",
+      "frame": "illustrative livestockcontainment,notexactdecklayout",
+      "design": "A few sheep/pigs inpens securedonappropriatepartofwoodendeck,separatefrompassengers,spaceclear; representlistedlivestockwithoutdrawingeveryanimal or universalmenu.",
+      "anchor_reference_scene_id": "S003"
+    },
+    "ball": {
+      "scope": "Marco Polo,14August1854first-cabin fancy-dressball",
+      "frame": "Reported event; frame the band and ordinary formally dressed guests,without inventing named costume likenesses",
+      "design": "Samewoodendeck/quarterdeckwithsmallbandarea,severaladultcouples in1850seveningdress,dancinginsafeopenarea; no sea-facinghammockdance,modernstage/spotlights/universalaccessclaim. Modest festivecolours,notgiantcostumecarnival.",
+      "anchor_reference_scene_id": "S003"
+    },
+    "sickroom": {
+      "scope": "Marco Polo,1854; medicalcare describedinnotices",
+      "frame": "illustrative deckhospital,notexactplan",
+      "design": "Smalltimberroomwithsinglecot,plainlinen,doctorinordinary1850scoat,waterjug andstool; no modernwhitecoat/stethoscopebag/anatomicalintervention."
+    },
+    "arrival": {
+      "scope": "Port Phillip/Melbourne,lateOctober1854",
+      "frame": "illustrative arrivalanchorage,not exactlandingtime",
+      "design": "Baywithwoodensailingvesselsatanchor,lowcolonialshorebuildings,hillsandworkingboats; noSydneyOperaHouse/modernMelbourneskyline/currentStationPierterminal. Watercolour-likeflatcartoonstyleconsistent."
+    },
+    "editorial": {
+      "scope": "Modern explanatorygraphic",
+      "frame": "datedprimaryevidence,sourcecomparisonorschematic",
+      "design": "Shortreadableparchmentcards withlocallytypeset dates/headings; mapifusedschematicAtlantic→southofAfrica→IndianOcean→PortPhillip,noinventedexactlogtrack."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "The Marco Polo Chronicle,secondseries,tenissues29July–14October1854,StateLibraryVictoria",
+      "url": "https://handle.slv.vic.gov.au/10381/245632",
+      "text_url": "https://rosetta.slv.vic.gov.au/delivery/DeliveryManagerServlet?dps_func=stream&dps_pid=FL4381761",
+      "read": "2026-10-09: PDF22pagesindexed; selectedoriginalpassagesread: p1editorial/departure,p2stowaways,p3–4squall/notices/washing/medical/open-flamewarning,p6balladvert,p7–8ball/calm,p12population,p14stores,p19finalpaper/captain/deaths. OCRdateerrors1851/1854notadopted; visualscanconfirmationstillrequiredbeforeexactsourcecardquotation.",
+      "limit": "Onboardpaper backedbyowners,promotionaltone andclassbias; notrepresentativeindependentpassengersurvey. PublicdomainperSLVrights. Inventoryiswhole-shipandroughfigures,notdiet. Threatenedpunishment forrepeatflameoffence,notimposed. Unreadpassages/poetrynotnewfacts.",
+      "public": true
+    },
+    {
+      "id": "SRC02",
+      "title": "StateLibraryVictoria,PaulDee,LiverpooltoMelbourne:thenewspaper(2019)",
+      "url": "https://blogs.slv.vic.gov.au/such-was-life/liverpool-to-melbourne-the-newspaper/",
+      "read": "2026-10-09: completearticle read andkeyclaimscross-checkedagainstnewspaper.",
+      "limit": "Arrival/departuresummaryonlywhereprimaryarrivalnoticereadblocked.23Octoberarrivalreported,exactdurationnotused; originalwarningsupersedesloosersummary. Non-primaryillustrationstheblogusesfromotherdatesareNOT1854voyageevidence."
+    },
+    {
+      "id": "SRC03",
+      "title": "MuseumsVictoria,Journey toAustralia:1850s–70s",
+      "url": "https://museumsvictoria.com.au/immigrationmuseum/deep-dives/journeys-to-australia/",
+      "read": "2026-10-09:1850s–70slongjourney,sailingroutesandconditionssectionsread.",
+      "limit": "Broadperiodcontext,notMarcoPolo'spreciseberths,menu,routeorincidentlist. Do notimportlatersteamshipinteriors,1874diary,1878wreck,or1855polltaxinto1854trip. Noexactfirefatality/survivalodds."
+    },
+    {
+      "id": "SRC04",
+      "title": "BasilLubbock,TheColonialClippers(1921),MarcoPoloafter-life",
+      "url": "https://www.gutenberg.org/cache/epub/52897/pg52897-images.html",
+      "read": "2026-10-09: indexedMarcoPolo1852andafter-lifepassagesreadforcounter-check.",
+      "limit": "Latersecondarymaritimehistory; fourthoutwardvoyagelisted95days underWild,unlike simpleJul22→Oct23daycount. Do notclaimexactnumberofdays.1852Forbes68dayvoyageexplicitlydifferent.",
+      "public": true
+    },
+    {
+      "id": "SRC05",
+      "title": "MuseumsVictoria,TheFoundingofMelbourne,1835",
+      "url": "https://collections.museumsvictoria.com.au/articles/6775",
+      "read": "2026-10-09: completehistoricalnarrative read.",
+      "limit": "SupportsKulinCountryandcolonialdispossessioncontext,notexact1854familyencounter. No populationcollapsefigurefromsinglequotedcolonialobserverused."
+    },
+    {
+      "id": "SRC06",
+      "title": "ThomasRobertson,MarcoPolo,StateLibraryVictoria H306",
+      "url": "https://handle.slv.vic.gov.au/10381/132534",
+      "read": "2026-10-09: catalogueidentity andSLVblogattributionlocated; paintingnotyetvisuallyinspected.",
+      "limit": "Visualreferencependingdirectorinspection. Do notclaimexact1854interiorplanfromportrait. Imagepreviewhttps://blogs.slv.vic.gov.au/wp-content/uploads/2019/02/MarcoPolo-1024x688.jpg"
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "claim": "Second-personexperience,emotionalquestions and reconstructedordinarypassengersareframing,notnewnamedhistoricaltestimony.",
+      "type": "F",
+      "sources": [
+        "SRC01",
+        "SRC03"
+      ],
+      "locator": "Episodeframing",
+      "limit": "Noinventedfare,exactberthmeasurements,medicaldiagnosisoractualarrivalemployment."
+    },
+    {
+      "id": "C1",
+      "claim": "ThisMarcoPolovoyageleftLiverpoolJuly1854underWilliamWild andarrivedMelbournelateOctober; distinctfromForbes1852record.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC04"
+      ],
+      "locator": "July29p1–2departure,October14p1captain,SLVarrivalparagraph,Lubbockafter-life",
+      "limit": "Noexactelapseddaynumberor1852speedclaim."
+    },
+    {
+      "id": "C2",
+      "claim": "TheChroniclewasprintedaboard,freecopiesdistributed;completecollectionofferedforoneshilling; openingeditorialpraisesownersandship.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "July29p1,ToOurReaders",
+      "limit": "Ownersupportedpaper,notneutralvoiceofallpassengers. Printingpressmodelandroomunknown."
+    },
+    {
+      "id": "C3",
+      "claim": "JosiahThomas,reportedabout18,wasfoundstowedaway; plannedreturnbytugavertedwhenasecond-cabinpassengerrelinquishedberthto returntofamily; captainconsented.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "July29p2,A FortunateStowaway",
+      "limit": "Paper'saccount. Handcuffsdisplayedbutnotused; nofalseclaimstowawayrewardpolicyorordinaryfreepassage."
+    },
+    {
+      "id": "C4",
+      "claim": "Thepaperdistinguishesfirst,secondandthirdcabins; September2populationentrylists42first-cabinpassengersoutof651initialpassengers.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "September2p2/PDF12,Population",
+      "limit": "Avoidexactnumericnarrationuntilscanconfirmed; broadminoritycomparisonvalid. Captain/crewseparatefrompassengers."
+    },
+    {
+      "id": "C5",
+      "claim": "Cheaper sharedaccommodation in1850ssailingmigrationcouldbecramped;MarcoPolo'sthirdcabinandberthreferencesconfirmaccommodationdifferencesbutnotexactplan.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC03"
+      ],
+      "locator": "August5p2nakedlightberth;MuseumsVictoria1850sconditions",
+      "limit": "Periodillustration,labelnoexactrecoveredlayout; no1852fittingsassumedunchangedafterrefit."
+    },
+    {
+      "id": "C6",
+      "claim": "August5noticesdesignatedMonday/Thursdaywashing,cleararticlesbefore11am,andhospitalattendance11am/4pmwithemergencyexceptions. August5relative-healthnotice contrastsAugust12diarrhoeareport; do notadoptcontemporarycauseattributiontomereheat.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "August5p2,WashingDays/MedicalNotice; August12p2medicalreport",
+      "limit": "Thisvoyage'snotice,notallshiprule; noactualpatienttreatmentinvented."
+    },
+    {
+      "id": "C7",
+      "claim": "September9storeslistincludedbread,beef/pork,flour,rice,oatmeal,preservedfoods,sheep,pigs andpoultry;roughwhole-shipfigures.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "September9p2/PDF14,Provisions",
+      "limit": "Notonepassenger'sdiet,dailyallowanceorproofeveryoneatefirst-cabinmenu. Omit questionablehugeprinted/OCRmolassesquantity."
+    },
+    {
+      "id": "C8",
+      "claim": "August19paperdescribesseveralcalmdaysafterballwithlittleprogress;SeptemberandOctoberreportscontinuedlightwinds/delay.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "August19p1,September23p1,October14p1",
+      "limit": "No claimentirecrossingcalm;early squall andlaterroughseaexist. Flatcalmcanstillhaveswell."
+    },
+    {
+      "id": "C9",
+      "claim": "Passengersorganizedmusic,reading/lectures andfirst-cabinfancydressballAug14;paperreportsdancinguntil5am;lost-propertynoticesincludeboy'sbluecoat.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "July29p2;August5p2;August12p2advert;August19p1–2;September2p1bluecoatnotice",
+      "limit": "Notallpassengersattendedtheballorhadsameaccess. Non-periodcostumesinreportedballnotneededforVisitor."
+    },
+    {
+      "id": "C10",
+      "claim": "Athird-cabinpassengerwaswarnedaboutanakedlight;captainsaidrepeatcouldbring48hoursinironsandbread/water.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "August5p2,NakedLights",
+      "limit": "Threatenedexamplepunishment,notadministeredthistime. No imagesofactualchainingforfirstwarning."
+    },
+    {
+      "id": "C11",
+      "claim": "FinalpaperreportsdeathsofMrsLangfordandinfantandWilliamGoreTipperfallingoverboardinroughsea.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "October14p1–2",
+      "limit": "Noinventedmedicalcause,fallreconstruction orvisualgore; reportingnotuniversalvoyagemortalityrate."
+    },
+    {
+      "id": "C12",
+      "claim": "Paperbudgetplannedfor10issues;after9,theydelayedfinalissue3weeksbecausevoyagestillhadfartogo. October14finalstillshortofport.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "October14p1,LastoftheChronicles",
+      "limit": "Notshipranoutofallfood;notprinterfailure;theysavedpaperforlastissue."
+    },
+    {
+      "id": "C13",
+      "claim": "MelbournewasacolonialcityonKulinCountry;settlementdisplacedFirstPeoplesandrestrictedaccesstoland/resources.",
+      "type": "E",
+      "sources": [
+        "SRC05"
+      ],
+      "locator": "Openingandparagraphonforceddispossession",
+      "limit": "Nofabricated1854encounterorclaimCountrywasempty. Keeparrivalcontextbriefbutaccurate."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "One passenger wants on. Another wants off.",
+      "scenes": [
+        [
+          "Liverpool, eighteen fifty-four. Your new life is in Australia. Unfortunately, the next part of your life is on this ship.",
+          "C0,C1",
+          "dock",
+          "wide",
+          "MarcoPolo atworkingquay,emigrantadults withwoodentrunks,smallersteamtugnearby; shipsdistinct.",
+          "look-around",
+          "Liverpool,July1854"
+        ],
+        [
+          "You are aboard the Marco Polo, under Captain William Wild. By the time you reach Melbourne, it will be late October.",
+          "C1",
+          "shipwide",
+          "wide",
+          "Fullthree-mastship departingMerseywithsmalltugseparate,towlineplausible,no steamfunnelonsailingvessel.",
+          null,
+          "MarcoPolo · WilliamWild ·1854voyage"
+        ],
+        [
+          "You must share space, follow rules, eat, sleep, wait, and discover which strangers become difficult neighbours.",
+          "C0,C5,C6",
+          "deck",
+          "wide",
+          "Passengersquietlysettleonworkingdeck besideclosedtrunks; simple groupsnotcrowdduplication.",
+          null
+        ],
+        [
+          "Before the voyage settles, the ship's newspaper reports a drama: somebody has hidden aboard without a berth.",
+          "C3",
+          "deck",
+          "medium",
+          "OfficerapproachesyoungadultJosiahnearhatch,ordinaryclothes,no chains; nochildappearance.",
+          null,
+          "Chronicle,29July1854"
+        ],
+        [
+          "His name is Josiah Thomas, described as about eighteen. He has tried to obtain a free passage by stowing away.",
+          "C3",
+          "deck",
+          "close",
+          "YoungadultJosiahseatedonsturdyhencoop,anxiousbutnotcomiccriminal,officeraside.",
+          "closeup-worried"
+        ],
+        [
+          "The plan is to send him back on the tug. Some passengers collect money so he will not return penniless.",
+          "C3",
+          "deck",
+          "medium",
+          "Adultpassengers quietlyoffercoins whileJosiahwaits,tugvisiblebelowbulwark; noboardingyet.",
+          null
+        ],
+        [
+          "Then another passenger makes a very different request. He wants to go back to Liverpool and the family he left behind.",
+          "C3",
+          "deck",
+          "medium",
+          "Secondadultmaninplaincoat speakswithCaptainWild,closedtrunkbesidehim,Josiahbackgrounddistinct.",
+          null
+        ],
+        [
+          "According to the paper, this man offers his second-cabin berth to Josiah. The captain agrees to the unusual exchange.",
+          "C3",
+          "deck",
+          "wide",
+          "Captainbetweenbothadultmen,onegesturingtowardtug,otherlistening; no legalcontracttextpainted.",
+          null
+        ],
+        [
+          "One person leaves, and another gets to continue. It is a neat reversal at the beginning of a very long journey.",
+          "C3,C0",
+          "dock",
+          "wide",
+          "Explicitnear-departureshorecontext:smalltugtakesreturningadultawayfromlargership,no finalMelbournebuildings.",
+          null
+        ],
+        [
+          "A berth is a place in a tightly organized floating community. Josiah now has one.",
+          "C0,C3,C4",
+          "thirdcabin",
+          "wide",
+          "Ordinarysharedwoodenberths andsecuredtrunks,adultsarrangingmodestbedding,clearaisleright.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Getting aboard is the first problem. For those staying, the harder question is how to live aboard until land appears.",
+          "C0",
+          "thirdcabin",
+          "medium",
+          "Passengertriesfitclosedtrunkunderbunkwithoutblockingaisle; no impossiblecrossedlimbs.",
+          null
+        ],
+        [
+          "And there is no single answer, because the same ship contains more than one kind of passenger experience.",
+          "C4,C5",
+          "deck",
+          "wide",
+          "Visualdepthshowsordinarypassengersmaindeckandfewbetterdressedfigureshigherpoop,not rigidinventedbarrier.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The same ship, different lives",
+      "scenes": [
+        [
+          "The Chronicle distinguishes first, second and third cabins. Its own passenger figures put only a small minority in the first cabin.",
+          "C4",
+          "editorial",
+          "graphic",
+          "Two proportionalbutnotexactnumericgroups,firstcabinminorityversusothers; no fabricatedpercentage.",
+          null,
+          "Chronicle,2September1854",
+          "FIRST CABIN: A SMALL MINORITY"
+        ],
+        [
+          "A comfortable saloon or splendid party cannot represent everybody's daily life aboard.",
+          "C0,C4,C9",
+          "saloon",
+          "wide",
+          "Modestfirst-cabinsaloon,fixedtableandfewwell-dressedadults,clearlynotgrandlinerdiningroom.",
+          null,
+          "Illustrative first-cabin area"
+        ],
+        [
+          "Cheaper shared accommodation leaves less personal space. People and possessions must fit together.",
+          "C5,C0",
+          "thirdcabin",
+          "wide",
+          "Samebunkroomwithseveraladultpassengers,smalltrunkssecured,nofantasizedexactplan.",
+          null,
+          "Period reconstruction · exact layout unknown"
+        ],
+        [
+          "Your neighbour's belongings cannot expand indefinitely, and neither can yours. A small inconvenience is harder to escape when the room moves with you.",
+          "C0",
+          "thirdcabin",
+          "detail",
+          "Twoadjacenttrunksandbootsbelowbunks,clearaisle; no visiblemesssohugeitblocksallmovement.",
+          "eyebrow-raise"
+        ],
+        [
+          "Going on deck changes the view. It does not make the other passengers disappear, or give the ship another destination.",
+          "C0",
+          "deck",
+          "wide",
+          "Passengersspreadthroughsafeopenspaces,onequietfigurelooksout,horizonbeyondbulwark.",
+          null
+        ],
+        [
+          "This is one reason the onboard newspaper is such a useful guide. It records a temporary society trying to organize itself.",
+          "C2,C6,C9",
+          "printroom",
+          "wide",
+          "Compactmanualpressroomandprinterhandlingblanktwo-pagesheet,smallpaperstack,typecase; sourcewordsaddedlater.",
+          null,
+          "TheMarcoPoloChronicle"
+        ],
+        [
+          "The source records what the paper reported, rather than how every passenger felt.",
+          "C2,C6,C9",
+          "printroom",
+          "detail",
+          "Severalblankbroadsidesatprinter'stable; localshortlabels beside ratherthanpaintedwords.",
+          null
+        ],
+        [
+          "Behind its cheerful voice are washing times, medical notices, complaints, and weather reports.",
+          "C2",
+          "editorial",
+          "graphic",
+          "Sourceparaphraseacknowledgespromotionalviewpoint,notfacsimile.",
+          null,
+          "Chronicle,29July1854,ToOurReaders",
+          "AN ONBOARD PAPER WITH A PROMOTIONAL VOICE"
+        ],
+        [
+          "It is an excellent source for what the paper reported, but not a neutral survey of how every passenger felt.",
+          "C0,C2",
+          "printroom",
+          "medium",
+          "Printerhandsoutpaper tosmallvariedadultgroup,expressionsnotallidenticalgrins.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Free copies circulate, while a complete set costs a shilling. The paper is printed aboard.",
+          "C6,C8,C10",
+          "deck",
+          "medium",
+          "Passengersreadblankpapersatdecktable,securednotlooseflyinglitter.",
+          null
+        ],
+        [
+          "The paper itself is printed aboard. Free copies circulate, while readers wanting a complete set can pay a shilling.",
+          "C2",
+          "printroom",
+          "detail",
+          "Printerplacesstackofblankcopiesbeside singlepaymentpouch; exactfeealocalcaption.",
+          null,
+          "Complete set:1shilling ·29Julyissue"
+        ],
+        [
+          "For now, there should be something new to read each week. Later, that expectation will run into a problem of its own.",
+          "C2,C12",
+          "printroom",
+          "close",
+          "Smallfinitepaperstacknexttocompactpress,notyetempty; no ominousmagicalglow.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Wash, eat, repeat",
+      "scenes": [
+        [
+          "Begin with washing. An early August notice sets aside Mondays and Thursdays, with the articles in use cleared before eleven.",
+          "C6",
+          "washdeck",
+          "wide",
+          "Twoadults washplainclothesinbasins,shortsecuredlineawayfromrigging,calmdaylight.",
+          "look-around",
+          "Chronicle,5August1854"
+        ],
+        [
+          "Your laundry is now part of a shared timetable. You cannot treat the working deck as your private back garden.",
+          "C0,C6",
+          "washdeck",
+          "medium",
+          "Passengerremovesdampclothingfromlinewhilecrewkeepsclearpathnearhatch; no inventedpunishment.",
+          null
+        ],
+        [
+          "The medical officers also announce attendance times at the deck hospital, while allowing exceptions for emergencies.",
+          "C6",
+          "sickroom",
+          "wide",
+          "Ordinarydoctorwelcomesadultpatienttocotroom,plainwaterjug,nosurgeryormoderninstruments.",
+          null,
+          "11amand4pm · emergency exceptions"
+        ],
+        [
+          "Hundreds of people need services where the staff, space and supplies are finite.",
+          "C0,C4,C6",
+          "deck",
+          "wide",
+          "Deckwithsmallgroupnearhospitaldoorandothersmovingpast,notgiantqueueorsickcrowd.",
+          null
+        ],
+        [
+          "Food travels with the ship too. Its inventory lists flour, bread, rice, oatmeal, beef, pork and preserved foods.",
+          "C7",
+          "stores",
+          "wide",
+          "Securedbarrels,sacks andpreservedfoodboxes,woodenbeams; noinventedprintedlabels.",
+          "watch-arms-crossed",
+          "Chronicle,9September1854,Provisions"
+        ],
+        [
+          "There are also live animals among the provisions: sheep, pigs and poultry. Some future meals are still making noises.",
+          "C7,C0",
+          "livestock",
+          "medium",
+          "Smallsecurepenswithfewsheepandpigs,separatepoultrycrate,no looseanimalstampede.",
+          null
+        ],
+        [
+          "This is the ship's inventory, not one passenger's daily menu. It cannot tell us that everyone ate alike.",
+          "C7",
+          "editorial",
+          "graphic",
+          "Whole-shipstoresiconclearlyseparatefromoneplate; noportionmath.",
+          null,
+          "Inventory≠individualration",
+          "SHIP'S STORES | INDIVIDUAL MEALS"
+        ],
+        [
+          "Nor does a long inventory remove the work. Somebody still has to store, prepare and distribute food throughout the crossing.",
+          "C0,C7",
+          "stores",
+          "medium",
+          "Cookinordinaryaproncheckssecuredsackbesideplaincontainers,notluxurychefhat.",
+          null
+        ],
+        [
+          "For a passenger, meals also mark time. Another dinner is something to do when the horizon has offered very little news.",
+          "C0",
+          "thirdcabin",
+          "medium",
+          "Ordinaryadultsseatedatsmallsecuredmealboardwithplainfood,notinventedexactmenu.",
+          null
+        ],
+        [
+          "You can picture your future in Melbourne while eating. You still have to finish the meal here, among the same people.",
+          "C0",
+          "thirdcabin",
+          "reaction",
+          "Adultpausesatplainmeal,anothernearby quietlyeats,Visitorlistensfromright.",
+          "closeup-thoughtful"
+        ],
+        [
+          "A supplied ship can still become tiresome. The problem is not always hunger, fear, or spectacular disaster.",
+          "C0,C7,C8",
+          "deck",
+          "wide",
+          "Quietpassengersleaning orseatedproperlyondeckbench,longhorizon,normalboredfaces.",
+          null
+        ],
+        [
+          "Sometimes the problem is that everything aboard is continuing, while the ship itself seems barely to be getting anywhere.",
+          "C8,C0",
+          "shipwide",
+          "wide",
+          "Beginningcalmphase,shiponlowswell,sailslessfilled,nobigbowwake.",
+          null,
+          "Calm periods reported in the Chronicle"
+        ]
+      ]
+    },
+    {
+      "title": "Good weather can be bad news",
+      "scenes": [
+        [
+          "In August, the paper describes a calm after a fancy-dress ball. The ship rises and falls with the swell but makes little progress.",
+          "C8",
+          "shipwide",
+          "wide",
+          "Samehullandthreemasts,slacksails,lowswellwithoutflatglasssea,horizonfixed.",
+          null,
+          "Chronicle,19August1854"
+        ],
+        [
+          "The passengers have crossed an enormous distance from ordinary life, yet the immediate view refuses to change very much.",
+          "C0,C8",
+          "deck",
+          "medium",
+          "Adultstareatcalmhorizon,riggingstill,safehandonrail,no identicalclonefaces.",
+          null
+        ],
+        [
+          "There is no emergency engine to switch on aboard this sailing ship. The steam tug from departure is long gone.",
+          "C1,C0",
+          "shipwide",
+          "profile",
+          "Clearfullprofilethree-mastsailinghull,nofunnel,nosmalltugnow; calmwater.",
+          null
+        ],
+        [
+          "A slack sail can become more frustrating than a dramatic wave. Calm water is not the same thing as a quick passage.",
+          "C0,C8",
+          "deck",
+          "detail",
+          "Loosecanvasandropeshangcorrectlyfromyard,viewdownhorizonwithgentleswell.",
+          "closeup-listening"
+        ],
+        [
+          "The paper describes people losing enthusiasm for their usual amusements. Even the reading and needlework are no longer doing their job.",
+          "C8",
+          "deck",
+          "medium",
+          "Adultwomanwithclosedbook,anotherwithneedleworksetaside,adultmanrestingnearby; no ridiculinggenderpose.",
+          null,
+          "The paper's description of the calm"
+        ],
+        [
+          "Time needs filling, but you cannot make it pass faster.",
+          "C0",
+          "deck",
+          "reaction",
+          "Visitorlooksoutwithquietimpatience,unobstructedforegroundfooting.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The crew still has a ship to manage. A bored passenger's day is not proof that everybody aboard has stopped working.",
+          "C0,C4",
+          "deck",
+          "wide",
+          "Sailorcheckssecuredropewhilepassengersrestawayfromworkarea; nottakingunneededstormaction.",
+          null
+        ],
+        [
+          "By September, the newspaper is still discussing uncertainty about the voyage's length. The light winds keep spoiling the calculations.",
+          "C8",
+          "editorial",
+          "graphic",
+          "TwodatedissuecardsAugust/Septemberwithdelaytheme; noinventedETA.",
+          null,
+          "Chronicle,23September1854",
+          "LIGHT WINDS | UNCERTAIN ARRIVAL"
+        ],
+        [
+          "You might have chosen a famous ship because of its reputation. That reputation cannot order a useful wind to arrive.",
+          "C0,C1,C8",
+          "shipwide",
+          "wide",
+          "Sameshipcalmhorizon,smallclouds,nodivinewindfacesor giantclock.",
+          null
+        ],
+        [
+          "And this is not the Marco Polo's celebrated earlier record run. It is a different voyage, with a different captain.",
+          "C1",
+          "editorial",
+          "graphic",
+          "Distinctyears/captains,no precise1852daycountneeded.",
+          null,
+          "Separate voyages",
+          "1852:FORBES | 1854:WILD"
+        ],
+        [
+          "The useful question becomes smaller: what can you do with today? The passengers are surprisingly inventive about answering it.",
+          "C0,C9",
+          "deck",
+          "medium",
+          "Smallgroupgatherswithfiddleandconcertina,ordinarymusic,no modernspeaker.",
+          null
+        ],
+        [
+          "Some answers are modest. Others involve turning part of a sailing ship into a party in the middle of the Atlantic.",
+          "C9",
+          "ball",
+          "wide",
+          "Preparations for reportedball,smallbandsetaside,safeopendeckandfewadultcouples; no giantshoreballroom.",
+          null,
+          "August1854 · reported first-cabin event"
+        ]
+      ]
+    },
+    {
+      "title": "A party, a paper, and a missing coat",
+      "scenes": [
+        [
+          "Before those calms came the ball. Its advertisement announced a first-class event, dependent on wind and weather.",
+          "C9,C8",
+          "ball",
+          "wide",
+          "Sameballspaceinpreparation,first-cabinadultguests,noeveryoneaboardcrowd; localdatecaption.",
+          "look-around",
+          "Earlier:14August1854"
+        ],
+        [
+          "Even the entertainment schedule had to negotiate with the ocean. A party could be organized; suitable conditions could not be ordered.",
+          "C0,C9",
+          "ball",
+          "detail",
+          "Bandwithfiddle/concertina settlesinprotecteddeckarea,clothawnings secured,noelectriclights.",
+          null
+        ],
+        [
+          "The newspaper celebrated the result, describing music, dancing and supper. It reported dancers continuing until five the following morning.",
+          "C9",
+          "ball",
+          "medium",
+          "Fewadultcouplesdanceonleveldeck,safefooting,subtleearlylight,no modernlatindanceorimpossibleposes.",
+          null
+        ],
+        [
+          "For some passengers, that must have been a welcome change. It should not become our picture of everybody's nightly routine.",
+          "C0,C4,C9",
+          "saloon",
+          "medium",
+          "Betterdressedsmallgroupatmodestsupper,no giantchampagnetower,clearlyfirstcabincontext.",
+          null
+        ],
+        [
+          "Elsewhere in the paper are less grand attempts to fill time: music, reading, a lecture, and notices connecting people with things.",
+          "C9",
+          "deck",
+          "wide",
+          "Quietgrouphearsadultspeakeratpoopedge,othersreadatdistance; nomodernmicrophone.",
+          null
+        ],
+        [
+          "There is a lost-property notice for a boy's blue overcoat. Even out here, someone is trying to find the missing coat.",
+          "C9",
+          "saloon",
+          "detail",
+          "Illustrativebluechild-sizecoatfoldedonbench,notclaimitwasactuallyfound; localnoticeparaphrase.",
+          "eyebrow-raise",
+          "Lost-property notice · no recovery recorded"
+        ],
+        [
+          "It is a small detail, but it makes the ship feel inhabited. The passengers are not just anonymous figures crossing a map.",
+          "C0",
+          "saloon",
+          "medium",
+          "Adultsearchescorridorbesidetrunk,ordinaryfrustration,nocrimeaccusation.",
+          null
+        ],
+        [
+          "They bring belongings, preferences, habits, and relationships. Over weeks, other people's habits become a much larger part of your surroundings.",
+          "C0",
+          "thirdcabin",
+          "wide",
+          "Adultsarrangebelongingsandreadinsharedquarters,modestvariety,no caricatureofdirtypoor.",
+          null
+        ],
+        [
+          "The paper gives passengers common news and subjects to discuss, helping turn a crowd into a community.",
+          "C0,C2,C9",
+          "printroom",
+          "medium",
+          "Adultpassengers shareoneblankprinted-sheetprop,printerworksbehindwithmanualpress.",
+          null
+        ],
+        [
+          "But a floating community also needs boundaries. Some things cannot be left to each passenger's personal judgement.",
+          "C0,C10",
+          "deck",
+          "medium",
+          "Captainlistensseriouslytosmallpassengergroup,workingdeckclear; notmilitaryparade.",
+          null
+        ],
+        [
+          "The clearest example is not an argument about dancing or a lost coat. It is a light in somebody's berth.",
+          "C10",
+          "thirdcabin",
+          "detail",
+          "Extinguishedsmallcandleholderonbunkledge,adultownernearby; no activeflameorfire,sourcecaptionexplains.",
+          null,
+          "Earlier incident reported5August1854"
+        ],
+        [
+          "Something ordinary at home could endanger hundreds of people inside a wooden ship.",
+          "C0,C10",
+          "thirdcabin",
+          "wide",
+          "Timberbeams,bedding andropesvisiblearoundnarrowaisle,candleextinguished; noimaginedblaze.",
+          "closeup-worried"
+        ]
+      ]
+    },
+    {
+      "title": "Rules, care, and consequences",
+      "scenes": [
+        [
+          "The paper reports a third-cabin passenger brought before the captain after being found in his berth with an unprotected light.",
+          "C10",
+          "deck",
+          "medium",
+          "OrdinaryadultpassengerfacesCaptainWild,officerholdsunlitcandleholderaside; no irons applied.",
+          null,
+          "Chronicle,5August1854,NakedLights"
+        ],
+        [
+          "He admitted it, but said he did not know the rules. The captain explained the danger and warned him about repetition.",
+          "C10",
+          "deck",
+          "close",
+          "Captaincalmlyserious,passengerlistens,no shoutingcartoonvillain orhandcuffs.",
+          null
+        ],
+        [
+          "The threatened punishment included forty-eight hours in irons with bread and water. The report does not say he received it then.",
+          "C10",
+          "editorial",
+          "graphic",
+          "Localwarningcard,conditionalwordlarge;norealchainsimage.",
+          null,
+          "Warning for a repeat offence",
+          "REPEAT OFFENCE:SEVERE PUNISHMENT THREATENED"
+        ],
+        [
+          "This is a warning about authority aboard. The passenger is not reported as being chained up.",
+          "C0,C10",
+          "deck",
+          "medium",
+          "Passengerwalksawayunrestrained,captainturnstodeckwork; no punishmentreenactment.",
+          null
+        ],
+        [
+          "For you, the practical message is simple: your small private action may have consequences for people you cannot see.",
+          "C0,C10",
+          "thirdcabin",
+          "detail",
+          "Timberpartitionbetweenoccupiedberths,unlitlightstoredsafely; no trappedchild.",
+          null
+        ],
+        [
+          "The ship also has medical staff and a hospital. The notices show care being organized, but they do not promise safety.",
+          "C6,C0",
+          "sickroom",
+          "medium",
+          "Doctorquietlyattendsordinaryadultpatientwithwaterjug,restingcot;nodiagnosisortreatmentinvented.",
+          null
+        ],
+        [
+          "Different issues report sickness or relative good health. Each describes a moment, not a guarantee for the crossing.",
+          "C6,C11,C0",
+          "editorial",
+          "graphic",
+          "Two datedreportstatesbriefly labelled,withoutmedicalclaims.",
+          null,
+          "Chronicle,5August/12August/14October",
+          "REPORTS CHANGED DURING THE VOYAGE"
+        ],
+        [
+          "The final newspaper also records losses. Its cheerful social world has people missing from it by the end.",
+          "C11",
+          "saloon",
+          "wide",
+          "Quietsaloonwithseveralemptychairs,passengerssubdued; notemptyentireshiporghostfigures.",
+          null
+        ],
+        [
+          "A mother, Mrs Langford, and her infant died. Another passenger, William Gore Tipper, was lost overboard in rough seas.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Respectfulnames-onlysourcecard,noillustratedbodiesorchildbirth.",
+          null,
+          "Chronicle,14October1854",
+          "MRS LANGFORD AND HER INFANT | WILLIAM GORE TIPPER"
+        ],
+        [
+          "We do not need to stage their final moments to understand what that means. Some families did not reach the other end together.",
+          "C0,C11",
+          "deck",
+          "wide",
+          "Quietopenseafromsafedeck,greydaylight,smallgroupstandingrespectfullyawayfromrail.",
+          null
+        ],
+        [
+          "The same journey could contain jokes, dances, boredom and grief. Choosing only one would make a simpler, less truthful voyage.",
+          "C0,C9,C11",
+          "saloon",
+          "medium",
+          "Subduedpassengersinsamesaloonpreviouslyfestive,ordinaryconversation,no stylizedsplitemotionfaces.",
+          "watch-arms-crossed"
+        ],
+        [
+          "By then, everyone still aboard also has the unresolved question which the weather keeps putting off: how much longer?",
+          "C0,C8",
+          "shipwide",
+          "wide",
+          "Shipundercontrolledsailonmoderateswell,notcalmthisshot,no dramaticsinkingangle.",
+          null,
+          "Later phase of the crossing"
+        ]
+      ]
+    },
+    {
+      "title": "The paper runs into the timetable",
+      "scenes": [
+        [
+          "The newspaper provides an unusually tangible answer to how the delay felt. Its own production plan had assumed a shorter journey.",
+          "C12",
+          "printroom",
+          "wide",
+          "Printerchecksremainingpaperstackatcompactpress,lesspaperthanearlyanchor; nottotallyempty.",
+          null
+        ],
+        [
+          "The editors expected to issue ten weekly numbers. They divided their supply of paper into ten portions for that purpose.",
+          "C12",
+          "editorial",
+          "graphic",
+          "Tenlocallydrawnsmallbundleswithsimplecount,notmodeldrawnlabels; one highlightedfinalportion.",
+          null,
+          "Chronicle,14October1854,LastoftheChronicles",
+          "PAPER PLANNED FOR10ISSUES"
+        ],
+        [
+          "After the ninth issue, the ship still had too far to go. Publishing normally would leave no paper for a proper farewell.",
+          "C12,C0",
+          "printroom",
+          "detail",
+          "Ninecompletedblankissuebundlesandoneunusedpaperportion shownschematicallylocaloverlay,notexactpaperweights.",
+          null
+        ],
+        [
+          "So the final issue was held back. The gap between the ninth and tenth editions became three weeks.",
+          "C12",
+          "editorial",
+          "graphic",
+          "Largecalendarinterval23September→14October,clearcorrectyear1854.",
+          null,
+          "Preserved issue dates",
+          "23SEPTEMBER → 14OCTOBER"
+        ],
+        [
+          "Imagine watching the weeks stretch until even the ship's newspaper has to ration its remaining appearance.",
+          "C0,C12",
+          "printroom",
+          "medium",
+          "Passengerslookatlastsmallpaperstack,printersetsitcarefullyaside; nofoodrationconfusion.",
+          "closeup-thoughtful"
+        ],
+        [
+          "This was not a broken press. The planned supply had to cover a passage that was taking longer than expected.",
+          "C12",
+          "printroom",
+          "detail",
+          "Manualpressintact,limitedpaperbesideit; alltoolsfunctional.",
+          null
+        ],
+        [
+          "The last issue finally appeared on the fourteenth of October. The ship was still short of its destination.",
+          "C12",
+          "printroom",
+          "medium",
+          "Printerhandsoutlastblanktwo-pagesheet,smalllocaldatecaption,ordinarypassengerreceives.",
+          "closeup-listening",
+          "Final issue:14October1854"
+        ],
+        [
+          "Captain Wild acknowledged that this was the longest passage the Marco Polo had yet made. Its earlier reputation had not shortened this one.",
+          "C1,C8,C12",
+          "editorial",
+          "graphic",
+          "Paraphraseofcaptain'sfinalmessage,locallytypeset,noinventedexactduration.",
+          null,
+          "WilliamWild,14Octoberissue",
+          "THE SHIP'S LONGEST PASSAGE SO FAR"
+        ],
+        [
+          "The editors expected the community to scatter into different lives once it reached land.",
+          "C12",
+          "deck",
+          "wide",
+          "Passengerscollectbelongingsandlooktowarddistanthorizon,noactuallandclaimunlessfaintnotidentified.",
+          null
+        ],
+        [
+          "For passengers, that prospect changed the kind of uncertainty. Soon the question would be what waited after getting off.",
+          "C0",
+          "deck",
+          "medium",
+          "Adultwithclosedtrunklooksout,simplequietanticipation.",
+          "watch-arms-crossed"
+        ],
+        [
+          "A berth, however uncomfortable, had at least been a known place. A new life ashore would require new arrangements.",
+          "C0,C5",
+          "thirdcabin",
+          "detail",
+          "Familiarbunknowtidied,closedtrunkready,emptybeddingfolded; no passengerpermanenthomeassumed.",
+          null
+        ],
+        [
+          "The ship could carry you to Australia. It could not supply the entire life you hoped to build there.",
+          "C0",
+          "arrival",
+          "wide",
+          "PortPhillipanchoragefirstview,woodenships,lowcolonialshore,workingboats,nocityskyscrapers.",
+          null,
+          "PortPhillip,lateOctober1854"
+        ]
+      ]
+    },
+    {
+      "title": "The crossing ends. The move does not.",
+      "scenes": [
+        [
+          "The Marco Polo reached Melbourne in late October, after leaving Liverpool in July. The promise of departure had become an arrival.",
+          "C1",
+          "arrival",
+          "wide",
+          "Sameshipatbayanchorage,smallsailcraftandlowshore; no literallydockedriverclaim.",
+          null
+        ],
+        [
+          "But Melbourne was not an empty stage waiting for newcomers. It was a colonial city on Kulin Country.",
+          "C13",
+          "editorial",
+          "graphic",
+          "SimplelocalPortPhillip/YarraregionalmapwithKulinCountrylabel,noexacttraditionalboundariesinvented.",
+          null,
+          "MuseumsVictoria,TheFoundingofMelbourne",
+          "A COLONIAL CITY ON KULIN COUNTRY"
+        ],
+        [
+          "European settlement had displaced First Peoples and restricted their access to land and resources. A passenger's fresh start belonged within that larger history.",
+          "C13",
+          "arrival",
+          "wide",
+          "Bayandlandscapeviewwithcolonialbuildings,notfantasyuntouchedemptycontinent; no inventedconfrontation.",
+          null
+        ],
+        [
+          "For the person stepping ashore, the immediate tasks were personal again: find somewhere to go, make plans, and begin.",
+          "C0",
+          "arrival",
+          "medium",
+          "Illustrativeadultemigrantwithtrunkatmodestlandingarea,workingboatbehind; no guaranteedjoborhouse.",
+          "look-around"
+        ],
+        [
+          "For months, the ship had organized the day. Wash at certain times. Eat among familiar strangers. Listen for news of progress.",
+          "C0,C6,C8",
+          "editorial",
+          "graphic",
+          "Threeordinaryroutineiconswithshortlabels,no complicatedtimeline.",
+          null,
+          "Voyage synthesis",
+          "ROUTINE | STRANGERS | WAITING"
+        ],
+        [
+          "Those routines would break apart. Sharing a crossing did not mean sharing what happened next.",
+          "C0,C12",
+          "arrival",
+          "wide",
+          "Smalladultgroupsmoveindifferentdirectionswithluggagefromlandingarea; no actualnamedpassengerfates.",
+          null
+        ],
+        [
+          "That is what makes the shipboard details matter. The lost coat and washing notice are pieces of a whole life between homes.",
+          "C0,C6,C9",
+          "deck",
+          "detail",
+          "Explicitmemorymontage:foldedbluecoat,basin andclosedpaperonsecureddecktable; notactualfoundcoatproof.",
+          null,
+          "Remembering the reported notices"
+        ],
+        [
+          "Moving to Australia was not one dramatic farewell followed immediately by a new house, a new job and a new beginning.",
+          "C0,C1",
+          "arrival",
+          "medium",
+          "Emigrantpausesatworkinglandingwithtrunk,citystilldistant,noinstantwelcomebanner.",
+          null
+        ],
+        [
+          "There was a long middle, where progress depended on wind and everyday comfort depended on other people's work and behaviour.",
+          "C0,C6,C8",
+          "shipwide",
+          "wide",
+          "Earlieratseaillustrativecallback,sameshipmoderateswell,clearcaptionpreventsseconddeparture.",
+          null,
+          "Looking back at the crossing"
+        ],
+        [
+          "The newspaper lets us hear that middle through its announcements, enthusiasm, complaints and silences. Even its missing weeks tell part of the story.",
+          "C0,C2,C12",
+          "printroom",
+          "detail",
+          "Locallycompositeddatesonblankissuepropswithvisiblegap,sourcecardsnotfakeoriginalprint.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Your ticket bought passage. What you had to bring was enough patience to live through the journey before the destination.",
+          "C0",
+          "arrival",
+          "reaction",
+          "Visitorquietlyobservesordinaryemigrantsatlanding,footscalecheckedagainstlocals.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The new life did not begin when the shore disappeared. For a while, the life you had to manage was this one.",
+          "C0",
+          "deck",
+          "wide",
+          "Finalgentlecallbacktoordinarypassengersonworkingdeck,calmrightarea forendscreen; no triumphantcolonialflag.",
+          null,
+          "AboardMarcoPolo,1854"
+        ]
+      ]
+    }
+  ],
+  "research": "Followonespecific1854voyage,theMarcoPolounderWilliamWild;primaryonboardnewspapersprovideordinarytasks,distinctclasses,entertainment,dangersanddelay. Ownership/promotionbiasmadevisiblewithoneearlyframingline,notrepeateddisclaimers. Strongpayoff:paperplannedtenissuesandhadtoholdlastfor3weeksbecausevoyageoutlastedexpectations. PrimaryAugust5naked-lightcaseiswarningforrepeat,notpunishmentimposed;modernsummarycorrected. Inventorynotration;nohugequestionablemolassesnumber. Seasicknessandmedicalnoticesnotproofperfecthealth;enddeathsreportedrespectfully. NoPiersonAscutna1852–53episodes,Forbes1852record,1855taxor1870ssteamship. Arrivalexactdaydurationunsettled;useJulytolateOctoberaboutthree months only. Painting/sourcepagevisualauditpendingalongwithinitialexact-scriptreview; nofinalclearancestatus.",
+  "description": "Before a new life inAustralia came weeks of sharing a sailing ship with strangers. We follow theMarcoPolo's1854voyage through its own onboardnewspaper: washingdays,foodstores,entertainment,rules,andwinds that refused to match the timetable. This isCaptainWilliamWild'svoyage,not the ship's earlierrecord run.",
+  "tags": [
+    "Australia immigration history",
+    "Marco Polo ship",
+    "1854 voyage",
+    "Victorian migration",
+    "Liverpool to Melbourne",
+    "life at sea",
+    "sailing ship history",
+    "Australian history",
+    "Life Previously"
+  ],
+  "pinned_comment": "Which would you find hardest on this voyage:sharing the space,the uncertainty,or being unable to leave?",
+  "pilot": [
+    "S001",
+    "S002",
+    "S003",
+    "S010",
+    "S018",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "MONTHS AT SEA",
+      "chip": "AUSTRALIA,1854",
+      "scope": "MarcoPolo1854voyage,illustrativeordinaryberth",
+      "pose": "closeup-worried",
+      "background": "Lefttwothirds lowwoodensharedcabin withmodestbunk andclosedtraveltrunk; openhatch gives glimpseofshipdeck/seabeyond butno giantunderwaterporthole. Oneordinaryadultpassengersitsonsimplebench,neveronanotherperson. Claustrophobicbutreadable,rightthirdcalm.",
+      "rationale": "Shows the cost ofmoving beforethe promisednewlife,withoutfalseprecisedaycountordisasterbait.",
+      "payoff_scene_ids": [
+        "S010",
+        "S015",
+        "S083"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "STILL NOT THERE?",
+      "chip": "MARCO POLO,1854",
+      "scope": "Calmepisodeonthe1854voyage",
+      "pose": "closeup-listening",
+      "background": "Leftsimplifiedthree-mastshiponlonglowswell withslacksails andnobowwake,lowquietsky,sameacceptedshipgeometry; tinydeckfiguresonly. RightthirdreservedforVisitorcloseup. Nofan/driftingice/steam.",
+      "rationale": "Turns calm weather into the unexpectedproblem;deliveredbynewspaperandpaper-budgetreveal.",
+      "payoff_scene_ids": [
+        "S037",
+        "S040",
+        "S077"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "CAN'T GET OFF",
+      "chip": "A NEW LIFE AWAITS",
+      "scope": "Illustrative1854oceanpassage,notimprisonment",
+      "pose": "closeup-thoughtful",
+      "background": "Leftdeckrail withclosedtraveltrunk andunbrokenseahorizon,ropesandmastpartial,ordinaryadultemigrantlookingout; nohandcuffs,barsorprisonshipimagery. Rightthirdquiet.",
+      "rationale": "Everydayconfinementanddistancefromhome,noinventedconvictstatus.",
+      "payoff_scene_ids": [
+        "S016",
+        "S072",
+        "S083"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The voyage outlasted the newspaper plan",
+      "from_scene": "S073",
+      "to_scene": "S080",
+      "hook": "They budgeted for ten issues. The wind had other plans.",
+      "description": "TheMarcoPoloChronicle'sOctober1854farewell explains its three-weekpublicationgap."
+    },
+    {
+      "title": "Why laundry had a timetable at sea",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "Yourwashingdaywasnotjustyourdecision.",
+      "description": "NoticesfromtheMarcoPolo's1854voyage showsharedshipboardroutines."
+    },
+    {
+      "title": "The stowaway who got a berth",
+      "from_scene": "S005",
+      "to_scene": "S012",
+      "hook": "Onepassengerwantedon;anotherwantedhome.",
+      "description": "JosiahThomas'sreportedberthexchangeintheJuly291854MarcoPoloChronicle."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "No distinctive traditionaloutfitisnecessary. Visitorstaysquietmodernobserver,notcaptain,pirate orcolonialcostumecaricature.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Preserveidentityandgroundingondeck. Nofancy-dressaccessoryonVisitor;nobrightgiantcoatblockingprimaryaction."
+  },
+  "pronunciations": {
+    "status": "director_selected",
+    "entries": [
+      {
+        "term": "Marco Polo",
+        "say": "MAR-koh POH-loh",
+        "note": "Shipname."
+      },
+      {
+        "term": "Josiah",
+        "say": "joh-SY-uh",
+        "note": "Thomas,stowawayreportedbynewspaper."
+      },
+      {
+        "term": "Kulin",
+        "say": "KOO-lin",
+        "note": "Checklocalauthoritativespeakerbeforevoiceifuncertain; do not inventphoneticaccent."
+      }
+    ],
+    "rule": "CaptainWilliamWild; notForbes. Sayquarters/decktermsclearlywithoutforcingnavaljargon."
+  },
+  "sound_plan": {
+    "status": "direction_ready_assets_unselected",
+    "music": "Channelthemequiet;open-seawind/watertexturesusedsparingly. Noswellingpiratescore.",
+    "mix": "Narrationdominates;nostartlingmastcrash,screamorstormwall. Silenceforthedeathpassage.",
+    "new_assets": [
+      {
+        "id": "deck_creak",
+        "description": "Subtlewoodendeckcreakwithgentlewavewash,noelectronicambience."
+      },
+      {
+        "id": "paper_turn",
+        "description": "Softtwo-pagesheetturn."
+      },
+      {
+        "id": "sail_luff",
+        "description": "Quietslacksailclothflutter,notthunderousflag."
+      }
+    ],
+    "acquisition": "InspectlicensedlocalororiginalFoleyassets; no paidassetswithoutcontractapproval.",
+    "cues": [
+      {
+        "scene_id": "S003",
+        "asset": "deck_creak",
+        "timing": "Briefunderdeparture."
+      },
+      {
+        "scene_id": "S040",
+        "asset": "sail_luff",
+        "timing": "Calmsequencegap."
+      },
+      {
+        "scene_id": "S079",
+        "asset": "paper_turn",
+        "timing": "Finalpaperreveal."
+      }
+    ],
+    "intentional_silence": [
+      "S069",
+      "S070",
+      "S071"
+    ]
+  },
+  "extra_specs": [
+    "ship_continuity_spec.json"
+  ]
+}

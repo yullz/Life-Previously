@@ -1,0 +1,13 @@
+# The look of this episode's world. Every background prompt includes it. Keep to what the camera sees.
+# Lines are "key: value". Keys: setting, people, buildings, interiors, light, signs, avoid.
+# Each prompt only gets the lines that fit its scene (people, outdoors, indoors, dark, shops), so keep each line self-contained.
+# These lines go into every matching prompt, so leave out props like fountains, towers or notices: they would appear in
+# nearly every picture. Add them to individual scenes instead, in a balanced share (about one street shot in five).
+# Fill it in during research, from the same sources as claims.md, before running `lp.py jobs`.
+setting: PLACE, in the DECADE
+people: what ordinary men, women, children, workers and the better-off wear, in colours of the period
+buildings: house types, materials, roofs, windows, streets and landmarks (used for outdoor scenes)
+interiors: walls, floors, windows and furniture inside ordinary homes and workplaces (used for indoor scenes)
+light: the light sources people actually had, by day and by night
+signs: how shops and inns were marked (pictures, not words, where that is accurate)
+avoid: the anachronisms an image model is likely to slip in for this period (see channel/lessons.md; for any pre-modern period include paper notices pinned to walls, wrenches, metal stoves and extractor hoods, roll-down shop shutters, coat hangers, iron drain grates)

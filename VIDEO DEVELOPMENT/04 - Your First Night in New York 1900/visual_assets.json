@@ -1,0 +1,505 @@
+{
+  "episode": "new-york-1900",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S036",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S036",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S063",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S036",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S073",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S012",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S004",
+      "text": "A NIGHT • A HOUSEHOLD • A MONTH",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S016",
+      "text": "BED:20¢/NIGHT • DINNER:15¢",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S023",
+      "text": "ONE OPTION • NOT EVERYONE’S",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S026",
+      "text": "CAN YOU PAY? • IS THERE SPACE?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S030",
+      "text": "30×20¢=$6",
+      "label": "Illustrative calculation •30nights, lodging only",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S037",
+      "text": "IKE SOLIVE • TAILOR | PAULINE RUDOLPH • DRESSMAKER",
+      "label": "1900census • rows8and21",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S038",
+      "text": "SEPARATE HOUSEHOLD RECORDS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S048",
+      "text": "PER NIGHT → PER MONTH",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S049",
+      "text": "A SPECIFIC SURVEY • NOT A CITYWIDE TARIFF",
+      "label": "Veiller survey •1900 •different block",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S055",
+      "text": "A BED/NIGHT ≠ AN APARTMENT/MONTH",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S057",
+      "text": "TONIGHT • GETTING STARTED • A HOUSEHOLD",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S059",
+      "text": "THREE ROOMS • ABOUT325SQFT",
+      "label": "97Orchard •typical apartment area",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S065",
+      "text": "1900: TWO PARENTS • THREE CHILDREN",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S066",
+      "text": "WHO WORKS HERE ≠ WHO LIVES HERE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S076",
+      "text": "WHO ARE YOU? • WHAT DO YOU NEED?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S085",
+      "text": "ROOM • HOUSEHOLD • HOME",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S095",
+      "text": "ONE NIGHT • A BOARDER’S PLACE • YOUR OWN ROOMS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

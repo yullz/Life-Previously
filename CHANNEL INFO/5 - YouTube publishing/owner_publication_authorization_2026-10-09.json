@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-09",
+  "owner_statement": "Everything is perfect. Take over chrome and upload everything. Make sure its professinal and everything is CEO optimized to reach as many people as possible",
+  "interpretation": "Owner approves the current reviewed episodes and directs Astra to upload and professionally package both episodes and their six current Shorts. CEO interpreted as SEO.",
+  "owner_review_accepted": true,
+  "director_release_decision": "Release approved on the basis of the existing focused visual and technical evidence and the owner's positive audiovisual review. No claim of assistant direct listening.",
+  "versions": {
+    "001_candidate_c4.mp4": "62e6cf621f950e316a41002ee3a054d37e57f1cd0cbdd4240e0a9250a893be81",
+    "002_candidate_c3_closeout.mp4": "b6cfdd307dec5687ffde937b74d1ed056c01573b5878cb944bc6feb759ab5b32"
+  },
+  "scope": ["Two long episodes", "Six current Shorts", "Approved thumbnails", "Captions", "Accurate titles, descriptions, chapters and relevant tags", "Playlists and available end screens/related-video links", "Existing publishing slots in Europe/Sofia"],
+  "no_new_paid_production": true,
+  "publication_state": "In progress; record actual YouTube IDs and saved schedules separately.",
+  "initial_live_observation": "Chrome Studio on the verified Life, Previously channel UCOt5ow5AZYQWuh49YP56vvA displayed No content available on both Videos and Shorts. This differs from the prior 8 October snapshot; cause unknown. Astra has not deleted any uploads."
+}

@@ -1,0 +1,1369 @@
+{
+  "id": 5,
+  "slug": "five-ancient-ideas",
+  "title": "5 “Modern” Ideas That Are Actually Ancient",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "Could You Build a Modern Day in the Ancient World?",
+    "Ancient Takeaway, Heated Floors—and Automatic Doors?"
+  ],
+  "period": "A clearly labelled journey between Pompeii AD 79, Ostia c. AD 200, Aquae Sulis c. AD 350, and reconstructions of mechanisms described by Hero of Alexandria, conventionally dated to the first century AD. Do not merge these into one city or one day in documented history. Pompeii: Roman masonry, plaster, tiled roofs and embedded ceramic jars. Ostia: brick-faced multi-storey residential/commercial block with external stairs and restrained painted interiors. Bath: late Roman masonry and hypocaust service space, no modern terraces. Hero: simple illustrative bronze/wood vessels and small temple model; not an excavated installation or exact portrait. Local people wear plain period tunics or draped clothing, muted colours, no medieval dress. The Visitor is composited separately.",
+  "avoid": "medieval timber fronts; modern menu boards; fake inscriptions; disposable cups or burger wrappers; electric lights; modern apartment balconies; lifts; radiators or water pipes presented as hypocausts; Victorian Bath statues; coins with readable invented text; electronic sensors; push buttons; steam turbine driving temple doors; giant palace-sized automatic doors; falsely authenticated Hero portrait; identical cities across all five ideas",
+  "locations": {
+    "intro": {
+      "scope": "Editorial demonstration of Hero's described mechanism; Roman-era Alexandria context",
+      "frame": "illustrative reconstruction, not a documented event",
+      "design": "Small closed wooden double doors in a simple pale masonry temple model, low altar at left; no archaeological claim about this exact temple. Warm neutral daylight. Same doors recur in finale."
+    },
+    "food": {
+      "scope": "Pompeii, AD 79; reconstructed thermopolium based on Regio V evidence",
+      "design": "Masonry L-shaped counter with three visible wide embedded terracotta jar mouths, worn pale work surface, ochre/red plaster walls, plain bowls. Reconstructed food contents are not exact menu evidence. No writing painted on counter."
+    },
+    "jar": {
+      "scope": "Pompeii, AD 79; explanatory detail of thermopolium construction",
+      "design": "Single terracotta storage jar embedded below a masonry counter, shown in physically consistent simple cutaway; rim flush with counter, rounded body beneath; no furnace attached to every jar.",
+      "anchor_reference_scene_id": "S008"
+    },
+    "ostia": {
+      "scope": "Ostia, c. AD 200; Insula del Soffitto Dipinto reconstruction",
+      "design": "Three-storey brick-faced block as one permitted reconstruction within the attested three-to-four-storey range. Exterior stair along left side, ground-level commercial openings, upper domestic windows. Not an exact surviving elevation."
+    },
+    "room": {
+      "scope": "Ostia, c. AD 200; schematic interior inspired by Insula del Soffitto Dipinto",
+      "design": "Central vestibule with tall windows and doors into adjoining rooms; restrained red/ochre painted plaster, simple wooden furniture. Avoid claiming precise furniture inventory or exact rent."
+    },
+    "bath": {
+      "scope": "Aquae Sulis, c. AD 350; reconstructed western heated rooms",
+      "design": "Late Roman plastered warm room, tiled floor and simple stone bench. No bathers needed; Visitor remains a clothed observer at edge. No exposed open flames in occupied room."
+    },
+    "furnace": {
+      "scope": "Aquae Sulis, c. AD 350; schematic bath service area",
+      "design": "Low masonry furnace opening adjoining underfloor cavity; stacked dry firewood, plain tool, one adult attendant in muted tunic. Reconstruction of necessary service work, not a named worker or known legal status."
+    },
+    "coin": {
+      "scope": "Illustrative reconstruction of Hero, Pneumatics section 21; Roman-era Alexandria",
+      "frame": "mechanism described in a text",
+      "design": "Simple bronze-coloured chest with coin slot on top, small plain outlet low on left face, shallow collecting bowl below; no ornate invented inscriptions. Its functional interior is drawn locally using mechanism_spec.json, never improvised by image generation."
+    },
+    "temple": {
+      "scope": "Illustrative reconstruction of Hero, Pneumatics section 37; Roman-era Alexandria",
+      "frame": "mechanism described in a text",
+      "design": "Same compact pale masonry temple model and closed wooden double doors as intro; small altar at left. Hidden base contains machinery only in locally drawn cutaways. Exterior variants keep identical hinge axes, door widths, altar and perspective.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "editorial": {
+      "scope": "Modern explanatory graphic, explicitly separate from historical scenes",
+      "frame": "editorial schematic",
+      "design": "Parchment backdrop; brown, ochre and muted blue shapes; clear era labels; no faux ancient manuscript text."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Pompeii Archaeological Park — Regio V thermopolium",
+      "url": "https://pompeiisites.org/en/press-releases/from-the-12th-august-the-thermopolium-of-regio-v-is-opening-to-the-public/",
+      "read": "2026-10-09: full archaeological description of counter, embedded dolia, food/drink use and decorations.",
+      "limit": "No universal kitchenlessness, fixed menu, modern fast-food industry or exact prices. Animal paintings are not proof of every item sold."
+    },
+    {
+      "id": "SRC02",
+      "title": "Ostia Antica Archaeological Park — Insula del Soffitto Dipinto",
+      "url": "https://ostiaantica.cultura.gov.it/en/educational-panels-and-maps/larea-a-servizio-del-fiume/insula-del-soffitto-dipinto/",
+      "read": "2026-10-09: complete panel text on Hadrianic block, three/four storeys, external stairs, medianum and later changes.",
+      "limit": "Reconstruction uses c. AD 200 to avoid attributing late-second-century decoration to AD 130. No exact resident, rent or tenancy arrangement inferred."
+    },
+    {
+      "id": "SRC03",
+      "title": "Roman Baths — Roman bathing complex",
+      "url": "https://www.romanbaths.co.uk/roman-bathing-complex-0",
+      "read": "2026-10-09: Great Bath, East Baths, laconicum and West Baths sections.",
+      "limit": "Hot spring supplied Great Bath water; distinguish from furnace-heated rooms. Possible sex separation is qualified and omitted."
+    },
+    {
+      "id": "SRC04",
+      "title": "Roman Baths — archaeological timeline and fourth-century plan",
+      "url": "https://www.romanbaths.co.uk/roman-baths-timeline",
+      "read": "2026-10-09: plan caption and full dated timeline.",
+      "limit": "Fourth-century reconstruction anchor, not precise AD 350 event or identical operation over all Roman centuries."
+    },
+    {
+      "id": "SRC05",
+      "title": "Vitruvius — Ten Books on Architecture, Book V, chapter 10",
+      "url": "https://www.gutenberg.org/cache/epub/20239/pg20239-images.html",
+      "read": "2026-10-09: Book V.10.2–5, suspended floors, brick pillars, furnace and room construction.",
+      "limit": "Public-domain primary technical prescription from an earlier Roman context, used to explain principle; not measurements of the Bath installation."
+    },
+    {
+      "id": "SRC06",
+      "title": "Hero of Alexandria — Pneumatics, sections 21 and 37, 1851 translation",
+      "url": "https://www.gutenberg.org/cache/epub/77400/pg77400-images.html",
+      "read": "2026-10-09: full sections 21, 37 and comparison 38; relevant editorial introduction.",
+      "limit": "Public-domain text. Description is not an excavation report or proof of universal adoption. Omit mercury alternative, obsolete porous-air theory, and priority claims. Section 38's leather bag is a different design."
+    },
+    {
+      "id": "SRC07",
+      "title": "MacTutor, University of St Andrews — Heron of Alexandria",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heron/",
+      "read": "2026-10-09: chronology argument, surviving works and Pneumatica discussion.",
+      "limit": "Supports conventional first-century AD placement, not certain birth/death dates or verified occupation. Use only modest dating claim."
+    },
+    {
+      "id": "SRC08",
+      "title": "Linda Hall Library — Hero of Alexandria, William B. Ashworth Jr.",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/hero-of-alexandria/",
+      "read": "2026-10-09: full collection essay and comparison of printed editions.",
+      "limit": "Independent challenge to confident dating and illustration authenticity. Device images are later editorial reconstructions. Do not accept all toys/no-work generalizations."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "type": "F",
+      "claim": "The Visitor's challenge, jokes and choices are fictional editorial framing; modern comparisons concern functions, not direct invention lineages.",
+      "sources": [],
+      "locator": "Original framing for this episode.",
+      "limit": "Never present the itinerary, a purchase or the Visitor as a documented ancient event."
+    },
+    {
+      "id": "C1",
+      "type": "E",
+      "claim": "Pompeian thermopolia sold hot food/drink using masonry counters with embedded large storage jars; Regio V preserves such a counter.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Opening archaeological description, thermopolia paragraph.",
+      "limit": "No exact menu, pricing, ubiquitous kitchenlessness or modern business equivalence."
+    },
+    {
+      "id": "C2",
+      "type": "I",
+      "claim": "A prepared-food counter offers a recognizable alternative to cooking that particular purchase yourself; jars and painted animals do not supply a complete menu.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Function of thermopolium; decorated animal panels described as likely offerings.",
+      "limit": "Explicit functional comparison and evidential boundary, not demographics or a recorded customer's order."
+    },
+    {
+      "id": "C3",
+      "type": "E",
+      "claim": "The Insula del Soffitto Dipinto formed part of a Hadrianic residential/commercial block with three or four storeys and external stairs.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "First two panel paragraphs.",
+      "limit": "Shown c. AD 200 with three-storey reconstructed elevation; no exact rent, owner or named residents."
+    },
+    {
+      "id": "C4",
+      "type": "E",
+      "claim": "Its dwelling plan included a central window-lit medianum with rooms opening from it; painted decoration survives and later subdivision changed occupation.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Panel paragraphs on medianum, decoration and transformation.",
+      "limit": "Do not flatten all phases together or invent occupants. Scene plan is explanatory, not measured survey."
+    },
+    {
+      "id": "C5",
+      "type": "E",
+      "claim": "Roman Bath's western range preserves tile-stack hypocaust supports; heated air circulated below floors and into walls.",
+      "sources": [
+        "SRC03"
+      ],
+      "locator": "West Baths final paragraph.",
+      "limit": "This bath complex, not every Roman home; occupied floor separated from furnace smoke."
+    },
+    {
+      "id": "C6",
+      "type": "E",
+      "claim": "Vitruvius prescribes suspended hot-room floors on brick supports with a furnace; Bath's Great Bath separately received naturally hot spring water.",
+      "sources": [
+        "SRC05",
+        "SRC03"
+      ],
+      "locator": "V.10.2 and Great Bath opening paragraph.",
+      "limit": "Do not apply Vitruvius's precise dimensions to Bath or confuse warm-room heating with spring temperature."
+    },
+    {
+      "id": "C7",
+      "type": "I",
+      "claim": "Operating furnace heating involves fuel and tending; showing an unnamed attendant is a reconstruction, not a known worker's biography.",
+      "sources": [
+        "SRC05"
+      ],
+      "locator": "Furnace-dependent construction in V.10.",
+      "limit": "No unsupported worker status, fuel quantities, wages or exact schedule."
+    },
+    {
+      "id": "C8",
+      "type": "E",
+      "claim": "Hero's Pneumatics describes mechanical devices; first-century AD is a conventional scholarly placement, though his biography/dates are uncertain.",
+      "sources": [
+        "SRC06",
+        "SRC07",
+        "SRC08"
+      ],
+      "locator": "Pneumatics sections 21/37; MacTutor chronology; Linda Hall opening.",
+      "limit": "Use Roman-era Alexandria in speech; on-screen first century AD (approx.) if needed. No invention date or priority claim."
+    },
+    {
+      "id": "C9",
+      "type": "E",
+      "claim": "Section 21 describes a coin landing on a lever plate, raising a lid/valve and allowing water to flow; when the coin falls off, the lid closes.",
+      "sources": [
+        "SRC06"
+      ],
+      "locator": "Section 21, printed p. 37.",
+      "limit": "The source says five drachms, but omit denomination. No fixed dose, coin authentication, refill automation or drink/snack vending claim."
+    },
+    {
+      "id": "C10",
+      "type": "I",
+      "claim": "The described dispenser converts coin weight into a valve action; a reservoir still needs water and the text alone does not establish widespread installation.",
+      "sources": [
+        "SRC06"
+      ],
+      "locator": "Section 21's finite water vessel and weight relationship.",
+      "limit": "Maintenance implication and source limit are explained as such. No claim every temple used it or that it verified legal tender."
+    },
+    {
+      "id": "C11",
+      "type": "E",
+      "claim": "Section 37 describes altar heat expanding air, moving water from a half-filled globe into a suspended bucket; descending bucket pulls chains to open doors.",
+      "sources": [
+        "SRC06"
+      ],
+      "locator": "Section 37, printed pp. 57–58.",
+      "limit": "Illustrative small-temple model. No steam motor, electronic sensor or everyday automatic shopfront."
+    },
+    {
+      "id": "C12",
+      "type": "E",
+      "claim": "The same design closes doors when the suspended vessel empties and a counterweight prevails; source explanations of air behaviour contain obsolete theory.",
+      "sources": [
+        "SRC06",
+        "SRC07"
+      ],
+      "locator": "Section 37 closing paragraph; MacTutor discussion of partly incorrect theory.",
+      "limit": "Explain intended sequence without repeating porous-air theory or claiming a tested reconstruction. Section 38 remains separate."
+    },
+    {
+      "id": "C13",
+      "type": "I",
+      "claim": "The five examples show recognizable functions across different places and dates; archaeological buildings and textual designs provide different kinds of evidence.",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03",
+        "SRC06"
+      ],
+      "locator": "Cross-source synthesis.",
+      "limit": "Not proof that ancient life was generally easier, that modern devices directly descend from these, or that access was universal."
+    }
+  ],
+  "research": "Original countdown with a functional question: could the Visitor assemble familiar conveniences from ancient examples? Three archaeological stops precede two designs in Hero's text. This is an explicitly labelled multi-place format exception, not a single ancient city containing all five examples. Archaeological limits matter: Regio V does not justify a precise illustrated menu; Ostia's extant phases do not supply a named tenant or monthly price; Bath's modern Victorian terrace must never appear in the Roman reconstruction. Date Bath to the fourth-century complex and use c. AD 350 as the reconstruction convention. Hero is placed in Roman-era Alexandria, approximately first century AD, without claiming an exact invention date. Sections 21 and 37 have been read in full, with 38 checked to prevent mixing two different door designs. The narration follows described sequences, not a claim that a particular excavated device operated. Build functional interiors locally from mechanism_spec.json; generated backgrounds provide exteriors only. Independent challenges: Linda Hall's dating caution versus MacTutor's conventional dating; compare surviving-building evidence with textual prescriptions; test every drawn lever and hinge direction. Do not offer a clickable claim such as first vending machine ever without stronger evidence. Counted list is an editorial format, not a historical ranking.",
+  "description": "A hot-food counter, upstairs homes, warm floors, a coin-operated water vessel and doors that open when a fire is lit. How familiar could an ancient day feel?\n\nWe visit Pompeii, Ostia and Roman Bath, then unpack two remarkable mechanisms described by Hero of Alexandria. Surviving buildings and written designs tell different stories—and every convenience has a catch.",
+  "tags": [
+    "ancient history",
+    "ancient technology",
+    "everyday Roman life",
+    "Pompeii thermopolium",
+    "Ostia apartments",
+    "Roman hypocaust",
+    "Hero of Alexandria",
+    "ancient inventions",
+    "coin operated water",
+    "Life Previously",
+    "history explained"
+  ],
+  "pinned_comment": "Which would you choose first: prepared food, an upstairs home, warm floors, the coin dispenser or the automatic doors?",
+  "pilot": [
+    "S008",
+    "S024",
+    "S040",
+    "S056",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "ANCIENT VENDING?",
+      "chip": "HERO’S DESIGN",
+      "scope": "Reconstruction of Hero's coin-operated water vessel",
+      "pose": "closeup-thoughtful",
+      "background": "Large simple bronze water chest at left with top coin slot, one blank ancient coin just above slot and plain spout filling a shallow bowl. Exterior only; no snacks, soda, glass display, electronics or lettering. Source is a described mechanism, so the local chip must say HERO’S DESIGN.",
+      "rationale": "One unexpected object and one question provide a legible promise. Coin, slot and water make the mechanism immediately understandable without pretending it was a snack machine.",
+      "payoff_scene_ids": [
+        "S057",
+        "S062",
+        "S067"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "OPEN BY FIRE?",
+      "chip": "AN ANCIENT DESIGN",
+      "scope": "Hero's described small-temple door mechanism",
+      "pose": "closeup-listening",
+      "background": "Compact pale temple model with wooden double doors partly open, small altar with a single contained flame at left foreground. No fantasy portal, glowing gods or large fire. Mechanism remains hidden; reveal comes in the video.",
+      "rationale": "Strong visual cause-and-effect question paid off by a real textual mechanism, with reconstruction qualification retained.",
+      "payoff_scene_ids": [
+        "S075",
+        "S082",
+        "S086"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "WARM FLOORS?",
+      "chip": "ROMAN BRITAIN",
+      "scope": "Aquae Sulis, fourth-century hypocaust; explanatory reconstruction",
+      "pose": "closeup-smile",
+      "background": "Plain Roman warm-room backdrop, left two-thirds occupied by simple pale plaster wall and intact tiled floor, no people, pipes, diagrams or cutaway. Leave left centre clear for a locally drawn hypocaust section specified in mechanism_spec.json; the generated image supplies atmosphere only.",
+      "rationale": "A familiar comfort becomes surprising when the underfloor structure is visible. Do not show a fire burning freely beneath exposed feet.",
+      "payoff_scene_ids": [
+        "S043",
+        "S046",
+        "S053"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "How an Ancient Coin Dispenser Was Supposed to Work",
+      "from_scene": "S060",
+      "to_scene": "S067",
+      "hook": "The coin is also the switch.",
+      "description": "A reconstruction of the mechanism described in Hero's Pneumatics, section 21—not proof of a machine in every ancient temple."
+    },
+    {
+      "title": "Ancient Doors Opened by Fire?",
+      "from_scene": "S079",
+      "to_scene": "S086",
+      "hook": "Follow the heat, then the water.",
+      "description": "Hero's described temple-door mechanism turns heat into water movement and a descending weight. This is an explanatory reconstruction."
+    },
+    {
+      "title": "The Catch With Roman Heated Floors",
+      "from_scene": "S043",
+      "to_scene": "S050",
+      "hook": "Look underneath the floor.",
+      "description": "Tile supports and a furnace explain a Roman hypocaust. The comfort in the room depended on work in the service space."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "A surprisingly familiar day",
+      "scenes": [
+        [
+          "You have bought lunch, climbed to your apartment and found a warm floor. Then a door opens without anyone touching it.",
+          "C0",
+          "intro",
+          "establishing",
+          "Temple model with closed doors; three small editorial icons added locally in left margin, not painted.",
+          "look-around"
+        ],
+        [
+          "That sounds like an ordinary day. Until the door opens because somebody has lit a fire on an altar.",
+          "C11",
+          "intro",
+          "detail",
+          "Same model closer: contained flame on small left altar, closed doors behind. Delay the opening reveal.",
+          null,
+          "Hero, Pneumatics 37 • described design"
+        ],
+        [
+          "Five familiar ideas have ancient counterparts. The catches are where this gets interesting.",
+          "C13",
+          "editorial",
+          "graphic",
+          "Five simple numbered tokens; keep names unrevealed until each chapter.",
+          null,
+          null,
+          "5 FAMILIAR IDEAS"
+        ],
+        [
+          "We start with buildings archaeologists can walk through, then end with two extraordinary mechanisms preserved in a book.",
+          "C13",
+          "editorial",
+          "graphic",
+          "Two panels: masonry silhouette and open modern source book, not an invented ancient manuscript.",
+          null,
+          null,
+          "BUILDINGS • WRITTEN DESIGNS"
+        ],
+        [
+          "Our Visitor's ambitious plan is to assemble the most comfortable ancient day he can.",
+          "C0",
+          "intro",
+          "reaction",
+          "Model at left with doors still closed; empty calm right for Visitor.",
+          "closeup-smile"
+        ],
+        [
+          "These stops belong to different places and centuries. You cannot walk between them before lunch.",
+          "C0,C13",
+          "editorial",
+          "graphic",
+          "Map dots for Pompeii, Ostia, Bath and Alexandria, correct broad locations; no route implying one journey.",
+          null,
+          null,
+          "DIFFERENT PLACES • DIFFERENT DATES"
+        ],
+        [
+          "Each gets a date, and the same question. What are you getting for your trouble?",
+          "C0",
+          "intro",
+          "reaction",
+          "Visitor beside a simple empty demonstration table, temple model farther back; no invented historical documents.",
+          "eyebrow-raise"
+        ],
+        [
+          "Number five begins with the easiest part of your plan. You are hungry, and somebody else has already prepared food.",
+          "C0,C1",
+          "food",
+          "establishing",
+          "Daylight at Pompeian masonry food counter; plain server behind left counter, no specific dishes visible.",
+          "step-forward",
+          "Pompeii • AD 79"
+        ]
+      ]
+    },
+    {
+      "title": "5. Lunch at the counter",
+      "scenes": [
+        [
+          "Welcome to Pompeii, in the year seventy-nine. This masonry counter belongs to the kind of business archaeologists call a thermopolium.",
+          "C1",
+          "food",
+          "medium",
+          "L-shaped counter and embedded jar rims clearly visible, server behind and ordinary tunic-clad customer at left.",
+          "look-around",
+          "Pompeii Archaeological Park • Regio V"
+        ],
+        [
+          "A thermopolium sold hot food and drink. Convenient, if your greatest culinary talent is feeling hungry.",
+          "C1",
+          "food",
+          "detail",
+          "Server lifts a plain small serving bowl behind counter; no labelled menu or invented dish close-up."
+        ],
+        [
+          "Look at the holes in the counter. They are the mouths of large jars built into the masonry beneath it.",
+          "C1",
+          "jar",
+          "cutaway",
+          "One broad jar rim flush with counter and rounded body below, section edge clearly explanatory."
+        ],
+        [
+          "The counter from Pompeii's Regio Five survived with painted decoration: a business preserved in actual remains.",
+          "C1",
+          "food",
+          "detail",
+          "Counter front with simplified unlettered animal motifs based on source reference, not a claimed exact facsimile."
+        ],
+        [
+          "You can picture yourself arriving, receiving a bowl and leaving the preparation to somebody else. That part feels very familiar.",
+          "C0,C2",
+          "food",
+          "reaction",
+          "Customer holding a plain bowl at left; keep Visitor separate and hands unchanged.",
+          "closeup-smile"
+        ],
+        [
+          "The comparison is prepared food. A modern takeaway's whole business model does not come with it.",
+          "C2",
+          "food",
+          "medium",
+          "Counter seen over customer's shoulder; plain bowl on counter, no invented menus or modern comparisons.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "You can admire the counter without asking whether they have an app. They really do not.",
+          "C0",
+          "food",
+          "reaction",
+          "Plain counter corner and one bowl; no written receipt or modern delivery imagery.",
+          "shrug-smirk"
+        ],
+        [
+          "And the jars do not supply an exact menu. We should leave their uncertain contents uncertain.",
+          "C2",
+          "jar",
+          "detail",
+          "Jar mouth seen from above with neutral shaded contents obscured; no specific food identification."
+        ],
+        [
+          "Painted animals may relate to what was sold, but that interpretation has limits.",
+          "C2",
+          "food",
+          "detail",
+          "Two restrained animal motifs on counter front, one partly worn; no plate matching each animal.",
+          null,
+          "Painted animals • interpretation, not a complete menu"
+        ],
+        [
+          "For our imagined purchase, the advantage is modest and real enough: you can buy prepared food instead of preparing that meal yourself.",
+          "C0,C2",
+          "food",
+          "medium",
+          "One customer accepts bowl from server; other customers sparse, plausible hand anatomy.",
+          "watch-arms-crossed"
+        ],
+        [
+          "It was one option, rather than proof that every resident lacked a kitchen.",
+          "C2",
+          "food",
+          "wide",
+          "Food counter occupies one shopfront within an ordinary street; adjacent closed doorway remains visible.",
+          null,
+          "Prepared-food counter • one option",
+          null
+        ],
+        [
+          "Your lunch stop passes. A familiar function, supported by a very solid piece of architecture.",
+          "C0,C1",
+          "food",
+          "wide",
+          "Counter and street opening together, same geometry, quiet daytime activity.",
+          "thumbs-up"
+        ],
+        [
+          "We cannot quote your bill. The bowl in our imagined purchase will have to do.",
+          "C0,C2",
+          "food",
+          "object insert",
+          "Single plain bowl on counter surface; food indistinct and no price markings."
+        ],
+        [
+          "Somebody has fed you. Now you would quite like a home.",
+          "C0",
+          "food",
+          "reaction",
+          "Counter recedes behind; clear right for thoughtful Visitor.",
+          "closeup-thoughtful"
+        ],
+        [
+          "So we leave Pompeii for another Roman town, and move forward in time. Your next convenience is waiting above street level.",
+          "C0,C3",
+          "editorial",
+          "graphic",
+          "Map transition Pompeii to Ostia, with two distinct date boxes and a clear time jump.",
+          null,
+          null,
+          "POMPEII • AD 79 → OSTIA • c. AD 200"
+        ],
+        [
+          "There is, unfortunately, some climbing involved. Number four is an apartment building, and the building has not supplied an elevator.",
+          "C0,C3",
+          "ostia",
+          "establishing",
+          "Three-storey reconstructed block; outside stair left, shops below, upper windows. Do not add a lift.",
+          "look-up-worried",
+          "Ostia • c. AD 200"
+        ]
+      ]
+    },
+    {
+      "title": "4. A home upstairs",
+      "scenes": [
+        [
+          "At Ostia, the Insula of the Painted Ceiling belonged to a block combining homes with commercial space below and around them.",
+          "C3",
+          "ostia",
+          "wide",
+          "Same brick-faced block with ground-level shop openings and domestic windows above, no identical stacked balconies.",
+          "look-around",
+          "Ostia Antica Archaeological Park"
+        ],
+        [
+          "The archaeological park describes three or four storeys and exterior stairs. Our reconstruction shows three, rather than inventing a certain fourth.",
+          "C3",
+          "ostia",
+          "low angle",
+          "Clearly count three storeys; continuous outside stair remains on same side.",
+          null,
+          "Reconstructed elevation • upper details uncertain"
+        ],
+        [
+          "People living vertically, sharing a building, with commercial life happening below: you recognize the arrangement.",
+          "C3",
+          "ostia",
+          "medium",
+          "Upper doorway and ground commercial frontage together; two distinct occupants, no named tenants."
+        ],
+        [
+          "A Roman home does not have to be a detached villa around a private courtyard.",
+          "C0,C3",
+          "ostia",
+          "reaction",
+          "Ground-level stair entrance beside commercial opening; clear Visitor ground.",
+          "eyebrow-raise"
+        ],
+        [
+          "Let us step inside the plan. A central, window-lit space opened into other rooms, giving the dwelling a different shape from outside.",
+          "C4",
+          "room",
+          "establishing",
+          "Central vestibule, tall left windows and three adjoining doorways, simple bench; no people needed."
+        ],
+        [
+          "Archaeologists call the central space a medianum. Look where those tall windows admit daylight.",
+          "C4",
+          "room",
+          "detail",
+          "Tall windows illuminate central floor; adjoining room doorway shaded naturally.",
+          null,
+          "Window-lit central space • medianum"
+        ],
+        [
+          "Drawing a row of identical dark boxes would miss something important about this particular interior.",
+          "C4",
+          "room",
+          "medium",
+          "Angle from an adjoining doorway into bright central vestibule; preserve doors and window positions.",
+          "look-around"
+        ],
+        [
+          "Painted decoration survives here too. Upstairs living and commercial neighbours do not automatically mean a building stripped of every decorative ambition.",
+          "C4",
+          "room",
+          "detail",
+          "Restrained late-second-century red/ochre wall painting, no faux inscriptions or lavish palace fresco."
+        ],
+        [
+          "Your imagined apartment has rooms and daylight. You have not needed to acquire an entire villa.",
+          "C0",
+          "room",
+          "reaction",
+          "Modest reconstructed room, plain stool and small table; Visitor close-up right.",
+          "closeup-smile"
+        ],
+        [
+          "The floor plan cannot quote your rent or identify the person handing you a key.",
+          "C3,C4",
+          "room",
+          "reaction",
+          "Window-lit vestibule, simple door and table; no invented lease, key or written prices.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "And this building changed. Later alterations created smaller, independent apartments, so one drawing cannot honestly represent every stage of its life.",
+          "C4",
+          "room",
+          "detail",
+          "Show original broad doorway and a separate locally drawn schematic inset of later partition; label phase distinction.",
+          null,
+          "Later subdivision • not all phases simultaneous"
+        ],
+        [
+          "Our reconstruction is around the year two hundred. The building's entire history does not happen simultaneously.",
+          "C0,C4",
+          "room",
+          "detail",
+          "Single reconstructed wall surface with restrained late-second-century decoration, no blended ruin stages.",
+          null,
+          "Ostia • reconstruction c. AD 200",
+          null
+        ],
+        [
+          "A home inside a larger urban building: another recognizable solution to fitting people into a town.",
+          "C3",
+          "ostia",
+          "wide",
+          "Block viewed across narrow Roman street, consistent three-storey elevation and exterior stair.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Then there are those steps. Familiar housing has not abolished familiar effort.",
+          "C0,C3",
+          "ostia",
+          "detail",
+          "Clear continuous stair, adult local ascending left; Visitor only as separate reaction at right.",
+          "closeup-worried"
+        ],
+        [
+          "Now imagine finishing the climb and discovering a warm floor. For that part of our day, we need another change of address.",
+          "C0",
+          "ostia",
+          "reaction",
+          "Top landing of same stair, no impossible Visitor footing; use close-up rather than standing on steps.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Number three takes us to Roman Britain, to Aquae Sulis: the place we now call Bath. Follow the heat, not the plumbing.",
+          "C5,C6",
+          "bath",
+          "establishing",
+          "Late Roman warm room viewed from doorway, tiled intact floor and bench, no modern visitor rails.",
+          "step-forward",
+          "Aquae Sulis • c. AD 350"
+        ]
+      ]
+    },
+    {
+      "title": "3. The floor is warm",
+      "scenes": [
+        [
+          "We are visiting the fourth-century bathing complex. The heated rooms here give us a very literal version of comfort under your feet.",
+          "C5",
+          "bath",
+          "medium",
+          "Same simple warm room with tiled floor occupying lower left, plaster walls intact.",
+          "closeup-smile",
+          "Roman Baths • western heated rooms"
+        ],
+        [
+          "Lift away the floor in our diagram. A forest of short supports appears underneath.",
+          "C5,C6",
+          "editorial",
+          "graphic",
+          "Hypocaust section from mechanism_spec.json; floor separated from cavity, short square tile stacks below.",
+          null,
+          null,
+          "A FLOOR RAISED ON TILE STACKS"
+        ],
+        [
+          "These stacks hold the floor above a cavity. Heat from a furnace can travel through that space beneath the occupied room.",
+          "C5,C6",
+          "editorial",
+          "graphic",
+          "Same section, muted arrows from side furnace through open spaces between stacks.",
+          null,
+          null,
+          "FURNACE → UNDERFLOOR SPACE"
+        ],
+        [
+          "The Roman Baths preserve examples of these tile supports. They are heating evidence, not broken furniture.",
+          "C5",
+          "bath",
+          "cutaway",
+          "Unoccupied room section with intact suspended floor over short tile piers; masonry geometry matches diagram."
+        ],
+        [
+          "The system is called a hypocaust. At Bath, heated air circulated beneath floors and through parts of the walls as well.",
+          "C5",
+          "editorial",
+          "graphic",
+          "Hypocaust section adds upward wall flue; keep hot-gas circuit separate from occupied air.",
+          null,
+          null,
+          "HYPOCAUST • FLOORS AND WALLS"
+        ],
+        [
+          "These are passages for hot gases, not modern water pipes zigzagging through concrete.",
+          "C5,C6",
+          "editorial",
+          "graphic",
+          "Compare Roman underfloor cavity with small crossed-out modern pipe icon, clearly editorial.",
+          null,
+          null,
+          "HOT GASES • NOT WATER PIPES"
+        ],
+        [
+          "The Roman writer Vitruvius describes constructing suspended hot-room floors on brick supports. This was a building problem someone had worked through carefully.",
+          "C6",
+          "furnace",
+          "detail",
+          "Furnace masonry edge and robust floor-support section, no handwritten page.",
+          null,
+          "Vitruvius • Architecture V.10"
+        ],
+        [
+          "For somebody enjoying the warm room, the useful part stays out of sight. For somebody tending the furnace, it is the whole job.",
+          "C7",
+          "furnace",
+          "medium",
+          "One unnamed attendant places split wood beside low furnace mouth; normal muted tunic, no invented chains.",
+          "watch-arms-crossed"
+        ],
+        [
+          "We do not know our imagined attendant's name or circumstances. The fuel and furnace are the point.",
+          "C7",
+          "furnace",
+          "detail",
+          "Plain stack of dry wood and contained furnace glow; no name badge or written roster."
+        ],
+        [
+          "The heat has to come from somewhere. Your comfortable floor depends on a service space, a working fire and somebody keeping things going.",
+          "C6,C7",
+          "furnace",
+          "wide",
+          "Service area with fuel, furnace and attendant; clear safe working space, no impossible smoke entering warm room.",
+          "closeup-thoughtful"
+        ],
+        [
+          "There is another trap at Bath: the Great Bath received naturally hot spring water. Do not make that spring into a furnace product.",
+          "C6",
+          "editorial",
+          "graphic",
+          "Two separate paths: spring to bathing pool, furnace to room floor. Distinct labels and no connecting arrow.",
+          null,
+          null,
+          "HOT SPRING ≠ ROOM FURNACE"
+        ],
+        [
+          "Two sources of warmth can belong to the same complex without being the same mechanism. Our countdown is about the heated rooms.",
+          "C5,C6",
+          "bath",
+          "medium",
+          "Return to intact warm-room floor and bench, no pool added.",
+          "look-around"
+        ],
+        [
+          "Nor does this substantial bathing complex prove that every Roman household enjoyed heated floors.",
+          "C5",
+          "bath",
+          "wide",
+          "Same heated room framed through masonry entrance, no multiple houses or ubiquitous heating map.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "Your floor passes the comfort test. The effort is concentrated somewhere you would rather not stand.",
+          "C0,C7",
+          "bath",
+          "reaction",
+          "Warm room calm and uncluttered, Visitor right looking down at floor.",
+          "closeup-smile"
+        ],
+        [
+          "So far, we have walked through buildings. The final two ideas take us into a different kind of evidence: an ancient engineering book.",
+          "C8,C13",
+          "editorial",
+          "graphic",
+          "Three masonry tokens on left, two book-design tokens right; heading fits safely.",
+          null,
+          null,
+          "NEXT: DESIGNS PRESERVED IN A TEXT"
+        ],
+        [
+          "Number two asks you to put a coin into a machine. It will not serve crisps. The remarkable part is how it releases water.",
+          "C0,C9",
+          "coin",
+          "establishing",
+          "Simple bronze chest with top slot, low left outlet and shallow bowl; no water flowing yet.",
+          "eyebrow-raise",
+          "Hero, Pneumatics 21 • described design"
+        ]
+      ]
+    },
+    {
+      "title": "2. The coin is also the switch",
+      "scenes": [
+        [
+          "Hero of Alexandria describes this device in his Pneumatics. We are showing an interpretation of his written instructions.",
+          "C8,C9",
+          "coin",
+          "medium",
+          "Bronze chest exterior with slot and bowl, stable geometry; no water yet.",
+          "look-around",
+          "Written design • not an excavated machine"
+        ],
+        [
+          "Hero worked in Roman-era Alexandria. His biography is uncertain, so we will not invent an installation date.",
+          "C8",
+          "coin",
+          "detail",
+          "Close view of plain bronze chest and spout, a small unlettered closed modern source book added locally at edge if needed.",
+          null,
+          "Hero of Alexandria • Roman era",
+          null
+        ],
+        [
+          "Inside the chest is a water reservoir. A small lid closes the outlet until the mechanism lifts it.",
+          "C9",
+          "editorial",
+          "graphic",
+          "Section 21 closed-state diagram: reservoir, sealed outlet box, suspended lid and lever plate.",
+          null,
+          null,
+          "BEFORE THE COIN: OUTLET CLOSED"
+        ],
+        [
+          "In Hero's design, a coin does two jobs: it is payment, and its weight moves a lever.",
+          "C9",
+          "editorial",
+          "graphic",
+          "Coin above plate and lever; source label remains visible throughout Short.",
+          null,
+          "Hero, Pneumatics 21 • reconstruction",
+          "ONE COIN • TWO JOBS"
+        ],
+        [
+          "One end of that lever carries a plate. The other end supports the lid closing the water outlet.",
+          "C9",
+          "editorial",
+          "graphic",
+          "Lever pivot between coin plate and lid; highlight the two ends without changing position. Use static successive states; no animated version is assumed by the native renderer.",
+          null,
+          null,
+          "PLATE ← PIVOT → LID"
+        ],
+        [
+          "Drop the coin onto the plate. That end goes down, and the lid at the other end rises.",
+          "C9",
+          "editorial",
+          "graphic",
+          "Two-state local coin/lever diagram: faint before outline and clear after state, coin on lowered plate, raised lid. Preserve pivot and geometry.",
+          null,
+          null,
+          "COIN DOWN • LID UP"
+        ],
+        [
+          "The moving part is small, but it changes the whole machine. The previously blocked outlet is now open.",
+          "C9",
+          "editorial",
+          "graphic",
+          "Valve detail from same diagram with clear gap between lid and outlet box, no floating disconnected rod.",
+          null,
+          null,
+          "THE OUTLET OPENS"
+        ],
+        [
+          "Water can flow through the pipe and out of the chest. No attendant needs to lift that lid for you.",
+          "C9",
+          "editorial",
+          "graphic",
+          "Open-state local diagram with drawn short water stream and lower reservoir; align cut to onset of the water sound.",
+          null,
+          null,
+          "WATER FLOWS"
+        ],
+        [
+          "When the coin falls off the plate, the balance changes again. The lid drops and closes the outlet.",
+          "C9",
+          "editorial",
+          "graphic",
+          "Coin drops into separate dry collection space; plate rises, lid seats; stream stops.",
+          null,
+          null,
+          "COIN FALLS • LID CLOSES"
+        ],
+        [
+          "The water stops. Your payment briefly changed the balance, then disappeared into the chest.",
+          "C9",
+          "coin",
+          "detail",
+          "Closed exterior after operation; small amount of water in bowl, no stream."
+        ],
+        [
+          "It is a wonderfully direct arrangement. The coin does not send a message; it physically pushes part of the device.",
+          "C9,C10",
+          "coin",
+          "reaction",
+          "Chest at left with a separate locally drawn lever inset; calm right.",
+          "closeup-smile"
+        ],
+        [
+          "But the description is about water in a religious setting. We have not discovered an ancient supermarket vending aisle.",
+          "C9,C10",
+          "coin",
+          "wide",
+          "Simple chest in restrained temple-context niche; no other machines, snacks or invented queue.",
+          "watch-arms-crossed"
+        ],
+        [
+          "A description does not show how widely a device was installed. We cannot give every temple one.",
+          "C10",
+          "coin",
+          "wide",
+          "One reconstructed water chest in a simple alcove, no duplicated machines or crowd.",
+          null,
+          "Described mechanism • extent of use uncertain",
+          null
+        ],
+        [
+          "The water vessel must also contain water. However clever the lever, an empty reservoir cannot provide your next serving.",
+          "C10",
+          "coin",
+          "object insert",
+          "Exterior chest and empty plain refill jug nearby; no person or claim of automated refill."
+        ],
+        [
+          "And a surviving description is different from evidence that every temple installed one. Keep that distinction attached to the surprise.",
+          "C10",
+          "editorial",
+          "graphic",
+          "One text-design icon, no multiplying device icons; clear qualification.",
+          null,
+          null,
+          "DESCRIBED ≠ EVERYWHERE"
+        ],
+        [
+          "For the Visitor, the memorable idea is still there: a payment can operate a mechanism without somebody taking it by hand.",
+          "C0,C9",
+          "coin",
+          "reaction",
+          "Coin slot and bowl at left, Visitor right, no altered source hands.",
+          "eyebrow-raise"
+        ],
+        [
+          "Next, a machine responding to heat, with a much more theatrical result.",
+          "C11",
+          "temple",
+          "establishing",
+          "Compact temple model, doors closed, altar unlit, identical design to intro.",
+          "look-around"
+        ],
+        [
+          "Number one: doors that open when a fire is lit. Before celebrating, let us look underneath the temple.",
+          "C0,C11",
+          "temple",
+          "detail",
+          "Low view of closed double doors and opaque base; reveal of hidden machinery held for next chapter.",
+          null,
+          "Hero, Pneumatics 37 • described design"
+        ]
+      ]
+    },
+    {
+      "title": "1. Open the door—with fire",
+      "scenes": [
+        [
+          "Hero describes a small temple standing over a hidden mechanism. The fire burns on an altar beside it.",
+          "C11",
+          "temple",
+          "wide",
+          "Same model with contained altar flame at left, closed wooden doors; no unexplained steam.",
+          "closeup-listening"
+        ],
+        [
+          "There is no person pulling the doors in the instructions. Instead, heat starts a chain of movements below them.",
+          "C11",
+          "temple",
+          "detail",
+          "Altar and base connection; tube route added locally only where section opens."
+        ],
+        [
+          "We will follow one design, using air, water, a suspended bucket and weights. Hero also describes another arrangement.",
+          "C11,C12",
+          "editorial",
+          "graphic",
+          "Four icons matching section 37 only; no leather bag from section 38.",
+          null,
+          null,
+          "AIR • WATER • BUCKET • WEIGHT"
+        ],
+        [
+          "Our drawing follows the written instructions. It is not an excavated machine.",
+          "C11",
+          "temple",
+          "detail",
+          "Same compact temple model on plain tabletop, closed doors; no archaeological find labels.",
+          null,
+          "Explanatory reconstruction • Hero, Pneumatics 37",
+          null
+        ],
+        [
+          "In Hero's design, the altar connects by a tube to a globe partly filled with water beneath it.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Start door diagram: altar connected to globe airspace, water half-full, bucket separate.",
+          null,
+          "Hero, Pneumatics 37 • reconstruction",
+          "ALTAR → AIRSPACE"
+        ],
+        [
+          "As the altar grows hot, heated air expands and drives water from the globe through another bent tube.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Air-pressure arrow enters airspace; water follows immersed tube to hanging bucket; no boiling imagery.",
+          null,
+          null,
+          "HEAT MOVES THE WATER"
+        ],
+        [
+          "That water enters the suspended bucket. The bucket becomes heavier and descends, tightening chains attached to the door pivots.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Bucket moves downward as it fills; opening chains taut around both opposed door pivots.",
+          null,
+          null,
+          "A HEAVIER BUCKET DESCENDS"
+        ],
+        [
+          "The chains turn those pivots. Now the doors open, while the person watching above sees none of this hidden work.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Door leaves pivot outward symmetrically, bucket descends and counterweight rises; labels stay fixed.",
+          null,
+          null,
+          "CHAINS TURN THE DOORS"
+        ],
+        [
+          "Heat moves air, air moves water, water changes weight, and weight moves doors.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Four-step causal strip with precisely those four transitions; no magical direct flame-to-door arrow.",
+          null,
+          null,
+          "HEAT → WATER → WEIGHT → DOORS"
+        ],
+        [
+          "Your apparently self-opening doorway has a very busy basement. It is less effortless once you can see the whole arrangement.",
+          "C0,C11",
+          "temple",
+          "reaction",
+          "Open-door exterior state of same compact model, no machinery shown; Visitor surprised right.",
+          "closeup-worried"
+        ],
+        [
+          "Closing needs another part of the design. Opposing chains connect to a counterweight that can pull the doors shut.",
+          "C12",
+          "editorial",
+          "graphic",
+          "Highlight closing counterweight and oppositely wound chains, show distinct path from bucket chains.",
+          null,
+          null,
+          "THE COUNTERWEIGHT CLOSES THEM"
+        ],
+        [
+          "Hero describes water returning as the system cools. The lighter bucket lets the counterweight close the doors.",
+          "C12",
+          "editorial",
+          "graphic",
+          "Intended reset: water returns along tube, bucket rises, counterweight descends, leaves close.",
+          null,
+          null,
+          "BUCKET LIGHTENS • DOORS CLOSE"
+        ],
+        [
+          "His explanation of the air contains outdated theory; our diagram follows the intended mechanical sequence.",
+          "C12",
+          "temple",
+          "detail",
+          "Temple model with doors shut and altar unlit after reset; no false visible air particles.",
+          null,
+          "Intended sequence from the text",
+          null
+        ],
+        [
+          "Also notice what this door detects. It responds to the altar's heat, not to a shopper walking towards a sensor.",
+          "C11",
+          "temple",
+          "medium",
+          "Temple model altar burning beside open doors; no approaching shopper or light beam.",
+          "eyebrow-raise"
+        ],
+        [
+          "That makes it a striking automatic-door idea, but a rather inconvenient way to enter your kitchen carrying the shopping.",
+          "C0",
+          "temple",
+          "reaction",
+          "Same exterior, Visitor deadpan close-up; no modern kitchen inserted into historical scene.",
+          "shrug-smirk"
+        ],
+        [
+          "Keep the scale honest. The text describes a small temple, not a giant city gate.",
+          "C11",
+          "temple",
+          "detail",
+          "Compact model scale reinforced by plain worktable edge, no person claiming historic ownership."
+        ],
+        [
+          "The excitement is in the actual design: several simple effects arranged so that one event causes something surprising elsewhere.",
+          "C11",
+          "temple",
+          "wide",
+          "Open doors and single controlled altar flame, same scale and restrained colours.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The instructions do not tell us how many installations existed or how reliably they worked.",
+          "C11,C12",
+          "temple",
+          "wide",
+          "Single model with calm neutral background; no multiplication of installations or success score.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "For our imagined day, the doors make a brilliant finale. For a historian, they remain a mechanism described in a text.",
+          "C0,C11",
+          "temple",
+          "reaction",
+          "Open temple doors at left, Visitor listening rather than triumphant; no divine figure.",
+          "closeup-thoughtful"
+        ],
+        [
+          "The design is impressive enough without a false discovery story or an invented portrait of its author.",
+          "C0,C8",
+          "temple",
+          "wide",
+          "Final clean view of simple temple model with doors open and altar fading; no portraits or manuscripts."
+        ]
+      ]
+    },
+    {
+      "title": "What would you keep?",
+      "scenes": [
+        [
+          "So your ancient comfort list contains prepared food, upstairs homes, heated floors, a coin mechanism and heat-operated doors.",
+          "C13",
+          "editorial",
+          "graphic",
+          "Five original icons arranged across two rows, labels read sequentially, no collage of unreviewed sources.",
+          null,
+          null,
+          "FOOD • HOMES • HEAT • COINS • DOORS"
+        ],
+        [
+          "Three archaeological stops, two written designs, spread across different places and dates.",
+          "C13",
+          "editorial",
+          "graphic",
+          "Five icons divide into three archaeological buildings and two textual mechanisms.",
+          null,
+          null,
+          "THREE BUILDINGS • TWO WRITTEN DESIGNS"
+        ],
+        [
+          "None proves that ancient life was easier for everyone. They show people finding recognizable answers to particular problems.",
+          "C13",
+          "coin",
+          "reaction",
+          "Coin machine exterior quietly framed left; clear right for Visitor.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Someone still prepares the food, tends the fire or refills the water.",
+          "C2,C7,C10",
+          "furnace",
+          "detail",
+          "Return to plain stack of dry fuel at furnace, same model geometry, no newly claimed worker identity.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Which one would you keep? Our Visitor is tempted by the dramatic doors. His feet are still voting for the warm floor.",
+          "C0",
+          "bath",
+          "reaction",
+          "Return to same warm room; Visitor smiles, eyes toward floor, no pose alteration.",
+          "closeup-smile"
+        ],
+        [
+          "This is Life, Previously. The next ordinary day in history may be stranger than it first appears.",
+          "C0",
+          "bath",
+          "wide",
+          "Warm room left, quiet right and upper corner reserved for end-screen placement; no new CTA text painted."
+        ]
+      ]
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "The Visitor crosses several places and centuries as an explicitly modern guide. Keep his familiar outfit throughout; changing to multiple loosely researched ancient costumes would distract from the mechanisms.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Keep him modestly scaled and secondary to each mechanism. Local cast remain period-correct; no extra accessories."
+  },
+  "pronunciations": {
+    "status": "director_specified_not_voiced",
+    "entries": [
+      {
+        "term": "Pompeii",
+        "say": "pom-PAY",
+        "note": "Consistent with episode 002."
+      },
+      {
+        "term": "Ostia",
+        "say": "OSS-tee-uh",
+        "note": "Three syllables."
+      },
+      {
+        "term": "Aquae Sulis",
+        "say": "ACK-wye SOO-liss",
+        "note": "Caption keeps Latin spelling."
+      },
+      {
+        "term": "hypocaust",
+        "say": "HIGH-poh-kawst",
+        "note": "Explain immediately."
+      },
+      {
+        "term": "Hero",
+        "say": "HEER-oh",
+        "note": "Author's name; not the abstract heroic role."
+      },
+      {
+        "term": "Pneumatics",
+        "say": "new-MAT-iks",
+        "note": "The book title."
+      }
+    ],
+    "rule": "Read AD dates naturally; the approximate Roman-era label must not become a precise invention year."
+  },
+  "sound_plan": {
+    "status": "director_specified_not_generated_or_heard",
+    "music": "Existing channel theme quietly under narration; brief pause before each mechanism reveal, no science-fiction stings.",
+    "mix": "Near -14 LUFS integrated and true peak <= -1 dBTP. Effects below narration at their exact cues.",
+    "new_assets": [
+      {
+        "id": "coin_plate",
+        "description": "Single light metal coin landing on a small metal plate."
+      },
+      {
+        "id": "small_water",
+        "description": "Short gentle water stream into shallow bowl."
+      },
+      {
+        "id": "wood_hinge",
+        "description": "Brief quiet wooden door hinge movement, no modern motor."
+      },
+      {
+        "id": "low_fire",
+        "description": "Soft contained wood-fire crackle."
+      }
+    ],
+    "acquisition": "Reuse inspected library cues where suitable. Quote only missing assets within the production allowance.",
+    "cues": [
+      {
+        "scene_id": "S062",
+        "asset": "coin_plate",
+        "timing": "Single light coin cue at cut to the state showing the coin landing; omit if no visible landing transition is built."
+      },
+      {
+        "scene_id": "S064",
+        "asset": "small_water",
+        "timing": "Brief gentle water cue at cut to the diagram showing flow; stop before S065's closed state."
+      },
+      {
+        "scene_id": "S082",
+        "asset": "wood_hinge",
+        "timing": "Brief hinge cue at cut to open-door diagram. Do not imply a continuously moving door if only static states are used."
+      },
+      {
+        "scene_id": "S048",
+        "asset": "low_fire",
+        "timing": "Brief low ambient bed behind visible furnace, fade before next scene."
+      }
+    ],
+    "intentional_silence": [
+      "No automated checkout beep.",
+      "No magical whoosh or divine voice.",
+      "Static illustrated people have no fabricated dialogue."
+    ]
+  },
+  "extra_specs": [
+    "mechanism_spec.json"
+  ]
+}

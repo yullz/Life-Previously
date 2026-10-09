@@ -1,0 +1,22 @@
+{
+  "status": "director_selected_reference_inspected",
+  "mode": "late_Qajar_everyday_clothing",
+  "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+  "scope": "Meybod, around1900; modest visitor to a working ice house, no official or royal status",
+  "garments": "Plain knee-length muted olive/brown outer robe over a cream collarless shirt and straight loose slate trousers; modest dark cloth waist tie; simple dark soft shoes. Long sleeves narrowed enough for ordinary work; no embroidery, metallic trim, huge sash, weapons, jewels or ceremonial headgear. Visitor's familiar hair remains visible; no change of ethnic identity or facial hair.",
+  "season_variants": "Use one consistent plain closed-front or modestly overlapping robe configuration in every pose. Moderate loose fit works for the illustrative visit in both seasons; no shot-dependent open/closed variant is required.",
+  "references": [
+    {
+      "url": "https://www.iranicaonline.org/articles/clothing-x/",
+      "locator": "Later nineteenth-century Qajar paragraphs: continued traditional robes, undergarments, trousers, ordinary vs court dress.",
+      "use": "Garment family and ordinary/court distinction, cross-checked with Sykes.127 photograph."
+    },
+    {
+      "url": "https://www.britishmuseum.org/collection/object/AA_Sykes-127",
+      "locator": "Sykes.127, Iran, c.1900; two men and a boy, photograph visually inspected 2026-10-09.",
+      "use": "Comparative plain layered coat/shirt/trouser silhouette. Not a named Meybod ice worker, no claim to colours from black-and-white image; do not copy head wraps or change Visitor identity."
+    }
+  ],
+  "native": "Create reviewed private pose PNGs and hashes in episodes/ice-in-the-desert/poses/poses.json; original pose names stay unchanged.",
+  "artwork_cost": "Quote one full-body and one close-up wardrobe reference if paid work is needed, plus exact number of used pose derivatives; local edits where adequate. No generation authorized during development."
+}

@@ -1,0 +1,1759 @@
+{
+  "schema_version": "1.0",
+  "author": "Astra",
+  "status": "development_in_progress",
+  "episode_id": "salem-1692",
+  "requests": [
+    {
+      "request_id": "S001",
+      "scene_id": "S001",
+      "asset_key": "S001",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nwide: Plain examination room, table and waiting accused, no fit yet; Visitor separate at edge.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S003",
+      "scene_id": "S003",
+      "asset_key": "S003",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Modest timber meetinghouse, unpaved path, scattered clapboard houses and trees; no modern tourist street or grand courthouse.\nwide: Ordinary timber meetinghouse and path, no ominous magical sky.\nKeep the action on the left two thirds; leave right third unoccupied with continuous level ground at the foreground foot point.\nKeep important details at least 8 percent inside the frame.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S005",
+      "scene_id": "S005",
+      "asset_key": "S005",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\ndetail: Clerk's blank paper,quill and closed record bundle; historical room anchored toS001.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S006",
+      "scene_id": "S006",
+      "asset_key": "S006",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\nwide: Neighbours and elderly Nurse near plain table, papers blank.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S008",
+      "scene_id": "S008",
+      "asset_key": "S008",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\nwide: Mary Esty seated beside paper and window; quill aside, no invented writing action.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S009",
+      "scene_id": "S009",
+      "asset_key": "S009",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\ndetail: Paper edge and still hands, no readable painted text.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S011",
+      "scene_id": "S011",
+      "asset_key": "S011",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S003",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S003",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Modest timber meetinghouse, unpaved path, scattered clapboard houses and trees; no modern tourist street or grand courthouse.\nmedium: Meetinghouse doorway with ordinary people entering, no grand jury spectacle.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S003. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S012",
+      "scene_id": "S012",
+      "asset_key": "S012",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nmedium: Young Mary Warren at left opposite two magistrates, clerk seated to side.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S013",
+      "scene_id": "S013",
+      "asset_key": "S013",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nmedium: Mary speaks calmly, one witness distressed on bench; no supernatural figure.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S014",
+      "scene_id": "S014",
+      "asset_key": "S014",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nmedium: Mary Warren standing apart from seated witnesses; clear facial expressions,no ghost or role labels painted.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S015",
+      "scene_id": "S015",
+      "asset_key": "S015",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nover-shoulder: Magistrate listens to witness across room, Mary separate, blank paper at clerk.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S016",
+      "scene_id": "S016",
+      "asset_key": "S016",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nclose: Mary's hands clasped at waist, magistrates beyond, restrained expression.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S018",
+      "scene_id": "S018",
+      "asset_key": "S018",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\ndetail: Clerk's hand and ordinary ink on blank sheet,with Mary and witnesses out of focus; no supernatural cause.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S020",
+      "scene_id": "S020",
+      "asset_key": "S020",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nwide: Same room, magistrates and witnesses focused on Mary, no manic expressions.\nKeep the action on the left two thirds; leave right third unoccupied with continuous level ground at the foreground foot point.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S021",
+      "scene_id": "S021",
+      "asset_key": "S021",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nclose: Same clerk pauses over paper; restrained room, no claim his observation was an experiment.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S022",
+      "scene_id": "S022",
+      "asset_key": "S022",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\ndetail: Clerk's blank sheet and hand poised, record not magical artifact.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S023",
+      "scene_id": "S023",
+      "asset_key": "S023",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1692; illustrative confinement.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene.\nmedium: Mary at plain doorway with official nearby, no chains or violence.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S024",
+      "scene_id": "S024",
+      "asset_key": "S024",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\nmedium: Neighbours gather around table while Nurse listens quietly.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S025",
+      "scene_id": "S025",
+      "asset_key": "S025",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\nwide: Several neighbours by table with Nurse; no exact signature count implied.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S026",
+      "scene_id": "S026",
+      "asset_key": "S026",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\nmedium: Elderly Nurse beside two neighbours at table; one neighbour holds blank paper,not a generated signature sheet.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S027",
+      "scene_id": "S027",
+      "asset_key": "S027",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\ndetail: Paper held by neighbour, no fabricated spoken quotation or painted signatures.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S028",
+      "scene_id": "S028",
+      "asset_key": "S028",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\nmedium: One older male supporter at table with blank petition; illustrative likeness,not an exact portrait of Nathaniel Putnam.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S029",
+      "scene_id": "S029",
+      "asset_key": "S029",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\nmedium: Neighbour gestures toward seated Nurse with open hand, respectful staging.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S030",
+      "scene_id": "S030",
+      "asset_key": "S030",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\ndetail: Hands holding plain paper near doorway; Nurse remains visible behind supporters.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S031",
+      "scene_id": "S031",
+      "asset_key": "S031",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\nwide: Group remains together, no crowd turns hostile or throws stones.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S032",
+      "scene_id": "S032",
+      "asset_key": "S032",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nwide: Distinct Town courtroom, Nurse left and jurors on bench, no Village room reuse.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S033",
+      "scene_id": "S033",
+      "asset_key": "S033",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nclose: Nurse's worried face, cap and grey hair consistent, no caricature.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S034",
+      "scene_id": "S034",
+      "asset_key": "S034",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\ndetail: Two blank record sheets on clerk's table; Nurse and jury bench beyond, room consistent.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S035",
+      "scene_id": "S035",
+      "asset_key": "S035",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nclose: Plain clerk's folio and quill near window, no counterfeit title page or printed1700book in1692scene.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S036",
+      "scene_id": "S036",
+      "asset_key": "S036",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nmedium: Juror attentive at bench, Nurse across room; no already-final verdict sign.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S037",
+      "scene_id": "S037",
+      "asset_key": "S037",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nwide: Jurors grouped by bench, magistrates at table; no celebratory release or second courtroom.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S038",
+      "scene_id": "S038",
+      "asset_key": "S038",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nmedium: Juror Thomas Fisk represented generically on bench, looking toward Nurse; no invented words painted.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S040",
+      "scene_id": "S040",
+      "asset_key": "S040",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nmedium: Juror turns toward Nurse, who looks strained; no claim she intentionally refuses.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S041",
+      "scene_id": "S041",
+      "asset_key": "S041",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nclose: Nurse by courtroom table, plain cap and hands visible, no witch imagery.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S042",
+      "scene_id": "S042",
+      "asset_key": "S042",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nclose: Nurse attentive but strained, normal ears, no hearing aid or invented gesture.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S044",
+      "scene_id": "S044",
+      "asset_key": "S044",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S032",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S032",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Town,lateJune1692; Nurse trial.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Broader timber room than Village scene, side windows, long magistrates' table, jurors' bench, elderly Nurse near left foreground and clerk right rear. Fixed geography,no modern railing/gavel.\nwide: Room now quiet, Nurse in foreground, no hanging image or verdict gavel.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S032. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S045",
+      "scene_id": "S045",
+      "asset_key": "S045",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S003",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S003",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Modest timber meetinghouse, unpaved path, scattered clapboard houses and trees; no modern tourist street or grand courthouse.\nwide: Quiet meetinghouse path, no execution staging or flames; restrained daylight.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S003. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S046",
+      "scene_id": "S046",
+      "asset_key": "S046",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S023",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S023",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1692; illustrative confinement.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene.\nwide: Empty bench in quiet room, no body or dramatic shadow.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S023. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S047",
+      "scene_id": "S047",
+      "asset_key": "S047",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Wardwell confession and recantation,September1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book.\nwide: Samuel Wardwell opposite clerk, blank page, no torture or devil imagery.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S048",
+      "scene_id": "S048",
+      "asset_key": "S048",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S047",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S047",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Wardwell confession and recantation,September1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book.\ndetail: Two plain source sheets on table, no invented signatures.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S047. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S049",
+      "scene_id": "S049",
+      "asset_key": "S049",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S047",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S047",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Wardwell confession and recantation,September1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book.\nmedium: Wardwell speaking to clerk, sober room, no supernatural scene shown.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S047. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S050",
+      "scene_id": "S050",
+      "asset_key": "S050",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S047",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S047",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Wardwell confession and recantation,September1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book.\ndetail: Ordinary blank confession sheet and quill; no devil contract or occult seal.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S047. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S051",
+      "scene_id": "S051",
+      "asset_key": "S051",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S047",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S047",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Wardwell confession and recantation,September1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book.\nmedium: Same man and table, later-date overlay distinguishes event; no single continuous hearing.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S047. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S052",
+      "scene_id": "S052",
+      "asset_key": "S052",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S047",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S047",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Wardwell confession and recantation,September1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book.\nclose: Wardwell's solemn face opposite clerk, no visible torture, exact likeness not implied.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S047. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S053",
+      "scene_id": "S053",
+      "asset_key": "S053",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S023",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S023",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1692; illustrative confinement.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene.\ndetail: Empty plain bench beneath daylight window, no dead body or hanging silhouette.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S023. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S054",
+      "scene_id": "S054",
+      "asset_key": "S054",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S047",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S047",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Wardwell confession and recantation,September1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Middle-aged carpenter in slate coat and linen shirt across table from clerk; blank paper,no occult objects,torture or devil book.\nwide: Empty clerk's chair and record sheets, no two-ending fantasy montage.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S047. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S055",
+      "scene_id": "S055",
+      "asset_key": "S055",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S023",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S023",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1692; illustrative confinement.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene.\nmedium: Plain door and bench, human-scale quiet composition.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S023. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S057",
+      "scene_id": "S057",
+      "asset_key": "S057",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\nmedium: Mary beside table and petition, calm purposeful expression.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S058",
+      "scene_id": "S058",
+      "asset_key": "S058",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\ndetail: Folded document and window light, no modern notebook or courtroom technology.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S059",
+      "scene_id": "S059",
+      "asset_key": "S059",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Esty and Cloyce petition.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card.\nwide: Two distinct women by table, blank petition paper, ordinary clothes.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S060",
+      "scene_id": "S060",
+      "asset_key": "S060",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S059",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S059",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Esty and Cloyce petition.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card.\nmedium: Two sisters beside petition on table, facing one another without invented speech.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S059. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S061",
+      "scene_id": "S061",
+      "asset_key": "S061",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S059",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S059",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Esty and Cloyce petition.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card.\nmedium: Women face official at distance, no modern lawyer or rights poster.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S059. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S062",
+      "scene_id": "S062",
+      "asset_key": "S062",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S059",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S059",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Esty and Cloyce petition.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card.\nwide: Two women foreground and a few adult supporters outside door; no claim all witnesses appeared.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S059. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S064",
+      "scene_id": "S064",
+      "asset_key": "S064",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S059",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S059",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Esty and Cloyce petition.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card.\ndetail: Blank petition between women's still hands; local phrase overlay only.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S059. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S066",
+      "scene_id": "S066",
+      "asset_key": "S066",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S059",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S059",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Esty and Cloyce petition.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card.\nclose: Women's hands beside blank document, quiet determined faces.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S059. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S068",
+      "scene_id": "S068",
+      "asset_key": "S068",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\nwide: Mary alone in same plain room, no newly invented shackles.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S069",
+      "scene_id": "S069",
+      "asset_key": "S069",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\ndetail: Plain petition on table near Mary Easty's hands; quill set aside, not actively writing.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S070",
+      "scene_id": "S070",
+      "asset_key": "S070",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\nmedium: Mary looks toward petition, no staged letter delivery claimed.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S072",
+      "scene_id": "S072",
+      "asset_key": "S072",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\nmedium: Mary Easty sits beside narrow window and document, calm purposeful expression.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S074",
+      "scene_id": "S074",
+      "asset_key": "S074",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\ndetail: Document foreground and Mary looking toward it, no named confessor added.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S075",
+      "scene_id": "S075",
+      "asset_key": "S075",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\nclose: Mary by window, thoughtful expression, no omniscient montage.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S077",
+      "scene_id": "S077",
+      "asset_key": "S077",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\nmedium: Blank petition on table, Mary holds hands together, no religious apparition.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S078",
+      "scene_id": "S078",
+      "asset_key": "S078",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S023",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S023",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1692; illustrative confinement.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene.\ndetail: Folded cloth and plain bench, window light, no Halloween prop.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S023. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S079",
+      "scene_id": "S079",
+      "asset_key": "S079",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S023",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S023",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1692; illustrative confinement.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene.\nwide: Empty plain room after case narration, light through small window, no graphic execution.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S023. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S080",
+      "scene_id": "S080",
+      "asset_key": "S080",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S059",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S059",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1693;Sarah Cloyce's later outcome.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Two distinct middle-aged women at plain table, olive-brown versus slate dresses and caps; background paper blank, words on local source card.\nmedium: Sarah alone by plain doorway, explicitly later label, Mary absent.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S059. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S081",
+      "scene_id": "S081",
+      "asset_key": "S081",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_generation",
+      "parent_scene": null,
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "season_style_only",
+          "path": "channel/assets/style_key.png",
+          "sha256": "acead5423502701883e14fb699a91e030cb2cade190f88731be7be88bc271983"
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1693.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Quiet plain court room, record bundle, spring daylight; no claim suffering ended for everyone.\ndetail: Plain bundle of legal papers on table,not a fake facsimile,January1693 daylight.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nCreate a new location/object anchor. Use channel/assets/style_key.png for drawing style only, not its architecture or people.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S084",
+      "scene_id": "S084",
+      "asset_key": "S084",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\ndetail: Petition on empty table with quiet daylight, no invented triumph.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S085",
+      "scene_id": "S085",
+      "asset_key": "S085",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S081",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S081",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1693.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Quiet plain court room, record bundle, spring daylight; no claim suffering ended for everyone.\nwide: Plain later court room with record bundle, explicitly1693label.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S081. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S087",
+      "scene_id": "S087",
+      "asset_key": "S087",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S001",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S001",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,19April1692; Mary Warren examination.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain timber room, central table with two magistrates in subdued coats, clerk at side, young adult Mary Warren at left, seated witnesses separate. No wigs,gavel,demons or ghosts.\nwide: Return to empty original examination room, no current case conflation.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S001. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S089",
+      "scene_id": "S089",
+      "asset_key": "S089",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S006",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S006",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692; Nurse's community.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain household room, elderly white-haired woman in linen cap and muted brown wool dress, adult neighbours with papers at table; no exact portrait claim.\nmedium: Neighbours around petition as labelled earlier moment, no resurrected Nurse afterexecution.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep the lower 15 percent quiet for a short source caption; do not paint the caption.\nEdit the accepted local image for S006. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S093",
+      "scene_id": "S093",
+      "asset_key": "S093",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S023",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S023",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,1692; illustrative confinement.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Bare timber/stone interior, high window and simple bench; no torture devices,chains or staged supernatural scene.\nwide: Empty ordinary confined room with natural daylight, no ominous approaching shadow.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S023. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S095",
+      "scene_id": "S095",
+      "asset_key": "S095",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S003",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S003",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem Village,1692.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Modest timber meetinghouse, unpaved path, scattered clapboard houses and trees; no modern tourist street or grand courthouse.\nwide: Ordinary village path and homes, calm human-scale world, no broomstick moon.\nKeep the factual subject entirely in the left 60 percent; right third calm for a separately composited close-up.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S003. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    },
+    {
+      "request_id": "S096",
+      "scene_id": "S096",
+      "asset_key": "S096",
+      "category": "episode_illustration",
+      "model": "Nano Banana Pro",
+      "model_id": "nano_banana_pro",
+      "resolution": "2K",
+      "aspect_ratio": "16:9",
+      "method": "paid_edit_after_parent_acceptance",
+      "parent_scene": "S008",
+      "parent_local_sha256": null,
+      "parent_uploaded_media_id": null,
+      "reference_roles": [
+        {
+          "role": "exact_accepted_parent_image_only",
+          "parent_scene_id": "S008",
+          "path": null,
+          "sha256": null,
+          "uploaded_media_id": null
+        }
+      ],
+      "prompt": "Flat 2D cartoon historical illustration. Round-headed adults with dot eyes, expressive eyebrows, simple rounded hands, clean medium-weight dark-brown outlines (#2B1D14), flat earthy ochre, olive, brick, slate and parchment colours with soft cel shading. Match the season drawing style, never the style reference's setting. Full-bleed 16:9, 2K, one clear focal point.\nHistorical scope: Salem,September1692; Mary Esty petitions.\nSalem Village and Salem Town, Massachusetts Bay,1692. Distinct dated cases, not one invented hearing. Village examinations and Town trials are separate stages and places. Sober ordinary late17th-century settings. Supposed supernatural acts are allegations, never physical historical events.\nLocation/object design: Plain confined room with bench and narrow daylight window, middle-aged woman in olive-brown dress and cap, paper on table. Quill aside; do not assume she personally penned document.\ndetail: Petition resting on table, end-screen safe area, quiet close.\nArrange the factual subject clearly; no reserved Visitor area is required.\nKeep important details at least 8 percent inside the frame.\nEdit the accepted local image for S008. Preserve this location's architecture, materials and fixed geometry; use only that accepted parent as the image reference. Apply the specified shot/action without retaining people or objects explicitly changed by this instruction.\nAll documents, signs and coin faces are blank; checked writing is composited later. No letters, numbers, pseudo-writing, logos, watermarks, borders, photorealism or 3D. No modern devices or modern-dressed people; never draw the Visitor, any orange hoodie, sleeve or part of him. No extra suns or moons.\nAvoid: No Halloween hats, broom flight, visible demons, burning at stake, gavel,18th-century powdered legal wig, modern jury box, Village/Town confusion, guaranteed escape, confession automatically equals freedom, or diagnosis of all accusers."
+    }
+  ],
+  "local_graphics_excluded": [
+    "S002",
+    "S004",
+    "S007",
+    "S010",
+    "S017",
+    "S019",
+    "S039",
+    "S043",
+    "S056",
+    "S063",
+    "S071",
+    "S073",
+    "S076",
+    "S083"
+  ],
+  "thumbnail_requests_are_separate": "See image_prompts.json; do not submit non-scene thumbnail IDs through lp.py jobs."
+}

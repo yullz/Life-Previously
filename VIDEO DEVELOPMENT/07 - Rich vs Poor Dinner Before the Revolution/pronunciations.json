@@ -1,0 +1,31 @@
+{
+  "status": "director_specified_not_voiced",
+  "entries": [
+    {
+      "term": "Mercier",
+      "say": "mehr-see-AY",
+      "note": "Louis-Sébastien Mercier; use surname after introduction."
+    },
+    {
+      "term": "Les Halles",
+      "say": "lay AL",
+      "note": "French market district; no spoken H."
+    },
+    {
+      "term": "Menon",
+      "say": "muh-NON",
+      "note": "French nasal final vowel; avoid exaggeration."
+    },
+    {
+      "term": "coulis",
+      "say": "koo-LEE",
+      "note": "Here a period savoury preparation, not necessarily modern fruit purée."
+    },
+    {
+      "term": "rissoles",
+      "say": "rih-SOHLZ",
+      "note": "Explain pastry shape; no need to imitate French aggressively."
+    }
+  ],
+  "rule": "Say seventeen eighty-three; do not insert numerical prices or modern currency comparisons absent from narration."
+}

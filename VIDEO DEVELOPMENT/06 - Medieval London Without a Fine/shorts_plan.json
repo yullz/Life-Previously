@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "london-without-a-fine",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "Why a Lantern Was Not Enough in Medieval London",
+      "from_scene": "S053",
+      "to_scene": "S060",
+      "hook": "The light is only part of the rule.",
+      "description": "The selected London curfew ordinance also specifies reputation or service and a good cause. A reconstruction of rules from the1360s.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "The Medieval Fine for Drawing a Weapon",
+      "from_scene": "S027",
+      "to_scene": "S032",
+      "hook": "You do not have to land a blow.",
+      "description": "One London ordinance prescribed half a mark or15days for drawing a weapon without striking. This is a selected historical rule, not every medieval sentence.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "A Medieval Night in Court—With a Same-Day Release",
+      "from_scene": "S077",
+      "to_scene": "S083",
+      "hook": "The record gives a more complicated ending.",
+      "description": "A6March1365London court entry records combined night-affray and curfew charges, imprisonment and release on mainprise. It gives no fine amount.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

@@ -1,0 +1,1448 @@
+{
+  "id": "09",
+  "slug": "gold-rush-1849",
+  "title": "You Join the Gold Rush in 1849. Can You Get Rich?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "You Found Gold. Why Aren't You Rich?",
+    "The Gold Rush Had a Bill You Still Had to Pay"
+  ],
+  "period": "Feather River gold camps, California, October–November 1849, centred on Bidwell's Bar using Kimball Webster's account; explicit brief comparisons to Mokelumne and San Francisco in 1849. California not yet a US state. Dry late-October river bar changes to rainy flooded November. A narrated decision journey with a documented example, not a fictional budget masquerading as a diary.",
+  "avoid": "No 1873 riveted jeans, modern gold bars, hard hats, electric pumps, hydraulic monitor cannons, modern Oroville Dam or Bidwell bridge, railway into camp, 1850 foreign miners tax in 1849, 1917 illustrations treated as contemporary photographs, stereotyped Native headdresses, huge nuggets in every pan, modern currency conversions or guaranteed merchant profits.",
+  "locations": {
+    "bar": {
+      "scope": "Bidwell's Bar, Feather River, late October 1849 before heavy rain",
+      "frame": "illustrative reconstruction from Webster chapter V",
+      "design": "Exposed gravel river bar, red-earth bank, scattered valley oak and rocky foothills. Low river at left; three adult newcomers work one wooden rocker. Fixed trio: dark-haired youth in muted brick shirt, older bearded man in olive, fair-haired man in ochre; plain trousers, boots and felt hats."
+    },
+    "rocker": {
+      "scope": "Bidwell's Bar, late October 1849",
+      "frame": "illustrative machine matching described function",
+      "design": "Short wooden rocker on curved runners, upper perforated metal screen, lower sloping channel with transverse riffles, discharge toward river. No mercury. Three workers dig/carry dirt, pour water, rock device; coherent flow direction."
+    },
+    "camp": {
+      "scope": "Bidwell's Bar, October 1849",
+      "frame": "Webster group's open-air camp",
+      "design": "Dry sand under broad oak, three rolled blankets, kettle, frying pan, plain tin cups and low cooking fire. No tent until the later rented-tent scenes; no hotel bed."
+    },
+    "dam": {
+      "scope": "Bidwell's Bar, October 1849",
+      "frame": "temporary diversion works described by Webster",
+      "design": "Low rock-and-gravel diversion works at river bend, wooden hand barrow with stones, workers on stable bank. No concrete wall or valley reservoir."
+    },
+    "store": {
+      "scope": "Feather River camp, October 1849",
+      "frame": "illustrative purchase point, not a documented shop",
+      "design": "Canvas awning over timber counter, one used rocker, two plain tin pans, kettle, pick and shovel, small balance scale. Sacks and barrels; prices composited later."
+    },
+    "pan": {
+      "scope": "Bidwell's Bar, late October 1849",
+      "design": "Shallow tin pan on rough timber or held low by historical miner; wet black sand and tiny gold flakes, never a mound of nuggets."
+    },
+    "rainbar": {
+      "scope": "Bidwell's Bar, late October–November 1849 after rain",
+      "frame": "same site after water-level change",
+      "design": "Same red bank, oaks and ridge as dry bar; risen river covers working gravel, wet ground. Must edit accepted dry-bar anchor, not invent a new river.",
+      "anchor_reference_scene_id": "S004"
+    },
+    "tent": {
+      "scope": "Bidwell's Bar, November 1849",
+      "frame": "Webster's rented sleeping space, illustrative interior",
+      "design": "Large plain shared canvas tent, several bedrolls on ground, narrow aisle, personal blankets; principal trio near entrance. No private bedrooms or fixed beds."
+    },
+    "road": {
+      "scope": "Feather River valley, November 1849",
+      "design": "Muddy unsurfaced track, one loaded pack mule halted beside soft patch, oak foothills. Cargo flour sacks and covered provisions; no modern transport."
+    },
+    "burch": {
+      "scope": "Feather River valley, late November 1849",
+      "frame": "Burch's building project as recounted by Webster",
+      "design": "Developing timber house frame on riverbank rise, stacked boards, hand tools, two workers and employer; no completed mansion or powered saw."
+    },
+    "sf": {
+      "scope": "San Francisco, 1849; separate comparison",
+      "frame": "mail queue, not Webster's own business",
+      "design": "Timber and canvas street, adult letter-seekers at post-office window, hillside tents, coffee vendor with kettle and cups. No cable car or Victorian painted-ladies row."
+    },
+    "mokelumne": {
+      "scope": "Mokelumne region, 1849; Bayard Taylor comparison",
+      "frame": "distinct place and eyewitness",
+      "design": "Rocky gulch, rough pit, traveller with small hand tool examining crevices; different ridge from Feather River."
+    },
+    "native_land": {
+      "scope": "California Indigenous homelands; broader gold-rush context",
+      "frame": "editorial landscape view, not an invented witnessed event",
+      "design": "River and oak landscape with established paths and gathering area, no invented ceremony, tipis, empty-land claim or reenacted massacre. Avoid people without region-specific visual reference."
+    },
+    "editorial": {
+      "scope": "Modern explanatory graphic",
+      "frame": "editorial accounting/map",
+      "design": "Channel parchment; clearly distinguish reported gold value, known group costs, personal daily wage and unknown expenses. No deceptive scaled gold piles."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Kimball Webster — The Gold Seekers of '49, chapter V (published 1917)",
+      "url": "https://www.gutenberg.org/cache/epub/71572/pg71572-images.html",
+      "read": "2026-10-09: chapter V pp100–118 read continuously through prospects, prices, Bidwell work, purchases, returns, rain, tent and Burch offer.",
+      "limit": "Retrospective edited memoir, not audited accounts. Attribute his prices and returns; no statewide average. Reject racism, moonlight blindness, salt-causes-scurvy, doctor fatalism and virtually-no-theft claims. October26 weekday is inconsistent; omit exact first-work date."
+    },
+    {
+      "id": "SRC02",
+      "title": "Library of Congress edition — The Gold Seekers of '49",
+      "url": "https://tile.loc.gov/storage-services/service/gdc/calbk/160.pdf",
+      "read": "2026-10-09: chapter V Long's Bar/Bidwell locator cross-check; full reading via Gutenberg.",
+      "limit": "Same memoir, not an independent witness.",
+      "public": false
+    },
+    {
+      "id": "SRC03",
+      "title": "Bayard Taylor — Eldorado, volume II (1850), chapters I–II",
+      "url": "https://tile.loc.gov/storage-services/service/gdc/calbk/123.pdf",
+      "read": "2026-10-09: own gold attempt, pocket stories, rainy return from Mokelumne and unreliable reports of gains, pp5–17 selective passages with paragraph context.",
+      "limit": "Own failed attempt firsthand; tales about others hearsay. No statistical sample or adoption of obsolete disease theories and ethnic prejudice."
+    },
+    {
+      "id": "SRC04",
+      "title": "National Park Service — Mail and the National Historic Trails",
+      "url": "https://www.nps.gov/articles/000/mail-and-the-national-historic-trails.htm",
+      "read": "2026-10-09: full Mail Melee and Expressmen sections.",
+      "limit": "San Francisco1849; queue vending is opportunity, not guaranteed profit. Do not imply this was Webster's business."
+    },
+    {
+      "id": "SRC05",
+      "title": "California State Parks — Gold Rush Overview",
+      "url": "https://www.parks.ca.gov/?page_id=1081",
+      "read": "2026-10-09: discovery, influx, commercial support and later sites.",
+      "limit": "Use1848–49 context only; no current-dollar equivalents or later preserved storefront as1849 reference."
+    },
+    {
+      "id": "SRC06",
+      "title": "Smithsonian NMAI — California Indian History and Genocide, introductory essay",
+      "url": "https://americanindian.si.edu/nk360/gold-rush/intro-essay/",
+      "read": "2026-10-09: entire essay including pre1848 colonization, resource loss, violence and surviving communities.",
+      "limit": "Broader gold-rush history; no1850 law or massacre staged in1849. Page title names Tsim Schneider, byline Khal Schneider; cite institution and essay title."
+    },
+    {
+      "id": "SRC07",
+      "title": "Smithsonian American Experience — Mining Technology during the Gold Rush",
+      "url": "https://americanexperience.si.edu/wp-content/uploads/2015/02/Mining-Technology-during-the-Gold-Rush.pdf",
+      "read": "2026-10-09: pp1–2 placer mechanics and1851 comparison; later hydraulic section checked for exclusion.",
+      "limit": "Generic gravity principle only; no1851 long tom or1870s hydraulic monitor in Webster's1849 rocker scene."
+    },
+    {
+      "id": "SRC08",
+      "title": "California Geological Survey — The Discovery of Gold in California",
+      "url": "https://conservation.ca.gov/cgs/Pages/program-minerals/GoldDiscovery.aspx",
+      "read": "2026-10-09: opening through Marshall announcement, including earlier1842 discovery.",
+      "limit": "1948 essay with dated colonial framing; use only correction that Marshall was not first ever to find California gold."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "type": "F",
+      "claim": "Visitor choices and accounting questions are original framing; Webster's group is one documented example, not an average miner.",
+      "sources": [],
+      "locator": "Editorial framing.",
+      "limit": "No simulated balance presented as a historical ledger."
+    },
+    {
+      "id": "C1",
+      "type": "E",
+      "claim": "The1848 Marshall find helped trigger large1849 arrivals, but California gold had been found earlier.",
+      "sources": [
+        "SRC05",
+        "SRC08"
+      ],
+      "locator": "State Parks opening; CGS1842 discussion.",
+      "limit": "No first-ever-discoverer claim."
+    },
+    {
+      "id": "C2",
+      "type": "E",
+      "claim": "Webster and two companions agreed to heavy dam labour at Bidwell's Bar for$6 each per day with board; quit after2.75 workdays.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Chapter V pp107–108.",
+      "limit": "Reported arrangement, not average wage; board does not establish a private room."
+    },
+    {
+      "id": "C3",
+      "type": "E",
+      "claim": "Their old cradle cost$50, two pans together$8, kettle$4, plus unpriced pick/shovel: at least$62 known shared purchases.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Chapter V p108;50+8+4=62.",
+      "limit": "Group total, not per person or complete startup cost; no assumed equal shares."
+    },
+    {
+      "id": "C4",
+      "type": "E",
+      "claim": "Webster describes screened dirt, water and rocking separating lighter material from gold; their first difficulty was separating final black sand from gold.",
+      "sources": [
+        "SRC01",
+        "SRC07"
+      ],
+      "locator": "Chapter V pp109,112; Smithsonianp1.",
+      "limit": "No exact efficiency, modern industrial machinery or mercury in their ordinary rocker."
+    },
+    {
+      "id": "C5",
+      "type": "E",
+      "claim": "After five days on another claim, Webster reports nearly one ounce each per day; his account gives$16 per ounce as gold-dust exchange value.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Chapter V pp102–103,113.",
+      "limit": "A reported good spell and gross value before costs, not guaranteed wage; retain nearly."
+    },
+    {
+      "id": "C6",
+      "type": "E",
+      "claim": "LateOctober rain submerged working bars, disrupted transport and made provisions scarce; he reports flour rising from40cents to$1.50 per pound.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Chapter V pp113–115.",
+      "limit": "His local experience, not universal price or meteorological record."
+    },
+    {
+      "id": "C7",
+      "type": "E",
+      "claim": "Each paid$2 per week for sleeping space in a shared tent, providing own blankets; rainy-period work barely covered expenses. Webster and Pinney also paid$40 for a bank claim that proved little better than their previous one.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Chapter V pp115–116.",
+      "limit": "Shelter only; no invented exact net-profit amount."
+    },
+    {
+      "id": "C8",
+      "type": "E",
+      "claim": "In lateNovember Webster and Pinney accepted Burch's building work at$4.50 each per day with board.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Chapter V pp116–118.",
+      "limit": "Temporary job, not guaranteed annual earnings or full-life result."
+    },
+    {
+      "id": "C9",
+      "type": "E",
+      "claim": "Taylor's own attempt at picking gold from crevices failed; friends gave him specimens. He described difficulty learning miners' true gains.",
+      "sources": [
+        "SRC03"
+      ],
+      "locator": "VolII chI end,p14;chII pp15–17.",
+      "limit": "One traveller, not proof everyone failed; hearsay remains hearsay."
+    },
+    {
+      "id": "C10",
+      "type": "E",
+      "claim": "San Francisco's1849 mail queues offered opportunities to sell places in line, coffee, pastries and newspapers.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "Mail Melee.",
+      "limit": "Separate comparison, not the trio's business or assured profits."
+    },
+    {
+      "id": "C11",
+      "type": "E",
+      "claim": "The rush occurred on Indigenous homelands; colonization and gold-rush expansion brought displacement, loss of resources and violence; communities survived.",
+      "sources": [
+        "SRC06"
+      ],
+      "locator": "Full introductory essay.",
+      "limit": "Broader history; no invented specific1849 attack or extinction claim."
+    },
+    {
+      "id": "C12",
+      "type": "I",
+      "claim": "Gold found and profit kept differ: equipment, provisions, shelter, transport and unproductive periods affect outcomes.",
+      "sources": [
+        "SRC01",
+        "SRC03"
+      ],
+      "locator": "Synthesis of reported expenses, weather and uncertain returns.",
+      "limit": "No typical budget or success probability."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "You found gold. Are you rich?",
+      "scenes": [
+        [
+          "You have finally found gold. There are little yellow flecks in the pan, and for a moment everything seems worth it.",
+          "C0",
+          "pan",
+          "detail",
+          "Tiny gold flecks against wet black sand in plain pan; no huge nugget.",
+          "closeup-smile",
+          null,
+          null
+        ],
+        [
+          "Then you remember the equipment, the food, and the fact that somewhere to sleep may cost money too.",
+          "C0,C12",
+          "store",
+          "wide",
+          "Counter with used rocker, two pans, kettle and modest provisions, no painted prices.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The gold is real. The fortune is still a question. Those are very different things when you have bills to pay.",
+          "C0,C12",
+          "editorial",
+          "graphic",
+          "Small gold icon and separate expenses column, no fictional balance.",
+          null,
+          null,
+          "GOLD FOUND ≠ MONEY KEPT"
+        ],
+        [
+          "We are on California's Feather River in autumn eighteen forty-nine, following one small group's choices.",
+          "C0,C2",
+          "bar",
+          "wide",
+          "Dry Bidwell river bar, trio by bank with oak ridge and shallow water.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Kimball Webster's account describes their encouraging start—and an unwelcome change in circumstances.",
+          "C2,C5,C6",
+          "editorial",
+          "graphic",
+          "Plain source card, memoir title and publication date.",
+          null,
+          null,
+          "KIMBALL WEBSTER • A PERSONAL ACCOUNT"
+        ],
+        [
+          "The Visitor will follow their decisions. This is one experience, not a paycheck we can promise every miner.",
+          "C0",
+          "bar",
+          "medium",
+          "Trio examines exposed bank; Visitor separate at right, no tool added.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "Take paid work or dig for yourself. Buy equipment, find a claim, and see what the weather does to your plans.",
+          "C0",
+          "editorial",
+          "graphic",
+          "Four simple decision icons, no game score or guaranteed route.",
+          null,
+          null,
+          "WORK • EQUIPMENT • CLAIM • WEATHER"
+        ],
+        [
+          "By the end, a job paying less than those exciting early returns might look much more attractive.",
+          "C0,C8,C12",
+          "burch",
+          "wide",
+          "House frame with two workers and plain hand tools, not completed mansion.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Can you get rich here? What has to happen before gold becomes money you keep?",
+          "C0,C12",
+          "pan",
+          "close",
+          "Few flakes collected toward pan edge; no overflowing bag.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "The discovery at Sutter's mill helped ignite the rush. It was not the first time anybody had found gold in California.",
+          "C1",
+          "editorial",
+          "graphic",
+          "Two dated points, earlier discoveries and1848 Marshall find, no origin myth.",
+          null,
+          null,
+          "EARLIER FINDS • THE 1848 RUSH"
+        ],
+        [
+          "By eighteen forty-nine, newcomers were pouring in. The opportunity was real, and the work was already underway.",
+          "C1,C2",
+          "bar",
+          "wide",
+          "Several small work groups spaced along bar, no impossible mass crowd.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Before buying a claim, they found an employer offering a daily rate and meals while they worked.",
+          "C2",
+          "dam",
+          "wide",
+          "Low diversion works, hand barrow and two labourers on bank; clear place for Visitor.",
+          "look-around",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "A job with meals",
+      "scenes": [
+        [
+          "At Bidwell's Bar, Webster and two companions agreed to work on a river-diversion dam for six dollars each per day, with board.",
+          "C2",
+          "dam",
+          "medium",
+          "Three newcomers face foreman beside small temporary works, no contract signature invented.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The dam would divert water so the riverbed could be mined. Building it was heavy labour.",
+          "C2",
+          "dam",
+          "wide",
+          "Temporary diversion channel skirting low barrier, no full-scale reservoir or exposed fantasy gold vein.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Webster describes carrying rocks and gravel on hand barrows. This was hard work, even before anybody found gold.",
+          "C2",
+          "dam",
+          "detail",
+          "Two workers carry loaded wooden hand barrow with coherent grips and path.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Yet the offer had an advantage: an agreed daily rate, with food included.",
+          "C2,C12",
+          "editorial",
+          "graphic",
+          "Personal wage card and simple meal icon, no lodging icon.",
+          null,
+          null,
+          "$6 EACH PER DAY • BOARD INCLUDED"
+        ],
+        [
+          "Imagine watching the independent miners beside you. Their successes look more exciting than your next load of stones.",
+          "C0",
+          "bar",
+          "medium",
+          "Trio pauses at bank watching separate miners work a rocker, no staged jackpot.",
+          null,
+          null,
+          null
+        ],
+        [
+          "One of Webster's companions found the labour too much. After two and three-quarter working days, the group left to mine independently.",
+          "C2",
+          "dam",
+          "medium",
+          "Hand barrow set down, trio standing apart with tired posture, no medical collapse.",
+          null,
+          null,
+          null
+        ],
+        [
+          "They exchanged a stated rate for an uncertain return, hoping their own claim would reward the effort.",
+          "C12,C0",
+          "editorial",
+          "graphic",
+          "Two choices on parchment with no invented expected-value percentages.",
+          null,
+          null,
+          "PAID WORK / YOUR OWN CLAIM"
+        ],
+        [
+          "That might feel like the reason for coming. You did not cross a continent to carry somebody's gravel.",
+          "C0",
+          "bar",
+          "wide",
+          "Visitor views river from safe bank as three men move toward equipment.",
+          "shrug-smirk",
+          null,
+          null
+        ],
+        [
+          "But independence has a shopping list. Before a good day pays you, there are things to buy.",
+          "C0,C3",
+          "store",
+          "medium",
+          "Used rocker on counter-side ground, two pans together, kettle separated.",
+          null,
+          null,
+          null
+        ],
+        [
+          "A team can share equipment and divide tasks. That does not make the equipment free.",
+          "C0,C3,C4",
+          "store",
+          "detail",
+          "Three sets of historical hands inspect rocker rim, keep hands distinct.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Webster recorded several purchases. We can count these real expenses without inventing a complete budget.",
+          "C3",
+          "editorial",
+          "graphic",
+          "Heading for documented shared purchases, empty rows pending next chapter.",
+          null,
+          null,
+          "KNOWN GROUP PURCHASES"
+        ],
+        [
+          "The largest item sounds much gentler than the work it will be doing.",
+          "C0,C3",
+          "rocker",
+          "wide",
+          "Complete plain wooden rocker beside river, upper screen and runners visible.",
+          "eyebrow-raise",
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Buying your independence",
+      "scenes": [
+        [
+          "They paid fifty dollars for an old cradle: a wooden machine used to wash gold-bearing dirt, also called a rocker.",
+          "C3,C4",
+          "rocker",
+          "medium",
+          "Same rocker on curved runners, aged wood intact; local cost overlay only.",
+          null,
+          "GROUP PURCHASE: $50",
+          null
+        ],
+        [
+          "Two tin pans cost eight dollars together. A kettle added another four. They also bought a pick and shovel, whose price is not given.",
+          "C3",
+          "store",
+          "detail",
+          "Two plain pans, one kettle, pick and shovel clearly separate; local labels on safe margins.",
+          null,
+          null,
+          null
+        ],
+        [
+          "That is at least sixty-two dollars in the purchases we can price. It is the group's total, not sixty-two dollars charged to each man.",
+          "C3",
+          "editorial",
+          "graphic",
+          "50+8+4=62, conspicuous GROUP label and unknown-tools note.",
+          null,
+          null,
+          "$62 KNOWN GROUP COST • TOOLS EXTRA"
+        ],
+        [
+          "Nor can we invent each person's bill. The account does not explain the full arrangement of shares.",
+          "C3",
+          "editorial",
+          "graphic",
+          "Group-cost card stays without personal-share arithmetic.",
+          null,
+          null,
+          "SHARED OUTLAY • NOT A FULL BUDGET"
+        ],
+        [
+          "Now it must earn something. Dirt goes into the screen, water is added, and the cradle is rocked.",
+          "C4",
+          "rocker",
+          "medium",
+          "One worker adds dirt to upper hopper, another holds water vessel, third grips rocker; all stationary.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Coarse material stays in the screen. Below it, washing removes lighter material while heavier gold remains.",
+          "C4",
+          "editorial",
+          "graphic",
+          "Local rocker sectional schematic, downward water/material arrows and riffles; no impossible uphill flow.",
+          null,
+          null,
+          "SCREEN • WASH • COLLECT"
+        ],
+        [
+          "Watching is not the same as learning. Webster's group copied experienced miners as best they could.",
+          "C4",
+          "rocker",
+          "over-shoulder",
+          "Trio observes neighbouring rocker across small gap; similar machine with distinct people.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Initially, they pushed through as much dirt as possible. A busy day felt like a productive one.",
+          "C4",
+          "rocker",
+          "detail",
+          "Full hopper of gravel, water poised, no animated overflow implied.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Then came the awkward part. Their collected material still contained black sand mixed with gold.",
+          "C4",
+          "pan",
+          "detail",
+          "Dark concentrate with tiny flakes, no clean pile yet.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "They struggled to separate it, and could not tell how much their day's work had produced.",
+          "C4",
+          "pan",
+          "close",
+          "Miner tilts pan gently; mixed material still visible, no complete success state.",
+          null,
+          null,
+          null
+        ],
+        [
+          "You can be exhausted without knowing whether the effort paid. The answer is still mixed up in the pan.",
+          "C0,C12",
+          "pan",
+          "medium",
+          "Trio studies pan at dusk, tools set aside, no ledger numbers.",
+          "scratch-head",
+          null,
+          null
+        ],
+        [
+          "They moved to another claim. Several days later, finishing the separation revealed a result worth getting excited about.",
+          "C5",
+          "bar",
+          "wide",
+          "Opposite-bank working recess identified as different claim within same river setting, no unlabelled property takeover.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The number everybody wants to hear",
+      "scenes": [
+        [
+          "Webster says that after five days on that claim, they had averaged nearly one ounce of gold each per day. An encouraging beginning.",
+          "C5",
+          "pan",
+          "detail",
+          "Small separated gold dust sample beside remaining black sand, not a full ounce rendered to scale.",
+          null,
+          null,
+          null
+        ],
+        [
+          "He describes gold dust exchanging at sixteen dollars an ounce, which helps explain their excitement.",
+          "C5",
+          "store",
+          "detail",
+          "Small balance scale and gold dust packet, blank weights, local source label.",
+          null,
+          "WEBSTER'S REPORTED EXCHANGE VALUE",
+          null
+        ],
+        [
+          "That is nearly sixteen dollars in gross gold value during a good spell. It is not sixteen dollars in daily profit.",
+          "C5,C12",
+          "editorial",
+          "graphic",
+          "NEARLY1oz × reported$16/oz, label GROSS VALUE, no equals exact$16.",
+          null,
+          null,
+          "NEARLY $16 GROSS • A SHORT GOOD SPELL"
+        ],
+        [
+          "Equipment and provisions still cost money. Gold in the pan is different from money available to take home.",
+          "C12",
+          "store",
+          "medium",
+          "Gold dust on scale left, provision bundle and kettle right, no automatic balanced value.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Compare carefully: the six-dollar job included meals. The gold figure describes a find before expenses.",
+          "C2,C5,C12",
+          "editorial",
+          "graphic",
+          "Two cards: wage+board versus reported gross find; no misleading shared axis.",
+          null,
+          null,
+          "WAGE WITH MEALS / GOLD BEFORE COSTS"
+        ],
+        [
+          "The distinction matters when you decide whether a few good days can support your plans.",
+          "C0,C12",
+          "pan",
+          "medium",
+          "Trio carefully stores small gold sample in plain pouch, no despair over real success.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Webster thought continuing at that rate would exceed his hopes. The dangerous word is continuing.",
+          "C5,C12",
+          "bar",
+          "wide",
+          "Working riverbank under clear sky, darker cloud edge far away, one sun only.",
+          null,
+          null,
+          null
+        ],
+        [
+          "You might build your future around a week that never repeats. The gold need not disappear for circumstances to change.",
+          "C0,C6",
+          "bar",
+          "medium",
+          "Same trio rests beside rocker while cloud cover increases; do not raise water yet.",
+          "glance-nervous",
+          null,
+          null
+        ],
+        [
+          "The attractive story is a pan of gold. Less visible is the time you cannot work it.",
+          "C0,C12",
+          "camp",
+          "wide",
+          "Open camp bedrolls and cooking kit, tools idle beside oak.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Food is still needed then. So is shelter, especially when your sleeping arrangement depends on kind weather.",
+          "C0,C7",
+          "camp",
+          "detail",
+          "Blankets directly on dry sand, no tent; kettle and fire at safe distance.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Their group had been sleeping outside. Dry conditions made that seem manageable while they got started.",
+          "C7",
+          "camp",
+          "medium",
+          "Three bedrolls under oak, late-evening clear sky, no romantic luxury.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "Then the rainy season arrived, bringing a different set of costs.",
+          "C6",
+          "rainbar",
+          "wide",
+          "Edit dry river anchor to wet higher water, exact ridge and oaks retained, subdued grey daylight.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "When the river takes back the workplace",
+      "scenes": [
+        [
+          "Webster dates the change to late October. Rain fell repeatedly, and the rising river covered bars where miners had been working.",
+          "C6",
+          "rainbar",
+          "wide",
+          "Former dry gravel platform now underwater; recognisable red bank and oak.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Equipment cannot earn anything on a flooded working place. Getting gold out became much harder.",
+          "C6,C12",
+          "rainbar",
+          "medium",
+          "Rocker moved safely up bank, trio looks toward covered bar; no workers submerged.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The trouble also travelled along the supply route. Mud made it difficult to bring provisions in by the usual pack animals.",
+          "C6",
+          "road",
+          "wide",
+          "Loaded mule and handler stopped beside soft track, no animal drowning.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Two problems came together: less opportunity to earn, and more difficulty obtaining necessities.",
+          "C6,C12",
+          "editorial",
+          "graphic",
+          "Two arrows: WORK INTERRUPTED and SUPPLIES DISRUPTED, no unsupported exact volumes.",
+          null,
+          null,
+          "LESS WORK • DEARER SUPPLIES"
+        ],
+        [
+          "In Webster's account, flour rose from forty cents a pound to a dollar and fifty cents. His local example, not a universal price list.",
+          "C6",
+          "store",
+          "detail",
+          "Plain flour sack in damp store, locally composited before/after price card with clear attribution.",
+          null,
+          "WEBSTER'S ACCOUNT • PER POUND",
+          null
+        ],
+        [
+          "Their money now bought much less flour. Some gold might still leave little after paying for necessities.",
+          "C6,C12",
+          "editorial",
+          "graphic",
+          "Identical dollar symbol beside smaller flour icon after price rise; label illustrative, not actual ration.",
+          null,
+          null,
+          "PURCHASING POWER SHRINKS"
+        ],
+        [
+          "Sleeping outside also became a practical problem as the ground grew wet.",
+          "C6,C7",
+          "camp",
+          "wide",
+          "Same camp under rain, rolled blankets gathered off ground, no unsafe fire beneath wet tree.",
+          null,
+          null,
+          null
+        ],
+        [
+          "They found space in a large tent belonging to other miners, and each paid two dollars a week for the privilege of sleeping there.",
+          "C7",
+          "tent",
+          "wide",
+          "Shared tent interior with multiple blankets and narrow aisle, principal trio near opening.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "They still supplied their own blankets. The payment bought shelter, not a private hotel room with a bed and meals included.",
+          "C7",
+          "tent",
+          "detail",
+          "Personal blankets on ground beside tent pole, no mattress or room partition.",
+          null,
+          null,
+          null
+        ],
+        [
+          "That is a different purchase from the board included in their earlier wage. Combining the two would produce a very misleading budget.",
+          "C2,C7",
+          "editorial",
+          "graphic",
+          "Separate meal icon for job, shelter icon for tent, no merged package.",
+          null,
+          null,
+          "BOARD THEN • TENT SPACE NOW"
+        ],
+        [
+          "Imagine your new week: less work, dearer food, and a fresh charge to sleep under canvas.",
+          "C0,C6,C7",
+          "tent",
+          "medium",
+          "Trio sits around cold covered provision sack, ordinary expressions, no starvation caricature.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Gold is still valuable. Getting it out and meeting your expenses have become the harder part.",
+          "C12",
+          "pan",
+          "detail",
+          "Small gold sample in hand beside plain folded blanket, no disappearing coins.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "A promising claim still has expenses",
+      "scenes": [
+        [
+          "Webster and one companion also paid forty dollars for another claim in the riverbank. Previous productivity made it look worth considering.",
+          "C7,C12",
+          "rainbar",
+          "medium",
+          "Different bank recess indicated with plain stakes, no official deed or fake mine sign.",
+          null,
+          null,
+          null
+        ],
+        [
+          "According to his account, it proved little better than their earlier ground. Paying for access did not ensure that the results would improve.",
+          "C7,C12",
+          "rainbar",
+          "detail",
+          "Wet excavated bank and idle hand tools, no visible rich gold vein.",
+          null,
+          null,
+          null
+        ],
+        [
+          "For the rainy period, his verdict was that they could do little more than cover their expenses despite working when conditions allowed.",
+          "C7",
+          "editorial",
+          "graphic",
+          "Income and costs near balance without invented dollar totals, attribution conspicuous.",
+          null,
+          null,
+          "BARELY COVERING EXPENSES • WEBSTER"
+        ],
+        [
+          "No exact net balance is given. We need not invent a dramatic loss to illustrate their disappointment.",
+          "C7,C12",
+          "tent",
+          "medium",
+          "Small pouch and basic supplies on cloth, no fabricated financial ledger.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "The best day is a poor description of the whole enterprise. Unproductive days belong in the calculation too.",
+          "C12",
+          "editorial",
+          "graphic",
+          "Several calendar-like blocks labelled productive/limited work, no exact date counts.",
+          null,
+          null,
+          "COUNT THE DIFFICULT DAYS TOO"
+        ],
+        [
+          "A different witness, the traveller Bayard Taylor, tried looking for gold in the Mokelumne region. His own brief attempt produced nothing.",
+          "C9",
+          "mokelumne",
+          "wide",
+          "Different rocky gulch; traveller examines crevice with small hand tool.",
+          null,
+          "ELSEWHERE: MOKELUMNE • 1849",
+          null
+        ],
+        [
+          "Friends gave him the specimens he took away. Not everybody failed, but fortunes were not effortless.",
+          "C9",
+          "mokelumne",
+          "detail",
+          "Small offered mineral sample in two distinct hands, no secretly planted nugget.",
+          "eyebrow-raise",
+          null,
+          null
+        ],
+        [
+          "Taylor also found it difficult to learn people's true gains. A camp story might conceal success, disguise disappointment, or repeat somebody else's rumour.",
+          "C9",
+          "mokelumne",
+          "medium",
+          "Three miners converse beside rough shelter, speech text omitted; no omniscient profit labels.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Back on the Feather River, the question became whether to stay. Leaving could mean a change of work, not final defeat.",
+          "C8,C12",
+          "tent",
+          "medium",
+          "Two men roll blankets to leave, third absent after moving elsewhere; maintain continuity.",
+          null,
+          null,
+          null
+        ],
+        [
+          "You have already paid for things. That can make it tempting to stay simply because leaving feels like admitting the original plan was wrong.",
+          "C0",
+          "rainbar",
+          "wide",
+          "Two departing miners look back at river from raised track, no theatrical despair.",
+          "glance-nervous",
+          null,
+          null
+        ],
+        [
+          "Yesterday's expense cannot predict tomorrow's conditions. Our pair went looking for another way to earn.",
+          "C0,C8,C12",
+          "road",
+          "medium",
+          "Two men carry bedrolls along valley path; no loaded mule magically theirs.",
+          null,
+          null,
+          null
+        ],
+        [
+          "By late November, they had accepted a different kind of opportunity. This time, the work involved building a house instead of washing river gravel.",
+          "C8",
+          "burch",
+          "wide",
+          "Same timber frame introduced earlier, two newcomers beside stacked boards and employer.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The rush needed more than miners",
+      "scenes": [
+        [
+          "The offer was four dollars and fifty cents each per day, with board. Webster and his companion agreed to take the work.",
+          "C8",
+          "burch",
+          "medium",
+          "Two workers beside hand tools and timber frame, modest meal vessel nearby.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "Lower than their first dam wage, and below the gross value of those promising gold returns.",
+          "C2,C5,C8",
+          "editorial",
+          "graphic",
+          "Three accurately qualified cards, no false continuous wage graph.",
+          null,
+          null,
+          "$6 + BOARD / GOLD BEFORE COSTS / $4.50 + BOARD"
+        ],
+        [
+          "But it offered agreed pay with food while mining was difficult. Changed circumstances made the offer attractive.",
+          "C8,C12",
+          "burch",
+          "detail",
+          "Timber workbench and simple food bundle, no claim of permanent security.",
+          null,
+          null,
+          null
+        ],
+        [
+          "The rush created demand for labour, supplies and services. It did not guarantee every business success.",
+          "C0,C10,C12",
+          "burch",
+          "wide",
+          "Workers build while provisions are delivered by ordinary handler, no triumphant merchant caricature.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Consider a separate example in San Francisco, where arriving mail drew long lines of people hoping for news from home.",
+          "C10",
+          "sf",
+          "wide",
+          "Queue outside plain postal window with hill tents behind; no Feather River people reused.",
+          null,
+          "SAN FRANCISCO • 1849",
+          null
+        ],
+        [
+          "People sold places in the queue, or coffee, pastries and newspapers to those waiting.",
+          "C10",
+          "sf",
+          "medium",
+          "Coffee vendor beside patiently waiting adults, one simple tray, no modern takeaway cups.",
+          "eyebrow-raise",
+          null,
+          null
+        ],
+        [
+          "Here, time and a small service were valuable, rather than another supposedly rich patch of gravel.",
+          "C10,C12",
+          "sf",
+          "detail",
+          "Plain cup passed between two historical hands, blank newspaper folded nearby.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Appealing from the riverbank, perhaps. But it still needed supplies, customers and work.",
+          "C0,C12",
+          "sf",
+          "medium",
+          "Vendor checks limited coffee kettle and pastry tray, no giant cash pile.",
+          null,
+          null,
+          null
+        ],
+        [
+          "We cannot promise our Visitor a coffee fortune, any more than a fortune from buying a shovel.",
+          "C0,C12",
+          "sf",
+          "wide",
+          "Vendor, queue and Visitor observing at edge; no instant-rich arrow.",
+          "shrug-smirk",
+          null,
+          null
+        ],
+        [
+          "The useful point is that gold drew people, and people needed ordinary things. Some opportunities came from supplying those needs instead of digging.",
+          "C10,C12",
+          "sf",
+          "medium",
+          "Queue with coffee vendor and nearby plain supply stall, only a few focal figures.",
+          null,
+          null,
+          null
+        ],
+        [
+          "For the individual newcomer, success might mean changing plans. A decision that looked unexciting on arrival could look sensible after a difficult month.",
+          "C0,C8,C12",
+          "burch",
+          "medium",
+          "Return to two workers at house frame, ordinary focused labour rather than celebration.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Another cost cannot be entered as a miner's purchase. This was somebody else's homeland before the rush.",
+          "C11",
+          "native_land",
+          "wide",
+          "River and oak landscape with established paths, no empty pristine paradise or settlement demolition.",
+          null,
+          null,
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Whose opportunity?",
+      "scenes": [
+        [
+          "California's Indigenous peoples had long histories here. The rush came on top of earlier colonization, bringing further dispossession, resource loss and violence.",
+          "C11",
+          "native_land",
+          "wide",
+          "Same landscape with established paths and river access; no invented attack scene.",
+          null,
+          null,
+          null
+        ],
+        [
+          "For those communities, newcomers' dreams of wealth could mean threats to land, livelihoods and safety. The story cannot begin with an empty map.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Simple homeland/arrival map with broad California outline, no unsourced tribal boundaries.",
+          null,
+          null,
+          "ALREADY HOME"
+        ],
+        [
+          "Native communities survived and continued rebuilding their lives. Recognizing their experience changes what a celebration of the rush leaves out.",
+          "C11",
+          "native_land",
+          "detail",
+          "River, oak gathering landscape and maintained path, no claim all people vanished.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Our Visitor's question is about getting rich. History also asks whose opportunities were supported, and whose losses made those opportunities possible.",
+          "C0,C11",
+          "editorial",
+          "graphic",
+          "Two short questions, no numerical moral-balance graphic.",
+          null,
+          null,
+          "OPPORTUNITY FOR WHOM?"
+        ],
+        [
+          "For Webster's small group, the answer in this stretch of eighteen forty-nine was mixed: real gold, difficult costs, and a change of occupation.",
+          "C5,C7,C8",
+          "burch",
+          "wide",
+          "Two men work calmly at house frame, wet valley beyond.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "Their story does not settle every miner's fate. It shows why one exciting daily return can mislead.",
+          "C0,C12",
+          "pan",
+          "detail",
+          "Return to original small gold sample and pan, identical scale and no magically increased amount.",
+          null,
+          null,
+          null
+        ],
+        [
+          "So yes, finding valuable gold was possible. Getting ahead depended on much more than spotting yellow in the bottom of a pan.",
+          "C5,C12",
+          "bar",
+          "wide",
+          "Dry river shown as labelled earlier moment, match original anchor exactly.",
+          null,
+          "EARLIER: THE PROMISING START",
+          null
+        ],
+        [
+          "Consider what the work produced, what it cost, and what happened when conditions changed.",
+          "C12",
+          "editorial",
+          "graphic",
+          "Three simple ledger headings, unknown values left absent rather than zero.",
+          null,
+          null,
+          "RETURN • COST • CONDITIONS"
+        ],
+        [
+          "Paid work, independent mining, or a service business: which would you choose first, and what would persuade you to try something else?",
+          "C0",
+          "editorial",
+          "graphic",
+          "Three paths with tool/rocker/cup icons, no winner badge.",
+          null,
+          null,
+          "WHAT WOULD YOU TRY?"
+        ],
+        [
+          "Our pair changed course when the goldfields disappointed them. A more useful ending than an invented jackpot.",
+          "C8,C12",
+          "road",
+          "wide",
+          "Two bedroll-carrying men arrive at building work, modest view toward house frame.",
+          null,
+          null,
+          null
+        ],
+        [
+          "This is Life, Previously. A rush can make the reward look enormous while making the ordinary business of living surprisingly expensive.",
+          "C0,C12",
+          "store",
+          "medium",
+          "Small gold pouch beside provisions, clean end-screen space, no giant inflation arrow.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "The flakes in the pan tell you that you found gold. The rest of the story tells you whether you got richer.",
+          "C12",
+          "pan",
+          "detail",
+          "Quiet close-up tiny flakes against black sand; hold with clear end-screen margin.",
+          null,
+          null,
+          null
+        ]
+      ]
+    }
+  ],
+  "research": "Centre on Bidwell's Bar, Feather River, October–November1849. Webster's sequence gives a real decision arc: $6/day with board at diversion works, independent mining and shared outlay, promising five-day return, rain and dear provisions, barely covering expenses, then$4.50/day building work with board. This is a retrospective memoir with contemporary material, not an audited ledger or universal miner biography. Taylor independently illustrates difficult prospecting and uncertain camp gossip, not the same camp. NPS supplies a separate San Francisco alternative-income vignette. NMAI corrects the empty-land premise and witnesses' colonial biases. Exclude Webster's racist and pseudomedical assertions. Known group purchases total$62 plus unpriced items, not$62 per miner. Nearly one ounce valued at$16 gives nearly$16 gross during one reported good spell, never a regular net wage. Rainy-period net figure unavailable. Date/weekday mismatch in memoir means use lateOctober only. No later hydraulic monitors, foreign-miners tax, modern dam, inflation comparison or success probability.",
+  "description": "You have reached California's goldfields in1849. Do you take paid work, buy equipment, or chase a better claim? Following Kimball Webster's account on the Feather River, we track the gap between finding gold and keeping money—from a promising spell to rain, food bills and a change of plan. Brief comparisons visit Mokelumne and San Francisco; the Visitor's choices are illustrative.",
+  "tags": [
+    "California gold rush",
+    "gold rush 1849",
+    "forty niners",
+    "gold mining history",
+    "Feather River",
+    "Bidwells Bar",
+    "American history",
+    "history documentary",
+    "gold rush daily life",
+    "Life Previously",
+    "Kimball Webster",
+    "California history"
+  ],
+  "pinned_comment": "Paid work with meals, or your own claim with uncertain returns: which would you try, and what would make you change your mind?",
+  "pilot": [
+    "S001",
+    "S004",
+    "S024",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "RICH YET?",
+      "chip": "CALIFORNIA • 1849",
+      "scope": "Finding gold versus paying expenses",
+      "pose": "closeup-worried",
+      "background": "Large plain tin pan at left with a few visible tiny gold flakes in black sand, adjacent provision sack and worn wooden rocker edge; coherent riverbank. No mountain of gold or counterfeit banknote. Visitor right.",
+      "rationale": "Promise of a find alongside the question of whether it changes your life.",
+      "payoff_scene_ids": [
+        "S003",
+        "S039",
+        "S063"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "$16 A DAY?",
+      "chip": "GOLD VALUE ≠ PROFIT",
+      "scope": "Reported short good spell, not guaranteed wage",
+      "pose": "closeup-thoughtful",
+      "background": "Small gold dust sample in shallow pan on rough counter, provision bundle behind. Type set locally; chip readable. No exact ounce visual measurement.",
+      "rationale": "Strong money question with gross/profit distinction explained in the video.",
+      "payoff_scene_ids": [
+        "S037",
+        "S038",
+        "S039"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "TAKE THE JOB?",
+      "chip": "MEALS INCLUDED",
+      "scope": "Paid labour versus uncertain gold",
+      "pose": "closeup-listening",
+      "background": "Hand barrow with river stones at left, plain gold pan resting nearby, modest diversion works behind. Visitor right observing, no generated tool in his hand.",
+      "rationale": "A human decision that the real account tests.",
+      "payoff_scene_ids": [
+        "S016",
+        "S073",
+        "S075"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Finding Gold Wasn't the Same as Getting Rich",
+      "from_scene": "S037",
+      "to_scene": "S044",
+      "hook": "A good week—but what does the number include?",
+      "description": "One miner's1849 reported return was gross gold value, not guaranteed profit."
+    },
+    {
+      "title": "The Gold Rush Job That Came With Meals",
+      "from_scene": "S013",
+      "to_scene": "S020",
+      "hook": "Would you take paid work instead of your own claim?",
+      "description": "Webster reported$6 a day with board for hard dam work. One arrangement, not an average wage."
+    },
+    {
+      "title": "You Could Earn Money Waiting for Mail",
+      "from_scene": "S077",
+      "to_scene": "S083",
+      "hook": "In San Francisco, one opportunity was standing in line.",
+      "description": "Gold-rush mail queues created small business opportunities, not guaranteed fortunes."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "Visitor observes choices and accounts. Keep normal look; no conspicuous cowboy costume or costume borrowed from Indigenous communities.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Historical miners wear ordinary1849 work shirts, trousers and modest felt hats. No branded riveted jeans or modern mining PPE; Visitor identity unchanged."
+  },
+  "pronunciations": {
+    "status": "director_guidance_listen_to_generated_voice",
+    "entries": [
+      {
+        "term": "Kimball Webster",
+        "say": "KIM-bul WEB-ster",
+        "note": "Simple natural delivery."
+      },
+      {
+        "term": "Bidwell",
+        "say": "BID-well",
+        "note": "Bidwell's Bar consistently."
+      },
+      {
+        "term": "Mokelumne",
+        "say": "muh-KEL-um-nee",
+        "note": "Check in voice pilot."
+      },
+      {
+        "term": "Bayard Taylor",
+        "say": "BARE-erd TAY-ler",
+        "note": "Use one clear Anglicized pronunciation."
+      }
+    ],
+    "rule": "Retake incorrect place names before timing edit."
+  },
+  "sound_plan": {
+    "status": "director_specified_not_generated_or_heard",
+    "music": "Existing theme, restrained curiosity; no triumphant gold-jackpot sting.",
+    "mix": "Near-14LUFS,true peak<=-1dBTP, all effects below narrator.",
+    "new_assets": [
+      {
+        "id": "river_shallow",
+        "description": "Quiet flowing shallow river, no sea surf."
+      },
+      {
+        "id": "rocker_wood",
+        "description": "Low wood creak and gravel wash, no metal engine."
+      },
+      {
+        "id": "canvas_rain",
+        "description": "Soft rain on canvas, no thunder jump-scare."
+      }
+    ],
+    "acquisition": "Use inspected library where appropriate, quote paid gaps separately.",
+    "cues": [
+      {
+        "scene_id": "S004",
+        "asset": "river_shallow",
+        "timing": "Low short establishing ambience."
+      },
+      {
+        "scene_id": "S029",
+        "asset": "rocker_wood",
+        "timing": "Subtle illustrative working ambience under diagram transition; no false body sync."
+      },
+      {
+        "scene_id": "S056",
+        "asset": "canvas_rain",
+        "timing": "Low tent ambience, voice remains clear."
+      }
+    ],
+    "intentional_silence": [
+      "No slot-machine coin sounds.",
+      "No gunfight or screaming to imply an undocumented event.",
+      "No sound effect falsely turns tiny flakes into a huge nugget."
+    ]
+  },
+  "extra_specs": [
+    "accounting_spec.json"
+  ]
+}

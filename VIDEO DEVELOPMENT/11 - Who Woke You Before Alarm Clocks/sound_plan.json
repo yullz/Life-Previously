@@ -1,0 +1,37 @@
+{
+  "status": "direction_ready_assets_unselected",
+  "music": "Low channel theme with occasional intentional gaps; no spooky stalking score.",
+  "mix": "Narration clear; taps much quieter than narration and never sharp enough to startle. No loud alarm gag.",
+  "new_assets": [
+    {
+      "id": "window_tap_soft",
+      "description": "Quiet dry wooden tip against glass,2–3 light taps; no phone notification."
+    },
+    {
+      "id": "wet_steps",
+      "description": "Sparse soft shoes on wet stone; no theatrical splash."
+    }
+  ],
+  "acquisition": "Use inspected licensed local assets where suitable; otherwise free original Foley or quote paid needs under contract. Never assume an old bell asset matches.",
+  "cues": [
+    {
+      "scene_id": "S003",
+      "asset": "window_tap_soft",
+      "timing": "After hook sentence,brief gap."
+    },
+    {
+      "scene_id": "S029",
+      "asset": "window_tap_soft",
+      "timing": "At visible exterior contact."
+    },
+    {
+      "scene_id": "S085",
+      "asset": "wet_steps",
+      "timing": "Brief low texture under weather passage."
+    }
+  ],
+  "intentional_silence": [
+    "S079",
+    "S080"
+  ]
+}

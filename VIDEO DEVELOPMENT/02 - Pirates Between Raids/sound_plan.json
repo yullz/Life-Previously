@@ -1,0 +1,62 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing channel theme, low under voice; no triumphant swell over slavery or coercion.",
+  "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below narration at their exact cue. Use silence across reflective pauses.",
+  "new_assets": [
+    {
+      "id": "sea_hull",
+      "description": "Quiet gentle seawater against a timber hull, no gull loop, voices, motor or surf crash."
+    },
+    {
+      "id": "hemp_wood",
+      "description": "Brief restrained hemp rope moving through a wooden block, no modern winch."
+    },
+    {
+      "id": "wood_tap",
+      "description": "Two light wooden mallet taps on a secured woodworking tool, no metal factory ringing."
+    },
+    {
+      "id": "pot_stir",
+      "description": "Soft wooden spoon stirring a supported iron cooking pot, no loud bubbling."
+    }
+  ],
+  "acquisition": "Inspect existing library first; exact suitable assets only. Quote any new paid assets within the episode allowance; do not generate at development stage.",
+  "cues": [
+    {
+      "scene_id": "S001",
+      "asset": "sea_hull",
+      "timing": "quiet bed for deck scenes only; fade by galley cut"
+    },
+    {
+      "scene_id": "S010",
+      "asset": "pot_stir",
+      "timing": "sync visible spoon movement; one short cue"
+    },
+    {
+      "scene_id": "S026",
+      "asset": "wood_tap",
+      "timing": "sync two visible mallet contacts, do not repeat under following insert"
+    },
+    {
+      "scene_id": "S032",
+      "asset": "hemp_wood",
+      "timing": "brief visible line adjustment"
+    },
+    {
+      "scene_id": "S039",
+      "asset": "sea_hull",
+      "timing": "quiet sea below sounding scene"
+    },
+    {
+      "scene_id": "S091",
+      "asset": "sea_hull",
+      "timing": "return to deck; modest transition"
+    }
+  ],
+  "intentional_silence": [
+    "No weapon effects; this is not a raid scene.",
+    "No chains, screams or comic effects in S061–S068.",
+    "No explosion at paper-in-cannon reveal.",
+    "No invented dialogue, sea shanty or reader voice."
+  ]
+}

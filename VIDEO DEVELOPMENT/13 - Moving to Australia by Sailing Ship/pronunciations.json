@@ -1,0 +1,21 @@
+{
+  "status": "director_selected",
+  "entries": [
+    {
+      "term": "Marco Polo",
+      "say": "MAR-koh POH-loh",
+      "note": "Shipname."
+    },
+    {
+      "term": "Josiah",
+      "say": "joh-SY-uh",
+      "note": "Thomas,stowawayreportedbynewspaper."
+    },
+    {
+      "term": "Kulin",
+      "say": "KOO-lin",
+      "note": "Checklocalauthoritativespeakerbeforevoiceifuncertain; do not inventphoneticaccent."
+    }
+  ],
+  "rule": "CaptainWilliamWild; notForbes. Sayquarters/decktermsclearlywithoutforcingnavaljargon."
+}

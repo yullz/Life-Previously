@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "purpose": "Create accurate local explanatory stills from the primary descriptions. Not construction instructions for a physical machine and not an archaeologically verified installation.",
+  "renderer": "Use vector paths/shapes/text rendered to PNG for each graphic scene. The native movie uses stills; successive scene cuts reveal states. Optional restrained local animation is allowed only if the pipeline explicitly supports it and it is checked. Do not claim motion review from static frames.",
+  "source": "SRC05 V.10 and SRC06 sections21/37; inspect their diagrams alongside the source text before drawing. Later printed figure shapes are illustrative, not excavated object dimensions.",
+  "canvas": {
+    "size": [
+      1920,
+      1080
+    ],
+    "safe": [
+      120,
+      100,
+      1800,
+      880
+    ],
+    "caption": "Use lower band for readable source/qualification; no Visitor covers machinery.",
+    "palette": "channel palette; blue-grey water, muted orange heat arrows, brown solid parts",
+    "text": "Minimum64px labels; split explanatory stages across specified scenes."
+  },
+  "hypocaust": {
+    "scenes": [
+      "S042",
+      "S043",
+      "S045",
+      "S046"
+    ],
+    "geometry": "At x300..1520, continuous occupied floor y330..410 supported by short tile stacks down to y720. Side furnace at x120..300 y580..740. Show an open connecting throat into the cavity and an exit wall flue at x1510. Arrows travel through spaces between stacks, never through solid masonry. Room air above is separated from combustion circuit below.",
+    "states": "S042 structure only; S043 furnace and underfloor flow; S045 upward wall flue; S046 clear label distinguishing hot gases from water pipes.",
+    "review": [
+      "Floor carries on supports without floating spans or pillars piercing occupants.",
+      "Furnace smoke never enters occupied room in the intended design.",
+      "Do not copy Vitruvius's measurements as Bath's measured dimensions.",
+      "TH-C uses this same reviewed cutaway scaled into left object area with no tiny labels."
+    ]
+  },
+  "coin": {
+    "scenes": [
+      "S059",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065"
+    ],
+    "geometry": "Main chest x320..1500 y180..860. Reservoir on right x930..1370 y320..750; outlet box immersed at bottom, connected through continuous pipe to left spout. Lever pivots at x900,y300; coin plate at left x600; right end x1200 connects down by rod/chain to lid sealing the outlet box. Coin drops from top slot to plate, then off into a dry collection compartment at x450..800 below; never into the reservoir or inside the pipe.",
+    "balance": "Lid outweighs empty plate but plate plus coin outweighs lid. Represent a pivot between both ends. Coin lowers plate and raises lid. After coin falls off, lid descends and plate rises.",
+    "states": "S059 closed valve. S060 coin poised. S061 lever labels. S062 coin on plate, plate lowered, lid raised. S063 valve close-up open. S064 water flows. S065 coin below plate, valve seated, flow stopped.",
+    "review": [
+      "Fixed pivot never changes location.",
+      "Raised lid opens an actual connected water route; no disconnected pipe.",
+      "Coin path does not cross solid reservoir walls.",
+      "No fixed-volume measurement or authentication feature is added."
+    ]
+  },
+  "door": {
+    "scenes": [
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S083",
+      "S085",
+      "S086"
+    ],
+    "geometry": "Small temple at top centre with two wooden leaves on distinct vertical pivot axes extending into base. Altar at top-left connects via airtight tube to airspace of half-water-filled globe at lower-left. A separate continuous bent tube runs from below waterline in globe to bucket at lower-centre, with bucket end remaining immersed for intended return. Hanging bucket's opening chains run over fixed pulleys and wind around the two door axes in opposite geometrical directions so both leaves open outward. Separate closing chains are oppositely wound from opening chains on each axis and connect to one closing counterweight at lower-right. Label this as a simplified schematic with pulleys rearranged for legibility; do not add a steam engine.",
+    "states": "S079 closed, globe half-full, bucket light, counterweight down. S080 altar hot, water driven into bucket. S081 heavier bucket down and counterweight up. S082 doors open. S083 causal summary. S085 identifies counterweight path. S086 intended return/cooling: water back, bucket lighter/up, counterweight down, doors closed.",
+    "review": [
+      "Trace each complete chain and tube on the full-size diagram; no unexplained ends.",
+      "Opening and closing weights cannot both descend in the same state.",
+      "Two leaves turn opposite ways about stable outer pivots.",
+      "Bucket travel must not kink or break the depicted fluid connection; use schematic flexible segment or separated state diagram, not a false rigid moving pipe.",
+      "No steam plume from globe, electronic detector, leather bag from section38 or mercury.",
+      "Return sequence is described as Hero's intended operation; obsolete porous-air explanation omitted."
+    ]
+  },
+  "continuity": "Use one base vector drawing per mechanism with versioned states. Never regenerate each state independently. Store source vector and PNG hashes; initial drawing review then compare all states side by side.",
+  "thumbnail": "TH-C: overlay the reviewed hypocaust section in the left object box over the generated plain room. TH-A: exterior coin chest has slot and spout consistent with section21 diagram. TH-B: temple model has same altar and doors as the explanatory sequence."
+}

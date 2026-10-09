@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "The Visitor stays an understated modern guide. No top hat,comic nightshirt or oversized Victorian costume; historical workers carry the setting.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Normal orange hoodie remains restrained in area and expression. Historical Waters gets modest consistent everyday clothing,not the Visitor's identity."
+}

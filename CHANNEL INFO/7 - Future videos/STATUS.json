@@ -1,0 +1,209 @@
+{
+  "schema_version": "1.0",
+  "commissioned": "2026-10-09",
+  "goal": "Complete all eighteen director packages and two additional full review passes",
+  "state": "in_progress",
+  "paid_generation": false,
+  "publication_authorized": false,
+  "packages": [
+    {
+      "id": 1,
+      "folder": "01 - Surviving the Winter of 1709",
+      "title": "How Did People Survive the Winter of 1709?",
+      "production_slug": "winter-1709",
+      "stage": "initial_content_review_passed_generated_refresh_pending",
+      "director_review": "content_passed_with_fixes_execution_validation_pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 2,
+      "folder": "02 - Pirates Between Raids",
+      "title": "What Did Pirates Do When They Weren’t Raiding Ships?",
+      "production_slug": "pirates-between-raids",
+      "stage": "initial_content_review_passed_generated_refresh_pending",
+      "director_review": "content_passed_with_fixes_execution_validation_pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 3,
+      "folder": "03 - Ice in the Desert",
+      "title": "How Did People Keep Ice in the Desert Before Fridges?",
+      "production_slug": "ice-in-the-desert",
+      "stage": "initial_content_review_passed_generated_refresh_pending",
+      "director_review": "content_passed_with_fixes_execution_validation_pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 4,
+      "folder": "04 - Your First Night in New York 1900",
+      "title": "You Arrive in New York in 1900. Where Do You Sleep?",
+      "production_slug": "new-york-1900",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 5,
+      "folder": "05 - Five Modern Ideas That Are Ancient",
+      "title": "5 “Modern” Ideas That Are Actually Ancient",
+      "production_slug": "five-ancient-ideas",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 6,
+      "folder": "06 - Medieval London Without a Fine",
+      "title": "Could You Get Through Medieval London Without a Fine?",
+      "production_slug": "london-without-a-fine",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 7,
+      "folder": "07 - Rich vs Poor Dinner Before the Revolution",
+      "title": "Rich vs Poor: Dinner Before the French Revolution",
+      "production_slug": "paris-dinner",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 8,
+      "folder": "08 - Your First Day at Gladiator School",
+      "title": "Your First Day at Gladiator School: What Happens?",
+      "production_slug": "gladiator-school",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 9,
+      "folder": "09 - Can You Get Rich in the Gold Rush",
+      "title": "You Join the Gold Rush in 1849. Can You Get Rich?",
+      "production_slug": "gold-rush-1849",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 10,
+      "folder": "10 - Proving Your Innocence in Salem",
+      "title": "Salem, 1692: Could You Prove You Weren’t a Witch?",
+      "production_slug": "salem-1692",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 11,
+      "folder": "11 - Who Woke You Before Alarm Clocks",
+      "title": "Who Woke You Up Before You Had an Alarm Clock?",
+      "production_slug": "waking-before-alarm-clocks",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 12,
+      "folder": "12 - Feeding a Family on Wartime Rations",
+      "title": "Could You Feed a Family on Britain’s Wartime Rations?",
+      "production_slug": "wartime-rations",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 13,
+      "folder": "13 - Moving to Australia by Sailing Ship",
+      "title": "You Move to Australia in 1854. What Is the Voyage Like?",
+      "production_slug": "australia-voyage-1854",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 14,
+      "folder": "14 - When Beaver Fur Was Money",
+      "title": "When Beaver Fur Was Money: What Could You Buy?",
+      "production_slug": "beaver-fur-money",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 15,
+      "folder": "15 - When Grocery Stores Made You Serve Yourself",
+      "title": "Why Did Grocery Stores Make You Serve Yourself?",
+      "production_slug": "self-service-groceries",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 16,
+      "folder": "16 - A Night Out in Song Dynasty China",
+      "title": "What Was a Night Out Like in China 900 Years Ago?",
+      "production_slug": "song-china-night-out",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 17,
+      "folder": "17 - Why Waste Was Worth Money in Japan",
+      "title": "Why Was Your Poop Worth Money in Old Japan?",
+      "production_slug": "edo-night-soil",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    },
+    {
+      "id": 18,
+      "folder": "18 - Korean Heated Floors Before Electricity",
+      "title": "How Did Koreans Heat Their Floors Before Electricity?",
+      "production_slug": "korean-heated-floors",
+      "stage": "draft_built_initial_review_pending",
+      "director_review": "pending",
+      "additional_review_1": "pending",
+      "additional_review_2": "pending",
+      "claude_ready": false
+    }
+  ],
+  "review_policy": "Only record reviews actually performed against identified file versions. No media approval before media exist."
+}

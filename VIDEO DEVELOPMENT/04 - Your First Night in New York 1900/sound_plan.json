@@ -1,0 +1,51 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing theme quiet under dialogue; no comic poverty stings or sentimental swelling over named families.",
+  "mix": "Near-14LUFS, true peak<=-1dBTP; brief effects below exact narration cue.",
+  "new_assets": [
+    {
+      "id": "wood_steps",
+      "description": "Two modest footsteps on worn wooden stairs, no modern shoe squeak."
+    },
+    {
+      "id": "treadle_sewing",
+      "description": "Quiet mechanical treadle sewing, no electric motor."
+    },
+    {
+      "id": "bag_set",
+      "description": "Soft worn travel bag placed on floor."
+    },
+    {
+      "id": "wood_door",
+      "description": "Plain interior wooden door opening gently."
+    }
+  ],
+  "acquisition": "Inspect existing sounds first. Quote only genuinely missing assets; do not generate during development.",
+  "cues": [
+    {
+      "scene_id": "S020",
+      "asset": "bag_set",
+      "timing": "Sync a single soft cue to the bag settling at the bed foot."
+    },
+    {
+      "scene_id": "S053",
+      "asset": "wood_steps",
+      "timing": "Two quiet steps with the visible adult climbing."
+    },
+    {
+      "scene_id": "S061",
+      "asset": "treadle_sewing",
+      "timing": "Brief quiet cue under visible machine action; stop at cut to kitchen."
+    },
+    {
+      "scene_id": "S083",
+      "asset": "wood_door",
+      "timing": "Sync the door closing, then stop."
+    }
+  ],
+  "intentional_silence": [
+    "No invented Yiddish dialogue.",
+    "No screaming crowd loop or criminalizing ambience.",
+    "No subway, car horn or modern hotel beep."
+  ]
+}

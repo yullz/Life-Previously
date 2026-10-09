@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: Salem, 1692: Could You Prove You Weren’t a Witch?
+
+## What could you say?
+::: S001 | Plain examination room, table and waiting accused, no fit yet; Visitor separate at edge. [pose: closeup-worried 0.8,1.02 0.82] [zoom-in]
+You are accused of something you did not do. You deny it. The people questioning you still demand an explanation.
+
+::: S002 | Accusation inside clearly labelled speech-card outline; no actual ghost in historic room. [still]
+Somebody says your invisible shape has hurt them. How do you demonstrate where an invisible version of you has been?
+
+::: S003 | Ordinary timber meetinghouse and path, no ominous magical sky. [pose: look-around 0.8,0.94 0.6] [zoom-out]
+Welcome to Salem in sixteen ninety-two. We are examining the defenses people actually tried, and why those efforts could fail.
+
+::: S004 | Short timeline of separately named cases, dates added locally. [still]
+Our Visitor asks the questions. Real examinations, petitions and appeals supply the cases, involving different people at different moments.
+
+::: S005 | Clerk's blank paper,quill and closed record bundle; historical room anchored toS001. [note: SEPARATE CASES • SURVIVING RECORDS] [same-as: S001] [zoom-in]
+There is no perfect answer that reliably saves your life. The records offer no such formula.
+
+::: S006 | Neighbours and elderly Nurse near plain table, papers blank. [pose: closeup-thoughtful 0.8,1.02 0.82] [pan-left]
+Start with the most obvious response: deny the accusation. Then perhaps ask neighbours who know you to speak in your defense.
+
+::: S007 | Three simple cards: deny,explain,confess; no safe-option tick. [still]
+If that does not work, could you explain a misunderstood sentence? Could a confession change what the authorities believed about you?
+
+::: S008 | Mary Esty seated beside paper and window; quill aside, no invented writing action. [pan-right]
+Finally, a condemned woman will ask the court to change how it tests the accusations themselves.
+
+::: S009 | Paper edge and still hands, no readable painted text. [same-as: S008] [zoom-in]
+Her practical requests show that people within this crisis recognized failures in the process.
+
+::: S010 | Two clearly labelled place markers, no inaccurate route or exact distance. [still]
+Keep two places distinct: Salem Village held examinations; the later trials discussed here took place in Salem Town.
+
+::: S011 | Meetinghouse doorway with ordinary people entering, no grand jury spectacle. [same-as: S003] [zoom-out]
+An examination was not a trial. Our separate cases must not become one imaginary hearing.
+
+::: S012 | Young Mary Warren at left opposite two magistrates, clerk seated to side. [same-as: S001] [pan-right]
+Mary Warren stood before magistrates in April. Her opening answer could hardly have been clearer.
+
+## When denial is not enough
+::: S013 | Mary speaks calmly, one witness distressed on bench; no supernatural figure. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [zoom-in]
+Asked whether she was guilty, Warren declared her innocence. The account then describes accusations and fits among people in the room.
+
+::: S014 | Mary Warren standing apart from seated witnesses; clear facial expressions,no ghost or role labels painted. [note: MARY WARREN • 19 APRIL 1692] [same-as: S001] [pan-left]
+They questioned her changed position: previously among the afflicted, she was now accused of afflicting others.
+
+::: S015 | Magistrate listens to witness across room, Mary separate, blank paper at clerk. [same-as: S001] [zoom-out]
+The record also reports a claim that Warren had said the afflicted were pretending. That statement itself entered the questioning.
+
+::: S016 | Mary's hands clasped at waist, magistrates beyond, restrained expression. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [pan-right]
+What you say about other people's behaviour can become another thing you must explain.
+
+::: S017 | Plain human silhouette and attributed allegation card, no demon or spectral body. [still]
+When Warren fell into fits, others claimed apparitions stopped her speaking. That is a recorded allegation, not an established cause.
+
+::: S018 | Clerk's hand and ordinary ink on blank sheet,with Mary and witnesses out of focus; no supernatural cause. [note: REPORTED BEHAVIOUR] [same-as: S001] [pan-left]
+The record does not establish an invisible attacker, and gives us insufficient information to diagnose everyone present.
+
+::: S019 | Two boxes joined by labelled INTERPRETATION arrow, not factual causation arrow. [still]
+The issue is interpretation: a visible reaction could become evidence of a supposed invisible action.
+
+::: S020 | Same room, magistrates and witnesses focused on Mary, no manic expressions. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S001] [pan-right]
+Denial becomes harder to hear when the accusation already supplies an explanation for whatever happens next.
+
+::: S021 | Same clerk pauses over paper; restrained room, no claim his observation was an experiment. [note: THE RECORDER'S NOTE] [same-as: S001] [zoom-in]
+The clerk's account ends by noting a change in the sufferers' behaviour once Warren began to confess. That is the recorder's observation.
+
+::: S022 | Clerk's blank sheet and hand poised, record not magical artifact. [same-as: S001] [pan-left]
+That observation is no controlled test. It cannot by itself separate pressure, confusion and interpretation.
+
+::: S023 | Mary at plain doorway with official nearby, no chains or violence. [pose: closeup-worried 0.8,1.02 0.82] [zoom-out]
+Warren was committed after the examination. Simply saying she was innocent had not ended the matter or made her free to leave.
+
+::: S024 | Neighbours gather around table while Nurse listens quietly. [same-as: S006] [pan-right]
+Imagine your next defense: people have known you for years. Surely their experience of your character should count.
+
+## Your neighbours speak for you
+::: S025 | Several neighbours by table with Nurse; no exact signature count implied. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S006] [zoom-in]
+Rebecca Nurse's neighbours did speak up. A petition said they had known her for years and had no grounds for the accusation.
+
+::: S026 | Elderly Nurse beside two neighbours at table; one neighbour holds blank paper,not a generated signature sheet. [note: A CHARACTER PETITION] [same-as: S006] [pan-left]
+The petition offered something beyond an alarming claim: experience of a person over a long period.
+
+::: S027 | Paper held by neighbour, no fabricated spoken quotation or painted signatures. [same-as: S006] [zoom-out]
+It records support put before authorities, even though we cannot recover every conversation behind it.
+
+::: S028 | One older male supporter at table with blank petition; illustrative likeness,not an exact portrait of Nathaniel Putnam. [note: NATHANIEL PUTNAM'S TESTIMONY] [same-as: S006] [pan-right]
+Another supporter, Nathaniel Putnam, described her life and the family she had raised. He acknowledged human failings rather than claiming perfection.
+
+::: S029 | Neighbour gestures toward seated Nurse with open hand, respectful staging. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S006] [zoom-in]
+You ask people to consider the person they know alongside the frightening story being told.
+
+::: S030 | Hands holding plain paper near doorway; Nurse remains visible behind supporters. [same-as: S006] [pan-left]
+But reputation and accusation can coexist if authorities believe the wrongdoing was hidden from ordinary view.
+
+::: S031 | Group remains together, no crowd turns hostile or throws stones. [same-as: S006] [zoom-out]
+The important historical point is that Nurse was not abandoned by everyone. Neighbours tried to help; their support did not secure her safety.
+
+::: S032 | Distinct Town courtroom, Nurse left and jurors on bench, no Village room reuse. [pan-right]
+Our imagined defense has become a real petition. Nurse's next difficulty turns on something smaller: a sentence.
+
+::: S033 | Nurse's worried face, cap and grey hair consistent, no caricature. [same-as: S032] [zoom-in]
+Words under pressure can carry different meanings. What happens if officials hear something you did not intend?
+
+::: S034 | Two blank record sheets on clerk's table; Nurse and jury bench beyond, room consistent. [note: JUROR'S ACCOUNT • APPEAL] [same-as: S032] [pan-left]
+Juror Thomas Fisk's account and Nurse's appeal let us examine a consequential misunderstanding.
+
+::: S035 | Plain clerk's folio and quill near window, no counterfeit title page or printed1700book in1692scene. [note: TEXTS PRESERVED IN CALEF, 1700] [same-as: S032] [zoom-out]
+Preserved in a later published account, these texts do not supply every word spoken throughout the trial.
+
+::: S036 | Juror attentive at bench, Nurse across room; no already-final verdict sign. [same-as: S032] [pan-right]
+They do show how much could depend on interpreting a few words.
+
+## The words they heard
+::: S037 | Jurors grouped by bench, magistrates at table; no celebratory release or second courtroom. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S032] [zoom-in]
+Nurse's jury initially returned a verdict of not guilty. The court objected, and the jurors went back to consider the case again.
+
+::: S038 | Juror Thomas Fisk represented generically on bench, looking toward Nurse; no invented words painted. [note: THE DISPUTED PHRASE] [same-as: S032] [pan-left]
+Fisk described attention turning to Nurse's words about two witnesses: they had been among her company.
+
+::: S039 | Two possible meanings on separate branches: fellow prisoners versus alleged association. [still]
+The witnesses had confessed. Her phrase could be interpreted as linking her to their supposed wrongdoing.
+
+::: S040 | Juror turns toward Nurse, who looks strained; no claim she intentionally refuses. [same-as: S032] [pan-right]
+Fisk said he wanted her meaning clarified. When the words were put before her and she did not answer, he treated them as evidence.
+
+::: S041 | Nurse by courtroom table, plain cap and hands visible, no witch imagery. [note: HER MEANING: FELLOW PRISONERS] [same-as: S032] [zoom-in]
+Nurse later explained that she meant fellow prisoners. Sharing imprisonment was the connection she intended, not membership in a company of witches.
+
+::: S042 | Nurse attentive but strained, normal ears, no hearing aid or invented gesture. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S032] [pan-left]
+Her appeal also said she was hard of hearing and full of grief, and had not understood how the court interpreted her words.
+
+::: S043 | Silence icon separated from agreement, no medical diagnosis. [still]
+Silence need not mean agreement. Hearing difficulty and distress change how an unanswered question might be understood.
+
+::: S044 | Room now quiet, Nurse in foreground, no hanging image or verdict gavel. [same-as: S032] [pan-right]
+The jury returned a guilty verdict. Nurse's explanation and the support offered for her did not prevent her execution in July.
+
+::: S045 | Quiet meetinghouse path, no execution staging or flames; restrained daylight. [note: REBECCA NURSE • 19 JULY 1692] [same-as: S003] [zoom-in]
+Rebecca Nurse was hanged on July nineteenth. She had tried to explain herself, and others had tried to defend her.
+
+::: S046 | Empty bench in quiet room, no body or dramatic shadow. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S023] [pan-left]
+Denial, reputation and explanation could all be offered without overcoming the process around you.
+
+::: S047 | Samuel Wardwell opposite clerk, blank page, no torture or devil imagery. [zoom-out]
+Perhaps saying what the questioners wanted would work better. Confession seems to offer another path.
+
+::: S048 | Two plain source sheets on table, no invented signatures. [same-as: S047] [pan-right]
+Before calling it a solution, consider a man whose record contains both confession and recantation.
+
+## The dangerous promise of confession
+::: S049 | Wardwell speaking to clerk, sober room, no supernatural scene shown. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S047] [zoom-in]
+Samuel Wardwell's confession was taken in September. It described supposed dealings with the devil, as many accusations in this crisis did.
+
+::: S050 | Ordinary blank confession sheet and quill; no devil contract or occult seal. [note: A RECORDED CLAIM] [same-as: S047] [pan-left]
+We are reading a recorded story, not accepting its supposed dealings with the devil as real.
+
+::: S051 | Same man and table, later-date overlay distinguishes event; no single continuous hearing. [note: SEPTEMBER • LATER STATEMENT] [same-as: S047] [zoom-out]
+Later, before the grand jury, Wardwell acknowledged that the confession had come from his mouth, but said he had falsely accused himself.
+
+::: S052 | Wardwell's solemn face opposite clerk, no visible torture, exact likeness not implied. [note: HIS REPORTED EXPECTATION] [same-as: S047] [pan-right]
+The appended note records his belief that he would die whether he maintained the confession or not. That is a bleak statement of expectation.
+
+::: S053 | Empty plain bench beneath daylight window, no dead body or hanging silhouette. [note: SAMUEL WARDWELL • 22 SEPTEMBER 1692] [same-as: S023] [zoom-in]
+Wardwell was hanged on September twenty-second. Confession had not functioned as an automatic ticket out of imprisonment and danger in his case.
+
+::: S054 | Empty clerk's chair and record sheets, no two-ending fantasy montage. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S047] [pan-left]
+We cannot promise that maintaining his confession would have saved him. The record establishes no such alternative outcome.
+
+::: S055 | Plain door and bench, human-scale quiet composition. [same-as: S023] [zoom-out]
+Nor should we blame the accused for failing to discover a safe answer. Pressure can make every available response carry consequences.
+
+::: S056 | Three response cards, no green safe branch. [still]
+Deny, explain, confess: none offers our imagined newcomer dependable instructions for getting out safely.
+
+::: S057 | Mary beside table and petition, calm purposeful expression. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S008] [zoom-in]
+Confessions themselves deserved scrutiny. Mary Easty would ask whether people had falsely accused themselves and others.
+
+::: S058 | Folded document and window light, no modern notebook or courtroom technology. [same-as: S008] [pan-left]
+That argument came from inside the crisis. People living through it could recognize unreliable evidence.
+
+::: S059 | Two distinct women by table, blank petition paper, ordinary clothes. [zoom-out]
+Easty and her sister Sarah Cloyce had already made a joint request about how their defense should be heard.
+
+::: S060 | Two sisters beside petition on table, facing one another without invented speech. [note: A REQUEST FOR A FAIR HEARING] [same-as: S059] [pan-right]
+Their request takes us beyond a clever reply, towards the question of whether a defense would receive a fair hearing.
+
+## Ask for a fair hearing
+::: S061 | Women face official at distance, no modern lawyer or rights poster. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S059] [zoom-in]
+The sisters said they could not adequately plead their own cause and asked the judges for assistance in presenting their defense.
+
+::: S062 | Two women foreground and a few adult supporters outside door; no claim all witnesses appeared. [same-as: S059] [pan-left]
+They wanted people who knew them well to testify: neighbours, their minister, and family members whose knowledge the court might consider.
+
+::: S063 | Two equally sized columns: evidence against/evidence in defense. [still]
+They wanted evidence on their behalf heard alongside the testimony accusing them.
+
+::: S064 | Blank petition between women's still hands; local phrase overlay only. [note: ASK FOR CORROBORATION] [same-as: S059] [pan-right]
+They also asked that testimony from accused witches or afflicted people should not condemn them without other legal evidence supporting it.
+
+::: S065 | Claim card above separate supporting-evidence box, no false checkmark. [pose: closeup-listening 0.8,1.02 0.82] [still]
+Ask what else supports the accusation. Its frightening nature should not substitute for testing it.
+
+::: S066 | Women's hands beside blank document, quiet determined faces. [same-as: S059] [pan-left]
+The petition appealed to the court's responsibility for their lives. These were people trying to make the authorities hear their reasoning.
+
+::: S067 | 1692 date on request card, no modern law book or constitutional text. [still]
+We can recognize their logic without pretending these proceedings used modern courtroom rules.
+
+::: S068 | Mary alone in same plain room, no newly invented shackles. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S008] [pan-right]
+And a sensible request is not the same thing as a request that succeeds. Mary Easty remained condemned to die.
+
+::: S069 | Plain petition on table near Mary Easty's hands; quill set aside, not actively writing. [note: NO MORE INNOCENT BLOOD] [same-as: S008] [zoom-in]
+Her final petition went further. She knew her appointed time was set, and asked that no more innocent blood be shed.
+
+::: S070 | Mary looks toward petition, no staged letter delivery claimed. [same-as: S008] [pan-left]
+She was pleading about a process affecting others, not merely defending her own character.
+
+::: S071 | Two source-derived groups, separate lines, no labels liar or witch on actual persons. [still]
+What could the court do differently? Her proposals addressed both the accusers and the people who had already confessed.
+
+::: S072 | Mary Easty sits beside narrow window and document, calm purposeful expression. [note: MARY EASTY'S PETITION] [same-as: S008] [pan-right]
+Her words help us understand what the accused themselves thought was going wrong.
+
+## What Mary Easty asked them to test
+::: S073 | Two separated interview symbols, clearly REQUESTED METHOD rather than event. [still]
+Easty asked that the afflicted accusers be examined closely and kept apart for a time. Their accounts should be tested, not simply repeated.
+
+::: S074 | Document foreground and Mary looking toward it, no named confessor added. [note: TEST THE CONFESSIONS] [same-as: S008] [pan-left]
+She also urged scrutiny of confessions. She believed some people had falsely accused themselves and others, and that examination could reveal it.
+
+::: S075 | Mary by window, thoughtful expression, no omniscient montage. [same-as: S008] [zoom-out]
+Distinguish her belief from a complete explanation. She did not know every person's private history.
+
+::: S076 | Accusation and confession cards share an unverified statement; no checkmark until independent support. [still]
+But the proposal challenges an important assumption: repeating an accusation in a confession does not automatically make it reliable evidence.
+
+::: S077 | Blank petition on table, Mary holds hands together, no religious apparition. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S008] [zoom-in]
+She maintained that she knew nothing of witchcraft and could not falsely accuse her own soul. Confessing was not morally simple for her.
+
+::: S078 | Folded cloth and plain bench, window light, no Halloween prop. [same-as: S023] [pan-left]
+Conscience mattered alongside fear. A quick survival-tip version of the story misses that pressure.
+
+::: S079 | Empty plain room after case narration, light through small window, no graphic execution. [note: MARY EASTY • 22 SEPTEMBER 1692] [same-as: S023] [zoom-out]
+Easty was hanged on September twenty-second. Her plea remains powerful partly because those practical requests did not save the person making them.
+
+::: S080 | Sarah alone by plain doorway, explicitly later label, Mary absent. [note: LATER OUTCOME: SARAH CLOYCE] [same-as: S059] [pan-right]
+Sarah Cloyce, her sister, had a different outcome: after imprisonment, she was cleared. Their shared petition did not produce identical fates.
+
+::: S081 | Plain bundle of legal papers on table,not a fake facsimile,January1693 daylight. [note: 1693 • CHARGES REJECTED] [zoom-in]
+In January sixteen ninety-three, indictments against Cloyce were rejected. That supplies an outcome, not a universal strategy.
+
+::: S082 | Two distinct case paths with names and outcomes, no numerical odds. [pose: closeup-thoughtful 0.8,1.02 0.82] [still]
+Not everyone accused died, and no single response explains survival.
+
+::: S083 | Small gallery of source-card titles, no unreadable document wall. [still]
+What the documents do show is effort: people denied, explained, petitioned and challenged the testimony being used against them.
+
+::: S084 | Petition on empty table with quiet daylight, no invented triumph. [same-as: S008] [pan-right]
+They tried to change how authorities reached verdicts. They were not silent figures simply waiting for one.
+
+## The answer was never just better words
+::: S085 | Plain later court room with record bundle, explicitly1693label. [note: AFTERMATH • 1692–1693] [same-as: S081] [zoom-in]
+By late October, Governor Phips had dissolved the special court. Proceedings and releases continued into the following year.
+
+::: S086 | Names of Nurse,Easty,Wardwell beside dates, no simplified causal arrow. [still]
+Change could not restore lives already taken. We cannot credit it to one petition without evidence.
+
+::: S087 | Return to empty original examination room, no current case conflation. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S001] [zoom-out]
+Being innocent did not guarantee you could persuade the people judging you.
+
+::: S088 | Four concise defense icons with source names, no promise of success. [still]
+Your neighbours could speak well of you. Your words could be explained. You could ask for witnesses and better tests of the accusations.
+
+::: S089 | Neighbours around petition as labelled earlier moment, no resurrected Nurse afterexecution. [note: EARLIER: THE DEFENSE PETITION] [same-as: S006] [zoom-in]
+Those efforts mattered, even when they failed. They show that doubts and reasoned objections existed within the world of sixteen ninety-two.
+
+::: S090 | Defense and accusation paths with interrupted listening symbol, no mock legal equation. [still]
+The victims did not lack a perfect sentence. Their defenses could not reliably overcome the accusations.
+
+::: S091 | Plain source titles and case dates, no supernatural illustrations. [pose: closeup-listening 0.8,1.02 0.82] [still]
+Close reading lets us hear distinctions that a simple tale about witches erases.
+
+::: S092 | Three distinct names with brief paraphrased action, each correctly paired. [still]
+Nurse explained what she meant. Wardwell said he had accused himself falsely. Easty asked the court to test what it was hearing.
+
+::: S093 | Empty ordinary confined room with natural daylight, no ominous approaching shadow. [same-as: S023] [zoom-in]
+Different people and responses, with no dependable answer that could make the process safe.
+
+::: S094 | Three discussion prompts in channel style, no playful choose-your-death mechanic. [still]
+Which part of their defense do you think deserved the most careful hearing: character testimony, an explanation, or the challenge to the evidence?
+
+::: S095 | Ordinary village path and homes, calm human-scale world, no broomstick moon. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S003] [zoom-out]
+This is Life, Previously. The people accused in Salem were people with neighbours, families and voices, not the creatures of the accusations.
+
+::: S096 | Petition resting on table, end-screen safe area, quiet close. [same-as: S008] [pan-right]
+The final question is not what clever words would have saved you. It is what the authorities were willing to hear.

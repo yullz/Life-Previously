@@ -1,0 +1,41 @@
+{
+  "status": "direction_ready_assets_unselected",
+  "music": "Quiet channel theme; calm trade/work atmosphere. No comedy fart effects, stereotyped gong or exaggerated flies.",
+  "mix": "Voice dominates. A few bucket, step and waterway textures establish work without disgust.",
+  "new_assets": [
+    {
+      "id": "wood_bucket",
+      "description": "Closed wooden bucket set gently on earth/wood."
+    },
+    {
+      "id": "oar_water",
+      "description": "Quiet unpowered boat water movement."
+    },
+    {
+      "id": "paper_account",
+      "description": "Soft paper handling."
+    }
+  ],
+  "acquisition": "Inspect existing licensed effects or use original Foley; no paid generation without authorization.",
+  "cues": [
+    {
+      "scene_id": "S013",
+      "asset": "paper_account",
+      "timing": "Brief at transaction setup."
+    },
+    {
+      "scene_id": "S037",
+      "asset": "wood_bucket",
+      "timing": "Low bucket contact."
+    },
+    {
+      "scene_id": "S049",
+      "asset": "oar_water",
+      "timing": "Subtle boat transition."
+    }
+  ],
+  "intentional_silence": [
+    "S073",
+    "S074"
+  ]
+}

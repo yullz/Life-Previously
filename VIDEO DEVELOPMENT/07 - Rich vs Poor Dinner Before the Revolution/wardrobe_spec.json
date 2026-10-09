@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "The Visitor compares households without impersonating either social rank. His familiar outfit stays consistent; no beret, powdered wig or conspicuous aristocratic costume.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Keep his colours visually subordinate to food; avoid enlarging him so that the meal contrast becomes unreadable. Period locals wear ordinary1783clothes suited to their work."
+}

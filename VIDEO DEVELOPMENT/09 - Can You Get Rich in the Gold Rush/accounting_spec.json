@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "status": "director_specification_media_pending",
+  "prices": [
+    {
+      "item": "Dam work",
+      "amount": "$6",
+      "unit": "per man per day",
+      "includes": "board",
+      "source": "Webster chV pp107–108"
+    },
+    {
+      "item": "Old cradle",
+      "amount": "$50",
+      "unit": "group purchase"
+    },
+    {
+      "item": "Two tin pans",
+      "amount": "$8",
+      "unit": "combined group purchase, not each"
+    },
+    {
+      "item": "Kettle",
+      "amount": "$4",
+      "unit": "group purchase"
+    },
+    {
+      "item": "Known subtotal",
+      "amount": "$62",
+      "unit": "group outlay",
+      "formula": "50+8+4",
+      "excludes": "unpriced pick,shovel and other living/travel expenses; no equal personal shares assumed"
+    },
+    {
+      "item": "Good-spell gold",
+      "amount": "nearly1ounce",
+      "unit": "per person per day over a reported five-day spell",
+      "valuation": "reported$16 per ounce; nearly$16 GROSS, not net profit"
+    },
+    {
+      "item": "Flour",
+      "amount": "40cents then$1.50",
+      "unit": "per pound in Webster's local rainy-season account"
+    },
+    {
+      "item": "Shared tent",
+      "amount": "$2",
+      "unit": "per person per week, own blankets, no meals included"
+    },
+    {
+      "item": "Later bank claim",
+      "amount": "$40",
+      "unit": "purchase by Webster and Pinney, not each"
+    },
+    {
+      "item": "Building work",
+      "amount": "$4.50",
+      "unit": "per person per day with board"
+    }
+  ],
+  "forbidden": [
+    "Do not subtract group outlay from one person's daily wage as if units match.",
+    "Do not call nearlyoneounce exactlyone.",
+    "Do not invent precise rainy-period loss, netprofit, annualincome or modern equivalent.",
+    "No diagram setting unknown costs equal to zero."
+  ],
+  "continuity": {
+    "dry_anchor": "S004",
+    "wet_first": "S048",
+    "rule": "S048 must edit the accepted S004 geometry, retaining riverbank/ridge/oaks while increasing water level and changing weather. Then all rainbar shots descend from S048. Bind this explicit dependency in native prompt jobs before submission.",
+    "late_return": "S091 is explicitly earlier dry conditions, not a sudden weather reversal.",
+    "group": "Three companions initially; Gage leaves before pair's later claim and departure. ScenesS061 onward use Webster+Pinney unless explicitly wider reconstruction."
+  },
+  "rocker": "Local schematic: material enters upper screen, coarse stones retained above, finer material/water passes to sloping lower channel, gold caught behind riffles; ordinary trio machine contains no mercury. No long-tom/hydraulic monitor substitution.",
+  "source_status": "Historical claim review still pending against exact script; this specification does not certify generated images or final media."
+}

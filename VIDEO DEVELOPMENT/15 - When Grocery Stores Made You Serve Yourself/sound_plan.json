@@ -1,0 +1,38 @@
+{
+  "status": "direction_ready_assets_unselected",
+  "music": "Quiet channel theme with subdued grocery-room texture; no modern supermarket radio or jingle.",
+  "mix": "Dialogue and explanation dominate. Mechanical sounds brief, never electronic scanner beeps.",
+  "new_assets": [
+    {
+      "id": "basket_set",
+      "description": "Soft hand basket set on timber counter."
+    },
+    {
+      "id": "paper_wrap",
+      "description": "Quiet paper wrapping."
+    },
+    {
+      "id": "gate_click",
+      "description": "Small mechanical gate latch, no prison clang."
+    }
+  ],
+  "acquisition": "Inspect existing licensed assets or make simple original Foley; no paid purchase without contract approval.",
+  "cues": [
+    {
+      "scene_id": "S013",
+      "asset": "gate_click",
+      "timing": "Brief entry transition."
+    },
+    {
+      "scene_id": "S049",
+      "asset": "basket_set",
+      "timing": "Low basket contact."
+    },
+    {
+      "scene_id": "S055",
+      "asset": "paper_wrap",
+      "timing": "Under wrapping image."
+    }
+  ],
+  "intentional_silence": []
+}

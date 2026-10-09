@@ -1,0 +1,1270 @@
+{
+  "id": 4,
+  "slug": "new-york-1900",
+  "title": "You Arrive in New York in 1900. Where Do You Sleep?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "Your First Night in New York, 1900",
+    "A Bed for 20 Cents in New York?"
+  ],
+  "period": "New York City, 1900. Ground-level Lower East Side and Greenwich Village scenes: brick and brownstone masonry, narrow tenement stairs, plain timber floors, cast-iron coal stove, treadle sewing machine, modest turn-of-century work clothes, cloth caps and restrained hats. No claim that every newcomer used Ellis Island. Mills House No.1 is on Bleecker Street;97 Orchard Street is a different building in a different neighborhood. Specific household reconstructions use the1900 census or an explicitly dated1892 factory record. Any daylight/time change must be in scene scope. Illustrations reconstruct documented building types, not unidentified photographs.",
+  "avoid": "Empire State Building, Chrysler Building, modern Manhattan skyline, Manhattan Bridge, subway entrances before1904, FDR Drive, modern taxis or cars dominating streets, electric sewing machine, zippers or wheeled suitcases, neon hotel signs, air conditioners, televisions, modern kitchen plumbing in97 Orchard1900, interior flush toilet assumed in every flat, luxurious Mills suites or private baths, tourist version of Ellis Island's main hall, identical filthy faces or ethnic caricatures, five Levine children in1900, later1901 housing improvements silently moved into1900, typeset-looking signs generated into artwork, background Visitor.",
+  "locations": {
+    "street": {
+      "scope": "Lower East Side, New York,1900; illustrative newcomer arrival",
+      "design": "Brick tenement frontage left, simple stoop and ground-floor unlettered shop window, two period pushcarts farther back, no landmark skyline. Firm pavement with clear right foreground. Late afternoon. Pedestrians modestly and diversely dressed; no poverty spectacle."
+    },
+    "case": {
+      "scope": "New York,1900; illustrative newcomer's luggage",
+      "design": "One modest rectangular brown leather or heavy cloth travelling bag with simple handle on worn timber or pavement. No wheels, bright plastic or airline tag. All labels blank."
+    },
+    "mills_ext": {
+      "scope": "Mills House No.1, Bleecker Street, New York,1900; reconstructed lower facade",
+      "design": "Light masonry base and brick upper facade, broad substantial entrance and regular windows. Use primary1900 book photograph and historic-site facade reference for exact form; show only verified portion, no invented enormous hotel name. No later Village Gate signage."
+    },
+    "mills_desk": {
+      "scope": "Mills House No.1, New York,1900; illustrative reception",
+      "design": "Plain wood counter left, one clothed male clerk in dark waistcoat, simple blank ledger, modest waiting area. Good maintenance, no luxury concierge uniforms or modern register. Clear right floor. Exact counter layout is illustrative."
+    },
+    "mills_room": {
+      "scope": "Mills House No.1, New York,1900; illustrative small single room",
+      "design": "Narrow private room with single plain metal-framed bed left, clean pale bedding, simple small window beyond, one modest chair. No private bathroom, kitchen, chandelier or double bed; no exact unsupported room dimensions. Clear floor along right edge."
+    },
+    "mills_common": {
+      "scope": "Mills House No.1, New York,1900; reconstructed shared amenities",
+      "design": "Plain orderly common room with reading table left, shelves with unlettered book spines, restrained late-Victorian chairs. Two adult men at most. No all-access family scene, club luxury or modern lamps."
+    },
+    "boarding": {
+      "scope": "Lower East Side, New York,1900; illustrative boarding arrangement, not a named resident's room",
+      "design": "Small plastered room with two distinct plain sleeping places at left separated by modest space, worn wooden floor and one window. Do not depict a specific bed from census records. No absurd bodies piled together; right floor clear."
+    },
+    "orchard_ext": {
+      "scope": "97 Orchard Street, New York,1900; reconstructed entrance",
+      "design": "Narrow five-story brick tenement, brownstone entrance steps and regular sash windows using museum exterior reference. Ground-floor shop fittings simplified and unlettered; no current museum banners. Frame entrance and lower windows, not invented full streetscape."
+    },
+    "stairs": {
+      "scope": "Lower East Side tenement, New York,1900; illustrative shared stair",
+      "design": "Narrow wooden stair rising at left with plain dark banister and plaster wall. Small safe level landing at right. No elevator, modern exit sign or lush carpet; no bodies sitting across steps."
+    },
+    "frontroom": {
+      "scope": "Levine household at97 Orchard Street, around1900; historical reconstruction",
+      "design": "Modest front room with treadle sewing machine by window left, worktable center-left, neatly stacked cloth and chair. Family space shares work. Harris: adult man cream shirt, dark waistcoat, simple trousers; no exact portrait claim. No electric motor or unsupported furniture count."
+    },
+    "kitchen": {
+      "scope": "Levine household at97 Orchard Street, around1900; historical reconstruction",
+      "design": "Small middle kitchen with cast-iron coal stove left, plain table and iron on a separate workboard, modest pots. Interior room light restrained; no invented modern taps. Jennie: adult woman dark long skirt, cream blouse and plain apron, no exact likeness. Right floor clear."
+    },
+    "objects": {
+      "scope": "New York,1900; explanatory object detail",
+      "frame": "modern historical object explanation",
+      "design": "Neutral parchment with one specified period object: plain coins, bed frame, cloth, key or unlettered ledger. Local text only."
+    },
+    "diagram": {
+      "scope": "Modern explanatory graphic about New York housing in1900",
+      "frame": "modern explanatory diagram",
+      "design": "Parchment canvas, clear date and building labels locally typeset. Prices always carry unit and scope: per night vs per month. No present-day currency conversion or invented income."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Jacob Riis — A Ten Years' War (1900)",
+      "url": "https://www.gutenberg.org/cache/epub/38821/pg38821-images.html",
+      "read": "2026-10-09: front matter confirms1900 edition; printed pp.89–93, Mills Houses prices, facilities, intended residents and occupancy.",
+      "limit": "Reform advocate's account, not neutral inspection of all lodging. Use concrete prices/facilities, not stigmatizing judgments or comparisons asserting identical Waldorf beds."
+    },
+    {
+      "id": "SRC02",
+      "title": "Tenement Museum —1900 Census for97 Orchard Street",
+      "url": "https://www.tenement.org/wp-content/uploads/2019/10/1900-Census.pdf",
+      "read": "2026-10-09: all3PDF pages; transcription rows5–35, including male/female boarders and Levine family rows25–29.",
+      "limit": "Census classification does not reveal nightly prices, bed position, household agreement or the experience of every immigrant."
+    },
+    {
+      "id": "SRC03",
+      "title": "Tenement Museum — The Rent Is Due",
+      "url": "https://www.tenement.org/blog/the-rent-is-due-a-history-of-rent-at-97-orchard-street/",
+      "read": "2026-10-09: entire article and references; Veiller1900 study block and floor-specific rent ranges.",
+      "limit": "The quoted block is bounded by Canal/Bayard/Chrystie/Forsyth, not97 Orchard. Do not transfer later1907/1908 figures or the article's conjectural rents into1900 fact."
+    },
+    {
+      "id": "SRC04",
+      "title": "Tenement Museum — The Levine Family Story",
+      "url": "https://www.tenement.org/wp-content/uploads/2019/10/Levine-Family-Story.pdf",
+      "read": "2026-10-09: teacher-guide source notes and narrative pp.1–7; census and1892inspection described; distinguish illustrative domestic reconstruction.",
+      "limit": "Teacher narrative contains imagination and later children. In1900 there are three children; no imagined shopping or cooking anecdote asserted as documented."
+    },
+    {
+      "id": "SRC05",
+      "title": "Tenement Museum — The Levine Tenement Story",
+      "url": "https://www.tenement.org/Virtual-Tour/vt_levstory.html",
+      "read": "2026-10-09: full account of apartment workshop, three employees, kitchen pressing and Sabbath; originally reconstructed1897 scene.",
+      "limit": "Use workshop arrangement with clear historical period; no mechanical transfer of1897child count or1904family into1900."
+    },
+    {
+      "id": "SRC06",
+      "title": "NYC LGBT Historic Sites Project — Mills House No.1",
+      "url": "https://www.nyclgbtsites.org/site/mills-house-no-1-village-gate/",
+      "read": "2026-10-09: architectural history,1897opening and intended single-male clientele.",
+      "limit": "Later1910s/1920s incidents and entertainment venues are outside this episode. Do not imply modern demographic labels for every guest."
+    },
+    {
+      "id": "SRC07",
+      "title": "Tenement Museum —97 Orchard Street",
+      "url": "https://www.tenement.org/explore/97-orchard-street/",
+      "read": "2026-10-09: building description:22apartments, roughly325squarefeet each,3rooms; Levine1892–1905 section.",
+      "limit": "Whole-building historical overview spans decades. Keep households and upgrades in their own years."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "claim": "The arriving Visitor, his choices, tiredness and imagined room search are fictional viewer framing.",
+      "type": "F",
+      "sources": [],
+      "locator": "Opening explicitly defines a reconstructed search, not an individual immigration diary.",
+      "limit": "No invented named resident's dialogue or guarantee of vacancy, work or admission."
+    },
+    {
+      "id": "C1",
+      "claim": "Mills House No.1 opened in1897 on Bleecker Street and offered low-cost rooms intended for single working-class men.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC06"
+      ],
+      "locator": "Riis pp.89–91; historic-site opening and clientele paragraphs.",
+      "limit": "Not a family hotel or universal option; Bleecker is not Orchard."
+    },
+    {
+      "id": "C2",
+      "claim": "Riis's1900 account gives Mills lodging at20cents nightly and a separate restaurant dinner at15cents.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Printed pp.89–90.",
+      "limit": "Historical reported charge, not entire daily living cost or guaranteed booking. No invented current-dollar equivalence."
+    },
+    {
+      "id": "C3",
+      "claim": "Mills bedrooms were small private rooms, with shared baths, reading facilities and laundry options.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Printed p.89, baths, games, library, paid and self-service laundry; p.90 rooms.",
+      "limit": "Do not draw private luxury bathroom or claim all amenities had identical availability for every guest."
+    },
+    {
+      "id": "C4",
+      "claim": "Demand could exceed Mills capacity; Riis says crowds were sometimes turned away.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Printed p.90, both houses filled and crowds often turned away.",
+      "limit": "No fabricated vacancy status for a particular1900night."
+    },
+    {
+      "id": "C5",
+      "claim": "97Orchard's1900census records boarders, including23-year-old tailor Ike Solive and21-year-old dressmaker Pauline Rudolph.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Transcription row8 and row21; boarder classification.",
+      "limit": "Names follow supplied transcription; do not claim a specific bed, room, relationship, rent or meals."
+    },
+    {
+      "id": "C6",
+      "claim": "Boarding provided household income and could share limited living space; particular agreements varied.",
+      "type": "I",
+      "sources": [
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Census boarder rows; rent article household-support discussion.",
+      "limit": "No1908boarding percentage passed off as1900, no assumption every boarder ate meals with hosts."
+    },
+    {
+      "id": "C7",
+      "claim": "Veiller's1900survey found3-room rents of$12–13monthly on first floors and$9.50–10on fourth floors in a specified Lower East Side block.",
+      "type": "E",
+      "sources": [
+        "SRC03"
+      ],
+      "locator": "Veiller paragraph and footnotes1–2.",
+      "limit": "A study example, not a citywide tariff or97Orchardlease. Keep floor labels as source's US usage."
+    },
+    {
+      "id": "C8",
+      "claim": "97Orchard was built with22three-room apartments of roughly325squarefeet each.",
+      "type": "E",
+      "sources": [
+        "SRC07"
+      ],
+      "locator": "Opening building description.",
+      "limit": "Do not present each room as a separate bedroom or exact modern floorplan without drawing evidence."
+    },
+    {
+      "id": "C9",
+      "claim": "Harris and Jennie Levine lived/worked at97Orchard; Harris employed three garment workers, with pressing in the kitchen, and closed the workshop on Saturdays for the Jewish Sabbath.",
+      "type": "E",
+      "sources": [
+        "SRC04",
+        "SRC05"
+      ],
+      "locator": "Family story pp.1/5,1892inspection explanation; virtual tour workshop and kitchen paragraphs.",
+      "limit": "Workers are not automatically boarders. Distinguish documented workplace from invented family interactions."
+    },
+    {
+      "id": "C10",
+      "claim": "The1900census lists Harris, Jenny and three children in the Levine household; later family size must not be imported.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Rows25–29: Harris,Jenny,Pauline,Hyman,Max.",
+      "limit": "Narration uses three children only for1900. No claim that census captures every visitor or worker."
+    },
+    {
+      "id": "C11",
+      "claim": "A nightly room, a boarding arrangement and a monthly apartment solve different housing needs; price comparisons need matching units and included services.",
+      "type": "I",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Synthesis of reported prices, boarding records and household arrangements.",
+      "limit": "Explicit interpretation; no universal ranking or invented wage budget.30nights×20c=$6is only an illustrative calculation if used."
+    }
+  ],
+  "research": "A fictional single adult's first-night search in1900 contrasts nightly lodging, boarding and monthly family housing. Mills House No.1 was operating, and Riis's1900edition—not only his1902rewrite—confirms20c lodging,15c dinner and shared amenities. The9am–5pm room closure occurs in the1902book but was not located in the1900passage, so omit it. The1900census supplies actual male and female boarders at97Orchard, avoiding reliance on a1908citywide percentage. Veiller rent ranges belong to a different surveyed block; caption and speech say so.97Orchard's apartments are small three-room homes, not three-bedroom homes. The Levines have three children in1900, not the eventual five; workplace staff are not counted as residents. Do not use the Ellis Island main hall without choosing a date after itsDecember1900opening, or assume all arrivals passed through it. Avoid1901tenement reforms,1903women'shotel,1904subway,1909Mills/bridge imagery. Riis is a reform advocate with stigmatizing prejudices; factual observations can be used without adopting his moral explanations of poverty. No authenticity claim for fictional Visitor's bed or particular family's private agreement.",
+  "description": "You have arrived in New York in1900. Tonight you need a bed; next month you might need a home. Compare a low-cost room at Mills House, boarding in a crowded neighborhood and renting a small tenement apartment, using contemporary accounts, a1900census and the lives of residents at97Orchard Street.",
+  "tags": [
+    "New York1900",
+    "New York history",
+    "tenement history",
+    "Mills House",
+    "97Orchard Street",
+    "Lower East Side history",
+    "immigrant life",
+    "boarding houses",
+    "Jacob Riis",
+    "history of housing",
+    "New York rent history",
+    "everyday history",
+    "Life Previously"
+  ],
+  "pinned_comment": "For your first night, would you try the single room, seek a boarding arrangement, or start searching for an apartment? What would matter most?",
+  "pilot": [
+    "S001",
+    "S014",
+    "S019",
+    "S039",
+    "S064",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "WHERE’S MY BED?",
+      "chip": "NEW YORK • 1900",
+      "scope": "New York1900; fictional first-night search",
+      "pose": "closeup-worried",
+      "background": "A narrow plain single bed at left inside a modest period room, open doorway beyond showing a brick tenement street. Brown travel bag at bed foot. Keep geography illustrative, not Mills plus97Orchard fused into one building; no skyline, neon or drawn Visitor.",
+      "rationale": "Immediate personal problem and visible promise of a place to sleep. The room is modest, emotionally clear, and the question survives phone-size viewing.",
+      "payoff_scene_ids": [
+        "S001",
+        "S020",
+        "S091"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "20¢ A NIGHT?",
+      "chip": "MILLS HOUSE • 1900",
+      "scope": "Mills House No.1,1900; illustrative single room",
+      "pose": "closeup-listening",
+      "background": "Clean small single bed left, plain metal frame and pale bedding, one small window, modest chair, no ensuite or luxury. One plain coin silhouette may be local artwork later, not model-drawn readable currency.",
+      "rationale": "A verified period price creates curiosity, while the modest room makes clear what the money bought. Script retains separate food costs and limited eligibility.",
+      "payoff_scene_ids": [
+        "S016",
+        "S026",
+        "S030"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "THREE ROOMS. EVERYTHING.",
+      "chip": "ORCHARD STREET • 1900",
+      "scope": "97Orchard Street household-workspace reconstruction",
+      "pose": "closeup-thoughtful",
+      "background": "Period treadle sewing machine left foreground and a narrow doorway to a modest kitchen behind. A folded blanket on plain chair suggests domestic use without invented bed count. No factory warehouse, five children or slum caricature.",
+      "rationale": "Shows the home/work tension rather than implying three spacious bedrooms; directly paid off by the Levine story.",
+      "payoff_scene_ids": [
+        "S061",
+        "S064",
+        "S068"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "What Did a 20-Cent Room in New York Include?",
+      "from_scene": "S013",
+      "to_scene": "S019",
+      "hook": "A room with qualifications",
+      "description": "Riis’s1900account reports20-cent nightly lodging at the Mills Houses. Small rooms and shared amenities were a specific offer for men, with food priced separately."
+    },
+    {
+      "title": "New York’s Cheaper Apartment Was Upstairs",
+      "from_scene": "S049",
+      "to_scene": "S055",
+      "hook": "The floor changed the price",
+      "description": "A1900Lower East Side survey found lower rents on higher floors in its sample. These figures belong to that surveyed block, not a recovered97Orchard Street lease."
+    },
+    {
+      "title": "Three Rooms, a Family and a Workshop",
+      "from_scene": "S061",
+      "to_scene": "S067",
+      "hook": "Three rooms did not mean three bedrooms",
+      "description": "The Levine household at97Orchard combined domestic life and garment work. In1900the census lists two parents and three children; employees were not automatically residents."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "A city is not a reservation",
+      "scenes": [
+        [
+          "You have arrived in New York. Your bag is here, your ambitions are enormous, and your bed is currently nowhere.",
+          "C0",
+          "street",
+          "establishing",
+          "Late afternoon street, modest travel bag on pavement left, three pedestrians farther back; clear right foreground.",
+          "look-around"
+        ],
+        [
+          "It is nineteen hundred. Before you build a new life, there is a smaller problem: where do you sleep tonight?",
+          "C0",
+          "case",
+          "object insert",
+          "Single brown travelling bag on pavement beside tenement stoop, no person or luggage wheels."
+        ],
+        [
+          "You cannot book a room from your pocket. You can, however, discover that the city has several very different answers.",
+          "C0,C11",
+          "street",
+          "reaction",
+          "Same street and bag, no modern device, two adults walking left.",
+          "scratch-head"
+        ],
+        [
+          "A nightly room, a boarding arrangement, or a monthly apartment. Those solve different problems, at different prices.",
+          "C11",
+          "diagram",
+          "graphic",
+          "Three separate icons: single bed, shared household, three-room plan; unit labels local.",
+          null,
+          null,
+          "A NIGHT • A HOUSEHOLD • A MONTH"
+        ],
+        [
+          "We're following an imaginary newcomer through real housing evidence. The choices are reconstructed, not taken from one person's diary.",
+          "C0",
+          "street",
+          "medium",
+          "Same late-afternoon frontage, one adult closing plain shop shutters left, no readable sign.",
+          "closeup-thoughtful",
+          "New York • 1900 • reconstructed search"
+        ],
+        [
+          "Our Visitor is a single adult man. That opens one door which would not solve everybody's problem.",
+          "C1,C0",
+          "mills_ext",
+          "wide",
+          "Reconstructed lower Bleecker facade in late afternoon, two adult men near entrance, no family group.",
+          "watch-arms-crossed"
+        ],
+        [
+          "We will also meet actual residents through the census, and a family whose home doubled as a place of work.",
+          "C5,C9",
+          "objects",
+          "object insert",
+          "Plain closed ledger beside folded cloth and unlettered paper, no fake census handwriting.",
+          null
+        ],
+        [
+          "But first, suppose you need one bed, for one night, and you have some money. What might that purchase?",
+          "C0,C2",
+          "mills_desk",
+          "medium",
+          "Male clerk behind plain counter left, blank ledger, clear floor right.",
+          "count-fingers"
+        ],
+        [
+          "An answer stands on Bleecker Street: Mills House Number One. It opened in eighteen ninety-seven for men of modest means.",
+          "C1",
+          "mills_ext",
+          "establishing",
+          "Same verified entrance, early evening light, two modestly dressed adult men entering.",
+          null,
+          "Mills House No.1 • opened1897"
+        ],
+        [
+          "The substantial building offers something more modest than a private suite. Let us inspect what you could actually get.",
+          "C1,C3",
+          "mills_ext",
+          "medium",
+          "Entrance and lower facade only, no luxury awning, bellhop or modern revolving door.",
+          "eyebrow-raise"
+        ],
+        [
+          "Your ideal accommodation currently contains a bed and lets you stop carrying things. Everything else feels negotiable.",
+          "C0",
+          "case",
+          "object insert",
+          "Brown travel bag on worn wood floor near plain doorway, no owner or luxury carpet."
+        ],
+        [
+          "Let us inspect the room before your imagination adds a drawing room, a bathtub and somebody bringing breakfast upstairs.",
+          "C0,C3",
+          "mills_room",
+          "wide",
+          "Small clean single room, bed left, modest chair and small window, clear right floor.",
+          "look-around"
+        ]
+      ]
+    },
+    {
+      "title": "What twenty cents bought",
+      "scenes": [
+        [
+          "Jacob Riis's nineteen-hundred account describes small private bedrooms, clean beds and shared facilities at the Mills Houses.",
+          "C3",
+          "mills_room",
+          "medium",
+          "Single plain metal-framed bed left, clean bedding, no bathroom or kitchenette.",
+          "closeup-thoughtful",
+          "Riis • A Ten Years’ War,1900"
+        ],
+        [
+          "Small matters. This room provides somewhere to sleep, not space to spread an entire household.",
+          "C3,C0",
+          "mills_room",
+          "wide",
+          "Show narrow clearance between bed and wall, empty right-side floor strip, no exaggerated coffin-sized cell.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Shared amenities include baths, reading facilities and laundry options. You can wash your own clothes if you prefer.",
+          "C3",
+          "mills_common",
+          "wide",
+          "Two men sit quietly at reading table left; shelves of blank-spined books, orderly modest room.",
+          "count-fingers"
+        ],
+        [
+          "Riis reports twenty cents for nightly lodging. A restaurant dinner costs fifteen cents separately. Your pocket needs that distinction.",
+          "C2",
+          "diagram",
+          "graphic",
+          "Bed icon20¢per night and plate icon15¢dinner, separated plus sign; no modern conversion.",
+          null,
+          null,
+          "BED:20¢/NIGHT • DINNER:15¢"
+        ],
+        [
+          "The bed price does not cover everything you need until you become successful.",
+          "C2,C11",
+          "objects",
+          "object insert",
+          "Small group of blank-faced period coin shapes beside a simple bed icon made locally later, no written currency.",
+          null
+        ],
+        [
+          "Private sleeping space, shared amenities, food downstairs: the room belongs to a larger arrangement.",
+          "C2,C3",
+          "mills_room",
+          "medium",
+          "Bed and closed plain door at left, small window beyond; no room-service tray.",
+          "look-around"
+        ],
+        [
+          "It offers something important to a newcomer who fits its intended clientele. You do not need to rent a whole apartment tonight.",
+          "C1,C11",
+          "mills_desk",
+          "medium",
+          "Clerk left beside blank ledger, one waiting adult man farther left, no key exchange promised yet.",
+          null
+        ],
+        [
+          "Your bag can finally occupy one small patch of floor. You have been imagining that moment with unreasonable emotional intensity.",
+          "C0",
+          "mills_room",
+          "medium",
+          "Brown bag placed on floor at foot of bed left, no person painted; open right foreground.",
+          "shrug-smirk"
+        ],
+        [
+          "Our inspection is imagined. The general offer and prices come from the contemporary account.",
+          "C0,C2,C3",
+          "mills_room",
+          "object insert",
+          "Clean bed corner and simple metal frame closeup, no numbered key or fabricated receipt."
+        ],
+        [
+          "Nor does the building settle everybody's first-night problem. Its intended guests were men, and it was not a family apartment.",
+          "C1",
+          "mills_ext",
+          "wide",
+          "Two adult men at verified entrance, no waiting family treated as illustration of an actual rejection.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Arrive with children, or seek accommodation as a woman, and this particular answer does not expand to fit.",
+          "C1,C11",
+          "diagram",
+          "graphic",
+          "Single male guest symbol within Mills box; separate household and woman symbols outside with different-options label.",
+          null,
+          null,
+          "ONE OPTION • NOT EVERYONE’S"
+        ],
+        [
+          "Even if you fit the clientele and can pay, one more question remains.",
+          "C4,C0",
+          "mills_desk",
+          "reaction",
+          "Clerk and modest line of two adult men left, no vacancy sign or disappointed gestures asserted.",
+          "closeup-worried"
+        ]
+      ]
+    },
+    {
+      "title": "A cheap room can still be full",
+      "scenes": [
+        [
+          "Is there a vacancy? Riis reports full houses and people turned away. An affordable price cannot create another bed.",
+          "C4",
+          "mills_desk",
+          "medium",
+          "Illustrative clerk checking blank ledger with two waiting men, no exact occupancy tally.",
+          "closeup-worried",
+          "Reported demand • Riis,1900"
+        ],
+        [
+          "Your search has two questions: can you afford it, and is it available tonight?",
+          "C11",
+          "diagram",
+          "graphic",
+          "Two clear question boxes: cost and availability; bed icon between them.",
+          null,
+          null,
+          "CAN YOU PAY? • IS THERE SPACE?"
+        ],
+        [
+          "We cannot recover a vacancy for our invented evening. The right coins alone would not guarantee success.",
+          "C0,C4",
+          "objects",
+          "object insert",
+          "Plain coins beside closed unnumbered key on neutral field, no booking confirmation.",
+          null
+        ],
+        [
+          "Suppose you do get a room. It solves tonight's sleeping problem. Tomorrow's meals and tomorrow night's lodging still need attention.",
+          "C0,C11",
+          "mills_room",
+          "wide",
+          "Evening small room, bag at bed foot, modest window darkening, no lamps invented.",
+          "watch-arms-crossed"
+        ],
+        [
+          "A low nightly figure is easily mistaken for a complete budget. It covers only one expense.",
+          "C11",
+          "objects",
+          "object insert",
+          "Three local-drawn simple icons bed, plate and bag on neutral field; no amount painted by model."
+        ],
+        [
+          "For illustration, thirty nights at twenty cents makes six dollars for lodging. That supplies neither dinner nor a job.",
+          "C2,C11",
+          "diagram",
+          "graphic",
+          "Explicit assumed30nights×20¢=$6, subtitle lodging only; no claim actualmonthinvoice.",
+          null,
+          "Illustrative calculation •30nights, lodging only",
+          "30×20¢=$6"
+        ],
+        [
+          "A modern-dollar conversion would hide differences in wages, expenses and what housing included. Keep the historical offer in view.",
+          "C11",
+          "objects",
+          "object insert",
+          "Period blank coins on neutral field, no current banknotes, currency chart or smartphone.",
+          null
+        ],
+        [
+          "This room answers a particular question: where can one eligible person sleep, if space is available?",
+          "C1,C4,C11",
+          "mills_room",
+          "medium",
+          "Single bed clearly visible, no extra bunk or family belongings.",
+          "look-around"
+        ],
+        [
+          "But suppose you already know someone in the city. Or you find a household willing to make space for another person.",
+          "C0,C6",
+          "street",
+          "wide",
+          "Two adults greet at a plain stoop on left, no invented named people or touching confusion.",
+          "closeup-listening"
+        ],
+        [
+          "That leads to another possibility: boarding. A place in an existing household can connect housing to people who are already established.",
+          "C6",
+          "boarding",
+          "wide",
+          "Illustrative small shared room, two simple distinct beds left, plain clothes folded on chair.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The census helps replace an anonymous crowd with individuals and their lives.",
+          "C5",
+          "objects",
+          "object insert",
+          "Blank paper with locally composited census extract reserved on left; no source handwriting generated.",
+          null
+        ],
+        [
+          "At ninety-seven Orchard Street, the nineteen-hundred records actually name boarders. They are people, with occupations, rather than scenery around our visitor.",
+          "C5",
+          "orchard_ext",
+          "establishing",
+          "Verified lower facade and entrance, two ordinary adults on pavement, no museum banners.",
+          null,
+          "97Orchard Street •1900census"
+        ]
+      ]
+    },
+    {
+      "title": "A place inside someone else’s home",
+      "scenes": [
+        [
+          "The census transcription lists Ike Solive, a twenty-three-year-old tailor, as a boarder. Pauline Rudolph, a twenty-one-year-old dressmaker, appears as another.",
+          "C5",
+          "diagram",
+          "graphic",
+          "Two locally typeset record cards with names,age,occupation,boarder; no invented portraits.",
+          null,
+          "1900census • rows8and21",
+          "IKE SOLIVE • TAILOR | PAULINE RUDOLPH • DRESSMAKER"
+        ],
+        [
+          "They appear in different households. We should not invent a room or arrangement that puts them together.",
+          "C5",
+          "diagram",
+          "graphic",
+          "Two record boxes remain separate; no shared bed diagram or inferred relationship.",
+          null,
+          null,
+          "SEPARATE HOUSEHOLD RECORDS"
+        ],
+        [
+          "The record gives status and occupation, not a bed's exact position or the agreement with a host.",
+          "C5",
+          "boarding",
+          "medium",
+          "Illustrative shared room with two beds, no named people or precise address label.",
+          "closeup-thoughtful",
+          "Illustrative room • not a census floorplan"
+        ],
+        [
+          "Our room illustrates a possible arrangement; it is not a floorplan recovered from those census entries.",
+          "C0,C6",
+          "boarding",
+          "object insert",
+          "Plain bed beside one modest sash window, no name label, no people."
+        ],
+        [
+          "For a household paying rent, another contribution could help. For the boarder, finding a place meant fitting into space already used by others.",
+          "C6",
+          "boarding",
+          "wide",
+          "One adult tidies folded blanket at left; second adult by doorway, respectful ordinary expressions.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Your private kingdom might be a bed, a few possessions and the boundaries agreed with your host.",
+          "C0,C6",
+          "case",
+          "object insert",
+          "Travel bag beside modest wooden bed leg, small clear floor area, no invented contract."
+        ],
+        [
+          "That can mean company and useful connections. It can also mean less control over when the room is quiet or how space is used.",
+          "C6",
+          "boarding",
+          "reaction",
+          "One clothed adult quietly arranges belongings near bed left; no staged quarrel, Visitor right.",
+          null
+        ],
+        [
+          "Do not assume boarder tells us every detail about meals, rent or relationships. Particular agreements need their own evidence.",
+          "C5,C6",
+          "objects",
+          "object insert",
+          "Plain bowl, blank ledger and key separated on neutral field, no values or implied included-meal package."
+        ],
+        [
+          "What we securely know is that boarders lived in this building in nineteen hundred.",
+          "C5",
+          "orchard_ext",
+          "medium",
+          "Same1900 entrance, two unrelated adults passing separately, no claim they are named boarders.",
+          "count-fingers"
+        ],
+        [
+          "That broadens the first-night search. The city was made of households as well as hotels, with different ways of accommodating people.",
+          "C6,C11",
+          "street",
+          "wide",
+          "Brick residential frontage with two doorways and modest pedestrians, not Mills facade next to Orchard copy."
+        ],
+        [
+          "Joining a household differs from renting your own apartment. Perhaps you hope eventually to bring your family.",
+          "C0,C11",
+          "stairs",
+          "wide",
+          "Shared tenement landing with closed apartment door left and safe level right foreground.",
+          "look-around"
+        ],
+        [
+          "Now the price changes units. We stop asking what one night costs and start asking about rent for the month.",
+          "C7,C11",
+          "diagram",
+          "graphic",
+          "Nightly bed card transitions to monthly apartment card, no number until next chapter.",
+          null,
+          null,
+          "PER NIGHT → PER MONTH"
+        ]
+      ]
+    },
+    {
+      "title": "The cheaper apartment is upstairs",
+      "scenes": [
+        [
+          "A nineteen-hundred housing survey supplies another comparison. It covers a different Lower East Side block, not Orchard Street.",
+          "C7",
+          "diagram",
+          "graphic",
+          "Simple local map rectangle labelled Canal/Bayard/Chrystie/Forsyth;97Orchard clearly outside sampled block.",
+          null,
+          "Veiller survey •1900 •different block",
+          "A SPECIFIC SURVEY • NOT A CITYWIDE TARIFF"
+        ],
+        [
+          "In that sample, three rooms on the first floor rented for about twelve to thirteen dollars a month.",
+          "C7",
+          "stairs",
+          "medium",
+          "Lower landing and apartment doorway, ordinary stairs rising left; no readable rent painted.",
+          "count-fingers",
+          "Survey example •3rooms •$12–13/month"
+        ],
+        [
+          "On the fourth floor, the reported range was nine dollars fifty to ten dollars a month. The higher climb accompanied the lower rent.",
+          "C7",
+          "stairs",
+          "wide",
+          "Higher landing in same generic stair family, stairwell descending left; Visitor on level right landing.",
+          null,
+          "Survey example •4thfloor •$9.50–10/month"
+        ],
+        [
+          "Those figures cannot simply become the Levines' exact rent. Their own lease is not the source.",
+          "C7",
+          "orchard_ext",
+          "medium",
+          "97Orchard doorway without any rent price label, no landlord holding invented document.",
+          null
+        ],
+        [
+          "But the comparison gives you a practical trade-off. A cheaper apartment may put more stairs between your household and the street.",
+          "C7,C11",
+          "stairs",
+          "medium",
+          "Long modest stair visible left, safe level landing right, one adult climbing with small bundle.",
+          "look-up-worried"
+        ],
+        [
+          "Your bag has an opinion about that climb. New York's impressive size has become less interesting than the next landing.",
+          "C0",
+          "case",
+          "object insert",
+          "Brown bag rests on safe landing beside banister, not blocking stair treads."
+        ],
+        [
+          "Keep the units attached: a monthly apartment rent and a nightly bed charge buy different space and use.",
+          "C7,C11",
+          "diagram",
+          "graphic",
+          "Two cards:20¢bed/night and surveyed3-room rent/month; note notlike-for-likecomparison, no misleading cheaper arrow.",
+          null,
+          null,
+          "A BED/NIGHT ≠ AN APARTMENT/MONTH"
+        ],
+        [
+          "Choosing the smaller number would misunderstand both offers. Decide what problem you need to solve.",
+          "C0,C11",
+          "stairs",
+          "reaction",
+          "Closed apartment door left, clear safe landing right, no locals.",
+          "shrug-smirk"
+        ],
+        [
+          "Are you alone for a night? Looking for somewhere to stay while finding work? Bringing a household that needs its own space?",
+          "C0,C11",
+          "diagram",
+          "graphic",
+          "Three distinct needs with bed,person+workbag,household symbols; no newhistoricalclaim.",
+          null,
+          null,
+          "TONIGHT • GETTING STARTED • A HOUSEHOLD"
+        ],
+        [
+          "That last option sounds more settled. But three rooms in a tenement do not mean three spacious bedrooms waiting for their occupants.",
+          "C8",
+          "frontroom",
+          "wide",
+          "Small front room with treadle machine and worktable, narrow doorway to kitchen behind.",
+          "closeup-listening"
+        ],
+        [
+          "At ninety-seven Orchard, apartments were roughly three hundred and twenty-five square feet. Three rooms accommodated much of daily life.",
+          "C8",
+          "diagram",
+          "graphic",
+          "Schematic three-room sequence labelled approximately325sqft; no exact museum survey dimensions inferred.",
+          null,
+          "97Orchard •typical apartment area",
+          "THREE ROOMS • ABOUT325SQFT"
+        ],
+        [
+          "To understand what that meant, meet a household that had already made a home there: Harris and Jennie Levine.",
+          "C9",
+          "frontroom",
+          "medium",
+          "Harris illustrative adult sits at treadle machine left; cloth on worktable, no Visitor overlapping worker.",
+          "look-around",
+          "Levine household •97Orchard"
+        ]
+      ]
+    },
+    {
+      "title": "The apartment is also the workplace",
+      "scenes": [
+        [
+          "The apartment was also a garment workshop. Harris and three employees used space already needed by the family.",
+          "C9",
+          "frontroom",
+          "wide",
+          "Harris at the treadle machine and one employee at the table; the other employees remain outside frame. Plausible space between people.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The front room held sewing work. In the kitchen, a presser heated irons on the stove and worked near the household's domestic activity.",
+          "C9",
+          "kitchen",
+          "medium",
+          "One adult presser at workboard left beside coal stove; Jennie at separate table behind, safe spacing.",
+          "count-fingers"
+        ],
+        [
+          "A room can have several jobs even when its walls do not move. Cooking, work and family life compete for the same limited space.",
+          "C9,C11",
+          "kitchen",
+          "wide",
+          "Same small room and two adults doing separate tasks, no children under hot iron or stove danger staged."
+        ],
+        [
+          "Three rooms meant overlapping uses, not a miniature suburban house with everything neatly separated.",
+          "C8,C9",
+          "frontroom",
+          "medium",
+          "Worktable with cloth left and simple domestic chair beside doorway, no modern suburban comparison drawing.",
+          "closeup-thoughtful"
+        ],
+        [
+          "The nineteen-hundred census lists Harris, Jennie and three children. The later, larger family does not belong in this scene.",
+          "C10",
+          "diagram",
+          "graphic",
+          "Five locally drawn family symbols: two adults and three children. Typeset the year1900; no exact portraits.",
+          null,
+          null,
+          "1900: TWO PARENTS • THREE CHILDREN"
+        ],
+        [
+          "The three employees are not automatically residents. A workplace headcount and a household record answer different questions.",
+          "C9,C10",
+          "diagram",
+          "graphic",
+          "Separate household and workplace panels. Do not sum employees into the number of residents.",
+          null,
+          null,
+          "WHO WORKS HERE ≠ WHO LIVES HERE"
+        ],
+        [
+          "Otherwise, every name becomes another person permanently crammed into the picture. The evidence deserves more care than that.",
+          "C0,C9,C10",
+          "frontroom",
+          "reaction",
+          "Only Harris and one employee visible, physically plausible clearances; no cartoon crowd.",
+          "eyebrow-raise"
+        ],
+        [
+          "The actual story is demanding enough. Earning money and maintaining a home could happen in the same small group of rooms.",
+          "C9",
+          "kitchen",
+          "medium",
+          "Presser left at board, plain cooking pot on stove, Jennie absent to keep focus clear.",
+          null
+        ],
+        [
+          "According to the museum's research, the workshop closed on Saturdays for the Jewish Sabbath. Work fitted around that observance.",
+          "C9",
+          "frontroom",
+          "medium",
+          "Idle treadle machine, folded cloth and empty chairs. No invented ritual.",
+          null,
+          "Levine workshop •Sabbath closure"
+        ],
+        [
+          "A tenement was somebody's home, with routines and choices, not merely a grim interior for a visitor to look horrified inside.",
+          "C9,C11",
+          "kitchen",
+          "wide",
+          "Illustrative Jennie tidies a plain table; modest orderly belongings, no exaggerated dirt or despair.",
+          "closeup-listening"
+        ],
+        [
+          "This does not recover the Levines' first night. It shows what establishing a longer-term home could involve.",
+          "C0,C9",
+          "orchard_ext",
+          "medium",
+          "Same doorway at early evening, one ordinary adult entering. Do not portray the Levines as newly arriving in1900."
+        ],
+        [
+          "Your own first-night question now has more depth. Finding somewhere to lie down and establishing a household are different achievements.",
+          "C11",
+          "street",
+          "wide",
+          "Evening street, brown travelling bag beside stoop, a few lit windows only.",
+          "look-around"
+        ]
+      ]
+    },
+    {
+      "title": "Choose the offer that fits your problem",
+      "scenes": [
+        [
+          "Review the choices. Mills offers a small single room, if you fit the clientele, can pay and find space.",
+          "C1,C2,C4",
+          "mills_room",
+          "medium",
+          "Small clean bed at left; bag at its foot is our fictional visitor's prop. Quiet right foreground.",
+          "count-fingers"
+        ],
+        [
+          "Boarding involves an existing household and a particular agreement. The census shows actual residents living that way.",
+          "C5,C6",
+          "boarding",
+          "wide",
+          "Two separate simple beds; one adult arranging belongings. No named resident portrayed.",
+          "watch-arms-crossed"
+        ],
+        [
+          "A monthly apartment offers a different foothold, with ongoing rent and potentially very limited space.",
+          "C7,C8,C11",
+          "stairs",
+          "medium",
+          "Plain apartment door on narrow landing, clear right floor. No invented rent confrontation.",
+          "closeup-thoughtful"
+        ],
+        [
+          "There is no universal winner. The option that suits a single man tonight might be unusable for a mother arriving with children.",
+          "C1,C11",
+          "diagram",
+          "graphic",
+          "Three needs and corresponding questions, no ranking podium or guaranteed outcome.",
+          null,
+          null,
+          "WHO ARE YOU? • WHAT DO YOU NEED?"
+        ],
+        [
+          "And the picture changes again if you have no money, no contacts, or no work waiting. Our three examples do not cover every possibility.",
+          "C0,C11",
+          "street",
+          "medium",
+          "Two modest adults passing separately at left, no humiliating pose or caricature.",
+          "closeup-worried"
+        ],
+        [
+          "These examples cannot promise every newcomer a safe bed. They show particular arrangements supported by evidence.",
+          "C11",
+          "objects",
+          "object insert",
+          "Three separate blank source cards; text composited locally. No claim to a complete city lodging map."
+        ],
+        [
+          "Knowing an address is useful. Knowing what that address offers, whom it serves and whether it has space is more useful.",
+          "C1,C4,C11",
+          "mills_ext",
+          "wide",
+          "Mills entrance in evening light, two adults nearby. No vacancy sign.",
+          "watch-arms-crossed"
+        ],
+        [
+          "A city full of buildings is not the same as a place you can actually occupy.",
+          "C11",
+          "street",
+          "wide",
+          "Rows of brick fronts recede modestly. Clear right foreground; no modern skyline.",
+          "look-around"
+        ],
+        [
+          "Your first night may depend on a very small decision, a bit of information, or somebody willing to make room.",
+          "C0,C11",
+          "boarding",
+          "medium",
+          "One adult at the doorway, empty plain bed visible left. No named person portrayed.",
+          "closeup-listening"
+        ],
+        [
+          "For our fictional ending, suppose a room is available and you can pay. This outcome belongs to our Visitor.",
+          "C0",
+          "mills_desk",
+          "medium",
+          "Clerk at left prepares an unnumbered key. No readable invented receipt.",
+          "count-fingers",
+          "Imagined outcome •room available"
+        ],
+        [
+          "The bag comes off your shoulder. A door closes. There is a bed, which has suddenly become the most attractive object in Manhattan.",
+          "C0",
+          "mills_room",
+          "wide",
+          "Brown bag on floor at foot of single bed, closed plain door, clean bedding; preserve established room geometry.",
+          "shrug-smirk"
+        ],
+        [
+          "One night is solved. The city promises nothing about tomorrow, but you can finally stop walking.",
+          "C0,C11",
+          "mills_room",
+          "medium",
+          "Bed left, dark window. Do not paint the Visitor sleeping in the bed.",
+          "closeup-listening"
+        ]
+      ]
+    },
+    {
+      "title": "A bed tonight, a life tomorrow",
+      "scenes": [
+        [
+          "The surprise is how many different things can hide inside the phrase somewhere to stay. A room, a household, a home.",
+          "C11",
+          "diagram",
+          "graphic",
+          "Three housing icons with separate labels, no unsupported numerical comparison.",
+          null,
+          null,
+          "ROOM • HOUSEHOLD • HOME"
+        ],
+        [
+          "The twenty-cent figure makes a good hook. The useful history is understanding what it bought and everything it left unresolved.",
+          "C2,C11",
+          "mills_room",
+          "object insert",
+          "Close view of plain bed frame and pillow, no price tag.",
+          null
+        ],
+        [
+          "It did not include a family apartment. It did not create vacancies. It did not pay every other expense.",
+          "C1,C4,C11",
+          "mills_desk",
+          "medium",
+          "Quiet counter and closed blank ledger. Clerk absent; no free-room sign."
+        ],
+        [
+          "A tailor and a dressmaker give the boarding records individual lives. They were people working and living here.",
+          "C5",
+          "objects",
+          "object insert",
+          "Cloth and simple sewing tools beside a blank census-card area. No named portrait or electric machine."
+        ],
+        [
+          "The survey adds another dimension: within its sample, the floor affected the monthly price.",
+          "C7",
+          "stairs",
+          "wide",
+          "Staircase and two plain landings, no elevator or invented fourth-floor door number.",
+          "look-up-worried"
+        ],
+        [
+          "And the Levines show how small rooms could support both a household and the work that helped keep it there.",
+          "C9",
+          "frontroom",
+          "medium",
+          "Harris at machine, one employee at table, domestic chair near doorway. Ordinary late-day light.",
+          "watch-arms-crossed"
+        ],
+        [
+          "For our newcomer, that future remains ahead. Tonight's achievement is simply a bag on the floor and somewhere to sleep.",
+          "C0",
+          "mills_room",
+          "wide",
+          "Brown bag at foot of single bed, modest room unchanged. No painted people.",
+          "look-around"
+        ],
+        [
+          "Tomorrow brings food, work, directions and keeping up the payments. A night is the beginning of the story.",
+          "C0,C11",
+          "case",
+          "object insert",
+          "Bag beside bed leg. Remain at night, no unexplained sunrise."
+        ],
+        [
+          "New York in nineteen hundred offered opportunity, but arrival itself did not hand you the keys to a settled life.",
+          "C0,C11",
+          "street",
+          "wide",
+          "Evening brick street with a few lit windows, no golden modern skyline or generalized immigrant outcome.",
+          "closeup-thoughtful"
+        ],
+        [
+          "That is why the first bed matters. It is a small piece of security inside a much larger, uncertain undertaking.",
+          "C0,C11",
+          "mills_room",
+          "medium",
+          "Plain pillow and bed left. Clear right floor for standing or close-up Visitor; no lying pose.",
+          "closeup-listening"
+        ],
+        [
+          "Which would you seek first: a nightly room, a boarding arrangement, or a place of your own?",
+          "C0",
+          "diagram",
+          "graphic",
+          "Three clear housing icons and labels, no ranked winner.",
+          null,
+          null,
+          "ONE NIGHT • A BOARDER’S PLACE • YOUR OWN ROOMS"
+        ],
+        [
+          "Choose with your circumstances in mind. And before you admire the skyline, make sure somebody has an answer about the bed.",
+          "C0",
+          "mills_room",
+          "reaction",
+          "Quiet established room, bed clearly left, bag at foot, no skyline through the window.",
+          "shrug-smirk"
+        ]
+      ]
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "No national or ceremonial outfit is needed for the explicitly modern viewer surrogate in this urban housing episode. Keep familiar orange hoodie, jeans and original identity; period clothing belongs to local cast. Avoid extra flashy accessories.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Check visual balance beside understated1900street clothes; avoid enlarging the Visitor or saturating him so strongly that the room's evidence becomes secondary."
+  },
+  "pronunciations": {
+    "status": "director_specified_not_voiced",
+    "entries": [
+      {
+        "term": "Mills House",
+        "say": "MILLZ house",
+        "note": "Not Mill House."
+      },
+      {
+        "term": "Bleecker",
+        "say": "BLEE-ker",
+        "note": "Two syllables."
+      },
+      {
+        "term": "Levine",
+        "say": "luh-VEEN",
+        "note": "Consistent museum-family surname; caption Levine;1900source transcribes Levin."
+      },
+      {
+        "term": "Jacob Riis",
+        "say": "JAY-kub REES",
+        "note": "Short surname."
+      },
+      {
+        "term": "Lawrence Veiller",
+        "say": "LAW-rens VAY-ler",
+        "note": "Verify named-source reading in pilot if spoken; can use housing survey without author name."
+      }
+    ],
+    "rule": "Read20c as twenty cents,12–13dollars as twelve to thirteen dollars; distinguish per night from per month."
+  },
+  "sound_plan": {
+    "status": "director_specified_not_generated_or_heard",
+    "music": "Existing theme quiet under dialogue; no comic poverty stings or sentimental swelling over named families.",
+    "mix": "Near-14LUFS, true peak<=-1dBTP; brief effects below exact narration cue.",
+    "new_assets": [
+      {
+        "id": "wood_steps",
+        "description": "Two modest footsteps on worn wooden stairs, no modern shoe squeak."
+      },
+      {
+        "id": "treadle_sewing",
+        "description": "Quiet mechanical treadle sewing, no electric motor."
+      },
+      {
+        "id": "bag_set",
+        "description": "Soft worn travel bag placed on floor."
+      },
+      {
+        "id": "wood_door",
+        "description": "Plain interior wooden door opening gently."
+      }
+    ],
+    "acquisition": "Inspect existing sounds first. Quote only genuinely missing assets; do not generate during development.",
+    "cues": [
+      {
+        "scene_id": "S020",
+        "asset": "bag_set",
+        "timing": "Sync a single soft cue to the bag settling at the bed foot."
+      },
+      {
+        "scene_id": "S053",
+        "asset": "wood_steps",
+        "timing": "Two quiet steps with the visible adult climbing."
+      },
+      {
+        "scene_id": "S061",
+        "asset": "treadle_sewing",
+        "timing": "Brief quiet cue under visible machine action; stop at cut to kitchen."
+      },
+      {
+        "scene_id": "S083",
+        "asset": "wood_door",
+        "timing": "Sync the door closing, then stop."
+      }
+    ],
+    "intentional_silence": [
+      "No invented Yiddish dialogue.",
+      "No screaming crowd loop or criminalizing ambience.",
+      "No subway, car horn or modern hotel beep."
+    ]
+  },
+  "extra_specs": []
+}

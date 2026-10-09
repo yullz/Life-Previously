@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "owner_requirement": "The Visitor wears a pirate hat throughout this episode, including thumbnails and Shorts.",
+  "design": "Dark brown low three-cornered felt hat, muted ochre edge, flat season outline and shading. No skull, plume, metal badge, hair recoloring or new facial features. Orange hoodie, face, body and proportions stay as approved.",
+  "method": "Create private copies of the nine listed approved poses. Draw/composite the hat locally following each head angle; do not ask Higgsfield to redraw the Visitor or place him inside backgrounds. Inspect hair/hat edges at native size and in final composites.",
+  "poses": [
+    "look-around",
+    "watch-arms-crossed",
+    "closeup-worried",
+    "closeup-listening",
+    "clutch-stomach",
+    "count-fingers",
+    "closeup-thoughtful",
+    "shrug-smirk"
+  ],
+  "paths": {
+    "private_art": "episodes/pirates-between-raids/poses/<original-pose-name>.png",
+    "registry": "episodes/pirates-between-raids/poses/poses.json"
+  },
+  "native_integration": "lp.py find_pose(name, ep) already supports private copies. Write registry keys using original pose names, with sha256 of exact reviewed derivative and record source_sha256 separately. Retain native script pose IDs. Never modify channel/poses.json or library art.",
+  "thumbnail_rule": "Use the same reviewed private derivatives. Measure hair-to-chin excluding hat, but require hat top safely within frame. Hat may extend above the hair by at most80px at master scale; lower the whole portrait if needed, keeping chin above800px and source cut-off below frame.",
+  "review": [
+    "All used poses have the hat with correct orientation.",
+    "Face, body and original alpha contours outside hat preserved.",
+    "No halo, clipped hat tip, detached accessory or changed hair shape.",
+    "No background depicts the Visitor.",
+    "Three Shorts use the hat-bearing final composites; do not revert to source library during portrait composition."
+  ],
+  "cost": "Local compositing first, no new paid requests assigned for this accessory."
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "SRC01",
+    "title": "Pompeii Archaeological Park — Regio V thermopolium",
+    "url": "https://pompeiisites.org/en/press-releases/from-the-12th-august-the-thermopolium-of-regio-v-is-opening-to-the-public/",
+    "read": "2026-10-09: full archaeological description of counter, embedded dolia, food/drink use and decorations.",
+    "limit": "No universal kitchenlessness, fixed menu, modern fast-food industry or exact prices. Animal paintings are not proof of every item sold."
+  },
+  {
+    "id": "SRC02",
+    "title": "Ostia Antica Archaeological Park — Insula del Soffitto Dipinto",
+    "url": "https://ostiaantica.cultura.gov.it/en/educational-panels-and-maps/larea-a-servizio-del-fiume/insula-del-soffitto-dipinto/",
+    "read": "2026-10-09: complete panel text on Hadrianic block, three/four storeys, external stairs, medianum and later changes.",
+    "limit": "Reconstruction uses c. AD 200 to avoid attributing late-second-century decoration to AD 130. No exact resident, rent or tenancy arrangement inferred."
+  },
+  {
+    "id": "SRC03",
+    "title": "Roman Baths — Roman bathing complex",
+    "url": "https://www.romanbaths.co.uk/roman-bathing-complex-0",
+    "read": "2026-10-09: Great Bath, East Baths, laconicum and West Baths sections.",
+    "limit": "Hot spring supplied Great Bath water; distinguish from furnace-heated rooms. Possible sex separation is qualified and omitted."
+  },
+  {
+    "id": "SRC04",
+    "title": "Roman Baths — archaeological timeline and fourth-century plan",
+    "url": "https://www.romanbaths.co.uk/roman-baths-timeline",
+    "read": "2026-10-09: plan caption and full dated timeline.",
+    "limit": "Fourth-century reconstruction anchor, not precise AD 350 event or identical operation over all Roman centuries."
+  },
+  {
+    "id": "SRC05",
+    "title": "Vitruvius — Ten Books on Architecture, Book V, chapter 10",
+    "url": "https://www.gutenberg.org/cache/epub/20239/pg20239-images.html",
+    "read": "2026-10-09: Book V.10.2–5, suspended floors, brick pillars, furnace and room construction.",
+    "limit": "Public-domain primary technical prescription from an earlier Roman context, used to explain principle; not measurements of the Bath installation."
+  },
+  {
+    "id": "SRC06",
+    "title": "Hero of Alexandria — Pneumatics, sections 21 and 37, 1851 translation",
+    "url": "https://www.gutenberg.org/cache/epub/77400/pg77400-images.html",
+    "read": "2026-10-09: full sections 21, 37 and comparison 38; relevant editorial introduction.",
+    "limit": "Public-domain text. Description is not an excavation report or proof of universal adoption. Omit mercury alternative, obsolete porous-air theory, and priority claims. Section 38's leather bag is a different design."
+  },
+  {
+    "id": "SRC07",
+    "title": "MacTutor, University of St Andrews — Heron of Alexandria",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Heron/",
+    "read": "2026-10-09: chronology argument, surviving works and Pneumatica discussion.",
+    "limit": "Supports conventional first-century AD placement, not certain birth/death dates or verified occupation. Use only modest dating claim."
+  },
+  {
+    "id": "SRC08",
+    "title": "Linda Hall Library — Hero of Alexandria, William B. Ashworth Jr.",
+    "url": "https://www.lindahall.org/about/news/scientist-of-the-day/hero-of-alexandria/",
+    "read": "2026-10-09: full collection essay and comparison of printed editions.",
+    "limit": "Independent challenge to confident dating and illustration authenticity. Device images are later editorial reconstructions. Do not accept all toys/no-work generalizations."
+  }
+]

@@ -1,0 +1,457 @@
+{
+  "episode": "salem-1692",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S016",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S032",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S023",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S023",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S023",
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S059",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S059",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S059",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S059",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": "S059",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": "S023",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S023",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S059",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S081",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S023",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S008",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S002",
+      "text": "AN ALLEGATION, NOT A VISIBLE ACT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S004",
+      "text": "SEPARATE CASES • SURVIVING RECORDS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S007",
+      "text": "WHAT COULD YOU SAY?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S010",
+      "text": "VILLAGE: EXAMINATIONS • TOWN: TRIALS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S017",
+      "text": "THE RECORD REPORTS A CLAIM",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S019",
+      "text": "REACTION → INTERPRETATION → ACCUSATION",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S039",
+      "text": "ONE PHRASE • DIFFERENT READINGS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S043",
+      "text": "SILENCE DOES NOT EXPLAIN ITSELF",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S056",
+      "text": "NO RELIABLE FORMULA",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S063",
+      "text": "HEAR BOTH",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S071",
+      "text": "TEST ACCUSATIONS AND CONFESSIONS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S073",
+      "text": "EXAMINE SEPARATELY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S076",
+      "text": "REPETITION IS NOT VERIFICATION",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S083",
+      "text": "DEFENSES WERE OFFERED",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

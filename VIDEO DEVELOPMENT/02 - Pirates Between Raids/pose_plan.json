@@ -1,0 +1,81 @@
+{
+  "episode": "pirates-between-raids",
+  "mode": "episode_private_derivatives_required",
+  "registry": "episodes/pirates-between-raids/poses/poses.json",
+  "rule": "Inspect base art at full size. Build only required private derivatives, preserve identity/alpha/silhouette and review every result. Register exact hashes under original pose names before rendering. Do not fall back to normal clothing for a missing required variant.",
+  "poses": [
+    {
+      "pose": "look-around",
+      "base_source": "channel/assets/visitor/look-around.png",
+      "render_source": "episodes/pirates-between-raids/poses/look-around.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "watch-arms-crossed",
+      "base_source": "channel/assets/visitor/watch-arms-crossed.png",
+      "render_source": "episodes/pirates-between-raids/poses/watch-arms-crossed.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "closeup-worried",
+      "base_source": "channel/assets/visitor/closeup-worried.png",
+      "render_source": "episodes/pirates-between-raids/poses/closeup-worried.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "closeup-listening",
+      "base_source": "channel/assets/visitor/closeup-listening.png",
+      "render_source": "episodes/pirates-between-raids/poses/closeup-listening.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "clutch-stomach",
+      "base_source": "channel/assets/visitor/clutch-stomach.png",
+      "render_source": "episodes/pirates-between-raids/poses/clutch-stomach.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "count-fingers",
+      "base_source": "channel/assets/visitor/count-fingers.png",
+      "render_source": "episodes/pirates-between-raids/poses/count-fingers.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "closeup-thoughtful",
+      "base_source": "channel/assets/visitor/closeup-thoughtful.png",
+      "render_source": "episodes/pirates-between-raids/poses/closeup-thoughtful.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "shrug-smirk",
+      "base_source": "channel/assets/visitor/shrug-smirk.png",
+      "render_source": "episodes/pirates-between-raids/poses/shrug-smirk.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    }
+  ]
+}
+

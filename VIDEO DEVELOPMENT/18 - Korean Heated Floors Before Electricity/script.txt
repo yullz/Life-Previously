@@ -1,0 +1,299 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: How Did Koreans Heat Their Floors Before Electricity?
+
+## The warmest place is under your feet
+::: S001 | Winter establishing view; modest snow only in courtyard shadows. [pose: look-around 0.8,0.94 0.6] [note: SEOUL · c.1900] [zoom-in]
+You arrive in Seoul around nineteen hundred. The cold follows you all the way to the doorstep.
+
+::: S002 | Look through doorway toward plain room; no heater furniture. [pan-left]
+Our host opens the door. Inside, there is no stove in the corner and no radiator beneath the window.
+
+::: S003 | Doorway close angle on bare floor and wall. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S002] [zoom-out]
+You search for the fire anyway. A room cannot decide to be warm because everyone would prefer it.
+
+::: S004 | Local adult in plain clothes seated beside small low table; outdoor shoes outside. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S002] [pan-right]
+Then you notice where people are sitting. The floor itself is part of the answer, and your shoes stay at the threshold.
+
+::: S005 | Canonical room anchor wide; stable cupboard, door and window positions. [note: ILLUSTRATIVE HOUSE] [same-as: S002] [zoom-in]
+This is an illustrative home, but its heating system is real: traditional ondol brings heat beneath the room.
+
+::: S006 | Local host and another adult comfortably on floor; no indoor flames. [same-as: S002] [pan-left]
+The fire is somewhere else. That matters, because the people enjoying its warmth do not have to sit beside its flames.
+
+::: S007 | Higher view connecting kitchen right, room rear right and maru left. [same-as: S001] [zoom-out]
+You can see a kitchen next door, a wooden hall on the other side, and a small courtyard beyond the threshold.
+
+::: S008 | Visitor socks visible on floor, lower body well clear of host. [pose: awkward-stand 0.8,0.94 0.6] [same-as: S002] [pan-right]
+Each space does a different job. Picking the right place to sit will turn out to be surprisingly important tonight.
+
+::: S009 | Host gestures inward; one partially open door, no text. [same-as: S002] [zoom-in]
+Our host asks you inside before you let any more cold air through the door.
+
+::: S010 | Visitor close-up looks downward; empty floor remains central. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S002] [pan-left]
+You obey, still looking for whatever is doing the heating. The most interesting part of this house is almost entirely hidden.
+
+::: S011 | Original transition from opaque room to explanatory section. [still]
+We are going to lift the floor in a diagram. Please do not attempt that during somebody's dinner.
+
+::: S012 | Kitchen doorway glimpse of contained hearth and pot; no visible transparent walls. [pan-right]
+First, follow the fire. Then follow the smoke. They take a route through the building that your feet will never see.
+
+## Follow the smoke
+::: S013 | Canonical labelled side section; kitchen right lower, room left upper. [note: SIMPLIFIED SECTION] [still]
+In this cutaway, fire burns in a low hearth beside the room. The occupied floor sits above its route.
+
+::: S014 | Same section stage two, orange gas arrows below slabs only. [still]
+Hot gases travel from the firebox into passages beneath the floor. Those passages carry heat along the underside of the stones.
+
+::: S015 | Exploded detail stone, earth, paper with correct order and no air gap into room. [still]
+The stones warm up. Earth and a paper surface complete the layers in the arrangement shown here.
+
+::: S016 | Close section reassembled; solid floor closure legible. [still]
+The paper is not stretched across an open fire. Solid layers separate the surface from the channel below.
+
+::: S017 | Back outside chimney outlet; sparse smoke outside, no smoke through room door. [same-as: S001] [zoom-in]
+Meanwhile, the smoke continues towards an outside chimney. The goal is to warm the room without sending that smoke through it.
+
+::: S018 | Two separate arrow systems: orange gases below, amber heat through slab, labelled locally. [still]
+That distinction is essential. Warmth comes through the floor; the combustion gases have a separate route out of the building.
+
+::: S019 | Same slab after reduced flame; residual warmth subtle amber, no timer. [still]
+The stone floor holds some of that heat. It can remain warm after the fire has settled, rather than cooling immediately.
+
+::: S020 | Evening room in natural colours, no glow or thermometer. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S002] [pan-right]
+How long depends on the building, the firing and the conditions. This house has no magical warmth guarantee.
+
+::: S021 | Two restrained plan sketches marked examples; no performance ranking. [still]
+Nor does every ondol have the same hidden layout. Builders arranged the channels in different ways beneath different rooms.
+
+::: S022 | Return to single canonical side section; other examples gone. [note: ILLUSTRATIVE PLAN] [still]
+Our drawing uses one arrangement you can follow. It explains the mechanism, rather than surveying a particular address.
+
+::: S023 | Return opaque real room, low table, seated host, subdued warm light. [same-as: S002] [zoom-out]
+Put the floor back. Inside, all that engineering becomes an ordinary surface on which everyday life can happen.
+
+::: S024 | View through kitchen doorway, adult tending hearth with safe clear space. [pose: look-around 0.8,0.94 0.6] [same-as: S012] [pan-right]
+And if you want to know who keeps that surface warm, you need to leave the comfortable room and visit the kitchen.
+
+## Dinner and heating share a fire
+::: S025 | Canonical kitchen anchor, iron pot above firebox, wood stack by door. [same-as: S012] [zoom-in]
+An iron cooking pot sits above the hearth. One fire can prepare food and heat the adjoining room.
+
+::: S026 | Local adult tending pot, other adult brings small fuel bundle; no modern cookware. [same-as: S012] [pan-left]
+It is a useful partnership. The cook is dealing with dinner while the building uses heat that passes beyond the firebox.
+
+::: S027 | Hands place modest brushwood beside hearth safely, no huge logs. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S012] [zoom-out]
+But useful does not mean effortless. Somebody has to bring fuel, prepare the fire and keep an eye on what is happening.
+
+::: S028 | Tending adult in practical padded jacket, clear firebox and pot geometry. [same-as: S012] [pan-right]
+Our host's warm floor begins here, with a person crouched beside a hearth rather than a finger pressing a switch.
+
+::: S029 | Laden ox with brushwood bundle in lane; one handler, no overload fantasy. [note: BISHOP · 1898 ACCOUNT] [zoom-in]
+The traveller Isabella Bird Bishop described brushwood being brought into Seoul, then smoke rising as fires served cooking and heating.
+
+::: S030 | Same animal and handler approaching plain gate; no exact price sign. [same-as: S029] [pan-left]
+Her account gives the cosy room a wider setting: fuel moves through the city before warmth reaches the household.
+
+::: S031 | Quiet crop of brushwood load and street; source label retained. [note: OBSERVATION, NOT A CITYWIDE MEASURE] [same-as: S029] [zoom-out]
+Bishop's prejudices require care. Here, we are using her observation of fuel arriving, rather than her judgments about Korean society.
+
+::: S032 | Small fuel pile beside hearth, no scales or numerical cost graphic. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S012] [pan-right]
+We are not turning that observation into a universal heating bill. Different houses and fires demanded different amounts.
+
+::: S033 | Pot steam rises above pot only; hearth smoke follows flue, never steam under floor. [same-as: S012] [zoom-in]
+Back in our kitchen, the pot and the room still share the same fire. That connection is convenient, but it requires planning.
+
+::: S034 | Simple original two-output graphic with single hearth centre. [still]
+Cooking and heating are linked in this arrangement. Wanting more of one does not always mean you want more of the other.
+
+::: S035 | Host travels kitchen-to-room across small courtyard, same geometry. [same-as: S001] [zoom-out]
+This is a working system, with people making decisions around it throughout the day.
+
+::: S036 | Visitor indoors without coat; doorway close-up avoids shoe change jump. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S002] [pan-right]
+Tonight the meal is nearly ready. You return to the room, feeling rather grateful that someone else understood the fire first.
+
+## The room changes around you
+::: S037 | Plain small wooden soban carried carefully by local adult; no exact feast claim. [note: SOBAN · SMALL DINING TABLE] [same-as: S002] [zoom-in]
+A small table comes in, low enough for eating on the floor. This kind of table is called a soban.
+
+::: S038 | Two locals seated with simple bowls and spoon; Visitor close-up separate. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S002] [pan-left]
+Suddenly, the space you were inspecting has become a place to eat. The floor is not merely something underneath the furniture.
+
+::: S039 | Low table with plain bowls, no rich ceremonial spread or crown. [same-as: S002] [zoom-out]
+You keep your shoes outside and settle into the visit. Our imaginary dinner needs no royal banquet to make its point.
+
+::: S040 | Close view clothed local hand resting naturally on floor beside knee. [same-as: S002] [pan-right]
+Heating a surface people sit on changes their relationship with the room. Warmth is close at hand.
+
+::: S041 | Room plan with gentle qualitative warmth gradient, kitchen marked right. [still]
+It is not necessarily equally warm everywhere. The area nearer the firebox tends to be warmer than the farther end.
+
+::: S042 | Local person shifts sitting place subtly, same clothing and table position. [same-as: S002] [pan-left]
+Our host shifts a little, and you follow. Every square foot does not feel exactly the same.
+
+::: S043 | Table removed toward door, maintain cupboard and floor, no simultaneous duplicates. [same-as: S002] [zoom-out]
+There is also more than one way to occupy the room. Eating, sitting and sleeping can all take place at floor level.
+
+::: S044 | Local adult unfolds plain bedding where table had been; no people underneath fabric. [same-as: S002] [pan-right]
+For tonight's imagined household, bedding comes out after the meal. The room becomes a sleeping space without acquiring a permanent bedframe.
+
+::: S045 | Wide room evening bedding arrangement; clear walking space. [same-as: S002] [zoom-in]
+The change is small, but the idea is striking: daily activities move through a room whose warmest feature is already built in.
+
+::: S046 | Small cupboard, rolled cloth, plain walls; no universal all-houses graphic. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S002] [pan-left]
+Korean rooms did not all have identical furniture, and chairs did not vanish. We are following one floor-centred way of living.
+
+::: S047 | Low doorway view across opaque paper floor with quiet evening light. [same-as: S002] [zoom-out]
+From the doorway, the paper floor still looks unremarkable. Underneath it, the stones are doing work you cannot see.
+
+::: S048 | Wooden hall threshold, colder light, visible board surface distinct from paper floor. [pose: look-around 0.8,0.94 0.6] [pan-right]
+There is another part of the house where copying this cosy arrangement would miss the point. Step onto the wooden hall.
+
+## The other floor is for another season
+::: S049 | Canonical maru anchor with raised planks and visible underside. [note: MARU · WOODEN HALL] [same-as: S048] [zoom-in]
+A Korean house could combine an ondol room with a raised wooden hall, or maru. They served different purposes.
+
+::: S050 | Board ends and shaded air gap; no flues underneath. [same-as: S048] [pan-left]
+Air could circulate around the wooden hall, making it useful in hot weather. This was not another heated stone floor.
+
+::: S051 | Exact courtyard geometry summer edit, green vegetation, no snow. [note: SUMMER COMPARISON] [zoom-out]
+For a moment, imagine the same house in summer. The snow is gone, the openings are wider, and the courtyard looks different.
+
+::: S052 | Maru with locals lightly dressed for summer; Visitor absent for wardrobe clarity. [same-as: S051] [pan-right]
+Now the airy wooden space makes sense. You might prefer this part of the building to the room that pleased you in winter.
+
+::: S053 | View from maru toward courtyard, restrained sunlight, same posts and step. [same-as: S051] [zoom-in]
+The house is responding to more than one season. A clever winter solution does not have to be the answer to summer too.
+
+::: S054 | Local two-panel surface diagram, no duplicate confusing whole-house plan. [still]
+Keep the surfaces separate: the warm room has its solid floor, while the hall has raised wooden boards.
+
+::: S055 | Return winter maru, subtle snow beyond, correct board construction. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: BACK TO WINTER] [same-as: S048] [zoom-out]
+Do not imagine every board hides a chimney channel. Different parts of the building do different jobs.
+
+::: S056 | Visitor close-up by doorway, no exaggerated shivering comedy. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S048] [pan-right]
+Back in winter, you are less tempted to linger here. The warm room is beginning to look like a very good idea.
+
+::: S057 | Whole illustrative compound, modest footprint, not palace. [same-as: S001] [zoom-in]
+But before we return, look at the whole house. Its layout also reflects how much space and money a household could command.
+
+::: S058 | Original abstract blocks showing compact arrangement, not accurate surveyed plan. [note: SAMCHEONG-DONG · c.1890] [still]
+A surviving Seoul example, built for Kim Chun-yeong around eighteen ninety, fitted separate quarters and courtyards into a compact urban plot.
+
+::: S059 | Keep abstract building blocks, no owner portrait or false ordinary poor-family caption. [still]
+This represents middle- and upper-class housing. Our illustrated home borrows the period, not that owner's personal story.
+
+::: S060 | Return original household courtyard, unchanged roofline and room order. [same-as: S001] [pan-right]
+That distinction matters. A historical heating system can be widespread while the size, comfort and arrangement of individual homes still differ.
+
+## Comfort has limits
+::: S061 | Visitor considering room, no magic icon or false numerical claim. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S002] [zoom-in]
+It is tempting to imagine a perfect room: warm forever, free to run and pleasant in every corner.
+
+::: S062 | Hands adjusting fuel with plain tool; no dangerous use demonstration. [same-as: S012] [pan-left]
+The evidence gives us something more interesting. This was a practical technology, built and tended by people, with real constraints.
+
+::: S063 | Cold exterior and warm room visible through small doorway, no thermal-camera rendering. [same-as: S001] [zoom-out]
+Fuel still had to arrive. Heat still escaped from the building. Stored warmth was useful precisely because the fire did not do everything instantly.
+
+::: S064 | Separate illustrative temple cell, sparse floor and window, no host from main story. [note: SEPARATE EXAMPLE · BISHOP'S TEMPLE STAY] [pan-right]
+More heat was not always better. Bishop described a Korean temple cell becoming uncomfortably hot from the adjacent kitchen flues.
+
+::: S065 | Same separate cell, open window, no thermometer or measured heat gradient. [note: ONE TRAVELLER'S EXPERIENCE] [same-as: S064] [zoom-in]
+That was her experience in one place, not a temperature reading for every home. It punctures the perfect-comfort fantasy.
+
+::: S066 | Back to main house clear cupboard/window/table landmarks. [note: BACK IN OUR ILLUSTRATIVE HOME] [same-as: S002] [pan-left]
+Our household returns us to the everyday question: how much fire is useful now, and where will people actually sit or sleep?
+
+::: S067 | Close floor edge and paper texture, no visible writing or glossy modern vinyl. [note: BISHOP · FLOOR MATERIALS] [same-as: S002] [zoom-out]
+The paper surface is another easily missed detail. Bishop noted tough, buff-coloured oiled paper on floors in better-off houses.
+
+::: S068 | Opaque finished floor and tiny explanatory layer inset added locally. [same-as: S002] [pan-right]
+So the finished room need not look like a bare stone chamber. The stones can do their work beneath a carefully finished surface.
+
+::: S069 | Small floor stack local graphic, same colours/order as S015. [still]
+Warmth and appearance are separate parts of the design. What you see above is not a complete guide to what happens below.
+
+::: S070 | Intact section, no leak simulation, room labelled occupied space. [still]
+Smoke must stay separate from the living space. Our diagram explains that separation; it cannot certify a real building.
+
+::: S071 | Exterior chimney and roof context, no construction dimensions or demonstration steps. [same-as: S001] [zoom-out]
+This is history, not a construction guide. Success depended on the building as well as the fire.
+
+::: S072 | Quiet household settles; no bright spotlight on Visitor. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S002] [pan-right]
+The quiet room now seems more impressive. Its comfort has been made, rather than simply switched on.
+
+## An old idea without a single fixed design
+::: S073 | Two simple labelled silhouettes, partial and whole-floor, no exact date ticks. [still]
+Another trap is treating every heated floor across Korean history as if it looked exactly like ours.
+
+::: S074 | Partial strip compared with whole-room channels, explanatory only. [still]
+Earlier arrangements could heat only part of a room. Whole-floor systems and their construction developed over time, with different layouts.
+
+::: S075 | Main house exterior at dusk, no ancient inventor character. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [zoom-out]
+The history is more varied than one invention moment. We need no legendary first inventor to explain tonight's house.
+
+::: S076 | Clearly labelled modern hydronic pipe schematic separate from historical section. [note: MODERN COMPARISON] [still]
+Modern heated apartment floors use different machinery. They can circulate hot water through pipes beneath the room.
+
+::: S077 | Side-by-side historic flue and modern pipe, no mixed arrows. [still]
+The comfort connects them. A boiler and pipework are different from smoke passing beneath stone slabs.
+
+::: S078 | Return period kitchen, one contained fire, no modern switch. [pose: look-around 0.8,0.94 0.6] [same-as: S012] [pan-left]
+Our visit follows the older arrangement. This household needs fuel and a hearth to heat its floor.
+
+::: S079 | Stay tightly on hearth/stone junction, no citywide dark-map inference. [same-as: S012] [zoom-out]
+We are describing a mechanism that works without electricity, not claiming that Seoul had none.
+
+::: S080 | Host seated comfortably, local clothing quiet, all explanatory overlays removed. [same-as: S002] [pan-right]
+Inside the room, the people using it need none of our arrows or labels. They know where the kitchen is and how the floor feels.
+
+::: S081 | Table against wall and folded bedding moved naturally, no simultaneous time montage. [same-as: S002] [zoom-in]
+Their knowledge is practical: bring in the table, clear a place, prepare for the night, and pay attention to the fire.
+
+::: S082 | Plain domestic detail of cup on low table and hand, no text. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S002] [pan-left]
+The technology fits those ordinary actions. Nobody needs to announce that engineering has happened.
+
+::: S083 | Exterior relationship view kitchen and room, no transparent generated architecture. [same-as: S001] [zoom-out]
+It has happened under their feet, through a building that turns a fire in one place into comfort in another.
+
+::: S084 | Visitor at doorway smiles mildly, wearing same indoor jacket. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S002] [pan-right]
+And for a visitor arriving from the cold, that is a much more persuasive explanation than any claim about ancient genius.
+
+## What the floor really changed
+::: S085 | Canonical section recap, three stages only, no new geometry. [still]
+Before you leave, follow the route one last time. Fuel arrives, the hearth burns, and hot gases travel beneath the stones.
+
+::: S086 | Same section with outside outlet and subtle stored heat emphasis. [still]
+Smoke exits outside. Heat reaches the room through the floor. Some remains stored in the stone after the fire has eased.
+
+::: S087 | Same household at floor level, low table off-centre, no exact historical named family. [same-as: S002] [zoom-out]
+Above it, people can eat, talk, or prepare a sleeping space. Heating helps shape the room's daily use.
+
+::: S088 | Winter maru view, small local summer inset clearly labelled if used. [same-as: S048] [pan-right]
+The wooden hall answers a different need in warmer weather. One building holds more than one response to the seasons.
+
+::: S089 | Small remaining fuel stack, adult finishes kitchen task, no invented money amount. [same-as: S012] [zoom-in]
+None of this removes the labour of feeding the fire or the differences between households. Comfort always has a setting and a cost.
+
+::: S090 | Low floor-level composition showing hand, small table legs and socked feet. [same-as: S002] [pan-left]
+But it changes what the floor can be. Instead of merely separating you from the ground, it becomes something the household actively uses.
+
+::: S091 | Visitor outside coat and shoes restored; view from courtyard, no indoor shoe continuity error. [pose: step-forward 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+Our host closes the door after you, keeping the room ready for the night. Outside, the courtyard feels cold again.
+
+::: S092 | Same chimney correct rear position, faint exterior smoke, one moon only if visible. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [pan-right]
+You look back at the roof and the little chimney. From here, the hidden channels are once again impossible to see.
+
+::: S093 | Quiet exterior wide, no palace backdrop or dramatic effects. [same-as: S001] [zoom-in]
+The house looks ordinary. An ingenious arrangement does not have to announce itself to everyone passing.
+
+::: S094 | Earlier interior callback, local adult on floor, no Visitor magically back inside. [note: INSIDE THE HOUSE] [same-as: S002] [pan-left]
+For the people inside, the important result is much simpler. There is somewhere warm to sit when the evening turns cold.
+
+::: S095 | Visitor departing down short lane, same coat and silhouette. [pose: walk-fast 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+You came looking for the heater. You found a kitchen, floor, chimney, and the work that makes them function together.
+
+::: S096 | Final original room detail, warm paper surface and simple table, clean end-screen space. [same-as: S002] [pan-right]
+And now, when someone invites you to sit on the floor, you might want to find out what is underneath it first.
+

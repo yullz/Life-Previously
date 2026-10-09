@@ -1,0 +1,42 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing theme low; gentle curiosity, no comic disgust at modest food or triumphant aristocratic fanfare.",
+  "mix": "Near -14LUFS, true peak<=-1dBTP; all cues below narration.",
+  "new_assets": [
+    {
+      "id": "pan_simmer",
+      "description": "Quiet small pan simmer, no electric hiss."
+    },
+    {
+      "id": "plate_set",
+      "description": "One ceramic serving dish placed on wood."
+    },
+    {
+      "id": "oven_fire",
+      "description": "Soft masonry-oven wood fire."
+    }
+  ],
+  "acquisition": "Inspect existing assets, quote only gaps; historical Foley is illustrative, not archival audio.",
+  "cues": [
+    {
+      "scene_id": "S057",
+      "asset": "pan_simmer",
+      "timing": "Brief low bed behind the visible sauce pan; end at next cut."
+    },
+    {
+      "scene_id": "S068",
+      "asset": "oven_fire",
+      "timing": "Short low ambience while oven is visible."
+    },
+    {
+      "scene_id": "S080",
+      "asset": "plate_set",
+      "timing": "Single cue on cut to platter on service table, no extra clattering."
+    }
+  ],
+  "intentional_silence": [
+    "No invented French market shouting.",
+    "No chewing/slurping joke against poor diners.",
+    "No guillotine or revolutionary gunfire foreshadowing."
+  ]
+}

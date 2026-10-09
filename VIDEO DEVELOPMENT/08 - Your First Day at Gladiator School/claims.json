@@ -1,0 +1,351 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "The Visitor's first-day tour, unnamed trainee and imagined reactions are original illustrative framing at Carnuntum c.AD200, not a recovered individual's schedule.",
+    "sources": [],
+    "locator": "Editorial scenario.",
+    "limit": "No invented dialogue presented as a quotation; no exact local daily timetable.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S006",
+      "S007",
+      "S010",
+      "S011",
+      "S012",
+      "S014",
+      "S015",
+      "S022",
+      "S023",
+      "S025",
+      "S028",
+      "S030",
+      "S031",
+      "S032",
+      "S033",
+      "S038",
+      "S039",
+      "S040",
+      "S042",
+      "S043",
+      "S044",
+      "S045",
+      "S046",
+      "S047",
+      "S048",
+      "S050",
+      "S051",
+      "S054",
+      "S055",
+      "S060",
+      "S062",
+      "S064",
+      "S069",
+      "S070",
+      "S071",
+      "S073",
+      "S074",
+      "S080",
+      "S082",
+      "S085",
+      "S086",
+      "S088",
+      "S089",
+      "S091",
+      "S092",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "Surveyed remains west of Carnuntum's civilian amphitheatre are interpreted as a gladiator school; its plan includes a controlled entrance and circular training structure.",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Antiquity pp181–185; official Gladiatur school paragraph.",
+    "limit": "Retain interpreted/reconstructed framing. School identification is strong interpretation rather than every room's function proven.",
+    "scene_ids": [
+      "S003",
+      "S004",
+      "S005",
+      "S011",
+      "S052",
+      "S075",
+      "S087",
+      "S089",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "E",
+    "claim": "The circular structure is about19m across; a central feature may represent a training-post foundation.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Antiquity p184 and VIAS opening paragraph.",
+    "limit": "Post-hole interpretation is possible, not surviving wooden post. Do not exact-reconstruct tiers or post carving.",
+    "scene_ids": [
+      "S037"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Gladiators included enslaved people, war prisoners and voluntary recruits; joining voluntarily did not preserve ordinary freedom of action.",
+    "sources": [
+      "SRC04",
+      "SRC06",
+      "SRC07"
+    ],
+    "locator": "Met Training; Seneca37.1–2; BM Valentinus discussion.",
+    "limit": "Different legal situations; do not call all enslaved or all willing. No universal contractual rights claim.",
+    "scene_ids": [
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S016",
+      "S019",
+      "S066",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "Seneca evokes arena recruits agreeing to endure burning, restraint and death by the sword, and mentions a defeated fighter appealing for mercy.",
+    "sources": [
+      "SRC06"
+    ],
+    "locator": "Letter37.1–2.",
+    "limit": "Paraphrase attributed; moral rhetoric is not a Carnuntum admission checklist.",
+    "scene_ids": [
+      "S016",
+      "S017",
+      "S018",
+      "S019",
+      "S079",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "Schools were managed by a lanista with support staff; instructors specialized in gladiator equipment types.",
+    "sources": [
+      "SRC01",
+      "SRC04"
+    ],
+    "locator": "Antiquity pp183–185; Met Training.",
+    "limit": "No named local manager or recorded speech. Instructor's exact biography unknown.",
+    "scene_ids": [
+      "S020",
+      "S021",
+      "S029",
+      "S046",
+      "S047",
+      "S067",
+      "S089",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "Gladiatorial training could use wooden weapons and a standing post before paired practice; a Cypriot lamp depicts post training.",
+    "sources": [
+      "SRC04",
+      "SRC05"
+    ],
+    "locator": "Met Training; lamp74.51.2030 object description.",
+    "limit": "No exact weights, repetition counts or first-day training prescription. Lamp predates scenario and is from elsewhere.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S005",
+      "S023",
+      "S030",
+      "S032",
+      "S034",
+      "S035",
+      "S036",
+      "S040",
+      "S041",
+      "S044",
+      "S090",
+      "S091",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "Secutor and retiarius equipment differs: enclosed plain helmet/large shield/short sword versus no helmet/net/trident/dagger and left-arm/shoulder protection.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Armament Types, secutor/retiarius paragraphs.",
+    "limit": "Comparative kit, not exact school inventory. Secutor is not a legionary; don't mix kits.",
+    "scene_ids": [
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S029"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Small rooms in the southern and western wings are interpreted as residential cells; exact occupancy is estimated.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Antiquity p185; VIAS room comparison.",
+    "limit": "Single bed and blanket are illustrative; no exact number of residents or definite private room allocation.",
+    "scene_ids": [
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S053",
+      "S056",
+      "S057",
+      "S087",
+      "S090",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "Northern facilities are interpreted as a heated training or assembly hall and a bath complex, supported by floor, furnace and drainage evidence.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Antiquity pp186–187.",
+    "limit": "Not a confirmed gym with a documented bathing timetable; no health outcome inferred.",
+    "scene_ids": [
+      "S008",
+      "S058",
+      "S059",
+      "S060",
+      "S061",
+      "S065",
+      "S087",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "I",
+    "claim": "Investment in training and facilities could coexist with severe control; a useful body was not necessarily a free person.",
+    "sources": [
+      "SRC01",
+      "SRC04",
+      "SRC06",
+      "SRC07"
+    ],
+    "locator": "Synthesis of compound plan, training and status evidence.",
+    "limit": "Editorial interpretation, not claim every owner was benevolent or every fighter enslaved.",
+    "scene_ids": [
+      "S009",
+      "S021",
+      "S053",
+      "S057",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S070",
+      "S071",
+      "S072",
+      "S081",
+      "S084",
+      "S087",
+      "S088",
+      "S092",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "Trained gladiators could be hired for shows; defeat did not invariably mean death and mercy was possible.",
+    "sources": [
+      "SRC04",
+      "SRC06"
+    ],
+    "locator": "Met The Arena; Seneca37.2.",
+    "limit": "No survival probability or promise; no assurance a first-day recruit fought immediately.",
+    "scene_ids": [
+      "S045",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080",
+      "S081",
+      "S082"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "E",
+    "claim": "Fame and fan recognition could coexist with low status, illustrated by named fighters on the Colchester Vase and Roman gladiator imagery.",
+    "sources": [
+      "SRC04",
+      "SRC07"
+    ],
+    "locator": "Met Arena; BM Valentinus fame discussion.",
+    "limit": "No named Colchester fighter moved to Carnuntum; no claim a celebrity could simply leave.",
+    "scene_ids": [
+      "S083",
+      "S084",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

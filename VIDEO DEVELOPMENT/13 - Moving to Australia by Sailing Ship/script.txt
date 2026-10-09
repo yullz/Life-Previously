@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: You Move to Australia in 1854. What Is the Voyage Like?
+
+## One passenger wants on. Another wants off.
+::: S001 | MarcoPolo atworkingquay,emigrantadults withwoodentrunks,smallersteamtugnearby; shipsdistinct. [pose: look-around 0.8,0.94 0.6] [note: Liverpool,July1854] [zoom-in]
+Liverpool, eighteen fifty-four. Your new life is in Australia. Unfortunately, the next part of your life is on this ship.
+
+::: S002 | Fullthree-mastship departingMerseywithsmalltugseparate,towlineplausible,no steamfunnelonsailingvessel. [note: MarcoPolo · WilliamWild ·1854voyage] [pan-left]
+You are aboard the Marco Polo, under Captain William Wild. By the time you reach Melbourne, it will be late October.
+
+::: S003 | Passengersquietlysettleonworkingdeck besideclosedtrunks; simple groupsnotcrowdduplication. [zoom-out]
+You must share space, follow rules, eat, sleep, wait, and discover which strangers become difficult neighbours.
+
+::: S004 | OfficerapproachesyoungadultJosiahnearhatch,ordinaryclothes,no chains; nochildappearance. [note: Chronicle,29July1854] [same-as: S003] [pan-right]
+Before the voyage settles, the ship's newspaper reports a drama: somebody has hidden aboard without a berth.
+
+::: S005 | YoungadultJosiahseatedonsturdyhencoop,anxiousbutnotcomiccriminal,officeraside. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S003] [zoom-in]
+His name is Josiah Thomas, described as about eighteen. He has tried to obtain a free passage by stowing away.
+
+::: S006 | Adultpassengers quietlyoffercoins whileJosiahwaits,tugvisiblebelowbulwark; noboardingyet. [same-as: S003] [pan-left]
+The plan is to send him back on the tug. Some passengers collect money so he will not return penniless.
+
+::: S007 | Secondadultmaninplaincoat speakswithCaptainWild,closedtrunkbesidehim,Josiahbackgrounddistinct. [same-as: S003] [zoom-out]
+Then another passenger makes a very different request. He wants to go back to Liverpool and the family he left behind.
+
+::: S008 | Captainbetweenbothadultmen,onegesturingtowardtug,otherlistening; no legalcontracttextpainted. [same-as: S003] [pan-right]
+According to the paper, this man offers his second-cabin berth to Josiah. The captain agrees to the unusual exchange.
+
+::: S009 | Explicitnear-departureshorecontext:smalltugtakesreturningadultawayfromlargership,no finalMelbournebuildings. [same-as: S001] [zoom-in]
+One person leaves, and another gets to continue. It is a neat reversal at the beginning of a very long journey.
+
+::: S010 | Ordinarysharedwoodenberths andsecuredtrunks,adultsarrangingmodestbedding,clearaisleright. [pose: watch-arms-crossed 0.8,0.94 0.6] [pan-left]
+A berth is a place in a tightly organized floating community. Josiah now has one.
+
+::: S011 | Passengertriesfitclosedtrunkunderbunkwithoutblockingaisle; no impossiblecrossedlimbs. [same-as: S010] [zoom-out]
+Getting aboard is the first problem. For those staying, the harder question is how to live aboard until land appears.
+
+::: S012 | Visualdepthshowsordinarypassengersmaindeckandfewbetterdressedfigureshigherpoop,not rigidinventedbarrier. [same-as: S003] [pan-right]
+And there is no single answer, because the same ship contains more than one kind of passenger experience.
+
+## The same ship, different lives
+::: S013 | Two proportionalbutnotexactnumericgroups,firstcabinminorityversusothers; no fabricatedpercentage. [note: Chronicle,2September1854] [still]
+The Chronicle distinguishes first, second and third cabins. Its own passenger figures put only a small minority in the first cabin.
+
+::: S014 | Modestfirst-cabinsaloon,fixedtableandfewwell-dressedadults,clearlynotgrandlinerdiningroom. [note: Illustrative first-cabin area] [pan-left]
+A comfortable saloon or splendid party cannot represent everybody's daily life aboard.
+
+::: S015 | Samebunkroomwithseveraladultpassengers,smalltrunkssecured,nofantasizedexactplan. [note: Period reconstruction · exact layout unknown] [same-as: S010] [zoom-out]
+Cheaper shared accommodation leaves less personal space. People and possessions must fit together.
+
+::: S016 | Twoadjacenttrunksandbootsbelowbunks,clearaisle; no visiblemesssohugeitblocksallmovement. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S010] [pan-right]
+Your neighbour's belongings cannot expand indefinitely, and neither can yours. A small inconvenience is harder to escape when the room moves with you.
+
+::: S017 | Passengersspreadthroughsafeopenspaces,onequietfigurelooksout,horizonbeyondbulwark. [same-as: S003] [zoom-in]
+Going on deck changes the view. It does not make the other passengers disappear, or give the ship another destination.
+
+::: S018 | Compactmanualpressroomandprinterhandlingblanktwo-pagesheet,smallpaperstack,typecase; sourcewordsaddedlater. [note: TheMarcoPoloChronicle] [pan-left]
+This is one reason the onboard newspaper is such a useful guide. It records a temporary society trying to organize itself.
+
+::: S019 | Severalblankbroadsidesatprinter'stable; localshortlabels beside ratherthanpaintedwords. [same-as: S018] [zoom-out]
+The source records what the paper reported, rather than how every passenger felt.
+
+::: S020 | Sourceparaphraseacknowledgespromotionalviewpoint,notfacsimile. [note: Chronicle,29July1854,ToOurReaders] [still]
+Behind its cheerful voice are washing times, medical notices, complaints, and weather reports.
+
+::: S021 | Printerhandsoutpaper tosmallvariedadultgroup,expressionsnotallidenticalgrins. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S018] [zoom-in]
+It is an excellent source for what the paper reported, but not a neutral survey of how every passenger felt.
+
+::: S022 | Passengersreadblankpapersatdecktable,securednotlooseflyinglitter. [same-as: S003] [pan-left]
+Free copies circulate, while a complete set costs a shilling. The paper is printed aboard.
+
+::: S023 | Printerplacesstackofblankcopiesbeside singlepaymentpouch; exactfeealocalcaption. [note: Complete set:1shilling ·29Julyissue] [same-as: S018] [zoom-out]
+The paper itself is printed aboard. Free copies circulate, while readers wanting a complete set can pay a shilling.
+
+::: S024 | Smallfinitepaperstacknexttocompactpress,notyetempty; no ominousmagicalglow. [same-as: S018] [pan-right]
+For now, there should be something new to read each week. Later, that expectation will run into a problem of its own.
+
+## Wash, eat, repeat
+::: S025 | Twoadults washplainclothesinbasins,shortsecuredlineawayfromrigging,calmdaylight. [pose: look-around 0.8,0.94 0.6] [note: Chronicle,5August1854] [zoom-in]
+Begin with washing. An early August notice sets aside Mondays and Thursdays, with the articles in use cleared before eleven.
+
+::: S026 | Passengerremovesdampclothingfromlinewhilecrewkeepsclearpathnearhatch; no inventedpunishment. [same-as: S025] [pan-left]
+Your laundry is now part of a shared timetable. You cannot treat the working deck as your private back garden.
+
+::: S027 | Ordinarydoctorwelcomesadultpatienttocotroom,plainwaterjug,nosurgeryormoderninstruments. [note: 11amand4pm · emergency exceptions] [zoom-out]
+The medical officers also announce attendance times at the deck hospital, while allowing exceptions for emergencies.
+
+::: S028 | Deckwithsmallgroupnearhospitaldoorandothersmovingpast,notgiantqueueorsickcrowd. [same-as: S003] [pan-right]
+Hundreds of people need services where the staff, space and supplies are finite.
+
+::: S029 | Securedbarrels,sacks andpreservedfoodboxes,woodenbeams; noinventedprintedlabels. [pose: watch-arms-crossed 0.8,0.94 0.6] [note: Chronicle,9September1854,Provisions] [zoom-in]
+Food travels with the ship too. Its inventory lists flour, bread, rice, oatmeal, beef, pork and preserved foods.
+
+::: S030 | Smallsecurepenswithfewsheepandpigs,separatepoultrycrate,no looseanimalstampede. [pan-left]
+There are also live animals among the provisions: sheep, pigs and poultry. Some future meals are still making noises.
+
+::: S031 | Whole-shipstoresiconclearlyseparatefromoneplate; noportionmath. [note: Inventory≠individualration] [still]
+This is the ship's inventory, not one passenger's daily menu. It cannot tell us that everyone ate alike.
+
+::: S032 | Cookinordinaryaproncheckssecuredsackbesideplaincontainers,notluxurychefhat. [same-as: S029] [pan-right]
+Nor does a long inventory remove the work. Somebody still has to store, prepare and distribute food throughout the crossing.
+
+::: S033 | Ordinaryadultsseatedatsmallsecuredmealboardwithplainfood,notinventedexactmenu. [same-as: S010] [zoom-in]
+For a passenger, meals also mark time. Another dinner is something to do when the horizon has offered very little news.
+
+::: S034 | Adultpausesatplainmeal,anothernearby quietlyeats,Visitorlistensfromright. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S010] [still]
+You can picture your future in Melbourne while eating. You still have to finish the meal here, among the same people.
+
+::: S035 | Quietpassengersleaning orseatedproperlyondeckbench,longhorizon,normalboredfaces. [same-as: S003] [zoom-out]
+A supplied ship can still become tiresome. The problem is not always hunger, fear, or spectacular disaster.
+
+::: S036 | Beginningcalmphase,shiponlowswell,sailslessfilled,nobigbowwake. [note: Calm periods reported in the Chronicle] [same-as: S002] [pan-right]
+Sometimes the problem is that everything aboard is continuing, while the ship itself seems barely to be getting anywhere.
+
+## Good weather can be bad news
+::: S037 | Samehullandthreemasts,slacksails,lowswellwithoutflatglasssea,horizonfixed. [note: Chronicle,19August1854] [same-as: S002] [zoom-in]
+In August, the paper describes a calm after a fancy-dress ball. The ship rises and falls with the swell but makes little progress.
+
+::: S038 | Adultstareatcalmhorizon,riggingstill,safehandonrail,no identicalclonefaces. [same-as: S003] [pan-left]
+The passengers have crossed an enormous distance from ordinary life, yet the immediate view refuses to change very much.
+
+::: S039 | Clearfullprofilethree-mastsailinghull,nofunnel,nosmalltugnow; calmwater. [same-as: S002] [zoom-out]
+There is no emergency engine to switch on aboard this sailing ship. The steam tug from departure is long gone.
+
+::: S040 | Loosecanvasandropeshangcorrectlyfromyard,viewdownhorizonwithgentleswell. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S003] [pan-right]
+A slack sail can become more frustrating than a dramatic wave. Calm water is not the same thing as a quick passage.
+
+::: S041 | Adultwomanwithclosedbook,anotherwithneedleworksetaside,adultmanrestingnearby; no ridiculinggenderpose. [note: The paper's description of the calm] [same-as: S003] [zoom-in]
+The paper describes people losing enthusiasm for their usual amusements. Even the reading and needlework are no longer doing their job.
+
+::: S042 | Visitorlooksoutwithquietimpatience,unobstructedforegroundfooting. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S003] [still]
+Time needs filling, but you cannot make it pass faster.
+
+::: S043 | Sailorcheckssecuredropewhilepassengersrestawayfromworkarea; nottakingunneededstormaction. [same-as: S003] [zoom-out]
+The crew still has a ship to manage. A bored passenger's day is not proof that everybody aboard has stopped working.
+
+::: S044 | TwodatedissuecardsAugust/Septemberwithdelaytheme; noinventedETA. [note: Chronicle,23September1854] [still]
+By September, the newspaper is still discussing uncertainty about the voyage's length. The light winds keep spoiling the calculations.
+
+::: S045 | Sameshipcalmhorizon,smallclouds,nodivinewindfacesor giantclock. [same-as: S002] [zoom-in]
+You might have chosen a famous ship because of its reputation. That reputation cannot order a useful wind to arrive.
+
+::: S046 | Distinctyears/captains,no precise1852daycountneeded. [note: Separate voyages] [still]
+And this is not the Marco Polo's celebrated earlier record run. It is a different voyage, with a different captain.
+
+::: S047 | Smallgroupgatherswithfiddleandconcertina,ordinarymusic,no modernspeaker. [same-as: S003] [zoom-out]
+The useful question becomes smaller: what can you do with today? The passengers are surprisingly inventive about answering it.
+
+::: S048 | Preparations for reportedball,smallbandsetaside,safeopendeckandfewadultcouples; no giantshoreballroom. [note: August1854 · reported first-cabin event] [pan-right]
+Some answers are modest. Others involve turning part of a sailing ship into a party in the middle of the Atlantic.
+
+## A party, a paper, and a missing coat
+::: S049 | Sameballspaceinpreparation,first-cabinadultguests,noeveryoneaboardcrowd; localdatecaption. [pose: look-around 0.8,0.94 0.6] [note: Earlier:14August1854] [same-as: S048] [zoom-in]
+Before those calms came the ball. Its advertisement announced a first-class event, dependent on wind and weather.
+
+::: S050 | Bandwithfiddle/concertina settlesinprotecteddeckarea,clothawnings secured,noelectriclights. [same-as: S048] [pan-left]
+Even the entertainment schedule had to negotiate with the ocean. A party could be organized; suitable conditions could not be ordered.
+
+::: S051 | Fewadultcouplesdanceonleveldeck,safefooting,subtleearlylight,no modernlatindanceorimpossibleposes. [same-as: S048] [zoom-out]
+The newspaper celebrated the result, describing music, dancing and supper. It reported dancers continuing until five the following morning.
+
+::: S052 | Betterdressedsmallgroupatmodestsupper,no giantchampagnetower,clearlyfirstcabincontext. [same-as: S014] [pan-right]
+For some passengers, that must have been a welcome change. It should not become our picture of everybody's nightly routine.
+
+::: S053 | Quietgrouphearsadultspeakeratpoopedge,othersreadatdistance; nomodernmicrophone. [same-as: S003] [zoom-in]
+Elsewhere in the paper are less grand attempts to fill time: music, reading, a lecture, and notices connecting people with things.
+
+::: S054 | Illustrativebluechild-sizecoatfoldedonbench,notclaimitwasactuallyfound; localnoticeparaphrase. [pose: eyebrow-raise 0.8,0.94 0.6] [note: Lost-property notice · no recovery recorded] [same-as: S014] [pan-left]
+There is a lost-property notice for a boy's blue overcoat. Even out here, someone is trying to find the missing coat.
+
+::: S055 | Adultsearchescorridorbesidetrunk,ordinaryfrustration,nocrimeaccusation. [same-as: S014] [zoom-out]
+It is a small detail, but it makes the ship feel inhabited. The passengers are not just anonymous figures crossing a map.
+
+::: S056 | Adultsarrangebelongingsandreadinsharedquarters,modestvariety,no caricatureofdirtypoor. [same-as: S010] [pan-right]
+They bring belongings, preferences, habits, and relationships. Over weeks, other people's habits become a much larger part of your surroundings.
+
+::: S057 | Adultpassengers shareoneblankprinted-sheetprop,printerworksbehindwithmanualpress. [same-as: S018] [zoom-in]
+The paper gives passengers common news and subjects to discuss, helping turn a crowd into a community.
+
+::: S058 | Captainlistensseriouslytosmallpassengergroup,workingdeckclear; notmilitaryparade. [same-as: S003] [pan-left]
+But a floating community also needs boundaries. Some things cannot be left to each passenger's personal judgement.
+
+::: S059 | Extinguishedsmallcandleholderonbunkledge,adultownernearby; no activeflameorfire,sourcecaptionexplains. [note: Earlier incident reported5August1854] [same-as: S010] [zoom-out]
+The clearest example is not an argument about dancing or a lost coat. It is a light in somebody's berth.
+
+::: S060 | Timberbeams,bedding andropesvisiblearoundnarrowaisle,candleextinguished; noimaginedblaze. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S010] [pan-right]
+Something ordinary at home could endanger hundreds of people inside a wooden ship.
+
+## Rules, care, and consequences
+::: S061 | OrdinaryadultpassengerfacesCaptainWild,officerholdsunlitcandleholderaside; no irons applied. [note: Chronicle,5August1854,NakedLights] [same-as: S003] [zoom-in]
+The paper reports a third-cabin passenger brought before the captain after being found in his berth with an unprotected light.
+
+::: S062 | Captaincalmlyserious,passengerlistens,no shoutingcartoonvillain orhandcuffs. [same-as: S003] [pan-left]
+He admitted it, but said he did not know the rules. The captain explained the danger and warned him about repetition.
+
+::: S063 | Localwarningcard,conditionalwordlarge;norealchainsimage. [note: Warning for a repeat offence] [still]
+The threatened punishment included forty-eight hours in irons with bread and water. The report does not say he received it then.
+
+::: S064 | Passengerwalksawayunrestrained,captainturnstodeckwork; no punishmentreenactment. [same-as: S003] [pan-right]
+This is a warning about authority aboard. The passenger is not reported as being chained up.
+
+::: S065 | Timberpartitionbetweenoccupiedberths,unlitlightstoredsafely; no trappedchild. [same-as: S010] [zoom-in]
+For you, the practical message is simple: your small private action may have consequences for people you cannot see.
+
+::: S066 | Doctorquietlyattendsordinaryadultpatientwithwaterjug,restingcot;nodiagnosisortreatmentinvented. [same-as: S027] [pan-left]
+The ship also has medical staff and a hospital. The notices show care being organized, but they do not promise safety.
+
+::: S067 | Two datedreportstatesbriefly labelled,withoutmedicalclaims. [note: Chronicle,5August/12August/14October] [still]
+Different issues report sickness or relative good health. Each describes a moment, not a guarantee for the crossing.
+
+::: S068 | Quietsaloonwithseveralemptychairs,passengerssubdued; notemptyentireshiporghostfigures. [same-as: S014] [pan-right]
+The final newspaper also records losses. Its cheerful social world has people missing from it by the end.
+
+::: S069 | Respectfulnames-onlysourcecard,noillustratedbodiesorchildbirth. [note: Chronicle,14October1854] [still]
+A mother, Mrs Langford, and her infant died. Another passenger, William Gore Tipper, was lost overboard in rough seas.
+
+::: S070 | Quietopenseafromsafedeck,greydaylight,smallgroupstandingrespectfullyawayfromrail. [same-as: S003] [pan-left]
+We do not need to stage their final moments to understand what that means. Some families did not reach the other end together.
+
+::: S071 | Subduedpassengersinsamesaloonpreviouslyfestive,ordinaryconversation,no stylizedsplitemotionfaces. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S014] [zoom-out]
+The same journey could contain jokes, dances, boredom and grief. Choosing only one would make a simpler, less truthful voyage.
+
+::: S072 | Shipundercontrolledsailonmoderateswell,notcalmthisshot,no dramaticsinkingangle. [note: Later phase of the crossing] [same-as: S002] [pan-right]
+By then, everyone still aboard also has the unresolved question which the weather keeps putting off: how much longer?
+
+## The paper runs into the timetable
+::: S073 | Printerchecksremainingpaperstackatcompactpress,lesspaperthanearlyanchor; nottotallyempty. [same-as: S018] [zoom-in]
+The newspaper provides an unusually tangible answer to how the delay felt. Its own production plan had assumed a shorter journey.
+
+::: S074 | Tenlocallydrawnsmallbundleswithsimplecount,notmodeldrawnlabels; one highlightedfinalportion. [note: Chronicle,14October1854,LastoftheChronicles] [still]
+The editors expected to issue ten weekly numbers. They divided their supply of paper into ten portions for that purpose.
+
+::: S075 | Ninecompletedblankissuebundlesandoneunusedpaperportion shownschematicallylocaloverlay,notexactpaperweights. [same-as: S018] [zoom-out]
+After the ninth issue, the ship still had too far to go. Publishing normally would leave no paper for a proper farewell.
+
+::: S076 | Largecalendarinterval23September→14October,clearcorrectyear1854. [note: Preserved issue dates] [still]
+So the final issue was held back. The gap between the ninth and tenth editions became three weeks.
+
+::: S077 | Passengerslookatlastsmallpaperstack,printersetsitcarefullyaside; nofoodrationconfusion. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S018] [zoom-in]
+Imagine watching the weeks stretch until even the ship's newspaper has to ration its remaining appearance.
+
+::: S078 | Manualpressintact,limitedpaperbesideit; alltoolsfunctional. [same-as: S018] [pan-left]
+This was not a broken press. The planned supply had to cover a passage that was taking longer than expected.
+
+::: S079 | Printerhandsoutlastblanktwo-pagesheet,smalllocaldatecaption,ordinarypassengerreceives. [pose: closeup-listening 0.8,1.02 0.82] [note: Final issue:14October1854] [same-as: S018] [zoom-out]
+The last issue finally appeared on the fourteenth of October. The ship was still short of its destination.
+
+::: S080 | Paraphraseofcaptain'sfinalmessage,locallytypeset,noinventedexactduration. [note: WilliamWild,14Octoberissue] [still]
+Captain Wild acknowledged that this was the longest passage the Marco Polo had yet made. Its earlier reputation had not shortened this one.
+
+::: S081 | Passengerscollectbelongingsandlooktowarddistanthorizon,noactuallandclaimunlessfaintnotidentified. [same-as: S003] [zoom-in]
+The editors expected the community to scatter into different lives once it reached land.
+
+::: S082 | Adultwithclosedtrunklooksout,simplequietanticipation. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S003] [pan-left]
+For passengers, that prospect changed the kind of uncertainty. Soon the question would be what waited after getting off.
+
+::: S083 | Familiarbunknowtidied,closedtrunkready,emptybeddingfolded; no passengerpermanenthomeassumed. [same-as: S010] [zoom-out]
+A berth, however uncomfortable, had at least been a known place. A new life ashore would require new arrangements.
+
+::: S084 | PortPhillipanchoragefirstview,woodenships,lowcolonialshore,workingboats,nocityskyscrapers. [note: PortPhillip,lateOctober1854] [pan-right]
+The ship could carry you to Australia. It could not supply the entire life you hoped to build there.
+
+## The crossing ends. The move does not.
+::: S085 | Sameshipatbayanchorage,smallsailcraftandlowshore; no literallydockedriverclaim. [same-as: S084] [zoom-in]
+The Marco Polo reached Melbourne in late October, after leaving Liverpool in July. The promise of departure had become an arrival.
+
+::: S086 | SimplelocalPortPhillip/YarraregionalmapwithKulinCountrylabel,noexacttraditionalboundariesinvented. [note: MuseumsVictoria,TheFoundingofMelbourne] [still]
+But Melbourne was not an empty stage waiting for newcomers. It was a colonial city on Kulin Country.
+
+::: S087 | Bayandlandscapeviewwithcolonialbuildings,notfantasyuntouchedemptycontinent; no inventedconfrontation. [same-as: S084] [zoom-out]
+European settlement had displaced First Peoples and restricted their access to land and resources. A passenger's fresh start belonged within that larger history.
+
+::: S088 | Illustrativeadultemigrantwithtrunkatmodestlandingarea,workingboatbehind; no guaranteedjoborhouse. [pose: look-around 0.8,0.94 0.6] [same-as: S084] [pan-right]
+For the person stepping ashore, the immediate tasks were personal again: find somewhere to go, make plans, and begin.
+
+::: S089 | Threeordinaryroutineiconswithshortlabels,no complicatedtimeline. [note: Voyage synthesis] [still]
+For months, the ship had organized the day. Wash at certain times. Eat among familiar strangers. Listen for news of progress.
+
+::: S090 | Smalladultgroupsmoveindifferentdirectionswithluggagefromlandingarea; no actualnamedpassengerfates. [same-as: S084] [pan-left]
+Those routines would break apart. Sharing a crossing did not mean sharing what happened next.
+
+::: S091 | Explicitmemorymontage:foldedbluecoat,basin andclosedpaperonsecureddecktable; notactualfoundcoatproof. [note: Remembering the reported notices] [same-as: S003] [zoom-out]
+That is what makes the shipboard details matter. The lost coat and washing notice are pieces of a whole life between homes.
+
+::: S092 | Emigrantpausesatworkinglandingwithtrunk,citystilldistant,noinstantwelcomebanner. [same-as: S084] [pan-right]
+Moving to Australia was not one dramatic farewell followed immediately by a new house, a new job and a new beginning.
+
+::: S093 | Earlieratseaillustrativecallback,sameshipmoderateswell,clearcaptionpreventsseconddeparture. [note: Looking back at the crossing] [same-as: S002] [zoom-in]
+There was a long middle, where progress depended on wind and everyday comfort depended on other people's work and behaviour.
+
+::: S094 | Locallycompositeddatesonblankissuepropswithvisiblegap,sourcecardsnotfakeoriginalprint. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S018] [pan-left]
+The newspaper lets us hear that middle through its announcements, enthusiasm, complaints and silences. Even its missing weeks tell part of the story.
+
+::: S095 | Visitorquietlyobservesordinaryemigrantsatlanding,footscalecheckedagainstlocals. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S084] [still]
+Your ticket bought passage. What you had to bring was enough patience to live through the journey before the destination.
+
+::: S096 | Finalgentlecallbacktoordinarypassengersonworkingdeck,calmrightarea forendscreen; no triumphantcolonialflag. [note: AboardMarcoPolo,1854] [same-as: S003] [pan-right]
+The new life did not begin when the shore disappeared. For a while, the life you had to manage was this one.

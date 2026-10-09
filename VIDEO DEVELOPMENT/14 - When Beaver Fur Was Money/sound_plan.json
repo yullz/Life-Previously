@@ -1,0 +1,38 @@
+{
+  "status": "direction_ready_assets_unselected",
+  "music": "Quiet channel theme with spacious timber-room ambience; no cinematic frontier or Indigenous-stereotype music.",
+  "mix": "Narration first. No gunshots, animal distress, cash-register ding or sparkling coin noises.",
+  "new_assets": [
+    {
+      "id": "cloth_fold",
+      "description": "Quiet wool cloth fold."
+    },
+    {
+      "id": "wood_setdown",
+      "description": "Soft small object placed on timber."
+    },
+    {
+      "id": "river_paddle",
+      "description": "Gentle paddle dip without motor."
+    }
+  ],
+  "acquisition": "Use inspected licensed local assets or original Foley; any paid acquisition follows the shared contract.",
+  "cues": [
+    {
+      "scene_id": "S006",
+      "asset": "wood_setdown",
+      "timing": "Subtle bundle contact below voice."
+    },
+    {
+      "scene_id": "S049",
+      "asset": "cloth_fold",
+      "timing": "Between narration phrases."
+    },
+    {
+      "scene_id": "S096",
+      "asset": "river_paddle",
+      "timing": "Low closing texture."
+    }
+  ],
+  "intentional_silence": []
+}

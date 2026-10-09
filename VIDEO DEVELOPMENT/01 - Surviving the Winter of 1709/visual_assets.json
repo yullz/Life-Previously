@@ -1,0 +1,503 @@
+{
+  "episode": "winter-1709",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S004",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S016",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S016",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": "S016",
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S016",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S034",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S063",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S073",
+      "parent": "S072",
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S072",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S072",
+      "status": "not_generated"
+    },
+    {
+      "id": "S076",
+      "parent": "S072",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S072",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S031",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S010",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S060",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S001",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S005",
+      "text": "WARMTH • FOOD • THE THAW",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S012",
+      "text": "REPEATED OBSERVATIONS",
+      "label": "Louis Morin • Paris weather observations",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S014",
+      "text": "EARLY READINGS → MODERN INTERPRETATION",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S015",
+      "text": "COLD → THAW → COLD",
+      "label": "Paris weather sequence • schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S029",
+      "text": "AVAILABLE? • AFFORDABLE?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S036",
+      "text": "WINTER → SPRING → SUMMER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S040",
+      "text": "ILLUSTRATIVE HOUSEHOLD • NO INVENTED PRICES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S043",
+      "text": "ACCUSATION ≠ PROOF",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S045",
+      "text": "WAR + WINTER • A HOUSEHOLD UNDER PRESSURE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S050",
+      "text": "A THAW BETWEEN FREEZES",
+      "label": "Paris weather sequence • schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S057",
+      "text": "TONIGHT • THE MONTHS AHEAD",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S068",
+      "text": "CHILDREN • OLDER PEOPLE • PEOPLE IN POVERTY",
+      "label": "La clef du cabinet · March 1709",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S078",
+      "text": "THE ICE MELTS • THE PRESSURE REMAINS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S080",
+      "text": "RELIEF • RESOWING • PUBLIC WORK",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S090",
+      "text": "WARMTH • FOOD • HELP • NEXT HARVEST",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

@@ -1,0 +1,36 @@
+{
+  "status": "direction_ready_assets_unselected",
+  "music": "Channel theme low, with sparse original room/street texture; avoid generic oriental gong or modern restaurant music.",
+  "mix": "Narrator remains dominant; layered crowd texture very low and without intelligible invented Chinese dialogue.",
+  "new_assets": [
+    {
+      "id": "bowl_set",
+      "description": "Soft ceramic bowl touching wood."
+    },
+    {
+      "id": "quiet_market",
+      "description": "Restrained indistinct outdoor market ambience, no vehicles."
+    },
+    {
+      "id": "soft_footsteps",
+      "description": "A few quiet steps on firm ground."
+    }
+  ],
+  "acquisition": "Use inspected licensed existing effects or original Foley. No unapproved paid assets.",
+  "cues": [
+    {
+      "scene_id": "S025",
+      "asset": "bowl_set",
+      "timing": "Brief as order scene begins."
+    },
+    {
+      "scene_id": "S061",
+      "asset": "soft_footsteps",
+      "timing": "Quiet transition to later street."
+    }
+  ],
+  "intentional_silence": [
+    "S069",
+    "S070"
+  ]
+}

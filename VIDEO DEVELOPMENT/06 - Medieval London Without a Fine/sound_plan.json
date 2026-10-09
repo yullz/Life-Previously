@@ -1,0 +1,37 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing theme low; lighten only at Visitor reactions, never use slapstick cues for imprisonment or assault.",
+  "mix": "Near -14 LUFS and true peak <= -1 dBTP; effects remain below voice at cue.",
+  "new_assets": [
+    {
+      "id": "bow_bell",
+      "description": "Single low resonant medieval-compatible church bell, no electronic ping; illustrative, not authentic recording of1364bell."
+    },
+    {
+      "id": "wood_latch",
+      "description": "Subtle wooden door latch."
+    },
+    {
+      "id": "quiet_steps",
+      "description": "Two soft steps on firm rough ground, no modern heel click."
+    }
+  ],
+  "acquisition": "Review existing library first, particularly rejected bell problem; itemize only missing cues in production allowance.",
+  "cues": [
+    {
+      "scene_id": "S043",
+      "asset": "bow_bell",
+      "timing": "One low bell at cut to belfry, duck beneath narration; do not loop."
+    },
+    {
+      "scene_id": "S093",
+      "asset": "wood_latch",
+      "timing": "Brief cue on the return-to-inn door cut, matching visible door state."
+    }
+  ],
+  "intentional_silence": [
+    "No impact sounds for the described penalty diagram.",
+    "No modern siren, police radio, gavel or handcuff click.",
+    "No invented shouted accusations in the1365case."
+  ]
+}

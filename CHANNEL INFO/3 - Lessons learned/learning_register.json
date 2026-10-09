@@ -1,0 +1,753 @@
+{
+  "schema_version": "1.0",
+  "updated_at": "2026-10-09",
+  "status": "Active prevention register; historical issue closure is not implied",
+  "issues": [
+    {
+      "issue_id": "LP-L023",
+      "episode_id": "003-egyptian-workers",
+      "scene_or_component": "Director/executor allocation",
+      "severity": "process",
+      "observed": "Owner expected Astra to perform research and scripting, but the first handoff delegated those core outputs to Claude.",
+      "root_cause": "Direction was delivered as instructions for further creative work rather than as concrete director-authored materials.",
+      "root_cause_confidence": "high; direct owner clarification",
+      "repair_status": "Versions 1 and 2 superseded; version 3 supplies researched narration, critical self-review, scenes and canonical prompts authored by Astra.",
+      "prevention": "Before handoff, verify actual director research, script, critical self-review and scene-level instructions exist. Assign Claude production implementation without a script-challenge loop.",
+      "regression_case": "HANDOFF-01: a non-template script, exact evidence mapping and populated visual requests are present; executor scope does not merely repeat the director's incomplete tasks.",
+      "validation_status": "Documents and roles corrected; no claim of improved media outcomes yet.",
+      "director_decision": "Adopt ownership clarification in AGENTS.md and production_workflow.json.",
+      "evidence": [
+        "Owner clarification9October2026",
+        "handoff/director_to_claude_episode_003_2026-10-09.json",
+        "episodes/003-egyptian-workers/narration_script.md"
+      ],
+      "latest_owner_clarification": "Astra performs script challenge itself; version 3 assigns Claude production implementation without script review."
+    },
+    {
+      "issue_id": "LP-L022",
+      "episode_id": "003-egyptian-workers",
+      "scene_or_component": "Compiled image prompt: global document-writing clauses",
+      "severity": "major_preflight_risk",
+      "observed": "Astra read images.suffix and images.text_rule on 2026-10-09. They request illegible squiggles and faint wavy ink lines, conflicting with blank generated documents plus checked compositor evidence text.",
+      "root_cause": "Shared prompt layers retained an older text-handling convention while the evidence-card workflow changed.",
+      "root_cause_confidence": "high for the configuration conflict; effect on generated output not measured",
+      "repair_status": "Directed to Claude in E03-T03; not implemented by the director preproduction package.",
+      "prevention": "Audit each complete model payload, including global suffix, conditional period clauses, scene wording and reference roles. Resolve contradictory text and date instructions before paid generation.",
+      "regression_case": "PROMPT-01: document, exterior and interior requests contain no active instruction to draw pseudo-writing, illegible squiggles or faint wavy ink lines; writing is added only as checked compositor overlays.",
+      "validation_status": "Configuration conflict observed. Fix and output improvement not yet validated.",
+      "director_decision": "Replace only images.suffix and images.text_rule as specified in the episode003 assignment after backup; preserve model/style/voice settings and prior masters.",
+      "evidence": [
+        "pipeline/config.json",
+        "handoff/director_to_claude_episode_003_2026-10-09.json"
+      ]
+    },
+    {
+      "issue_id": "LP-L021",
+      "episode_id": "001-and-002-publication",
+      "scene_or_component": "AI disclosure explanation and preference handling",
+      "severity": "process",
+      "observed": "Astra classified the complete videos too categorically from stylised imagery and the narrower Studio question, then inferred a Yes preference from an owner question. The owner later explicitly selected No, causing an avoidable second settings pass.",
+      "root_cause": "A policy interpretation was stated without the qualification in the full Help page, and an explanation question was treated as a new standing preference before the owner made that choice.",
+      "root_cause_confidence": "high; direct conversation and UI evidence",
+      "repair_status": "Final explicit owner choice is No for these eight uploads. The subsequent owner request removes optional AI/tool notes from public descriptions while retaining sources, required credits and accurate internal provenance. Saved-setting and public-copy evidence is recorded in the publication report.",
+      "prevention": "Read the exact current form and full official guidance for visuals and audio; distinguish mandatory rules, ambiguities and voluntary choices. Answer a setting question before inferring a policy change. Never relabel AI-generated music as human-made.",
+      "regression_case": "PUB-AI-01: stylised video with AI background music. Record the current main-focus criterion and broader Help example, preserve the asset's true provenance, follow the explicit owner choice where the criterion supports it, and verify each saved video setting.",
+      "validation_status": "Observed on this eight-video upload only. The official policy ambiguity remains visible; no guarantee for future platform interpretation or audience reach.",
+      "director_decision": "Adopt the explanation and saved-state checks in channel/seo.md and channel/production_workflow.json. The final No choice is scoped to these videos, not a universal future default.",
+      "evidence": [
+        "handoff/ai_disclosure_decision_2026-10-09.json",
+        "handoff/youtube_saved_metadata_2026-10-09.json",
+        "handoff/youtube_publication_2026-10-09.json"
+      ]
+    },
+    {
+      "issue_id": "LP-L001",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "Narration time frames",
+      "observed": "Owner reports confusion between the AD 79 visit, ancient backstory and modern excavations.",
+      "root_cause": "Time-frame transitions and relative dates were not explicit in the narration.",
+      "root_cause_confidence": "high",
+      "repair_status": "selected_takes_installed_in_002_candidate_c2_temporal; direct_listening_unverified",
+      "prevention": "Each scene records narrative_frame and time_anchor. Spoken transitions mark a change of frame and return. Relative dates name their reference event/year or supported date range.",
+      "regression_case": "TIME-01: 2020/2023/2018 discoveries cannot be narrated as events inside AD 79. AD 62/63, Eumachia's supported period and the possible AD 78 charcoal note stay distinguishable.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Owner report pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L002",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "Background prompts and style references",
+      "observed": "Historical inspections found medieval/modern forms in Pompeii images.",
+      "root_cause": "Medieval content in the style reference plus irrelevant shared prompt clauses encouraged the wrong forms; causal attribution is partly inferred from actual prompts.",
+      "root_cause_confidence": "medium_high",
+      "repair_status": "earlier_repairs_reported_completed",
+      "prevention": "Assign each reference a role. Separate season drawing style from period geometry; include only scene-relevant historical forms.",
+      "regression_case": "IMG-01: Roman exterior, object insert and interior prompts contain no irrelevant medieval architecture or domestic boilerplate.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L003",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "Recurring props",
+      "observed": "Fountains were recorded in 53 of 83 street pictures in an earlier cut.",
+      "root_cause": "Fountains and other landmarks were included in shared street instructions.",
+      "root_cause_confidence": "high",
+      "repair_status": "existing_prop_warning_and_manual_corrections",
+      "prevention": "Optional props are chosen per scene and counted over the episode. Existing recurring-prop warnings remain active; compare actual images too.",
+      "regression_case": "IMG-02: A generic street prompt must not add a fountain unless the scene record requests it.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L004",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "S041/S084 and other evidence shots",
+      "observed": "Named writing appeared as blank plaster or smears; S051 misrepresented a named mosaic.",
+      "root_cause": "Text avoidance and generic object generation removed or invented the defining evidence.",
+      "root_cause_confidence": "high",
+      "repair_status": "executor_reports_cards_and_schematic_installed_pending_director_acceptance",
+      "prevention": "Use checked composited text and accurate original diagrams for precise evidence. Distinguish translation, reconstruction and surviving artifact.",
+      "regression_case": "EVID-01: The viewer can read the cited message; Scaurus' jars and layout match the source; no invented map precision.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L005",
+      "episode_id": "001-medieval-london-day",
+      "scene_or_component": "S001 and Visitor placements",
+      "observed": "The opening line described being between sleepers while the image put the Visitor beside them; other past placements floated or overlapped bodies.",
+      "root_cause": "Narration, approved background, pose, contact surface and camera crop were not jointly approved.",
+      "root_cause_confidence": "high",
+      "repair_status": "director_retains_next_to_splice_for_candidate_direct_listening_unverified",
+      "prevention": "Plan the pose and physical support before generating the background; approve the complete composition against the audible line.",
+      "regression_case": "COMP-01: Between/next-to, feet/support, human scale, occlusion and end-of-movement crops agree.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L006",
+      "episode_id": "both",
+      "scene_or_component": "Asset identity and replacement",
+      "observed": "Code lookup matched shared scene IDs across episodes; fetch could overwrite accepted images; edits could restore pre-paint-out content.",
+      "root_cause": "No explicit accepted episode/scene/version identity at every transition.",
+      "root_cause_confidence": "high",
+      "repair_status": "executor_reports_implementation_and_local_tests_pending_director_review",
+      "prevention": "Scope identity by episode, scene and accepted content hash; stage candidates, preserve originals and reference the accepted local version.",
+      "regression_case": "PIPE-01: Two episodes both contain S001; fetching/re-editing cannot cross episodes or destroy accepted corrections.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L007",
+      "episode_id": "both",
+      "scene_or_component": "Narration takes",
+      "observed": "Changing chapter text could reset take numbering and overwrite a prior paid take.",
+      "root_cause": "Filename reuse and reset metadata discarded version identity.",
+      "root_cause_confidence": "high",
+      "repair_status": "executor_reports_implementation_and_local_tests_pending_director_review",
+      "prevention": "Retain immutable original recordings and take history, including failed or superseded edits.",
+      "regression_case": "VOICE-01: Changed chapter text retains all previous take bytes and metadata.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L008",
+      "episode_id": "both",
+      "scene_or_component": "Caption segmentation",
+      "observed": "Episode 002 had one zero-duration cue and 48 cues below 0.5 seconds; episode 001 had 26 cues below 0.5 seconds.",
+      "root_cause": "Word alignment was used without adequate phrase-level reading constraints.",
+      "root_cause_confidence": "high",
+      "repair_status": "executor_reports_caption_builder_and_candidates_pending_delivery_report",
+      "prevention": "Audit positive duration, overlaps, natural phrases and reading time separately from word alignment.",
+      "regression_case": "CAP-01: The original Breakfast cue becomes readable without overlaps; include a dense passage and proper names.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L009",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "S086 spoken quote",
+      "observed": "Two ASR runs read don't where the script says go; no direct listening conclusion is recorded in the supplied handoff.",
+      "root_cause": "Actual audio cause is unknown; earlier reports risked dismissing semantic mismatches as spelling.",
+      "root_cause_confidence": "unconfirmed_audio",
+      "repair_status": "J2_installed_in_preserved_chapter_take_and_candidate; direct_listening_unverified",
+      "prevention": "Keep semantic ASR differences open until heard directly. Never alter a checked quotation to fit a possible misread.",
+      "regression_case": "VOICE-02: Negation or numeral differences require a documented listening decision; transcription alone cannot close the issue.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "suspected_major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L010",
+      "episode_id": "both",
+      "scene_or_component": "Final render and review records",
+      "observed": "Earlier final rendering allowed missing assets; sampled-frame records did not prove review of the current master.",
+      "root_cause": "Completion signals and checkboxes were not bound to the exact export and all dependencies.",
+      "root_cause_confidence": "high",
+      "repair_status": "executor_reports_strict_gates_and_hash_manifests_pending_director_review",
+      "prevention": "Final mode blocks missing/placeholder parts; reviews name exact hashes and modalities; changed dependencies invalidate affected approval.",
+      "regression_case": "DEL-01: Missing assets fail final mode; a changed master cannot inherit an older review's approval.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L011",
+      "episode_id": "both",
+      "scene_or_component": "Sound-effect diagnosis",
+      "observed": "A previous loudness flag was attributed to an effect by comparing against unprocessed narration.",
+      "root_cause": "Measurements compared differently processed signals and nearby rather than equivalent windows.",
+      "root_cause_confidence": "high",
+      "repair_status": "lesson_already_documented",
+      "prevention": "Compare separately processed narration and effects over the same window with actual master gain; preserve direct listening for semantic fit.",
+      "regression_case": "SOUND-01: An emphasized narrator word must not be diagnosed as a loud crowd solely from mixed-track peaks.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L012",
+      "episode_id": "both",
+      "scene_or_component": "Instruction and status drift",
+      "observed": "Different documents and checkboxes described different requirements or stages as complete.",
+      "root_cause": "Repeated prose updates were not consistently tied to a canonical decision and evidence record.",
+      "root_cause_confidence": "medium_high",
+      "repair_status": "recurred_in_report_and_stale_status_paragraphs_director_corrected_current_instructions",
+      "prevention": "Use the structured workflow and current assignment as authority; update status from evidence without inventing acknowledgement, review or completion.",
+      "regression_case": "OPS-01: A prepared brief, executor completion, owner viewing and director approval remain distinct states.",
+      "validation_status": "not_independently_revalidated_in_this_turn",
+      "director_decision": "Preventive requirement adopted; media/code repair acceptance remains separate.",
+      "severity": "major",
+      "evidence": {
+        "source": "Astra audit and/or channel/lessons.md; executor progress pasted 2026-10-08",
+        "independent_recheck_performed_this_turn": false
+      }
+    },
+    {
+      "issue_id": "LP-L013",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "P03 / C41 paid-request preflight",
+      "observed": "The executor reported an unresolved building-date claim during preflight, then generated the approved takes anyway. Current C41 already dated Eumachia's life; the building-date link needed to be explicit.",
+      "evidence": {
+        "source": "handoff/claude_to_director_2026-10-08.json D4 and temporal_amendment; director read current C41 and both linked sources",
+        "report_sha256": "bfe7e677b0f1468d65751f3ae7a59b8ce2edb1502faf7bb012c7a950e6afa554"
+      },
+      "root_cause": "Financial authorization was treated as sufficient despite an unresolved factual precondition; the exact support gap was also summarized too broadly.",
+      "root_cause_confidence": "high_for_reported_sequence",
+      "repair_status": "director_made_building_date_support_and_scholarly_uncertainty_explicit_in_C41_without_new_generation",
+      "prevention": "Block each affected paid request on unresolved factual preconditions even inside an approved batch. Resolve and record exact script/claim versions before submission.",
+      "regression_case": "FACT-02: Approved budget plus unresolved changed date must not permit that request. Unaffected approved requests may proceed only within the original batch scope.",
+      "validation_status": "sources_read_and_claim_amended; new automated preflight control not implemented or tested in this turn",
+      "director_decision": "Retain broad early-first-century AD wording using Park chronology; exact construction year remains disputed. Adopt request-level factual hold immediately as a workflow requirement.",
+      "severity": "major_process_failure"
+    },
+    {
+      "issue_id": "LP-L014",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "P07_A recognition evidence and executor summary",
+      "observed": "splice_word_check.json transcribes an extra final sentence for P07_A although the executor summary says all differences are spelling or digits. P07_B has no corresponding extra sentence in its transcript.",
+      "evidence": {
+        "source": "episodes/002-pompeii-life/build/director_review/temporal_retakes/listening/splice_word_check.json",
+        "modality": "director read recorded recognition text; no direct listening",
+        "audible_defect_confirmed": false
+      },
+      "root_cause": "The report flattened a meaningful evidence discrepancy into a blanket clean result. Whether the recognizer hallucinated or the audio contains extra words is unknown.",
+      "root_cause_confidence": "high_for_report_mismatch; unknown_for_audio",
+      "repair_status": "P07_B_selected_for_candidate_assembly; P07_A_preserved",
+      "prevention": "Summaries must retain inserted/omitted clauses, dates, names and negations. Separate normalizations from semantic anomalies and retain uncertainty.",
+      "regression_case": "REPORT-01: A transcript containing an added sentence cannot yield an all-spelling-differences report.",
+      "validation_status": "report mismatch confirmed from stored evidence; audio and future reporting guard unverified",
+      "director_decision": "Use P07_B for assembly, without declaring P07_A audibly wrong or the selected take heard.",
+      "severity": "major_reporting_failure"
+    },
+    {
+      "issue_id": "LP-L015",
+      "episode_id": "both",
+      "scene_or_component": "Generation quotes and actual costs",
+      "observed": "The 18-take voice batch cost 358 credits against a 2,986 ceiling. A separate unapproved image proposal miscalculated four two-credit edits plus one retry each as about twelve credits instead of sixteen.",
+      "evidence": {
+        "source": "temporal_retakes/receipts.json, balance_before.json, balance_after.json and executor proposed_paid_fixes",
+        "voice_approved_ceiling": 2986,
+        "voice_actual_credits": 358,
+        "requests": 18,
+        "additional_spend_authorized": 0
+      },
+      "root_cause": "Upper bounds, observed billing and future-price estimates were conflated; retries were not itemized arithmetically.",
+      "root_cause_confidence": "high",
+      "repair_status": "director_recorded_ceiling_actual_and_remaining_authorization_separately; no_image_quote_submitted",
+      "prevention": "Itemize request count, per-request estimate, retry allowance, maximum and actual receipts. Reconcile account changes where available. Never generalize one observed discount into a guaranteed rate.",
+      "regression_case": "COST-01: 4 initial requests plus 4 optional retries at 2 credits equals 16; unused budget does not authorize extra requests.",
+      "validation_status": "arithmetic and supplied receipts reconciled; future estimate control not implemented or tested",
+      "director_decision": "No further paid work. Prefer the bounded free repair instructions in the new handoff.",
+      "severity": "moderate"
+    },
+    {
+      "issue_id": "LP-L016",
+      "related_issue_id": "LP-L006",
+      "observed": "Eleven failed local paint-outs reached accepted images before inspection; the executor restored them from backups before rendering.",
+      "root_cause": "Generation fetch/accept protection did not cover direct writes by local repair scripts.",
+      "director_decision": "Extend mandatory candidate staging to every local edit path. Candidate creation must leave accepted source hashes unchanged; inspect, then install only the checked candidate hash with a backup.",
+      "regression_case": "STAGE-02: rejected local crop or paint-out cannot change accepted image bytes.",
+      "implementation_status": "workflow requirement adopted; universal code enforcement pending",
+      "validation_status": "Closeout 004 reports staging before installation for R01/R02; Astra verified installed file hashes and sampled the changed rendered frames. No independent replay of the staging sequence or universal enforcement test.",
+      "severity": "major",
+      "episode_id": "both",
+      "root_cause_confidence": "high_for_documented_sequence",
+      "evidence": {
+        "source": "handoff/claude_to_director_2026-10-08_followup.json",
+        "report_sha256": "fa1fe9266f74d4f7791c765d15775af286e761cf2a26824bf0d7c0c00e303989"
+      },
+      "prevention": "Extend mandatory candidate staging to every local edit path. Candidate creation must leave accepted source hashes unchanged; inspect, then install only the checked candidate hash with a backup.",
+      "repair_status": "workflow requirement adopted; universal code enforcement pending"
+    },
+    {
+      "issue_id": "LP-L017",
+      "observed": "The director-prescribed S061 crop left distant arches visible after correct implementation.",
+      "root_cause": "Astra did not verify the entire proposed crop against the intended architectural exclusion before issuing the coordinates.",
+      "director_decision": "Astra accepts responsibility for the incomplete specification. A tighter crop was visually previewed and issued in the new handoff; the installed result remains to be checked.",
+      "regression_case": "CROP-02: a crop is accepted only when the target feature is outside every displayed frame and the remaining subject still explains the line.",
+      "implementation_status": "new crop directed, not installed by Astra",
+      "validation_status": "Astra inspected closeout 004 start/end rendered samples for S060/S061: distant arches excluded, banker and tablet preserved. Exact candidate/report hashes verified. Focused sampling, not continuous playback.",
+      "severity": "moderate",
+      "episode_id": "002-pompeii-life",
+      "root_cause_confidence": "high_for_documented_sequence",
+      "evidence": {
+        "source": "handoff/claude_to_director_2026-10-08_followup.json",
+        "report_sha256": "fa1fe9266f74d4f7791c765d15775af286e761cf2a26824bf0d7c0c00e303989"
+      },
+      "prevention": "Astra accepts responsibility for the incomplete specification. Preview the proposed crop against its named exclusion and retained content; the tighter crop was installed and its closeout start/end samples accepted in amendment 005.",
+      "repair_status": "installed by Claude and accepted by Astra for the directed visual repair in 002_candidate_c3_closeout"
+    },
+    {
+      "issue_id": "LP-L018",
+      "related_issue_id": "LP-L012",
+      "observed": "London package.md still used 'between' and a chapter placeholder after the 'next to' repair. The scheduled description also describes sharing a mattress. The channel About cadence was checked and found to be an intentional conservative policy, not this defect.",
+      "root_cause": "Publication copy did not share the repaired script's update boundary.",
+      "director_decision": "Correct the local London package and prepare a version-bound upload packet. Recheck the live description at publication rather than assuming an older local document matches it. Preserve the deliberate About cadence policy.",
+      "regression_case": "PUB-02: source narration or schedule change invalidates affected captions, chapter timestamps, descriptions and About promises; upload packet contains no placeholders.",
+      "implementation_status": "local package corrected; replacement upload copy prepared, not published",
+      "validation_status": "live Studio read-only inspection and local text comparison",
+      "severity": "moderate",
+      "episode_id": "both",
+      "root_cause_confidence": "high_for_documented_sequence",
+      "evidence": {
+        "source": "handoff/claude_to_director_2026-10-08_followup.json",
+        "report_sha256": "fa1fe9266f74d4f7791c765d15775af286e761cf2a26824bf0d7c0c00e303989"
+      },
+      "prevention": "Bind publication copy to the selected script and output hashes. Check the source of an apparent policy conflict before recording it as an error.",
+      "repair_status": "local package corrected; replacement upload copy prepared, not published"
+    },
+    {
+      "issue_id": "LP-L019",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "Director thumbnail brief A_v2",
+      "severity": "moderate",
+      "observed": "Astra named bg_crapper.png despite the existing lesson about its painted WAE! letters and specified a roughly one-third-height head, smaller than current A. The executor followed the brief and returned the conflict; the alternative was not installed or published.",
+      "root_cause": "The director did not connect the exact source to its prior rejection or measure the current composition before prescribing an improvement.",
+      "root_cause_confidence": "high_for_documented_brief_and_visible_comparison",
+      "responsibility": "director_specification",
+      "repair_status": "A_v2 rejected; revised A_v3 composition selected after phone-size comparison; final localized edge cleanup pending under amendment 006",
+      "prevention": "Inspect and hash each exact source before a brief, retrieve relevant rejection history, measure baseline and candidate hair-to-chin height in the output, and compare at actual phone sizes. Flag source/spec conflicts before production. Resolve paths from the project root before reporting an asset missing.",
+      "regression_case": "THUMB-01: a background with a recorded fake-lettering rejection cannot silently become a clean-background input; a larger-face brief must produce a head larger than the measured baseline, with no clipping or type collision.",
+      "validation_status": "Revised A_v3 has the selected readable layout and larger head; one successful design correction, with a remaining edge finish. Audience performance and long-term recurrence reduction remain unproven.",
+      "director_decision": "Retain London D, reject Pompeii A_v2, build A_v3 from S084 and B_v2 from existing wine art without spending or video changes.",
+      "evidence": {
+        "source": "handoff/claude_to_director_closeout_004.json",
+        "report_sha256": "5415c6cc4e026f41eff962dbf9db1b0bebafa3ceccb080e999745674ad5b2986",
+        "comparison": "episodes/002-pompeii-life/build/director_review/closeout_004/thumb_A_comparison.png",
+        "comparison_sha256": "c41ebba80c656a342b39cee8a5eae4d0c7699f01773ad6622b237bdf9dacb6ac"
+      }
+    },
+    {
+      "issue_id": "LP-L020",
+      "episode_id": "002-pompeii-life",
+      "scene_or_component": "A_v3 thumbnail pose edge",
+      "severity": "minor",
+      "observed": "A thin green hair-silhouette fringe remains visible in the A_v3 master and faintly in the JPEG, despite the manifest saying no green fringe was seen and key removal was not applicable to a transparent pose.",
+      "root_cause": "The executor traced residual green, teal, grey and olive edge colors to the approved worried pose. Its transparency had been treated as evidence that cleanup was unnecessary, and the first G > max(R,B) cleanup missed the despill rings.",
+      "root_cause_confidence": "high_for_visible_defect_and_supplied_source_analysis",
+      "repair_status": "Closed for the selected thumbnail: corrected A_v3 accepted and installed by Astra under decision 007. Original library pose and visibility in other outputs remain separately flagged, not changed or approved by this repair.",
+      "prevention": "Inspect the composited silhouette at final export size against light and dark regions. Alpha presence is not a clean-edge check. Preserve original pose bytes and apply any correction only to the derived narrow boundary region.",
+      "regression_case": "THUMB-02: approved RGBA pose with contaminated edge colors must be flagged when a thumbnail shows a green halo; cleanup must retain hair tips, contour and interior colors.",
+      "validation_status": "Astra inspected the corrected master, JPEG, edge comparison and 160-pixel preview. Independent checks confirmed identical pose alpha, 28,497 recolored pixels with none deeper than the 10-pixel source boundary band, and zero green-dominant pixels in the previously flagged master region. This validates one correction, not a general detector.",
+      "director_decision": "Accept and install the corrected A_v3; thumbnail task closed. Preserve the original library, retain the reviewed derivative by hash, and inspect relevant poses during future episode preflight. Do not run a whole-library scan or rerender the current episodes now.",
+      "accepted_derivative": {
+        "path": "episodes/002-pompeii-life/build/director_review/thumbnails_006/pose_closeup-worried_edgeclean.png",
+        "sha256": "3e9c8e2910e45d913d094399856c6ec2bcbce8feacb41a9b42266baf21dcc8d6",
+        "scope": "Accepted for this thumbnail; future briefs may explicitly reuse it with a new placement check. No global library replacement."
+      },
+      "finish_evidence": {
+        "report": "handoff/claude_to_director_thumbnail_finish_006.json",
+        "report_sha256": "ea53a71adcf5d75e3c09d6a9d2c0799c9ed627ac250963be9104ffb1a14c9a7d",
+        "accepted_upload_sha256": "548adc6726e527dc8143b58f66c6eff9ff7b168065d804ad4510d6bea6699cbc",
+        "decision": "handoff/director_thumbnail_acceptance_2026-10-09_007.json"
+      },
+      "evidence": {
+        "report": "handoff/claude_to_director_thumbnails_005.json",
+        "report_sha256": "fbec01721e7f7b0c83a083dd6eb2e52878079395734b90602267ba06ebefb186",
+        "master_sha256": "06ac251e3249bcc3dd8aa3442956f898c1d35d223a814f28b0bbf5e56e58d08d",
+        "decision": "handoff/director_thumbnail_selection_2026-10-09_006.json"
+      }
+    },
+    {
+      "issue_id": "LP-L024",
+      "recorded_on": "2026-10-09",
+      "episode_id": "003-egyptian-workers",
+      "category": "source_label_recurrence",
+      "observed_defect": "Two source-note labels and one card footer carried modern publication years.",
+      "root_cause": "Known caption lesson not applied to all director-authored representations.",
+      "prevention": "Audit script notes, scene evidence and graphics together; label ancient date or unknown reign.",
+      "correction": "Corrected before media; see research/director_script_review.json.",
+      "status": "corrected_in_preproduction; rendered readability pending",
+      "observed_paid_rework": 0,
+      "control_effectiveness": "Caught before generated assets; broader recurrence rate not established."
+    },
+    {
+      "issue_id": "LP-L025",
+      "recorded_on": "2026-10-09",
+      "episode_id": "003-egyptian-workers",
+      "category": "visual_scope",
+      "observed_defect": "Owner rejected the sparse 25-background production plan as inconsistent with premium visual variety.",
+      "root_cause": "Overcorrecting for past paid rework by minimizing planned artwork and overusing graphics/repeated frames.",
+      "correction": "Version 4 provides 90 exact story illustrations, 15 local graphics and six overlays; narration unchanged.",
+      "prevention": "Derive visual scope from story, duration and production quality; do not inherit repair-budget limits or add requests merely to hit a spend.",
+      "validation_status": "Structured plan and native checks verified; visual outcome unproduced."
+    },
+    {
+      "issue_id": "LP-L026",
+      "recorded_on": "2026-10-09",
+      "episode_id": "003-egyptian-workers",
+      "category": "image_inspection",
+      "observed_defect": "S022 accepted with mixed camera heights (eye-level left half, overhead village right half), an undersized door next to the walking man, and inconsistent ground levels; the owner caught it after acceptance.",
+      "root_cause": "Edit of an overhead parent asked for an eye-level action; the executor's inspection checked people count, props, lettering and style but had no explicit perspective/scale/ground check.",
+      "correction": "Paid repair 10 of 10 submitted (job 62d0eb51-584b-440d-a34b-9025c5c0e66a) as an edit of the accepted eye-level lane image S004; re-check of all accepted images for the same fault class.",
+      "prevention": "Written per-image check before acceptance: one camera height and horizon; one believable ground; doors taller than adjacent people and depth-consistent sizes; nothing floating or cut off. Use an eye-level parent for eye-level edits.",
+      "validation_status": "Correction ordered; prevention unproven until the remaining images pass it."
+    },
+    {
+      "issue_id": "LP-L027",
+      "recorded_on": "2026-10-09",
+      "episode_id": "003-egyptian-workers",
+      "category": "image_prompting",
+      "observed_defect": "Reserved composite/card space returned as flat pale panels (S006, S064, S070, S071) or pure white (S023, right 27%); 'no furniture' in the S017 prompt removed the room's built-in bench seen in S014.",
+      "root_cause": "Space-reservation wording is read as 'leave this area empty'; a blanket exclusion overrode the parent's fixed architecture.",
+      "correction": "Free local fixes (fill from measured wall texture, or from the identical parent geometry); fully-drawn guard sentence added to all 62 remaining prompts (plan revision for Astra review).",
+      "prevention": "State that reserved space is drawn scene; never exclude categories that include a parent's built-in features; inspect empty areas and compare with the parent.",
+      "validation_status": "Guard in batch 3 onward; effect unmeasured."
+    },
+    {
+      "issue_id": "LP-L028",
+      "recorded_on": "2026-10-09",
+      "episode_id": "003-egyptian-workers",
+      "category": "composite_scale",
+      "observed_defect": "Default 0.60 Visitor size left him standing on a wall at about 5x the residents in the overhead S086, made the S102 chapel read as a model, and 1.2-1.5x too tall in S004, S005, S066; owner flagged S086 and chose the smaller S102.",
+      "root_cause": "Pose size taken from the script default without measuring against the people and doorways drawn in each background; overhead backgrounds accepted for eye-level composites.",
+      "correction": "S086 repaired to an eye-level view from S004; sizes changed for S102 (owner-chosen 0.30), S086, S004, S005, S066; logged in build/visitor_placement_changes.json for Astra.",
+      "prevention": "Per-composite scale check (same height as a local at the same depth, shorter than doorways, nearer = larger, feet on open ground); no eye-level pose on overhead views.",
+      "validation_status": "Applied to 28 posed composites; 21 pending."
+    }
+  ],
+  "director_followup_learning": {
+    "date": "2026-10-08",
+    "source_report": "handoff/claude_to_director_2026-10-08_followup.json",
+    "report_sha256": "fa1fe9266f74d4f7791c765d15775af286e761cf2a26824bf0d7c0c00e303989",
+    "owner_exception": {
+      "episode_id": "001-medieval-london-day",
+      "duration": "9:24",
+      "accepted": true,
+      "source": "Owner direct message in Astra chat, 2026-10-08",
+      "apply_to_other_episodes": false
+    },
+    "closed_non_defects": [
+      {
+        "item": "001 S026 river absent",
+        "reason": "The line locates Southwark across the river; it does not require the river to be visible in the bathhouse shot."
+      },
+      {
+        "item": "001 S041 loose sheet on counter",
+        "reason": "A small illegible loose document is not itself a modern framed/printed notice. The image does not establish a contradictory material or specific false wording."
+      }
+    ],
+    "audio_heuristic_disposition": {
+      "related_issue_id": "LP-L011",
+      "candidate_sha256": "a4d2768839de59fd0f6197e8da9d4d13bafb6942599f5712c68a951f59d26687",
+      "scenes": [
+        "S036",
+        "S076"
+      ],
+      "decision": "Accept the supplied matched-window diagnosis as explanation of the heuristic flags; do not lower effects or narration merely to satisfy the nearby-window comparison. Retain the raw FAIL plus director disposition.",
+      "limitation": "This does not establish direct listening, effect identity or perceptual naturalness. It is not a blanket exemption for future audio versions."
+    },
+    "lesson_ids": [
+      "LP-L016",
+      "LP-L017",
+      "LP-L018"
+    ]
+  },
+  "director_closeout_review": {
+    "date": "2026-10-08",
+    "source_report": "handoff/claude_to_director_closeout_004.json",
+    "decision": "handoff/director_decisions_2026-10-08_closeout_005.json",
+    "accepted_visual_tasks": [
+      "R01",
+      "R02",
+      "R03"
+    ],
+    "review_modality": "Reported asset hashes verified and supplied changed-shot start/end frames inspected; no broad audit, direct listening or continuous playback.",
+    "lesson_ids": [
+      "LP-L016",
+      "LP-L017",
+      "LP-L018",
+      "LP-L019"
+    ],
+    "workflow_evidence": "Two cropped assets were reported staged before installation and retained their source backups. This is limited execution evidence, not proof that every edit path is programmatically guarded.",
+    "publication_copy": "Closeout packets received. Astra corrected the unsupported missing-file statement in the London packet. London Short descriptions still need capture from the live Studio entries before replacement uploads.",
+    "release_approved": false,
+    "direct_listening": "unverified",
+    "additional_spend": 0
+  },
+  "director_thumbnail_review_006": {
+    "date": "2026-10-09",
+    "decision": "handoff/director_thumbnail_selection_2026-10-09_006.json",
+    "selected_composition": "TH-A3 warning",
+    "alternate": "TH-B2 one coin, unselected; lower placement accepted as source-crop accommodation",
+    "artifact_hashes_verified": 7,
+    "viewed": "Both master/upload files and 160/320-pixel comparisons on light and dark surfaces",
+    "file_acceptance": "Subsequently accepted and installed in handoff/director_thumbnail_acceptance_2026-10-09_007.json; edge task closed",
+    "performance_claim": "No CTR or watch-time improvement established",
+    "spend": 0,
+    "audiovisual_release": "Unchanged, unverified"
+  },
+  "baseline": {
+    "episode_id": "002-pompeii-life",
+    "source": "Deduplicated returned job IDs in build/jobs/log.jsonl from the 2026-10-08 audit",
+    "distinct_generated_background_scene_ids": 109,
+    "background_generation_jobs": 228,
+    "scene_ids_with_multiple_jobs": 82,
+    "single_attempt_scene_ids": 27,
+    "recorded_background_credits": 456,
+    "one_attempt_per_scene_credits": 218,
+    "additional_attempt_credits": 238,
+    "first_pass_acceptance": null,
+    "first_pass_acceptance_note": "Unknown without explicit acceptance history. 27/109 is only a single-attempt proxy.",
+    "credits_per_accepted_final_background": null,
+    "credit_metric_note": "Do not label generated or fetched assets approved without acceptance evidence.",
+    "historical_major_or_critical_findings": 78,
+    "historical_scenes_with_those_findings": 61,
+    "current_unresolved_defect_count": null,
+    "current_status_note": "Closeout candidates 001 c4 and 002 c3 closeout delivered. Directed visual repairs accepted within focused frame sampling; direct listening and final audiovisual release remain unverified. Edge-cleaned A_v3 thumbnail accepted and installed, thumbnail task closed; B_v2 retained as unselected alternate. Original worried pose retains a source-edge warning for future use. Owner accepts the 9:24 pilot. Historical baseline faults are not all current defects."
+  },
+  "executor_updates": [
+    {
+      "date": "2026-10-08",
+      "assignment": "LP-20261008-REPORT-DECISIONS-003",
+      "by": "Claude Opus 5.5 (executor)",
+      "note": "Implementation evidence only. Nothing here promotes a control to validated or director-approved.",
+      "entries": [
+        {
+          "issue_id": "LP-L001",
+          "implemented": "Astra's nine passages installed (P01=A,P02=B,P03=A,P04=A,P05=B,P06=A,P07=B,P08=A,P09=A) with retake.py apply; narration +19.68 s",
+          "evidence": "episodes/002-pompeii-life/build/director_review/temporal_retakes/timing_map.json",
+          "validation": "captions audit and final_check on 002_candidate_c2_temporal (see report); no listening"
+        },
+        {
+          "issue_id": "LP-L004",
+          "implemented": "S049 coin and fishhook removed (F05); evidence cards and S051 schematic unchanged",
+          "evidence": "handoff/image_changes_2026-10-08_followup.json",
+          "validation": "executor full-size self-inspection of the changed area only"
+        },
+        {
+          "issue_id": "LP-L005",
+          "implemented": "D2: 'next to' opening kept",
+          "validation": "naturalness not heard by anyone in the pipeline"
+        },
+        {
+          "issue_id": "LP-L009",
+          "implemented": "D3: J2 'go' repair installed as 07_take1_edit_J2.wav (original take kept); samples outside 65.770-65.9295 s of chapter 7 unchanged",
+          "evidence": "episodes/002-pompeii-life/build/director_review/temporal_retakes/d3_f09_log.json",
+          "validation": "not listened; no further recogniser comparisons per director"
+        },
+        {
+          "issue_id": "LP-L013",
+          "implemented": "C41 date support added by the director before installation; P03 installed only after that",
+          "prevention_note": "retake.py plan should refuse to generate while a listed claim conflict is open (proposed, not built)"
+        },
+        {
+          "issue_id": "LP-L014",
+          "acknowledged": "The executor's earlier summary said every splice-check difference was spelling or digits; P07_A's transcript has an extra closing sentence. That summary was wrong. Future summaries list inserted/omitted clauses separately from normalizations."
+        },
+        {
+          "issue_id": "LP-L015",
+          "implemented": "Report itemizes the 18 requests: quote 2,986 ceiling, actual 358 by receipts and balance (7,508 -> 7,866)"
+        }
+      ],
+      "free_repairs_not_achieved": [
+        {
+          "episode": "001-medieval-london-day",
+          "scene": "S041",
+          "item": "paper on the counter (F04)",
+          "why": "three free fill methods left a visible patch; original kept"
+        },
+        {
+          "episode": "001-medieval-london-day",
+          "scene": "S031",
+          "item": "hanger-like loop (F04)",
+          "why": "the loop's cast shadow left a smudge; original kept"
+        },
+        {
+          "episode": "002-pompeii-life",
+          "scene": "S097",
+          "item": "curved sica paint-over (F08)",
+          "why": "candidate blade broke up next to the guard and had an uneven outline; returned to Astra, original kept",
+          "candidate": "episodes/002-pompeii-life/build/director_review/T08_fixes/S097_candidate.png"
+        },
+        {
+          "episode": "002-pompeii-life",
+          "scene": "S061/S060",
+          "item": "crop [0.28,0.34,0.88,0.94] (F07)",
+          "why": "installed as specified; arcade arches remain visible at the upper right, so the exclusion is incomplete"
+        },
+        {
+          "episode": "001-medieval-london-day",
+          "scene": "S026",
+          "item": "crop [0.38,0.20,1.00,0.82] (F02)",
+          "why": "installed; fortifications excluded, but the river is no longer visible; returned to Astra for judgment"
+        }
+      ],
+      "self_inspection_failures_caught_before_render": [
+        "F04 first method (clone patches) duplicated neighbouring objects (boot sign, scales, jugs, posts) and was saved into images/ before inspection; all eleven restored from backup before any render. Cause: the edit script saved results before the review step. Proposed control: write candidates to a review folder and install only after inspection (as the earlier workflow did).",
+        "F05 first two attempts: duplicated fish bone, then a mask that caught a neighbouring food piece; third attempt installed."
+      ],
+      "closed_non_defects_by_director": [
+        "001 S065 pigs",
+        "001 S048/S075 documents and seal",
+        "002 S043 shadows",
+        "002 S033/S034 proportions",
+        "002 S084/S085 lane width",
+        "002 fountains/water towers/kerb channels and S126 (owner exception)",
+        "001 gatehouses and 002 lime-wash share (lessons for 003)",
+        "002 Thumbnail C (superseded, file kept)"
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "assignment": "LP-20261009-THUMBNAIL-FINISH-006",
+      "by": "Claude Opus 5.5 (executor)",
+      "note": "Implementation evidence only. Nothing here promotes a control to validated or director-approved.",
+      "entries": [
+        {
+          "issue_id": "LP-L020",
+          "colour_origin_traced": "The approved library file channel/assets/visitor/closeup-worried.png carries the colour: about 3 px of unremoved green-screen colour in its soft edge (alpha 1-81), then 1 px teal with G = B (a despill that capped G at B), 1 px grey and about 1 px olive, before the brown outline (R-G median 34) that runs 6-20 px deep.",
+          "executor_misses": [
+            "The 005 full-size inspection recorded 'no green fringe seen'; it was there.",
+            "Cleanup trial 1 (G > max(R,B)) removed the pure green but missed the despill rings; kept in thumbnails_006/trial1_rule_G_over_RB."
+          ],
+          "correction": "Private derived pose: within 10 px of transparency, pixels with R-G < 22 recoloured from the nearest inward opaque outline pixel; alpha untouched. A3 recomposed with identical geometry.",
+          "measured_result": "Master region 1320,140-1530,205: 347 -> 0 green-dominant pixels; upload JPEG same region: 49 -> 0; whole figure edge: 2,366 -> 0; nothing outside the figure changed.",
+          "proposed_check": "Measure edge hue against the outline per 1 px ring from transparency before compositing a pose; one thumbnail's evidence, not a validated control.",
+          "evidence": [
+            "handoff/claude_to_director_thumbnail_finish_006.json",
+            "episodes/002-pompeii-life/build/director_review/thumbnails_006/thumbnail_manifest.json"
+          ],
+          "open": "Other uses of this pose and the other library poses are unmeasured (outside scope; returned to Astra)."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "assignment": "LP-20261009-EP003-001 version 4 (with the owner packaging update)",
+      "by": "Claude Opus 5.5 (executor)",
+      "note": "Implementation evidence only. Nothing here promotes a control to validated or director-approved.",
+      "entries": [
+        {
+          "issue_id": "LP-L022",
+          "evidence": "Config text_rule and suffix replaced as directed (backup handoff/backups/ep003-v4-config/). lp.py jobs --prompts exports the director's exact prompts and reference roles; 15/15 anchor payloads audited word for word.",
+          "status": "implemented; effect on images unmeasured until the pilot"
+        },
+        {
+          "issue_id": "LP-L020",
+          "evidence": "All 7 episode-003 poses carry the library edge colour (1,334-1,402 green-dominant outer-edge pixels per standing Visitor at 1080p on parchment). Generalised private cleaning: 0 after, alpha unchanged, hair/shoes/jeans inspected at 3-4x. First rule (reference 6-12 px deep) skipped most spill; corrected to 8-14 px plus always-spill for green-dominant pixels.",
+          "status": "staged copies only; render uses library poses unless Astra adopts a pose hook"
+        },
+        {
+          "issue_id": "owner_feedback_icons",
+          "evidence": "Owner said some icons were not understandable and the WORK icon looked clunky. Icons redrawn as recognisable objects and ambiguous ones labelled; owner accepted the direction. Check added to channel/lessons.md.",
+          "status": "corrected in staged graphics; not yet proven on a finished video"
+        },
+        {
+          "issue_id": "LP-L024",
+          "evidence": "Rendered graphic text inspected at actual size; ancient dates kept separate; thumbnail chips avoid assigning the sick-pay evidence or the later crisis to c. 1240 BC.",
+          "status": "checked on staged graphics"
+        },
+        {
+          "issue_id": "LP-L016",
+          "evidence": "All local work staged in build/director_review/visuals_v4 with a hashed manifest; nothing installed into images/ or overlays/.",
+          "status": "followed"
+        }
+      ],
+      "report": {
+        "path": "handoff/claude_to_director_episode_003_2026-10-09.json",
+        "sha256": "49e4e13ebf7deb9ee65ed94c5795625271d1a622e0cd1732c6a4b7cc58fe904b"
+      }
+    }
+  ],
+  "public_copy_owner_decision": {
+    "date": "2026-10-09",
+    "instruction": "Omit optional AI/tool-production statements from descriptions and other public copy.",
+    "rule": "Omit optional AI/tool-production statements from public descriptions, channel copy and upload templates per the owner's 9 October request. Preserve source references and required credits, keep internal AI provenance accurate, and do not claim human-only or handmade production. Mandatory platform disclosure is assessed separately.",
+    "evidence": "handoff/public_copy_update_2026-10-09.json"
+  }
+}

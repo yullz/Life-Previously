@@ -1,0 +1,1315 @@
+{
+  "id": "12",
+  "slug": "wartime-rations",
+  "title": "Could You Feed a Family on Britain’s Wartime Rations?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "Your Ration Book Is Not Your Dinner",
+    "What Did a Family Actually Eat in Wartime Britain?"
+  ],
+  "period": "London,July1944. An explicitly illustrative civilian household: two adult parents and two school-age children,not an identified diary family. Ordinary modest brick terrace,kitchen with range or plain gas cooker,wooden worktable,enamel saucepan,ceramic pie dish,sash window,blackout curtain gathered in daytime. Four consistent family members: mother dark bob and muted olive blouse/brown skirt; father short brown hair,slate cardigan/trousers; older daughter14 in brick cardigan; son8 in ochre pullover. Children have age-appropriate proportions,not miniature adults. Shops use wooden counters,balances,plain paper parcels,glass jars and modest queues. No assumption every adult is an industrial worker or qualifies for special cheese. Exact ration examples are ordinary cheese allowance2oz/week in summer1944. Separate clearly labelled comparisons: child ration-book instructions1940; announced restoration15October1944; bread rationing July1946. Do not mix these dates into one shopping trip. Visitor remains normal modern guide,composited separately.",
+  "avoid": "No 1946bread coupons in1944,no uniform fixed wartime ration table,no tiny pile presented as family's entire food,no free groceries paid only by coupons,no coupons cut out by customer,no all-family adult milk allowances,no rationing all vegetables/fish,no guaranteed fresh-stock abundance,no refrigerators/microwaves/plastic packs/barcodes/modern tills,no bright festive1944London,no military uniform for ordinary shopping,no cream-rich modern Woolton pie,no potatoes-only claim,no unverified exact calorie or complete nutrition menu,no cheerful claim everyone benefited equally.",
+  "locations": {
+    "kitchen": {
+      "scope": "London,July1944; illustrative family kitchen",
+      "frame": "reconstructed household,not a documented family",
+      "design": "Modest kitchen with plain gas cooker at rear left,wooden table left foreground,window rear centre with gathered blackout curtain,small dresser; four household members as period bible,unobstructed right floor for Visitor. White ceramic pie dish,enamel pot,wooden board and simple grater stay consistent."
+    },
+    "grocer": {
+      "scope": "London,July1944; illustrative shopping",
+      "frame": "reconstruction based on rationing records",
+      "design": "Small shop with wooden counter left,mechanical balance at rear,plain cheese block under cover,glass jars and unlabelled tins on shelves; few customers,not supermarket aisles. Same female grocer in brown apron."
+    },
+    "greengrocer": {
+      "scope": "London,July1944; illustrative availability problem",
+      "frame": "reconstruction,not actual recorded transaction",
+      "design": "Neighbourhood vegetable shop with modest crates of potatoes,carrots,cauliflower and cabbage; tomato crate sparse or empty only when directed. No overflowing exotic fruit or abundance wall."
+    },
+    "street": {
+      "scope": "London,July1944",
+      "frame": "illustrative ordinary civilian street under wartime conditions",
+      "design": "Modest brick shopfronts and terraced houses,plain paper notices left blank,modest queue,subdued summer light; no landmark spectacle or reenacted bomb strike."
+    },
+    "bakery": {
+      "scope": "London,July1944",
+      "frame": "illustrative unrationed staple purchase",
+      "design": "Small wooden bakery counter with modest brownish loaves and plain wrapping paper; customer pays coins,not bread coupons; no modern sliced plastic packs."
+    },
+    "canteen": {
+      "scope": "Britain,wartime communal meals; contextual comparison",
+      "frame": "illustrative British Restaurant,not a named London venue",
+      "design": "Simple public dining room with communal wooden tables,ceramic plates,trays and plain serving hatch; patrons pay a modest charge without coupons,no luxury waiter service."
+    },
+    "school": {
+      "scope": "Britain,wartime school meals; contextual comparison",
+      "frame": "illustrative service,not proof this family always used it",
+      "design": "Plain school dining room with adult server and children of varied ages at wooden tables,ordinary cooked meals; no branded cartons or modern cafeteria equipment."
+    },
+    "allotment": {
+      "scope": "Britain,wartime food production; contextual comparison",
+      "frame": "illustrative growing space,not assigned to every household",
+      "design": "Modest vegetable plot with potatoes,cabbage and carrots,hand tools,ordinary adult gardener; no automatic giant harvest or instant crop growth."
+    },
+    "recipe": {
+      "scope": "1941 Woolton pie recipe as reproduced by Chertsey Museum",
+      "frame": "recipe demonstration,not a complete family menu",
+      "design": "Same kitchen worktable and equipment as household but closer object views; cooked diced potato,cauliflower,swede and carrot filling,small spring onion amount,vegetable extract/oatmeal; modest wheatmeal pastry lid,no meat/cream/cheese in pie. Human hands ordinary and complete.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "editorial": {
+      "scope": "Modern source graphic",
+      "frame": "dated evidence or explanatory arithmetic",
+      "design": "Readable parchment cards with short locally set labels and authentic source references; illustrations of coins/book/food clearly separated. No counterfeit facsimile or machine-generated writing."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "The National Archives,child ration book1940,BT131/40:instructions",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-part-two/ration-book/",
+      "read": "2026-10-09: complete transcribed book instructions and retailer registration page read.",
+      "limit": "Use the primary1940 instructions with date visible,not the modern intro's undated16-coupon summary as a1944allowance. It is a child's sample book,not an adult1944cover. No source-image reuse assumed.",
+      "public": true
+    },
+    {
+      "id": "SRC02",
+      "title": "Ministry of Food,The Urban Working-Class Household Diet1940to1949,First National Food Survey report,HMSO1951",
+      "url": "https://assets.publishing.service.gov.uk/media/5a7f8e1940f0b62302690313/The_Urban_Working_-_Class_Household_Diet_1940-1949.pdf",
+      "read": "2026-10-09: cover,preface; PDFpp15–17 paragraphs19–30; PDFpp24–25 paragraphs45–49 read,including points,communal meals,priority nutrition,unrationed staple policy and changing supplies.",
+      "limit": "Official retrospective survey,not every household. Bibliographic printedpp8–10 and17–18 correspond to PDF15–17/24–25. No individual family's calories/income inferred; no claim wartime diet was universally healthy.",
+      "public": true
+    },
+    {
+      "id": "SRC03",
+      "title": "Hansard,Ministry of Food debate,9June1944,vol400,cols1662–1663",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1944/jun/09/ministry-of-food",
+      "read": "2026-10-09: minister's surrounding passage on ordinary milk allocation,priority exceptions,cheese2oz and fruit/supply constraints read.",
+      "limit": "Ordinary cheese allowance,not agricultural/special ration. Milk statement excludes priority consumers; no family total calculated from adult rate.",
+      "public": true
+    },
+    {
+      "id": "SRC04",
+      "title": "Ministry of Information,Home Intelligence Weekly Report,18July1944,sections14 and14a",
+      "url": "https://moidigital.ac.uk/reports/home-intelligence-reports/home-intelligence-special-reports-inf-1-292-2-c/idm140465683214048/",
+      "read": "2026-10-09: complete Food and Shopping Difficulties sections read,including broad satisfaction as well as complaints; London/evacuation context also read.",
+      "limit": "Official summaries of reported opinion across regions,not representative polling or every London shop. Label as reported complaints; neither blanket misery nor universal fairness.",
+      "public": true
+    },
+    {
+      "id": "SRC05",
+      "title": "Hansard,Rationed Foods,28September1944,vol403,cols469–470W",
+      "url": "https://api.parliament.uk/historic-hansard/written-answers/1944/sep/28/rationed-foods",
+      "read": "2026-10-09: whole question and answer read.",
+      "limit": "3ozcheese restoration takes effect15October1944; do not put that allowance intoJuly.24points per period retained,not24perweek; exact point budgets omitted from narration.",
+      "public": true
+    },
+    {
+      "id": "SRC06",
+      "title": "Chertsey Museum,Second World War resources,p12:Woolton pie recipe",
+      "url": "https://chertseymuseum.org/domains/chertseymuseum.org.uk/local/media/images/medium/Resources_For_..._The_Second_World_War_final_version.pdf",
+      "read": "2026-10-09: full indexed recipe reproduction read. Live PDF link404; cached text available via web search. Alternate earlier resource p29 corroborates ingredients/method.",
+      "limit": "Museum reproduction of1941recipe,not the original Times scan. Do not claim exact first-publication day. Oatmeal teaspoon/tablespoon differs across reproductions: omit quantity; no generated spoon-size proof. Carrot-cake adjacent recipe has inconsistent egg mention and is not used. Recipe treatment under200derivedwords."
+    },
+    {
+      "id": "SRC07",
+      "title": "Imperial War Museums,1944film Rationing in Britain,COI155,catalogue description",
+      "url": "https://film.iwmcollections.org.uk/record/800",
+      "read": "2026-10-09: full catalogue synopsis and production metadata read; film playback not performed.",
+      "limit": "Only catalogue-supported point:official explanatory film uses a selected family of four and emphasizes rationing's benefits. Do not quote film or claim watched footage. No footage licensed or included."
+    },
+    {
+      "id": "SRC08",
+      "title": "The National Archives,Home Front film sources:using film as evidence",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/home-front-1939-1945-film-sources-2/",
+      "read": "2026-10-09: framing and Rationing in Britain entry read.",
+      "limit": "Context for interpreting government information film aimed at Americans; not proof of every household's experience."
+    },
+    {
+      "id": "SRC09",
+      "title": "Hansard,Bread and Flour Rationing (Government Decision),27June1946",
+      "url": "https://hansard.parliament.uk/Commons/1946-06-27/debates/4e76b33a-d07e-4237-bc1d-511c6bd213ce/BreadAndFlourRationing%28GovernmentDecision%29",
+      "read": "2026-10-09: government announcement of scheme beginning21July1946 read through indexed primary text.",
+      "limit": "Post-war contrast only; no1944bread coupons.",
+      "public": true
+    },
+    {
+      "id": "SRC10",
+      "title": "Royal Horticultural Society,How to grow swedes:identification and names",
+      "url": "https://www.rhs.org.uk/vegetables/swede/grow-your-own",
+      "read": "2026-10-09: Getting Started section read for names,root colour and normal harvest season.",
+      "limit": "Botanical/terminology reference,not evidence ofJuly1944shopstock. Swedes normally harvestedautumn/winter; recipe demonstration must not imply every named vegetable was freshly harvested inJuly."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "claim": "Illustrative family,shopping choices,menu trade-offs and arithmetic explain documented constraints; no actual household diary or complete nutritional trial is claimed.",
+      "type": "F",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC04"
+      ],
+      "locator": "Narrative framing",
+      "limit": "No invented precise prices,calories,week budget or actual family outcome."
+    },
+    {
+      "id": "C1",
+      "claim": "The1940child ration-book instructions require retailer registration,shopkeeper coupon removal and use within intended week; self-cut coupons cannot be used.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Instructions2–6 and9",
+      "limit": "Visible1940source label; not a1944facsimile."
+    },
+    {
+      "id": "C2",
+      "claim": "Rationing restricted purchases but did not replace money; price controls/subsidies accompanied it.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Paragraphs19–20,28 and45",
+      "limit": "No claim all foods cost the same or every household could afford everything."
+    },
+    {
+      "id": "C3",
+      "claim": "Ordinary cheese ration in summer1944was2ozweekly;3ozrestoration announced effective15October.",
+      "type": "E",
+      "sources": [
+        "SRC03",
+        "SRC05"
+      ],
+      "locator": "June9col1663 andSeptember28answer",
+      "limit": "No special-ration eligibility assumed; Julydate explicit."
+    },
+    {
+      "id": "C4",
+      "claim": "Points rationing introducedDecember1941let consumers choose among covered goods within a points entitlement; beforewarendincludedcannedfoods,driedfruits,rice,pulses,etc.",
+      "type": "E",
+      "sources": [
+        "SRC02",
+        "SRC05"
+      ],
+      "locator": "Paragraph45;September28pointsanswer",
+      "limit": "Separate from basic individual rations and money; no invented point price or pointperiodlength."
+    },
+    {
+      "id": "C5",
+      "claim": "Bread,flour,oatmeal and potatoes were staples policy sought to keep unrestricted by retail rationing; fish,fruit and fresh vegetables could be unrationed yet scarce.",
+      "type": "E",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Paragraph47acrossprintedpp17–18",
+      "limit": "Unrationed does not mean free,alwaysavailable or outside all controls."
+    },
+    {
+      "id": "C6",
+      "claim": "July18report records broad food satisfaction together with shortages,small cheese allowance,monotony,queues and obstacles for working shoppers.",
+      "type": "E",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "Sections14and14a,allitems",
+      "limit": "Reported regional opinion,not quantified representative poll or identicalLondonexperience."
+    },
+    {
+      "id": "C7",
+      "claim": "Young children/expectant mothers had priority nutrition measures; school milk/meals and workplace/public meals supplemented household provision.",
+      "type": "E",
+      "sources": [
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Paragraphs23–25;June9milkexceptions",
+      "limit": "No equaladultmilkforall,noautomaticcanteenaccessorfreepublicmealclaim."
+    },
+    {
+      "id": "C8",
+      "claim": "Woolton pie recipe uses cooked diced potatoes,cauliflower,swede,carrots with optional spring onions,vegetable extract and oatmeal,topped with potato or wheatmeal pastry,browned and servedwithgravy.",
+      "type": "E",
+      "sources": [
+        "SRC06"
+      ],
+      "locator": "Wooltonpieingredient/methodbox",
+      "limit": "Recipe example,not universal consumption or complete mealplan. Exactoatmealquantityunresolved/omitted; totalservingsnotassumed."
+    },
+    {
+      "id": "C9",
+      "claim": "Wartimepolicy expandedhomefoodproduction; growingspaceandlabourcannotbeassumedforeveryhousehold.",
+      "type": "E",
+      "sources": [
+        "SRC02",
+        "SRC04"
+      ],
+      "locator": "Paragraph26productionpolicy;shopping/workconstraints14a",
+      "limit": "Firstpartdocumentedpolicy,householdlimitationisexplanatoryinference;noinstantfreeharvest."
+    },
+    {
+      "id": "C10",
+      "claim": "1944officialfilmusesaselectedfamilyoffourtoexplainrationing;suchfilmhasapersuasivepurposeandisnotunmediatedevidenceofeveryfamily.",
+      "type": "E",
+      "sources": [
+        "SRC07",
+        "SRC08"
+      ],
+      "locator": "IWMcataloguedescription;TNAusingfilmas evidence",
+      "limit": "Noplaybackclaim,nofabricatedquote."
+    },
+    {
+      "id": "C11",
+      "claim": "Governmentannouncedbread/flourrationingbeginning21July1946;itwasnotpartoftheJuly1944shoppingday.",
+      "type": "E",
+      "sources": [
+        "SRC09",
+        "SRC02"
+      ],
+      "locator": "1946announcementandparagraph47",
+      "limit": "Postwarcomparisonclearlylabelled."
+    },
+    {
+      "id": "C12",
+      "claim": "Swede is called rutabaga in the US; commonly yellow flesh with purple/cream exterior.",
+      "type": "E",
+      "sources": [
+        "SRC10"
+      ],
+      "locator": "Getting Started identification and naming paragraphs",
+      "limit": "No guarantee of July1944 availability or fresh summer swede harvest."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Four people, one kitchen",
+      "scenes": [
+        [
+          "London, July nineteen forty-four. Four people need dinner, and your ration book cannot tell you what to cook.",
+          "C0",
+          "kitchen",
+          "wide",
+          "Four-person family planning at modest table with closed ration books,basket of vegetables and empty plates; no finished meal.",
+          "look-around",
+          "London,July1944 · illustrative household"
+        ],
+        [
+          "What are you actually going to make for dinner? A coupon is useful, but nobody wants it boiled with potatoes.",
+          "C0",
+          "kitchen",
+          "detail",
+          "Plain closed ration book beside raw potatoes and empty enamel pot; no coupon actually in food.",
+          "eyebrow-raise"
+        ],
+        [
+          "A familiar display of tiny rationed portions can make this look like a challenge in surviving on almost nothing.",
+          "C0",
+          "editorial",
+          "graphic",
+          "Original schematic of small labelled rationed-food group inside larger meal system; no actual photo copied.",
+          null,
+          "Explanation,not a complete allowance display",
+          "RATIONED ITEMS"
+        ],
+        [
+          "But that pile leaves out something crucial: the rationed part of a diet was not the whole diet.",
+          "C5",
+          "editorial",
+          "graphic",
+          "Expand schematic to add staple foods and meals outside home; distinct categories,not exact quantities.",
+          null,
+          "Ministry of Food,1951report,paras23–25,47",
+          "RATIONS + OTHER FOODS + OTHER MEALS"
+        ],
+        [
+          "Bread and potatoes, for example, were not rationed in the same way. That still did not make feeding a family effortless.",
+          "C5,C0",
+          "kitchen",
+          "medium",
+          "Family parent considers bread and potatoes beside small wrapped cheese piece; avoid giant weekly pile.",
+          null
+        ],
+        [
+          "You needed permission to buy certain foods, money to pay, and a shop that had what you wanted.",
+          "C2,C4,C6",
+          "editorial",
+          "graphic",
+          "Three distinct locally drawn icons,one book,one coin group,one stocked shelf.",
+          "closeup-thoughtful",
+          null,
+          "ENTITLEMENT | MONEY | AVAILABILITY"
+        ],
+        [
+          "After that came the cooking. And tomorrow, four people would expect you to solve the whole problem again.",
+          "C0",
+          "kitchen",
+          "medium",
+          "Parent by empty pot,other parent sets four plates; children at table,ordinary expressions.",
+          null
+        ],
+        [
+          "Our family is reconstructed, not taken from a diary. Their decisions follow records from this period.",
+          "C0",
+          "kitchen",
+          "wide",
+          "All four consistent family members in modest kitchen,source label clear; no fabricated family name.",
+          null,
+          "Illustrative family · documented constraints"
+        ],
+        [
+          "Allowances changed. Combining different years could create a dinner nobody was entitled to, so we are fixing our date.",
+          "C3,C11,C0",
+          "editorial",
+          "graphic",
+          "July1944date card separate from crossed-out mixed-year stack; no document imitation.",
+          null,
+          "Date matters",
+          "JULY1944"
+        ],
+        [
+          "The task is dinner, but households had different amounts of money, time and food to work with.",
+          "C0,C6",
+          "kitchen",
+          "reaction",
+          "Visitor observes table planning from right,never handling family food.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Start where the shopping starts: not with a recipe, but with the relationship between your ration book and the shopkeeper.",
+          "C1,C2",
+          "street",
+          "wide",
+          "Mother with shopping bag and closed ration book approaches small grocer,modest daytime queue.",
+          null
+        ],
+        [
+          "Even with the right coupons, there is something else you still have to bring.",
+          "C2,C0",
+          "grocer",
+          "medium",
+          "Grocer behind wooden counter,customer's closed purse and ration book separate in foreground.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The book does not pay",
+      "scenes": [
+        [
+          "Money. Rationing limited what you could buy; it did not turn the groceries into a free weekly delivery.",
+          "C2",
+          "grocer",
+          "detail",
+          "Coins set beside book on counter,groceries still behind grocer; no checkout barcode.",
+          "eyebrow-raise"
+        ],
+        [
+          "Price controls and subsidies helped manage supplies alongside rationing. They did not replace household spending.",
+          "C2",
+          "editorial",
+          "graphic",
+          "Three policy labels with grocery-payment arrow;simple not bureaucracychart.",
+          null,
+          "Ministry of Food,1951report,paras19–20,28",
+          "RATIONING | PRICE CONTROLS | SUBSIDIES"
+        ],
+        [
+          "So our shopper hands over a book and pays for the purchase. The two actions do different jobs.",
+          "C2,C0",
+          "grocer",
+          "medium",
+          "Mother presents open blank book while grocer receives coins in separate clear action,cheese wrapped at left.",
+          null
+        ],
+        [
+          "A surviving child's ration book from nineteen forty explains registration: you chose shops for particular rationed foods.",
+          "C1",
+          "editorial",
+          "graphic",
+          "Locally typeset paraphrase with visible1940childbooksource; no false1944cover.",
+          null,
+          "Child ration book,1940 · TNA BT131/40",
+          "REGISTER WITH RETAILERS"
+        ],
+        [
+          "The shopkeeper removed the appropriate coupons. The instructions specifically warned that coupons you had cut out yourself could not be used.",
+          "C1",
+          "editorial",
+          "graphic",
+          "Simple book-to-shopkeeper diagram,customer's cut-out coupons crossed once; words local.",
+          null,
+          "1940book,instruction6",
+          "SHOPKEEPER REMOVES COUPONS"
+        ],
+        [
+          "These were controlled purchases, not loose tokens to scatter between whoever happened to be shopping.",
+          "C0,C1",
+          "grocer",
+          "detail",
+          "Grocer's hands handle book at counter,customer waits; no hand scissors near child'sface or randomcouponrain.",
+          null
+        ],
+        [
+          "The book also warned that unused weekly coupons could not be saved for later. A missed week was no future feast.",
+          "C1",
+          "editorial",
+          "graphic",
+          "Dated1940instructionparaphrase,oneweekarrowstopsbeforelaterweek.",
+          null,
+          "1940book,instruction9",
+          "UNUSED WEEKLY COUPONS DO NOT ROLL OVER"
+        ],
+        [
+          "That book belongs to nineteen forty. Its instructions show how rules, as well as prices, shaped shopping.",
+          "C1,C0",
+          "grocer",
+          "medium",
+          "Mother receives wrapped purchase and closes book; source card reservedlower15percent.",
+          null
+        ],
+        [
+          "And different foods did not all pass through the same rule. To understand dinner, you have to look beyond that counter.",
+          "C4,C5",
+          "street",
+          "wide",
+          "Mother leaves grocer toward neighbouring bakery and vegetable shop,each clearly distinct.",
+          null
+        ],
+        [
+          "Other purchases might depend on what arrived, what remained, and when you reached the shop.",
+          "C0,C6",
+          "greengrocer",
+          "wide",
+          "Small vegetable crates,customer queue and sparse tomato tray; no entirely emptyshop.",
+          null
+        ],
+        [
+          "That is where the tidy picture of equal little food piles begins to turn into an ordinary, messy shopping day.",
+          "C0,C6",
+          "greengrocer",
+          "medium",
+          "Mother studies available vegetables,another shopper reaches for remaining cabbage with normalanatomy.",
+          null
+        ],
+        [
+          "The book could organize supplies without promising every ingredient in your favourite dinner.",
+          "C2,C5,C6",
+          "greengrocer",
+          "detail",
+          "Potatoes and carrots available,small empty tomato tray obvious butunlabelled.",
+          "closeup-thoughtful"
+        ]
+      ]
+    },
+    {
+      "title": "Unrationed is not unlimited",
+      "scenes": [
+        [
+          "Take bread. Our July nineteen forty-four shopping trip needs no bread coupons. Those belong to a later chapter.",
+          "C5,C11",
+          "bakery",
+          "wide",
+          "Mother buys modest brownish loaf with coins at wooden counter,book stays closed in bag.",
+          null,
+          "London,July1944"
+        ],
+        [
+          "Bread and flour rationing began in July nineteen forty-six, after the war. Moving those coupons backward changes the story.",
+          "C11",
+          "editorial",
+          "graphic",
+          "Clear datedlatercomparison,singlearrowfrom1944to1946.",
+          null,
+          "Hansard,27June1946announcement",
+          "BREAD RATIONING:21JULY1946"
+        ],
+        [
+          "During the war, keeping bread and potatoes available outside ordinary retail rationing was an explicit aim of food policy.",
+          "C5",
+          "bakery",
+          "detail",
+          "A few plain loaves on wooden shelf,small coin purchase foreground; no unlimitedmountain.",
+          null,
+          "Ministry of Food,1951report,para47"
+        ],
+        [
+          "Those staples help explain why a small display of rationed meat and fats cannot represent everything a family ate.",
+          "C5,C0",
+          "kitchen",
+          "wide",
+          "Bread and potatoes added to table beside separate wrapped rationedgroceries,stillplanningnotweeklytotal.",
+          null
+        ],
+        [
+          "But outside rationing does not mean outside reality. A potato still needs growing, moving, selling, paying for and cooking.",
+          "C0,C5",
+          "greengrocer",
+          "detail",
+          "Shopkeeper weighs potatoes in mechanical balance; money visible,vegetables notmagicallyfree.",
+          null
+        ],
+        [
+          "Fish and fruit could be unrationed yet difficult to obtain. Fresh vegetables were not always easy to find either.",
+          "C5",
+          "street",
+          "medium",
+          "Sparse fish display in small separate shop glimpsed alongstreet,modestqueue; no fakepricelettering.",
+          null
+        ],
+        [
+          "A government report that July recorded shortages of fruit and tomatoes, complaints about fish, and high prices for some vegetables.",
+          "C6",
+          "greengrocer",
+          "medium",
+          "Customer sees sparse tomato tray alongside available potatoes; queue continues outside.",
+          "watch-arms-crossed",
+          "Home Intelligence,18July1944,section14"
+        ],
+        [
+          "Not every shop was empty. But a rationing system could not provide a reliable supply of everything.",
+          "C0,C6",
+          "greengrocer",
+          "wide",
+          "Balanced shopview:several useful producecrates,some scarceitems; avoiduniversaldespair.",
+          null
+        ],
+        [
+          "For our dinner, a missing ingredient forces a choice. Change the dish, try another shop, or spend time in another queue.",
+          "C0,C6",
+          "street",
+          "reaction",
+          "Mother pauses between shops with shopping bag,looks toward queue;Visitorrightsmall.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Every option uses something. If the substitute costs less money, it may still cost more time or require another round of cooking.",
+          "C0",
+          "kitchen",
+          "detail",
+          "Simple paper shopping list blank,coins and vegetablebag on table,next to cookingpot.",
+          null
+        ],
+        [
+          "Someone still has to turn available food into meals. Adding up ounces will not do that job.",
+          "C0,C5,C6",
+          "kitchen",
+          "medium",
+          "Parents jointly sort actual purchased vegetables,children place utensils; ordinarylabour.",
+          null
+        ],
+        [
+          "Before we cook, another kind of allowance complicates the shopping choices.",
+          "C4",
+          "grocer",
+          "medium",
+          "Mother returns attention to shelf of plain tinnedgoods and separate pointbooklet at counter.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Choosing where the allowance goes",
+      "scenes": [
+        [
+          "The points system covered a range of foods, including canned goods. It let shoppers choose how to spend a limited points entitlement.",
+          "C4",
+          "grocer",
+          "wide",
+          "Counter display of several plain tins and a separate booklet,grocerexplains with gesture.",
+          null,
+          "Points scheme · Ministry of Food,para45"
+        ],
+        [
+          "That offered flexibility, but not an unlimited second ration. Spending points on one purchase left fewer for another.",
+          "C4,C0",
+          "editorial",
+          "graphic",
+          "Hypotheticalpointbar splitbetween two unpricedtinicons,no actualpointvalue.",
+          null,
+          "Illustrative trade-off,not a1944price list",
+          "ONE ALLOWANCE | DIFFERENT CHOICES"
+        ],
+        [
+          "You still paid money as well. A points price and a cash price answered different questions about the same tin.",
+          "C2,C4",
+          "grocer",
+          "detail",
+          "One unlabelled tin beside coin group and pointbook,visually distinct threethings.",
+          "eyebrow-raise"
+        ],
+        [
+          "For cheese, meanwhile, the ordinary weekly ration in this summer was two ounces. Some special categories received different allowances.",
+          "C3,C7",
+          "editorial",
+          "graphic",
+          "Local calibrated2ozcheeseblockschematic labelledordinaryweeklyration; no familytotal.",
+          null,
+          "Hansard,9June1944,col1663",
+          "ORDINARY CHEESE RATION:2oz/WEEK"
+        ],
+        [
+          "Two ounces is roughly fifty-seven grams. Put some in tonight's dish, and there is less available for tomorrow's sandwich.",
+          "C3,C0",
+          "kitchen",
+          "detail",
+          "Small cheese piece beside adult hand for sensible scale,plain grater nearby;localapproximategramlabel.",
+          null,
+          "2oz≈57g · illustrative allocation"
+        ],
+        [
+          "Later that year, the government announced the ordinary cheese ration would return to three ounces from the fifteenth of October.",
+          "C3",
+          "editorial",
+          "graphic",
+          "Separate laterdate card,do not changeJulykitchenblock.",
+          null,
+          "Hansard,28September1944",
+          "LATER:15OCTOBER → 3oz/WEEK"
+        ],
+        [
+          "You cannot borrow October's cheese for July's dinner. Even this small example needs its date.",
+          "C0,C3",
+          "kitchen",
+          "reaction",
+          "Same originalsmallJulycheesepiece,Visitorobservesfromright withthoughtfulface.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Nor can one adult allowance, multiplied by four, describe a whole family's needs or entitlements.",
+          "C0,C7",
+          "editorial",
+          "graphic",
+          "Adultandchildiconsdifferent,not numericalfamilyrationtable.",
+          null,
+          "Household members could have different provision",
+          "CHECK WHO QUALIFIES"
+        ],
+        [
+          "Children had particular support, including school milk and meals. Young children and expectant mothers were also covered by special nutrition measures.",
+          "C7",
+          "school",
+          "wide",
+          "Periodschoolmealroom,children correctproportions,adult server,milkglassandordinarymeals; noexactquantities.",
+          null,
+          "Policy context,not this family's guaranteed daily use"
+        ],
+        [
+          "Our family is not four interchangeable adults. Ages, routines and meals outside the home affect the kitchen's job.",
+          "C0,C7",
+          "kitchen",
+          "wide",
+          "Four familymembersdistinctages seatedplanning,no identicalportions laidoutasyet.",
+          null
+        ],
+        [
+          "For tonight, suppose we keep the cheese for another meal. That changes the recipe, not the number of people expecting dinner.",
+          "C0",
+          "kitchen",
+          "detail",
+          "Parent wraps small cheese and places in coolcupboard,vegetablesremainonboard; norefrigerator.",
+          null,
+          "Illustrative choice"
+        ],
+        [
+          "A period recipe offers another starting point, provided you can get the vegetables it calls for.",
+          "C8",
+          "recipe",
+          "wide",
+          "White ceramic piedish and dicedrootvegetables on samekitchenwoodtable,nomeat.",
+          "look-around",
+          "A sourced recipe example"
+        ]
+      ]
+    },
+    {
+      "title": "Building a dinner without meat",
+      "scenes": [
+        [
+          "Woolton pie is a useful example. The period recipe reproduced by Chertsey Museum starts with potatoes, cauliflower, swede and carrots.",
+          "C8",
+          "recipe",
+          "overhead",
+          "Four clearlydistinctvegetablesbeforechopping on woodboard;whitepiedishrear,nomeat orcream.",
+          null,
+          "Woolton pie · period recipe reproduced by Chertsey Museum"
+        ],
+        [
+          "Swede is the root vegetable also called rutabaga. Here, it joins the other vegetables in a diced filling.",
+          "C8,C12",
+          "recipe",
+          "detail",
+          "Cut swede,yellowishflesh and purple-creamouterroot,separate carrot,potato,cauliflowerpieces; noidenticalorangecubes.",
+          null
+        ],
+        [
+          "The recipe adds spring onions if possible, vegetable extract and oatmeal. It builds flavour and body without a meat filling.",
+          "C8",
+          "recipe",
+          "detail",
+          "Small springonions beside plain extractpot and smalloatmealbowl; no specific spoonquantityshown.",
+          null
+        ],
+        [
+          "The vegetables are cooked with water before going into the dish. This is not a raw heap hidden beneath pastry.",
+          "C8",
+          "recipe",
+          "medium",
+          "Enamel pot with visibly cooked dicedvegetables and modest liquid; stablegasburnerbelow,cookhandsnatural.",
+          null
+        ],
+        [
+          "After cooling, they go into a pie dish with parsley. A potato or wheatmeal pastry crust covers the top.",
+          "C8",
+          "recipe",
+          "detail",
+          "Cookedfilling in samewhiteovaldish,smallparsleysprinkle,and separate rolledwheatmealpastry lid ready.",
+          null
+        ],
+        [
+          "For our illustration, we are using the wheatmeal pastry version. The finished pie is browned and served with gravy.",
+          "C8,C0",
+          "recipe",
+          "close",
+          "Finished modest brownedwheatmealcrust inwhiteovaldish,smallbrown-gravyjug; no cheese topping.",
+          "closeup-thoughtful"
+        ],
+        [
+          "That does not make the crust free of ingredients, or the meal free of fuel. A recipe still uses household resources.",
+          "C0",
+          "kitchen",
+          "detail",
+          "Plain flourjar,smallfatportion and cookingrange beside finishedpie; no invented quantitiesorstocklabels.",
+          null
+        ],
+        [
+          "For our July family, those vegetables are not guaranteed. This is a recipe demonstration, not proof of that day's shop stock.",
+          "C0,C6,C8,C12",
+          "recipe",
+          "wide",
+          "Recipeingredientsandfinishedpie as demonstration,smallsourcecaption; no wholecityeatingclones.",
+          null,
+          "Recipe example · actual supplies could differ"
+        ],
+        [
+          "It shows one way of changing the centre of dinner. Meat does not have to be the main ingredient in this dish.",
+          "C8,C0",
+          "recipe",
+          "detail",
+          "One portion lifted with vegetablecrosssection,nomeatstreakorcream; piephysicsplausible.",
+          null
+        ],
+        [
+          "But one dinner cannot tell us whether a family managed a whole week. Tomorrow brings another set of decisions.",
+          "C0",
+          "kitchen",
+          "wide",
+          "Four ordinary portionsservedattable,remainingpie incentre; breadpresentifdesired no giantbanquet.",
+          null
+        ],
+        [
+          "The small cheese ration still needs planning. Other meals, purchases and ingredients have not disappeared just because this pie came together.",
+          "C0,C3",
+          "kitchen",
+          "detail",
+          "Closed cheeseparcelinplaincupboard cutawayview,not magicallyrefilled; parentchecksnextmealitems.",
+          null
+        ],
+        [
+          "That is one illustrative dinner, not a complete diet or a balanced week's accounts.",
+          "C0",
+          "kitchen",
+          "medium",
+          "Family begins quietdinner,fourdistinctmembers,Visitorrightsecondary.",
+          "watch-arms-crossed",
+          "One illustrative meal,not a complete diet"
+        ]
+      ]
+    },
+    {
+      "title": "The ingredient you cannot put in a basket",
+      "scenes": [
+        [
+          "Now add the ingredient the recipe does not weigh: time. Someone had to find the food before anyone could cook it.",
+          "C0,C6",
+          "street",
+          "wide",
+          "Mother carrying bag waits inmodestqueue alongsamebrickshopfront; summerdaylight.",
+          null
+        ],
+        [
+          "The government's July report recorded complaints that working people who could not queue missed out on scarce fruit and tomatoes.",
+          "C6",
+          "greengrocer",
+          "wide",
+          "Workerinplaincoat passesqueue while glancingattimeonshopclockblankface; no exactscheduledhour.",
+          null,
+          "Home Intelligence,18July1944,section14a"
+        ],
+        [
+          "It also reported queues for particular items delaying people who wanted something else. The errand could grow without adding any food.",
+          "C6",
+          "greengrocer",
+          "medium",
+          "Two shopperswithdifferentemptybaskets waitatcounter,sparse tomatocrate foreground; no readableinventeddialogue.",
+          null
+        ],
+        [
+          "With an already full day, visiting another shop was not an unlimited option.",
+          "C0,C6",
+          "street",
+          "reaction",
+          "Shopper checks bag and looks downanotherstreet,Visitoratrightcalmthoughtful.",
+          "closeup-thoughtful"
+        ],
+        [
+          "This helps explain why apparently equal allowances did not produce identical experiences. Access depended on more than the number printed in a book.",
+          "C0,C6",
+          "editorial",
+          "graphic",
+          "Equalbookicons leadtodifferenttimeandsupplyicons; no fakepopulationpercentage.",
+          null,
+          "Interpretation from reported shopping difficulties",
+          "SAME RULE ≠ SAME SHOPPING DAY"
+        ],
+        [
+          "The same report mentions complaints about under-the-counter sales and conditional selling. The official system did not remove every source of frustration.",
+          "C6",
+          "grocer",
+          "medium",
+          "Ordinaryshopper sees coveredparcelbehindcounter,ambiguousnotcrimeproof; use reportcaptionrather thanstagedbribe.",
+          null,
+          "Reported complaints,not a claim about this particular shop"
+        ],
+        [
+          "We should not turn that report into proof that everybody was miserable. It also recorded widespread satisfaction with the food situation.",
+          "C6",
+          "editorial",
+          "graphic",
+          "Two balanced reportfindings inlargeprint,notnutritionverdict.",
+          null,
+          "Home Intelligence,18July1944,section14",
+          "SATISFACTION REPORTED | COMPLAINTS ALSO REPORTED"
+        ],
+        [
+          "Some people thought they were well fed in the fifth year of war, even while disliking shortages or monotonous meals.",
+          "C6",
+          "kitchen",
+          "medium",
+          "Family at modestmeal,normal mixedexpressions neitherstarvingnorcelebrating; pieconsistent.",
+          null
+        ],
+        [
+          "Both things can be true. A system can protect supplies and still leave the person making dinner thoroughly tired of the options.",
+          "C0,C2,C6",
+          "kitchen",
+          "reaction",
+          "Parent seatedaftercooking,ordinarytiredface,childreneat; no heroicpatrioticiconography.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The complaints about cheese were especially relevant to people carrying packed meals. A small ration becomes noticeable across several working lunches.",
+          "C6",
+          "kitchen",
+          "detail",
+          "Parent preparesmodestsandwich withsmallcheeseslice,remainingblockreduced; no inventedcalorievalue.",
+          null
+        ],
+        [
+          "There were also complaints about canteen cooking, alongside a sense that people with access to canteens had an advantage.",
+          "C6",
+          "canteen",
+          "wide",
+          "Plain communalmealroom,servinghatch andordinaryplates,peoplepayatfront; no universaldisgustfaces.",
+          null,
+          "Reported views on canteens,July1944"
+        ],
+        [
+          "That takes us beyond our family's table. The food reaching a household was only part of the feeding system.",
+          "C7,C0",
+          "canteen",
+          "medium",
+          "Adult receivesordinarycookedmeal onceramicplate,roomclearlydifferentfromhome.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Dinner was bigger than the kitchen",
+      "scenes": [
+        [
+          "Workplace canteens, school meals and public dining could supplement what people ate at home. Those arrangements changed the calculation.",
+          "C7",
+          "editorial",
+          "graphic",
+          "Home,canteen,schoolicons connectedwithoutquantities orguaranteedaccess.",
+          null,
+          "Ministry of Food,1951report,paras23–25",
+          "HOME + MEALS ELSEWHERE"
+        ],
+        [
+          "British Restaurants offered inexpensive meals as part of wartime communal feeding. Customers still paid for them.",
+          "C7",
+          "canteen",
+          "medium",
+          "Customer payscoins fortray atplainhatch; no coupons handedover,no luxuryrestaurantdress.",
+          null,
+          "Illustrative British Restaurant"
+        ],
+        [
+          "Meals outside the home could also reduce the cooking left for somebody at home. The government recognized that practical benefit.",
+          "C7",
+          "kitchen",
+          "medium",
+          "Smallerlunchsettingfortwo whiletwofamilymembersaway,notchildrenabandoned; parenttidiesfewerplates.",
+          null
+        ],
+        [
+          "But access mattered. A worker with a convenient canteen and someone without one did not necessarily have the same options.",
+          "C0,C7",
+          "street",
+          "wide",
+          "Illustrative adult passesworkplace entrance andmealhallfaraway,notguaranteedlocalroute.",
+          null
+        ],
+        [
+          "School provision likewise belongs in the story of feeding children. It should not be silently folded into four adult ration totals.",
+          "C7,C0",
+          "school",
+          "medium",
+          "Childreceivesmealfromadultserver,agecorrectotherchildrenatbenches; sourcecaptionclear.",
+          null
+        ],
+        [
+          "Growing food could add another source of supplies, and wartime policy pushed for more home production of staple crops and vegetables.",
+          "C9",
+          "allotment",
+          "wide",
+          "Ordinarygardener tendsmoderatepotatoandcabbageplot,toolsandgrowthstagesplausible.",
+          null,
+          "Wartime food-production policy"
+        ],
+        [
+          "Yet a poster cannot give every family land, tools, time and a successful harvest. We cannot assume our household has them.",
+          "C0,C9",
+          "allotment",
+          "detail",
+          "Handsworkingsoilwithsimplefork,mixedyoungplants,notinstantfullgrowncrop.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Advice to be resourceful always lands in a particular home, with particular people and a particular amount of work already waiting.",
+          "C0",
+          "kitchen",
+          "wide",
+          "Ordinarykitchenaftermeal,washingup andnextingredients visible,bothparentshelp.",
+          null
+        ],
+        [
+          "That is the difference between a national food plan and the evening job of turning it into dinner.",
+          "C0,C2",
+          "kitchen",
+          "detail",
+          "Hands washingplainpot inbasin,emptyfourplatesstacked; no modernspraytap.",
+          null
+        ],
+        [
+          "An official film from nineteen forty-four used a selected family of four to explain rationing and its benefits.",
+          "C10",
+          "editorial",
+          "graphic",
+          "Originalcatalogue-basedtitlecard,nofilmframe copied andnohistoricalfootageclaim.",
+          null,
+          "IWM COI155 · catalogue description",
+          "RATIONING IN BRITAIN,1944"
+        ],
+        [
+          "It was a persuasive explanation, not a record of every family's life. The shopping reports help us see the friction behind that message.",
+          "C10,C6",
+          "editorial",
+          "graphic",
+          "Filmmessageandreportedshoppingexperience inbalancedtwocolumns,no fabricatedquote.",
+          null,
+          "IWM catalogue + Home Intelligence",
+          "PUBLIC MESSAGE | REPORTED EXPERIENCE"
+        ],
+        [
+          "Our kitchen needs both perspectives: what the system was meant to accomplish, and what it still asked a household to do.",
+          "C0,C10,C6",
+          "kitchen",
+          "wide",
+          "Returntosamefamilykitchen,books and emptydish ontable,smallcalmVisitorright.",
+          "watch-arms-crossed"
+        ]
+      ]
+    },
+    {
+      "title": "Could you make it work?",
+      "scenes": [
+        [
+          "So, could you feed a family on Britain's wartime rations? First, you would need to stop treating the rations as the entire menu.",
+          "C0,C5,C7",
+          "kitchen",
+          "wide",
+          "Tablegroupsbread,vegetables,smallwrappedrationedfoodandemptymealplates; no exactcompleteweeklyallocation.",
+          "look-around"
+        ],
+        [
+          "The ration book organized access to certain foods. Other foods, money, shopping time and meals elsewhere helped determine what people actually ate.",
+          "C1,C2,C5,C7,C0",
+          "editorial",
+          "graphic",
+          "Fourlargecategories surroundingoneplate,not everymechanismrepeatedtiny.",
+          null,
+          "Synthesis",
+          "BOOK | MONEY | SUPPLIES | WORK"
+        ],
+        [
+          "You would plan across meals, accept substitutions, and learn which rules applied to each person and purchase.",
+          "C0,C4,C7",
+          "kitchen",
+          "medium",
+          "Parentsplannextdaywithbookandavailableingredients,childreninbackgroundquietlytidying.",
+          null
+        ],
+        [
+          "You might make something like our vegetable pie. But making it once would not erase the rest of the week's work.",
+          "C0,C8",
+          "recipe",
+          "close",
+          "Samewhitepie dish withfewremainingvegetablepiecesafterserving,nofullrefill.",
+          null
+        ],
+        [
+          "There is ingenuity in that process, without needing to pretend that scarcity was secretly wonderful or that everybody experienced it equally.",
+          "C0,C6",
+          "kitchen",
+          "reaction",
+          "Parentwipesworktable,ordinarysatisfactionandfatigue nottriumphalglow.",
+          "closeup-thoughtful"
+        ],
+        [
+          "There is also a real difference between being hungry for variety and having no food. Our sources do not reduce everyone to either extreme.",
+          "C0,C6",
+          "editorial",
+          "graphic",
+          "Balancedshortterms,no medicalnutritionjudgement.",
+          null,
+          "Reported satisfaction and complaints",
+          "ENOUGH TO EAT? | ENOUGH VARIETY?"
+        ],
+        [
+          "The July reports let satisfaction sit beside queues, shortages and monotony. That is a more useful picture than a heroic recipe alone.",
+          "C6,C0",
+          "street",
+          "wide",
+          "Ordinaryneighbourhoodshoppingcontinues,smallqueueandcarryingbags,noall-citydestructionorparty.",
+          null,
+          "Home Intelligence,18July1944"
+        ],
+        [
+          "For the people doing the cooking, national policy arrived as very local questions. Is the shop open? Is anything left? Will this stretch?",
+          "C0,C6",
+          "kitchen",
+          "detail",
+          "Cooklooksfromlimitedingredients tofourplates,practicalplanningnotstarvationtable.",
+          null
+        ],
+        [
+          "And once dinner was finished, the dishes still needed washing. Feeding the family was a repeated job, not a single clever substitution.",
+          "C0",
+          "kitchen",
+          "medium",
+          "Bothparentsclearplateswitholderchildhelping,youngchildseated; nohousewife-onlyburdenassumption.",
+          null
+        ],
+        [
+          "Our four people have dinner. It is a modest ending, but it is the task we began with.",
+          "C0",
+          "kitchen",
+          "wide",
+          "Earlierdinnermomentexplicitreturn,allfouratservedmeal,consistentpieandplates.",
+          null,
+          "Returning to our illustrative dinner",
+          null,
+          {
+            "frame": "Explicit return to earlier dinner,not a second meal"
+          }
+        ],
+        [
+          "The ration book helped organize the food. The household still had to organize the day around getting it and making it edible.",
+          "C0,C2,C6",
+          "kitchen",
+          "close",
+          "Closedbookbesideemptypiedish andcleanutensils,sunlightfading,no illegiblecovertext.",
+          null
+        ],
+        [
+          "If you had to repeat that tomorrow, the most valuable ingredient might be one the ration book never promised: a little more time.",
+          "C0",
+          "kitchen",
+          "wide",
+          "Quiettidiedkitchenendframe,plainwarmdaylight andcalmrightarea forendscreen,notnightoutsidewithsunvisible.",
+          null
+        ]
+      ]
+    }
+  ],
+  "research": "Fix the main narrative to London,July1944; no mash-up ration table. The family is invented as an illustrative household and explicitly labelled,not a filmed family or historical diary. Ordinary cheese2oz/week cross-checked againstJune1944Hansard and announcedOctoberrestoration. Never multiply adult milk by four or assume special cheese. Distinguish entitlements,money,retail availability and household labour. Read the whole July18Food/Shopping report so complaints are not cherry-picked over its recorded satisfaction. Officialfilm is discussed via catalogue only,no claim to have viewed it. Wooltonpie is a small source-bounded recipe demonstration; no exact disputed oatmeal spoon quantity,no modern luxury filling,no complete nutrition/weekcostpromise. TNA1940book stays labelled1940; reject undated16couponsand1946breadrationanachronisms. Initial/final reviews pending. Swede season checked againstRHS: recipe sequence is a conditional historical demonstration,not guaranteedJulyfreshstock. No allotment shows freshswedeharvest inJuly.",
+  "description": "A ration book could protect your share of some foods,but it could not cook dinner. In London inJuly1944,follow an illustrative family's choices through the grocer,the queue and the kitchen. We separate rationed foods from scarce unrationed foods,build a period vegetable pie,and compare official promises with contemporary reports of everyday shopping.",
+  "tags": [
+    "wartime rationing",
+    "British food history",
+    "WW2 home front",
+    "ration books",
+    "Woolton pie",
+    "London 1944",
+    "Second World War history",
+    "everyday history",
+    "Life Previously"
+  ],
+  "pinned_comment": "Which would you find hardest:planning the meals,getting the ingredients,or finding time to queue?",
+  "pilot": [
+    "S001",
+    "S012",
+    "S021",
+    "S048",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "FEED FOUR?",
+      "chip": "BRITAIN,1944",
+      "scope": "Illustrative family meal planning,July1944",
+      "pose": "closeup-worried",
+      "background": "Left foreground wooden kitchen table with four plain empty plates,a closed blank ration book,a modest potato/cabbage basket and one small cheese portion in front; this is a planning scene,not an entire week's food display. Same subdued civilian kitchen. Right third clear.",
+      "rationale": "Clear human task and limited ingredients without the misleading tiny-pile-is-all-you-eat claim.",
+      "payoff_scene_ids": [
+        "S001",
+        "S005",
+        "S060"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "COUPONS ≠ DINNER",
+      "chip": "LONDON,1944",
+      "scope": "Illustrative grocer visit",
+      "pose": "eyebrow-raise",
+      "background": "Left-side shop counter with a blank ration book,small coins,and paper-wrapped groceries all separately visible; adult civilian shopkeeper behind. Simple uncluttered composition,no text generated,right third clear.",
+      "rationale": "The unusual promise is discovering the gap between an entitlement and an actual meal.",
+      "payoff_scene_ids": [
+        "S013",
+        "S015",
+        "S021"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "NO MEAT?",
+      "chip": "WOOLTON PIE",
+      "scope": "1941recipe demonstrated in1944kitchen",
+      "pose": "closeup-thoughtful",
+      "background": "Left close-up of a modest browned pastry-lid vegetable pie in white ceramic dish,a single serving removed to show carrot,swede,potato and cauliflower; no meat or cream. Warm kitchen light,plain background,Visitorright.",
+      "rationale": "Recognizable dinner puzzle delivered by the sourced recipe sequence,without claiming all British meals were meatless.",
+      "payoff_scene_ids": [
+        "S049",
+        "S054",
+        "S057"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Rationed does not mean free",
+      "from_scene": "S013",
+      "to_scene": "S020",
+      "hook": "You needed more than coupons at the grocer.",
+      "description": "The difference between entitlement,payment and supply in Britain's wartime food system."
+    },
+    {
+      "title": "Why bread coupons do not belong in1944",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "A common wartime-food mistake mixes up the dates.",
+      "description": "Bread and potatoes were outside ordinary retail rationing in1944; bread rationing came after the war."
+    },
+    {
+      "title": "A pie without the meat",
+      "from_scene": "S049",
+      "to_scene": "S056",
+      "hook": "The filling uses vegetables the recipe names.",
+      "description": "A Wooltonpie demonstration,not a claim that every wartime family ate the same dish."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "Modern Visitor stays visually secondary. No military helmet,uniform or wartime-costume gag; civilian household is the focus.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Use normal identity; keep him out of stove/serving/work areas and never cover the ration-card evidence."
+  },
+  "pronunciations": {
+    "status": "director_selected",
+    "entries": [
+      {
+        "term": "Woolton",
+        "say": "WOOL-tun",
+        "note": "First syllable wool,not wool-tonne."
+      },
+      {
+        "term": "swede",
+        "say": "SWEED",
+        "note": "The root vegetable called rutabaga inNorthAmerica; explain naturally once."
+      }
+    ],
+    "rule": "Narrate ounces as words; local graphics may add approximate grams. No exact monetary price needing invented conversion."
+  },
+  "sound_plan": {
+    "status": "direction_ready_assets_unselected",
+    "music": "Low channel theme; practical household mood,not heroic wartime march.",
+    "mix": "Speechdominates;quietpaper/crockerysounds,no air-raid siren gimmick or loud bombing bed.",
+    "new_assets": [
+      {
+        "id": "paper_book",
+        "description": "Soft paper book handed across wooden counter."
+      },
+      {
+        "id": "pot_simmer",
+        "description": "Quiet covered saucepan simmer,brief not constant."
+      },
+      {
+        "id": "plate_set",
+        "description": "Single gentle ceramic plate on table."
+      }
+    ],
+    "acquisition": "Inspect suitablelicensedlocalassets or record simpleoriginalFoley; quoteanypaidneedsundercontract.",
+    "cues": [
+      {
+        "scene_id": "S015",
+        "asset": "paper_book",
+        "timing": "Brief handover gap."
+      },
+      {
+        "scene_id": "S052",
+        "asset": "pot_simmer",
+        "timing": "Low source while pot visible."
+      },
+      {
+        "scene_id": "S058",
+        "asset": "plate_set",
+        "timing": "After final recipe sentence."
+      }
+    ],
+    "intentional_silence": [
+      "S071",
+      "S087"
+    ]
+  },
+  "extra_specs": [
+    "food_and_ration_spec.json"
+  ]
+}

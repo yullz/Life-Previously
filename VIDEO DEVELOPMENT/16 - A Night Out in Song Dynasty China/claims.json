@@ -1,0 +1,367 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "Visitor's evening, food choices, route, reactions and companions are illustrative framing.",
+    "sources": [],
+    "locator": "Original narrative construction",
+    "limit": "No invented diary, price paid, exact timetable or named worker testimony.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S005",
+      "S006",
+      "S011",
+      "S012",
+      "S022",
+      "S029",
+      "S033",
+      "S036",
+      "S040",
+      "S041",
+      "S044",
+      "S046",
+      "S047",
+      "S048",
+      "S050",
+      "S052",
+      "S053",
+      "S054",
+      "S056",
+      "S057",
+      "S059",
+      "S060",
+      "S072",
+      "S078",
+      "S079",
+      "S082",
+      "S083",
+      "S084"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "Kaifeng was the Northern Song capital; Meng's memoir informs urban life around 1120 and was written retrospectively after leaving the city.",
+    "sources": [
+      "SRC01",
+      "SRC06",
+      "SRC07"
+    ],
+    "locator": "Preface; Schaab-Hanke printed193; museum object description",
+    "limit": "Frame around1120, not an exact evening in1147 or Southern Song Hangzhou.",
+    "scene_ids": [
+      "S003",
+      "S004",
+      "S068",
+      "S080"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "E",
+    "claim": "The Zhou Bridge night-market section lists numerous foods and distinguishes summer from winter goods.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "州橋夜市",
+    "limit": "Use mutton and flatbread/noodles from appropriate sections; summer iced liquorice water only as named offering, not universal availability.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S005",
+      "S006",
+      "S007",
+      "S008",
+      "S011",
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S039",
+      "S042",
+      "S079"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Some markets close at the third watch and reopen in the fifth; busy places continue through the night, with late tea sellers serving people returning late.",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "馬行街鋪席",
+    "limit": "No exact midnight/3am guarantee, universal24/7city or freedom from all curfew controls.",
+    "scene_ids": [
+      "S001",
+      "S009",
+      "S010",
+      "S060",
+      "S061",
+      "S062",
+      "S073",
+      "S074",
+      "S075",
+      "S078"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "Meng describes Sichuan-style and southern-food restaurants among multiple kinds of eating establishments.",
+    "sources": [
+      "SRC04",
+      "SRC06"
+    ],
+    "locator": "食店; Schaab-Hanke printed199",
+    "limit": "No modern chili cuisine, identical modern dishes or all customers can afford all restaurants.",
+    "scene_ids": [
+      "S008",
+      "S013",
+      "S014",
+      "S015",
+      "S016",
+      "S020",
+      "S042"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "Servers ask diners for individual orders, including differing hot/cold preferences, then call those orders to the kitchen.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "食店 from 客坐 through 報與局內",
+    "limit": "Do not invent written modern menus, touchscreen, numbered tickets or verbatim spoken orders.",
+    "scene_ids": [
+      "S011",
+      "S012",
+      "S013",
+      "S016",
+      "S022",
+      "S023",
+      "S024",
+      "S025",
+      "S026",
+      "S027",
+      "S032",
+      "S033",
+      "S034",
+      "S063",
+      "S079"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "Meng praises remarkable bowl carrying and correct distribution; he says complaints about mistakes could lead to reprimands, wage penalties or dismissal.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "食店 service paragraph",
+    "limit": "Attribute to writer's account; no actual invented worker dismissal or every employer identical.",
+    "scene_ids": [
+      "S023",
+      "S027",
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S033"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "The Fengle wine-house description mentions five facing buildings, three storeys, connecting bridges/rails and bright lamps/candles.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "酒樓, 白礬樓/豐樂樓",
+    "limit": "Text-based impression, not measured plan; no distilled baijiu or modern wine bottles.",
+    "scene_ids": [
+      "S035",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S040",
+      "S042",
+      "S043"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Beishanzi teahouse has a grotto and bridge in the account, and men/women visit at night to drink tea.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "潘樓東街巷, 北山子茶坊",
+    "limit": "Exact interior invented; no general claim all women could go everywhere freely.",
+    "scene_ids": [
+      "S044",
+      "S045",
+      "S046",
+      "S047"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "Entertainment precincts contain performance sheds alongside food and other trades; the account lists storytelling, puppetry, shadow plays and physical feats.",
+    "sources": [
+      "SRC02",
+      "SRC05"
+    ],
+    "locator": "東角樓街巷; 京瓦伎藝",
+    "limit": "No exact capacity, ticket price, programme order, modern opera or generic circus.",
+    "scene_ids": [
+      "S005",
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S052",
+      "S053",
+      "S054",
+      "S055",
+      "S056",
+      "S057",
+      "S058",
+      "S063",
+      "S079",
+      "S083"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "E",
+    "claim": "Meng describes patrol posts and elevated fire watch with firefighting tools and personnel.",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "防火",
+    "limit": "No invented fire or claim the system prevented all fires; show buckets/ladders not modern engines.",
+    "scene_ids": [
+      "S065",
+      "S066",
+      "S067"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "At dawn, callers use iron plates or wooden fish instruments, markets open and food/tea/other provisions are sold; bread-shop work can be heard early.",
+    "sources": [
+      "SRC03",
+      "SRC04"
+    ],
+    "locator": "天曉諸人入市; 餅店",
+    "limit": "Avoid exact clock times or depicting a modern alarm bell. Use only visually validated instrument, otherwise narration over market image.",
+    "scene_ids": [
+      "S076",
+      "S077",
+      "S078",
+      "S084"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "E",
+    "claim": "Meng explicitly recalls a lost city fondly and acknowledges second-hand reports, omissions and places he did not visit.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Preface final paragraphs",
+    "limit": "Do not claim his praise measures all residents' wellbeing.",
+    "scene_ids": [
+      "S004",
+      "S020",
+      "S021",
+      "S041",
+      "S068",
+      "S069",
+      "S070",
+      "S071",
+      "S080",
+      "S082"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "type": "I",
+    "claim": "The described night economy depends on vendors, cooks, servers and performers continuing to work while customers enjoy themselves.",
+    "sources": [
+      "SRC02",
+      "SRC03",
+      "SRC04",
+      "SRC05"
+    ],
+    "locator": "Synthesis of listed services",
+    "limit": "No invented wages, working hours, class proportions or claim everyone ate out.",
+    "scene_ids": [
+      "S021",
+      "S032",
+      "S034",
+      "S039",
+      "S057",
+      "S058",
+      "S062",
+      "S063",
+      "S064",
+      "S067",
+      "S071",
+      "S075",
+      "S081"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C14",
+    "type": "E",
+    "claim": "Song visual evidence distinguishes everyday garments and statuses and shows ordinary timber shop forms.",
+    "sources": [
+      "SRC07",
+      "SRC08",
+      "SRC09",
+      "SRC10"
+    ],
+    "locator": "Museum text and inspected Song details",
+    "limit": "Visitor keeps modern identity; costume an understated adaptation, not an impersonation of ethnicity.",
+    "scene_ids": [
+      "S080"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

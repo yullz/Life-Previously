@@ -1,0 +1,1572 @@
+{
+  "id": 3,
+  "slug": "ice-in-the-desert",
+  "title": "How Did People Keep Ice in the Desert Before Fridges?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "How Iran Saved Winter Ice for Summer",
+    "The Desert Building That Stored Winter"
+  ],
+  "period": "Meybod, Yazd province, Iran, around 1900: an illustrated reconstruction of traditional ice-house work, not a record of one documented day. An earthen domed ice store, a tall east–west shade wall to the south of the shallow freezing pond, dry plateau terrain and restrained late-Qajar everyday clothing. Scene scope specifies winter or summer. No tropical sand sea: firm pale ground, low earthen town forms and sparse vegetation. Muted cotton/wool garments, trousers and plain caps; no royal ornament. Diagrams are explicitly modern explanatory schematics.",
+  "avoid": "modern refrigerator or power cable inside historical scenes, domes lined with icicles in summer, blue magical cold rays, ice spontaneously forming in the summer storage pit, massive glacier blocks, glass ice cubes, swimming pools, deep ponds, windcatchers presented as part of this ice house, confusing a water cistern with an ice store, pumps, solar panels, modern brick storefronts, mosque minarets on the ice dome, camels and palms in every view, Arab keffiyehs, Indian Mughal court costume, Safavid royal robes in 1900, ceremonial jewelry, fake Persian writing, gigantic moons or multiple suns.",
+  "locations": {
+    "complex": {
+      "scope": "Meybod, around 1900; summer ice-house exterior reconstruction",
+      "design": "One muted ochre conical stepped earthen dome beyond the east–west shade wall, one shallow rectangular basin north of wall. View from northeast toward southwest: basin foreground, wall middle ground, dome beyond. Plain small access opening, no wind tower, fixed layout. Level open right foreground for Visitor; no active frozen pond in summer."
+    },
+    "pond": {
+      "scope": "Meybod, around 1900; winter freezing basin",
+      "design": "Shallow rectangular earthen-edged basin north of tall east–west earthen shade wall. View southward: wall behind basin, single dome partially visible farther south. One narrow inlet at left, earth path right. Winter clear sky, light frost only where specified, no deep snowdrifts. Worker A: cream shirt, plain brown robe, slate trousers, small dark cap.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "inlet": {
+      "scope": "Meybod, around 1900; reconstructed ice-making water inlet in winter",
+      "design": "Small earthen water channel at left feeds a shallow basin through a simple opening, no unsupported sluice technology, no pressurized jet. Close wet-earth texture, no person unless specified.",
+      "anchor_reference_scene_id": "S011"
+    },
+    "ice": {
+      "scope": "Meybod, around 1900; illustrative harvested ice",
+      "design": "Irregular cloudy pale ice slab on a plain wooden tray, softened uneven edges; neutral earthen ground or indoor darkness as specified. No geometrically perfect cubes or giant glacier."
+    },
+    "store": {
+      "scope": "Meybod, around 1900; winter ice-store interior reconstruction",
+      "design": "Large earthen domed chamber over a below-ground circular storage pit. Thick adobe base, narrow small daylight opening above, simple access ledge at left with no invented exact stair count. Ice packed in pit with straw/reed insulation, meltwater path at lowest point. Visitor always on a level access ledge, never floating over pit or standing on slippery ice. Two safe adult workers at most, A and B; B wears plain olive robe, cream trousers and small cap."
+    },
+    "brick": {
+      "scope": "Meybod ice-house materials; explanatory reconstruction",
+      "frame": "modern material explanation",
+      "design": "Single thick sun-dried mud-brick section and dry straw bundle on plain parchment field; no modern foam, concrete or plasterboard. Show structure as schematic, not a measured sample."
+    },
+    "door": {
+      "scope": "Meybod, around 1900; summer distribution reconstruction",
+      "design": "Small shaded access opening of established earthen dome at left, one plain timber tray with a modest irregular ice piece, open ground right. Worker B wears muted olive robe and plain cap; no readable price board, bazaar bustle or anonymous army of workers.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "drink": {
+      "scope": "Meybod, around 1900; illustrative cooled drink",
+      "design": "Plain cup and small water vessel on low timber table in earthen shaded room; no elaborate feast, modern glassware, refrigerator or imported tropical fruit. One modest ice piece beside cup as specified, no claim to exact recipe or sanitation."
+    },
+    "diagram": {
+      "scope": "Modern explanatory schematic of the Meybod ice-house process",
+      "frame": "modern explanatory diagram",
+      "design": "Clean parchment diagrams, black-brown lines, restrained ochre building, pale blue ice, brick-colored arrows only for heat leaving. Clear compass and seasonal labels locally typeset. No invented quantities or scales."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Hemming Jørgensen — Yaḵčāl, Encyclopaedia Iranica",
+      "url": "https://www.iranicaonline.org/articles/yakcal/",
+      "read": "2026-10-09: full entry, typology, ice production, ownership and survey; author conducted 2007–2009 site survey.",
+      "limit": "Strong historical synthesis grounded in field research. Pits' ancient origins do not establish the date of Meybod's dome; the article warns chronology is uncertain. Ice stores are distinct from food refrigerators."
+    },
+    {
+      "id": "SRC02",
+      "title": "Pochee, Gunstone and Wilton — Passive ice making and seasonal storage (2017)",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10087896/",
+      "read": "2026-10-09: complete eight-page paper, printed pp.3579–3586; model assumptions and limitations included.",
+      "limit": "Modern simulations using a typical meteorological year, not weather observations from1900 or measured historical output. Do not use model percentages as historical facts."
+    },
+    {
+      "id": "SRC03",
+      "title": "Hosseini and Namazian — An Overview of Iranian Ice Repositories (2012)",
+      "url": "https://open.metu.edu.tr/handle/11511/50831",
+      "read": "2026-10-09: pp.223–231 read, including architectural elements, cited travelers, access and drainage. PDF at https://open.metu.edu.tr/bitstream/handle/11511/50831/223-234.pdf.",
+      "limit": "Use supported architectural descriptions and cite locations of travelers accurately. Reject broad public-access claims, speculative400BCE chronology and wording suggesting summer pond freezing; compare with Jørgensen and physics research."
+    },
+    {
+      "id": "SRC04",
+      "title": "Hareth Pochee — The Physics of Freezing at the Iranian Yakhchal",
+      "url": "https://www.maxfordham.com/practice-people/journal/the-physics-of-freezing-at-the-iranian-yakhchal",
+      "read": "2026-10-09: full research-team explanation, including storage, radiation, evaporation and vent hypothesis. Published plan and storage-model section visually inspected 2026-10-09; north-side pond and below-ground store verified. Model dimensions/insulation thickness are not assigned to our reconstruction.",
+      "limit": "Same research family as SRC02, not an independent replication. Useful explanatory summary; alternative vent interpretation is a hypothesis."
+    },
+    {
+      "id": "SRC05",
+      "title": "Layla Diba — Clothing in the Safavid and Qajar periods",
+      "url": "https://www.iranicaonline.org/articles/clothing-x/",
+      "read": "2026-10-09: complete Qajar section, especially later nineteenth-century distinctions, traditional robes and trousers, court/ordinary differences.",
+      "limit": "Costume source only. Select subdued ordinary layers; do not borrow elaborate early-Qajar court portraits as everyday workwear.",
+      "public": false
+    },
+    {
+      "id": "SRC06",
+      "title": "British Museum — Sykes.127, Iranian men and a boy, c.1900",
+      "url": "https://www.britishmuseum.org/collection/object/AA_Sykes-127",
+      "read": "Catalogue and visible photograph inspected 2026-10-09; plain layered garments and trousers.",
+      "limit": "Clothing comparison only, not a Meybod location or ice-house worker. Black-and-white image does not establish garment colours.",
+      "public": false
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "claim": "The Visitor, a particular cup, assigned errands and a reconstructed day around1900 are fictional framing.",
+      "type": "F",
+      "sources": [],
+      "locator": "Opening states reconstruction; conditional viewer tasks throughout.",
+      "limit": "No invented historical person, exact wage, recipe, tariff or dated weather reading."
+    },
+    {
+      "id": "C1",
+      "claim": "Traditional Iranian ice houses stored winter ice for use in summer; Meybod preserves a large domed example.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC02"
+      ],
+      "locator": "Iranica opening, use/typology, final survey paragraph; PLEA pp.3579–3580.",
+      "limit": "Not an assertion that all Iranian buildings used one design or that the dome dates to400BCE."
+    },
+    {
+      "id": "C2",
+      "claim": "Many complexes used shallow water basins and shade walls for winter ice production, then moved harvested ice into storage.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC03"
+      ],
+      "locator": "Iranica ice-making sequence; METU pp.227–229 shade wall, provision pool and store.",
+      "limit": "Thin-layer methods and harvesting schedules vary; no single exact depth or yield presented as universal."
+    },
+    {
+      "id": "C3",
+      "claim": "At Meybod the shade wall protects the pond from low winter sun; its east–west alignment places the pond on its north side.",
+      "type": "E",
+      "sources": [
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "PLEA Fig.1 and p.3580; METU pp.227–228.",
+      "limit": "Do not invert the wall/pond relation in maps or imply nighttime shade causes cold by itself."
+    },
+    {
+      "id": "C4",
+      "claim": "The plateau climate has cool winters and hot summers; modeled night-sky radiation and evaporation help water lose heat.",
+      "type": "E",
+      "sources": [
+        "SRC02",
+        "SRC04"
+      ],
+      "locator": "PLEA climate data p.3580, model results p.3582 and discussion p.3585.",
+      "limit": "No numerical historic temperatures, no summer instant-freezing claim; model result attributed as modern explanation."
+    },
+    {
+      "id": "C5",
+      "claim": "Ice was collected, transferred and insulated for seasonal storage, with adobe structures and straw/reed insulation limiting heat gain.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Iranica typology/materials; PLEA storage pp.3582–3583/3586; METU pp.228–231.",
+      "limit": "Do not promise zero melting or a fixed survival percentage. No claim to exact Meybod insulation thickness."
+    },
+    {
+      "id": "C6",
+      "claim": "Below-ground storage and massive construction shelter the ice; meltwater needs a route away at the bottom.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Iranica distinction from water reservoirs; METU p.229 drain well; PLEA storage assumptions.",
+      "limit": "No magicalcold generation from dome, no swimming tank, no exact underground temperature."
+    },
+    {
+      "id": "C7",
+      "claim": "Water supply, labor and management were part of operation; qanats could supply complexes; ownership included communal/endowed and commercial arrangements.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC03"
+      ],
+      "locator": "Iranica qanat and ownership paragraphs; METU pool p.228 and distribution accounts p.225.",
+      "limit": "Do not say all ice was free, equally accessible, or every house had a private ice store. Qanat diagram is generic, not surveyed Meybod route."
+    },
+    {
+      "id": "C8",
+      "claim": "Ice served summer cooling uses including drinks; ice-house storage itself was not a domestic food refrigerator.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Iranica use/typology and Fryer discussion; PLEA introduction; METU travelers p.223/225.",
+      "limit": "No exact drink recipe, no guarantee of safe direct consumption or universal availability."
+    },
+    {
+      "id": "C9",
+      "claim": "Operation depended on weather, supplies, insulation and upkeep; ice loss and contamination were real limits.",
+      "type": "E",
+      "sources": [
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "PLEA assumptions and melt results; METU p.231 obsolescence/contamination/maintenance.",
+      "limit": "No quantified historic failure rate or health outcomes; not a claim modern refrigeration and ice houses were equivalent."
+    },
+    {
+      "id": "C10",
+      "claim": "The process links winter production to later demand; seasonal planning is an interpretation of documented architecture and operation.",
+      "type": "I",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Synthesis of production, storage and distribution sections.",
+      "limit": "Metaphor of saving winter is explanatory; no claim heat is a substance or cold is manufactured in summer."
+    }
+  ],
+  "research": "Reconstruct a seasonal cycle at Meybod around1900. This date is an editorial anchor within the documented long use of the type, not a claim to a preserved daybook. The architecture and functions are drawn from field research and engineering papers. Key contradiction resolved: later papers loosely call these ancient refrigerators, while Jørgensen explicitly distinguishes ice storage from food refrigeration. Say ice cooled drinks and could be used elsewhere; do not put hanging food inside the store. Avoid400BCE origin claims, exact historical freezing yields, fixed melt percentages, huge radiant-cold arrows, mechanical windcatchers, and a claim that a small dome vent creates the freezing. Engineering models are explanatory, not measurements from1900; their own reported yields vary with assumptions. Some METU wording says transfer on hot summer days in its wall section; do not use that to move winter harvesting into summer. Water, operating labor and maintenance are central to the story. Final costume follows late-Qajar ordinary layered clothing, not court finery.",
+  "description": "A hot summer drink begins with a cold winter night. At Meybod in Iran, follow the seasonal work behind the traditional yakhchal: shallow freezing ponds, a carefully placed shade wall, harvested ice and an insulated store. This illustrated reconstruction explains how people kept winter ice for summer—and what the buildings could not do.",
+  "tags": [
+    "yakhchal",
+    "ice in the desert",
+    "Meybod",
+    "Iranian ice house",
+    "Persian ice house",
+    "history of refrigeration",
+    "passive cooling",
+    "traditional architecture",
+    "winter ice storage",
+    "Yazd",
+    "everyday history",
+    "Life Previously"
+  ],
+  "pinned_comment": "Which part was the cleverest: the shaded pond, the insulated store, or planning a summer supply months ahead?",
+  "pilot": [
+    "S001",
+    "S011",
+    "S007",
+    "S006",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "ICE. NO FRIDGE.",
+      "chip": "MEYBOD • c.1900",
+      "scope": "Meybod, around1900; summer ice retrieval, reconstructed",
+      "pose": "closeup-listening",
+      "background": "One substantial but hand-carried irregular cloudy ice piece on a shaded plain tray at left foreground, ochre earthen ice-house dome and dry plateau ground behind. Warm sunlit background contrasts with pale ice in shaded foreground. No outdoor frozen pond in summer, snowfield, refrigerator or artificial glow.",
+      "rationale": "The contrast between a recognisable ice block and dry earthen surroundings is the premise; the actual storage explanation earns the image.",
+      "payoff_scene_ids": [
+        "S001",
+        "S002",
+        "S059",
+        "S060"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "SAVE THE WINTER",
+      "chip": "IRAN • c.1900",
+      "scope": "Illustrative winter harvesting at a Meybod ice house",
+      "pose": "closeup-thoughtful",
+      "background": "Small stack of irregular harvested ice slabs at left on a plain tray, shallow winter pond and earthen shade wall behind. Restrained frosty twilight; dome partly visible. No machinery or giant ice cubes.",
+      "rationale": "A memorable seasonal idea with a physically grounded scene; narration shows saving a stock of ice, not literally bottling weather.",
+      "payoff_scene_ids": [
+        "S032",
+        "S035",
+        "S043",
+        "S093"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "UNDER THIS DOME",
+      "chip": "MEYBOD • c.1900",
+      "scope": "Summer Meybod ice-house exterior reconstruction",
+      "pose": "closeup-listening",
+      "background": "Earthen dome dominates left half, small shadowed access opening with a modest ice piece on a tray just outside in shade. Quiet upper-left sky for headline; no impossible cutaway painted into historical architecture.",
+      "rationale": "Architectural curiosity supported by the interior reveal; maintain a large visible ice cue so the subject is clear on a phone.",
+      "payoff_scene_ids": [
+        "S045",
+        "S048",
+        "S049"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The Wall That Helped Make Ice",
+      "from_scene": "S015",
+      "to_scene": "S021",
+      "hook": "A wall with a practical job",
+      "description": "The freezing pond belongs north of the shade wall. The position helps protect it from low winter sun."
+    },
+    {
+      "title": "This Dome Stored Ice for Summer",
+      "from_scene": "S045",
+      "to_scene": "S051",
+      "hook": "Below the impressive roof",
+      "description": "An earthen dome, a sheltered pit and insulation helped retain winter ice. They slowed melting rather than eliminating it."
+    },
+    {
+      "title": "Ice in the Desert: Three Common Mistakes",
+      "from_scene": "S083",
+      "to_scene": "S089",
+      "hook": "Three corrections to a remarkable process",
+      "description": "Winter production and summer storage are different jobs. Meybod’s traditional ice house did not make unlimited summer ice or prevent all melting."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "A summer drink with a winter deadline",
+      "scenes": [
+        [
+          "You ask for something cold. Outside, the ground is dry, the sunlight is fierce, and the buildings are made of earth.",
+          "C0,C1",
+          "complex",
+          "establishing",
+          "Summer daylight on fixed earthen complex. Basin dry, dome beyond wall; no workers. Quiet right foreground.",
+          "look-around",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Then someone brings out ice. No cable, no compressor, no freezer humming in the corner. Where has it been hiding?",
+          "C0,C1",
+          "door",
+          "medium",
+          "Worker B at left sets a small tray with irregular ice piece in doorway shade; no magical glow.",
+          "closeup-listening",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Welcome to Meybod, in Iran's Yazd province. We're reconstructing a traditional ice house at work around nineteen hundred.",
+          "C0,C1",
+          "complex",
+          "wide",
+          "Same fixed complex, one adult worker beside small access opening, no modern tourism items.",
+          null,
+          "Meybod, Iran • c.1900 • reconstruction",
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "The answer involves this dome, but the dome cannot do the whole job. Look beyond it and you find a system.",
+          "C1,C2",
+          "complex",
+          "medium",
+          "Dome beyond wall and shallow basin all legible; no extra buildings added.",
+          "count-fingers",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "There is a pond, a wall, a store and a considerable amount of human effort. Your cold drink has a backstory.",
+          "C2,C7",
+          "diagram",
+          "graphic",
+          "Three simple locally drawn components in sequence: basin and shade wall, store, summer cup.",
+          null,
+          null,
+          "MAKE • STORE • USE"
+        ],
+        [
+          "The crucial ingredient arrived months before you. To understand summer's ice, we have to go back to winter.",
+          "C1,C10",
+          "ice",
+          "object insert",
+          "Small summer ice piece on plain tray in shade, slight wet edge but no large puddle.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "The dome did not make unlimited ice whenever somebody fancied a refreshing afternoon. It stored a seasonal supply.",
+          "C1,C9",
+          "store",
+          "wide",
+          "Summer interior variant: packed ice partly depleted under straw, narrow daylight, safe level access ledge right.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "scope": "Meybod, around1900; summer ice-store interior reconstruction"
+          }
+        ],
+        [
+          "That is an excellent arrangement, provided people begin preparing long before the day when you stand outside looking thirsty.",
+          "C0,C10",
+          "door",
+          "reaction",
+          "Empty summer shaded doorway, ice tray left; clear right foreground.",
+          "clutch-stomach",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Our visit is invented. The buildings, historical descriptions and engineering provide the evidence for this seasonal process.",
+          "C0,C1",
+          "complex",
+          "medium",
+          "Summer exterior with the same one dome, wall and dry basin; no locals.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "First question: how do you make ice? Second: how do you stop summer taking it back?",
+          "C2,C5",
+          "diagram",
+          "graphic",
+          "Two seasonal panels with water-to-ice symbol and protected ice store.",
+          null,
+          null,
+          "FREEZE IN WINTER • KEEP FOR SUMMER"
+        ],
+        [
+          "The trick is to use the conditions the place already offers. Winter gives you a different opportunity from summer.",
+          "C4,C10",
+          "pond",
+          "establishing",
+          "Same basin and wall in winter, cool clear evening, empty shallow basin; worker A at left.",
+          null,
+          "Winter • preparing the supply",
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "So put down the imaginary drink. We have arrived several months early, and the night shift has a rather important purpose.",
+          "C0,C2",
+          "pond",
+          "reaction",
+          "Winter twilight, empty basin and inlet left, clear earth path right.",
+          "look-around",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "The wall is part of the machine",
+      "scenes": [
+        [
+          "Desert does not mean permanently hot. The Iranian plateau's cool winters and hot summers offer very different working conditions.",
+          "C4",
+          "diagram",
+          "graphic",
+          "Simple two-season diagram with winter moon and summer sun; no temperature axis or invented readings.",
+          null,
+          null,
+          "COOL WINTERS • HOT SUMMERS"
+        ],
+        [
+          "The ice-making basin is shallow. We need a layer of water that can lose heat, not a miniature inland sea.",
+          "C2",
+          "pond",
+          "wide",
+          "Shallow water begins entering basin, low water depth visually clear at edge; worker A supervises left.",
+          "count-fingers",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Water is directed into it. In complexes like these, qanats—underground water channels—could help supply the water needed for the process.",
+          "C7",
+          "inlet",
+          "object insert",
+          "Small flow entering shallow basin through simple earthen channel, no metal pipe or pressurized jet.",
+          null,
+          "Meybod · winter water supply"
+        ],
+        [
+          "Water arriving is already an achievement. An impressive dome cannot compensate for an empty basin.",
+          "C7,C10",
+          "inlet",
+          "medium",
+          "Continuous shallow channel leads into basin; no workers, modest amount of water.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Now consider the tall wall. It stands on the sunny side of the pond, with the freezing area to its north.",
+          "C3",
+          "pond",
+          "wide",
+          "Daytime winter view looking south: wall south of basin, shadow extending north across foreground water; single low sun not visible.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Its east-to-west alignment helps shield the pond from low winter sun. A useful wall can look rather uneventful.",
+          "C3",
+          "diagram",
+          "graphic",
+          "Plan and small side view: north arrow up, wall east-west below pond, sunlight from south and shadow north.",
+          null,
+          null,
+          "POND NORTH • SHADE WALL SOUTH"
+        ],
+        [
+          "There is no moving part to admire, no grand performance. The useful result is the stretch of ground it keeps shaded.",
+          "C3,C0",
+          "pond",
+          "medium",
+          "Winter daytime shadow covers basin; worker A stands on dry path at left, no ice yet.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Direction matters. The pond needs the wall's shadow, so the layout is part of how the system works.",
+          "C3",
+          "diagram",
+          "graphic",
+          "Single correct overhead arrangement, basin north of wall and shaded; no confusing wrong-example duplicate.",
+          null,
+          null,
+          "PLACEMENT MATTERS"
+        ],
+        [
+          "At night, the water faces the open sky. The wall is not a lid, and the basin is not hidden beneath the dome.",
+          "C2,C4",
+          "pond",
+          "wide",
+          "Clear winter night, shallow open pond with no roof, wall behind, one small moon only if composition needs it.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "These are separate stages: make ice outside, then move it into storage. Confusing them makes the whole building seem mysterious.",
+          "C1,C2",
+          "diagram",
+          "graphic",
+          "Basin icon points to separate domed store, winter label over both.",
+          null,
+          null,
+          "OUTSIDE: MAKE ICE → INSIDE: STORE IT"
+        ],
+        [
+          "Workers need suitable conditions in the shallow water they manage, rather than an entirely frozen landscape.",
+          "C2,C4",
+          "pond",
+          "medium",
+          "Worker A checks near edge while standing on dry ground; no person on pond surface.",
+          "look-around",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "You are hoping to wait comfortably while the building does everything. The process has other plans for your evening.",
+          "C0,C7",
+          "pond",
+          "reaction",
+          "Empty clear path right, small water inlet visible left, winter night.",
+          "shrug-smirk",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Before lifting and carrying comes something you cannot see directly: heat leaving the water.",
+          "C4",
+          "inlet",
+          "object insert",
+          "Still shallow water surface after filling, visible earthen edge, no steam or glow."
+        ],
+        [
+          "No glowing blue magic. Water has to lose enough heat to freeze under those winter conditions.",
+          "C4",
+          "pond",
+          "medium",
+          "Quiet winter water surface with faint natural reflection, wall fixed behind.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Borrowing the cold night",
+      "scenes": [
+        [
+          "One way water loses heat is by radiating it toward the night sky. Clear, dry conditions can make that loss especially useful.",
+          "C4",
+          "diagram",
+          "graphic",
+          "Shallow water section, restrained arrows point upward labelled heat leaving; no blue rays entering water.",
+          null,
+          null,
+          "HEAT LEAVES TOWARD THE SKY"
+        ],
+        [
+          "Evaporation carries energy away too. Modern modelling finds both processes important, with radiation providing the larger cooling effect.",
+          "C4",
+          "diagram",
+          "graphic",
+          "Two modest outgoing arrows, radiation dominant and evaporation smaller; label qualitative, no numerical ratio.",
+          null,
+          "Modern physical explanation • not1900 measurements",
+          "RADIATION + EVAPORATION"
+        ],
+        [
+          "That explains why the open pond matters. The building uses a particular environment, rather than simply hiding water in a dark room.",
+          "C2,C4",
+          "pond",
+          "wide",
+          "Open shallow pond under clear night, wall south, no canopy or enclosing roof.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "The result depends on weather and water management. We cannot promise the same amount every night.",
+          "C4,C9",
+          "pond",
+          "medium",
+          "Same pond with a few high clouds at night; do not show simultaneous dramatic freezing.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Confidence is no substitute for checking the surface. Our workers have a physical process to manage.",
+          "C0,C2",
+          "pond",
+          "medium",
+          "Worker A observes shallow icy edge from dry path, holding no invented measuring instrument.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Historical descriptions include adding water in thin layers, allowing those layers to freeze and building a thicker sheet over successive cold nights.",
+          "C2",
+          "diagram",
+          "graphic",
+          "Three sequential side sections: shallow water, first frozen layer, next thin layer; no numeric thickness.",
+          null,
+          null,
+          "THIN LAYERS • REPEATED FREEZING"
+        ],
+        [
+          "Fill a deep swimming pool and you will not simply lift out a perfect block the next morning.",
+          "C0,C2",
+          "pond",
+          "reaction",
+          "Modest shallow basin edge and thin partly frozen surface; no swimming pool or person standing on it.",
+          "eyebrow-raise",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Methods varied. The common principle was manageable water, winter cooling and repeated work while conditions allowed it.",
+          "C2,C9",
+          "pond",
+          "wide",
+          "Worker A pours a shallow fresh layer from plain vessel near inlet, safe posture, no frozen waterfall.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Imagine checking that surface after a cold night. Yesterday's water has become something you can break up, move and save.",
+          "C0,C2",
+          "pond",
+          "medium",
+          "Dawn light, cloudy ice sheet at near edge, worker A bends from dry ground with simple wooden-handled tool.",
+          "look-around",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Saving it is the important next step. Ice left in the wrong conditions does not care how pleased you were to make it.",
+          "C5,C0",
+          "ice",
+          "object insert",
+          "Thin irregular ice slab on plain tray, small wet edge in weak morning light."
+        ],
+        [
+          "Shade helps, but shade is not a command telling all melting to stop. The growing supply needs its protected home.",
+          "C3,C5",
+          "pond",
+          "wide",
+          "Winter morning basin in wall's shadow, two workers positioned on dry path with one tray, no ice stock piled in sun.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Researchers model production and storage separately. Their estimates depend on assumptions; they are not tallies from this particular winter.",
+          "C4,C9",
+          "diagram",
+          "graphic",
+          "Two schematic boxes production and storage, each marked model; no plotted invented historical quantities.",
+          null,
+          null,
+          "MODERN MODELS ≠ HISTORICAL TALLIES"
+        ],
+        [
+          "We can explain the mechanism without inventing an exact number of blocks from Meybod on an imaginary January night.",
+          "C0,C4",
+          "pond",
+          "medium",
+          "Same dawn pond and modest ice layer; no quantity label or workers.",
+          "closeup-listening",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "What we do have is enough to follow the next job. This lovely new ice is not going to carry itself.",
+          "C2,C7",
+          "ice",
+          "object insert",
+          "One cloudy irregular slab partly lifted onto a plain wooden tray; only two plausible adult hands visible."
+        ],
+        [
+          "Your cold summer drink now depends on somebody doing cold winter work. The exchange is beginning to look less effortless.",
+          "C0,C7",
+          "pond",
+          "reaction",
+          "Worker A and B prepare one modest tray left of clear path, Visitor right.",
+          "clutch-stomach",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Keep the dome in view. We are leaving the making stage and entering the keeping stage.",
+          "C1,C2",
+          "complex",
+          "wide",
+          "Winter morning version of fixed complex, two workers carry one small tray toward access opening; preserve wall/dome geometry.",
+          null,
+          "Winter • harvesting for storage",
+          null,
+          {
+            "scope": "Meybod, around1900; winter harvesting exterior reconstruction"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "How to keep a piece of winter",
+      "scenes": [
+        [
+          "The ice is broken into manageable pieces and transferred to the store. That sentence conceals quite a lot of handling.",
+          "C2,C7",
+          "pond",
+          "medium",
+          "Worker A breaks slab at edge with simple tool while B waits on dry path with tray; no flying sharp shards.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Our irregular pieces reflect a physical process of freezing and breaking, rather than perfect cubes from a mould.",
+          "C2,C0",
+          "ice",
+          "object insert",
+          "Three irregular cloudy ice pieces on tray, varied natural fracture surfaces, no uniform cubes."
+        ],
+        [
+          "Inside the dome, the main storage space lies below ground. The dramatic roof is only the visible part of the arrangement.",
+          "C1,C6",
+          "store",
+          "wide",
+          "Winter interior, circular below-ground pit left partly packed with ice, thick wall base, empty level ledge right.",
+          "look-around",
+          "Meybod · winter storage reconstruction"
+        ],
+        [
+          "The dome shelters the store. Thick earthen construction and insulation help slow heat getting to the ice over the warmer months.",
+          "C5,C6",
+          "brick",
+          "object insert",
+          "Thick adobe section beside dry straw bundle, no polished modern material.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Beneath that roof, the protected stock occupies a pit. The arrangement keeps the ice sheltered while workers reach it from the edge.",
+          "C0,C5,C6",
+          "store",
+          "medium",
+          "Packed ice pit partly covered with straw, dim earth walls; access ledge visible, no explanatory arrows or transparent architecture.",
+          "closeup-listening"
+        ],
+        [
+          "The ice itself is packed and protected with materials such as straw or reeds. It is a stored supply worth looking after.",
+          "C5",
+          "store",
+          "medium",
+          "Worker B arranges a dry straw insulating layer across packed ice from safe ledge, A absent."
+        ],
+        [
+          "Summer will still take a share through melting. Good storage slows that loss; it cannot make ice indestructible.",
+          "C5,C6",
+          "diagram",
+          "graphic",
+          "Side cutaway of dome and below-ground pit with insulation around ice; few incoming heat arrows reduced by protection.",
+          null,
+          null,
+          "SHELTER • INSULATION • SLOWER HEAT GAIN"
+        ],
+        [
+          "A few drops on our tray make the problem visible. Each piece is still ice, but its edges are slowly changing.",
+          "C0,C5",
+          "ice",
+          "object insert",
+          "Ice piece on shaded tray with a few small drops, no exaggerated flood or giant puddle."
+        ],
+        [
+          "Meltwater needs somewhere to go. A drain at the bottom helps carry it away from the remaining stored ice.",
+          "C6",
+          "diagram",
+          "graphic",
+          "Simple pit section with meltwater arrow downward to drain; no pipe to city sewers, clear ice level.",
+          null,
+          null,
+          "MELTWATER DRAINS AWAY"
+        ],
+        [
+          "This is not a tank filled with icy water. Confusing an ice house with a water reservoir gives the wrong interior.",
+          "C6",
+          "store",
+          "wide",
+          "Packed solid ice and straw in pit, no water-filled tank; safe dry ledge right.",
+          "count-fingers"
+        ],
+        [
+          "The ice can cool things elsewhere. The store and the thing somebody cools need not share a location.",
+          "C1,C8",
+          "store",
+          "medium",
+          "Only ice, straw and earthen structure, no hanging meat, food shelves or cupboard props.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Cooling a drink later is a separate job. The ice store holds the supply; it is not a household food refrigerator.",
+          "C8",
+          "diagram",
+          "graphic",
+          "Ice-store symbol points to a plain cup at another location; locally drawn, no food shelves inside store.",
+          null,
+          null,
+          "STORE ICE → USE IT ELSEWHERE"
+        ],
+        [
+          "Even the opening at the dome's top is only one feature. It cannot turn an unsuitable season into a reliable ice-making night.",
+          "C1,C4,C6",
+          "store",
+          "upward view",
+          "Small daylight opening high in earthen dome, no icy chimney plume, no floor-level Visitor."
+        ],
+        [
+          "We have made ice during suitable weather, brought it inside and protected it. Now comes the longest part of the process.",
+          "C1,C5",
+          "store",
+          "wide",
+          "Winter packed pit mostly insulated, two workers at access ledge, consistent dimensions.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Waiting takes months. Winter's work and summer's demand are separated by considerably more than an impatient afternoon.",
+          "C1,C0",
+          "diagram",
+          "graphic",
+          "Season timeline winter work to summer use, no exact days or fake calendar dates.",
+          null,
+          null,
+          "WINTER WORK → SUMMER SUPPLY"
+        ],
+        [
+          "If storage has gone well, something useful remains available through a very different season. Back to our thirsty visitor.",
+          "C0,C10",
+          "complex",
+          "establishing",
+          "Summer returns: same complex, basin dry, warm light, no snow, worker B at shaded entrance.",
+          null,
+          "Summer • using the stored supply",
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Summer comes to collect",
+      "scenes": [
+        [
+          "The outside world is warm again. The pond is no longer the answer to your immediate request. The stored supply is.",
+          "C1,C8",
+          "complex",
+          "wide",
+          "Summer daytime basin dry and empty, dome beyond fixed wall, quiet right path.",
+          "look-around",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Inside, someone accesses the ice and brings out a portion. Our little piece has a history stretching back into winter.",
+          "C0,C5",
+          "store",
+          "medium",
+          "Summer interior variant, worker B safely removes a small piece from accessible stock near ledge, no suspended body.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "This is where a building becomes part of daily life: not just a remarkable shape, but a place people use.",
+          "C8,C10",
+          "door",
+          "medium",
+          "Worker B stands by tray in shaded doorway, two waiting adults at left only, clear right.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Historical accounts describe ice used to cool drinks. The pleasure at the end of the process was fairly easy to understand.",
+          "C8",
+          "drink",
+          "object insert",
+          "Plain cup and a modest ice piece on tray beside small water vessel, no specific recipe.",
+          "closeup-listening",
+          "Historical use • cooling drinks",
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "We have not recovered the recipe for our imaginary cup. Its role is to show where the long chain of work can lead.",
+          "C0,C8",
+          "drink",
+          "medium",
+          "Plain cup sits left on low table, earthen shade room, clear floor right.",
+          "look-around",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "By now, the ice has travelled through several stages: water supply, freezing, harvesting, storage and finally a summer use.",
+          "C1,C2,C7,C8",
+          "door",
+          "wide",
+          "One tray with ice in shaded entrance, worker B behind it; no extra process icons painted.",
+          "count-fingers",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Break one link and the handsome dome cannot finish the job. Architecture depends on the people operating it.",
+          "C7,C10",
+          "door",
+          "reaction",
+          "Empty tray beside closed access opening, no crowd or claim specific failure occurred.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Perhaps the nights disappoint. Perhaps the stock is smaller. Perhaps repairs are needed. A useful system can still have difficulties.",
+          "C0,C9",
+          "pond",
+          "wide",
+          "Reconstructed winter maintenance view of empty basin and wall, worker A inspects inlet, no disaster.",
+          null,
+          "Earlier in the cycle • possible difficulties",
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Those are possibilities, not a report of a particular failure. They explain why the technology has limits.",
+          "C0,C9",
+          "brick",
+          "object insert",
+          "Simple mud-brick section with a small repair patch, no exaggerated ruin or person."
+        ],
+        [
+          "Nor can we turn an old ice supply into a guarantee of modern hygiene. Open water and handling bring their own problems.",
+          "C9",
+          "inlet",
+          "object insert",
+          "Shallow exposed earthen channel with ordinary ground around it, no visible disease, insects swarm or disgust imagery.",
+          null,
+          "Storage performance is not a hygiene guarantee",
+          null,
+          {
+            "scope": "Illustrative traditional water handling; modern explanation of limits"
+          }
+        ],
+        [
+          "The cleverness is real. So is the work. You can appreciate both without pretending the system made every inconvenience disappear.",
+          "C7,C9,C10",
+          "door",
+          "medium",
+          "Worker B checks tray in summer shade, modest relaxed expression, no triumphant pose.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "And we have not yet asked who controls the ice, who maintains the water supply, or how a customer gets a share.",
+          "C7",
+          "door",
+          "reaction",
+          "Two adults wait at left near worker B and ice tray, no coins or price board.",
+          "closeup-listening",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Who makes the system work?",
+      "scenes": [
+        [
+          "Iranian ice houses did not all share one business model. Some were connected to communal or endowed water systems; others were commercial ventures.",
+          "C7",
+          "diagram",
+          "graphic",
+          "Two equal paths: community/endowment and business; each leads to ice supply, no ownership percentages.",
+          null,
+          null,
+          "DIFFERENT OWNERSHIP ARRANGEMENTS"
+        ],
+        [
+          "That means we should not announce that every resident simply walked in and collected unlimited free ice whenever they wanted.",
+          "C7",
+          "door",
+          "medium",
+          "Modest summer queue of two adults, worker B behind tray, no self-service pile.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Water had to be managed, structures maintained and ice handled. Someone's resources and someone's labor were involved before our visitor arrived.",
+          "C7,C9",
+          "pond",
+          "medium",
+          "Worker A inspects earthen water inlet in winter morning, B absent; right path open.",
+          "watch-arms-crossed",
+          "Winter work • water management",
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Local earth could supply building materials. Local did not mean effortless: construction and maintenance still required work.",
+          "C5,C7,C9",
+          "brick",
+          "object insert",
+          "Plain sun-dried mud brick beside modest repair mortar on wood board, no trowel of modern design."
+        ],
+        [
+          "Think of your cup as the final page of a much longer story. It begins with decisions about water, space and winter weather.",
+          "C0,C10",
+          "drink",
+          "object insert",
+          "Plain cup left on shaded low table, one small ice piece beside it.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Then come repeated tasks: managing the basin, collecting ice, protecting the stock and distributing a portion when somebody needs it.",
+          "C2,C5,C7",
+          "pond",
+          "wide",
+          "Winter dawn harvesting, two workers carry one modest tray along dry path, no identical background crowd.",
+          null,
+          "Winter work • harvesting",
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "We remember the dome because we see it. The organisation is easier to miss, but matters just as much.",
+          "C7,C10",
+          "complex",
+          "wide",
+          "Summer complex, one worker at doorway and two modest distant adults, same architecture.",
+          "count-fingers",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "You have arrived for the refreshing part. Other people had to turn the coldest part of the year into something useful later.",
+          "C0,C10",
+          "door",
+          "reaction",
+          "Summer tray with ice left, worker B absent, natural shadow, clear right.",
+          "shrug-smirk",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "There is a satisfying reversal here. Winter is usually the season you try to get through. Here, part of it becomes a resource.",
+          "C10",
+          "ice",
+          "object insert",
+          "Cloudy ice piece on simple tray in shade; restrained pale-blue edges, no literal winter landscape trapped inside.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Climate, water, materials and management made this arrangement possible. Other places could not necessarily use the same design.",
+          "C2,C4,C7",
+          "complex",
+          "wide",
+          "Dry firm plateau landscape around modest complex, no endless dunes or lush tropical oasis.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Copying the silhouette alone does not copy the performance. A dome is only part of the answer.",
+          "C10",
+          "complex",
+          "medium",
+          "Focus on dome while keeping a portion of wall and pond visible; no false isolated building version.",
+          "closeup-listening",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "We can now answer our opening question. First, clear away three attractive mistakes that would make the story less accurate.",
+          "C1,C9",
+          "door",
+          "medium",
+          "Ice piece on tray in summer shade, Visitor right, no extra locals.",
+          "count-fingers",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ]
+      ]
+    },
+    {
+      "title": "What the ice house really achieved",
+      "scenes": [
+        [
+          "First: it did not need to make our summer ice on a scorching afternoon. Suitable winter conditions supplied the earlier production window.",
+          "C1,C4",
+          "pond",
+          "wide",
+          "Winter night pond beginning to freeze, no hot sun, dome fixed beyond wall.",
+          null,
+          "Meybod c.1900 · winter production",
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Second: the store did not prevent all melting. Shelter and insulation slowed the losses, preserving a useful supply over time.",
+          "C5,C9",
+          "store",
+          "medium",
+          "Summer pit with partial remaining ice under straw; no icicles on every wall or full frozen chamber.",
+          null,
+          "Storage: slower losses",
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Third: ancient ice storage does not securely date every surviving dome. Particular buildings have their own histories.",
+          "C1",
+          "complex",
+          "wide",
+          "Presentational reconstruction of fixed historical complex with neutral light; no date inscription or imaginary ancient builders.",
+          null,
+          "Building dates and early origins are different questions",
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Our setting is Meybod around nineteen hundred, following a traditional process—not transplanting its dome into a much earlier century.",
+          "C0,C1",
+          "complex",
+          "medium",
+          "Same summer exterior and ordinary late-Qajar worker, no ancient imperial costume.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Once those mistakes are removed, the achievement remains impressive: use winter conditions to provide something desirable during summer heat.",
+          "C10",
+          "ice",
+          "object insert",
+          "Single irregular ice piece on shaded tray, slight wet edge, no glow.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "The making and the keeping solve different problems. Shallow outdoor water loses heat; the protected store limits later heat getting back in.",
+          "C2,C4,C5",
+          "diagram",
+          "graphic",
+          "Two side-by-side sections: outgoing heat above pond; reduced incoming heat through store insulation.",
+          null,
+          null,
+          "LOSE HEAT NOW • LIMIT HEAT LATER"
+        ],
+        [
+          "The process depends on weather, materials, water and human decisions. None can be replaced by enthusiasm for the past.",
+          "C4,C7,C10",
+          "pond",
+          "medium",
+          "Winter worker A tending shallow inlet, grounded practical scene, no heroic spotlight.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
+        ],
+        [
+          "Admire the engineering, while remembering the carrying, maintenance and uncertainty. People had to manage those too.",
+          "C7,C9",
+          "store",
+          "wide",
+          "Two workers at safe dry access ledge, remaining straw-covered summer stock below; ordinary scale and posture.",
+          "look-around",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "And then, months later, somebody asks for a cold drink. After all that effort, the final request sounds almost offensively simple.",
+          "C0,C10",
+          "drink",
+          "reaction",
+          "Plain cup on left table, small ice piece nearby, quiet right foreground.",
+          "shrug-smirk",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "The answer to ice in the desert was a whole sequence of jobs, arranged around the seasons instead of around a power socket.",
+          "C1,C7,C10",
+          "complex",
+          "wide",
+          "Summer fixed complex, basin dry, worker B at shaded doorway with tray, no electrical items.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Your little piece of ice has made the journey from a cold night to a hot day. That is the part worth remembering.",
+          "C0,C10",
+          "ice",
+          "object insert",
+          "Final ice piece on shaded tray, ordinary translucent edge and a few drops, no decorative snowflakes.",
+          "closeup-listening",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ],
+        [
+          "Which would you rather manage: freezing the supply in winter, or keeping enough for summer? The dome, unfortunately, cannot choose for you.",
+          "C0",
+          "door",
+          "reaction",
+          "Modest ice tray beside summer access opening, empty right foreground, no locals.",
+          "shrug-smirk",
+          null,
+          null,
+          {
+            "scope": "Meybod, around 1900; summer ice storage and use reconstruction"
+          }
+        ]
+      ]
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_reference_inspected",
+    "mode": "late_Qajar_everyday_clothing",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "scope": "Meybod, around1900; modest visitor to a working ice house, no official or royal status",
+    "garments": "Plain knee-length muted olive/brown outer robe over a cream collarless shirt and straight loose slate trousers; modest dark cloth waist tie; simple dark soft shoes. Long sleeves narrowed enough for ordinary work; no embroidery, metallic trim, huge sash, weapons, jewels or ceremonial headgear. Visitor's familiar hair remains visible; no change of ethnic identity or facial hair.",
+    "season_variants": "Use one consistent plain closed-front or modestly overlapping robe configuration in every pose. Moderate loose fit works for the illustrative visit in both seasons; no shot-dependent open/closed variant is required.",
+    "references": [
+      {
+        "url": "https://www.iranicaonline.org/articles/clothing-x/",
+        "locator": "Later nineteenth-century Qajar paragraphs: continued traditional robes, undergarments, trousers, ordinary vs court dress.",
+        "use": "Garment family and ordinary/court distinction, cross-checked with Sykes.127 photograph."
+      },
+      {
+        "url": "https://www.britishmuseum.org/collection/object/AA_Sykes-127",
+        "locator": "Sykes.127, Iran, c.1900; two men and a boy, photograph visually inspected 2026-10-09.",
+        "use": "Comparative plain layered coat/shirt/trouser silhouette. Not a named Meybod ice worker, no claim to colours from black-and-white image; do not copy head wraps or change Visitor identity."
+      }
+    ],
+    "native": "Create reviewed private pose PNGs and hashes in episodes/ice-in-the-desert/poses/poses.json; original pose names stay unchanged.",
+    "artwork_cost": "Quote one full-body and one close-up wardrobe reference if paid work is needed, plus exact number of used pose derivatives; local edits where adequate. No generation authorized during development."
+  },
+  "pronunciations": {
+    "status": "director_specified_not_voiced",
+    "entries": [
+      {
+        "term": "Meybod",
+        "say": "MAY-bod",
+        "note": "Two syllables; avoid May-board."
+      },
+      {
+        "term": "Yazd",
+        "say": "yazd",
+        "note": "One syllable, final zd audible."
+      },
+      {
+        "term": "yakhchal",
+        "say": "yakh-CHAAL",
+        "note": "Persian kh as a soft throaty sound; clear familiar-English delivery."
+      },
+      {
+        "term": "qanat",
+        "say": "kah-NAAT",
+        "note": "Say once with simple explanation."
+      }
+    ],
+    "rule": "Listen to pilot and every recurrence; retain correct spelling in captions."
+  },
+  "sound_plan": {
+    "status": "director_specified_not_generated_or_heard",
+    "music": "Existing theme understated, with space for physical work and the seasonal reveal.",
+    "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
+    "new_assets": [
+      {
+        "id": "thin_water",
+        "description": "Quiet shallow water flowing through an earthen channel; no electric pump or waterfall."
+      },
+      {
+        "id": "ice_crack",
+        "description": "One short subdued slab-of-ice crack, no glass smash or cinematic explosion."
+      },
+      {
+        "id": "straw_move",
+        "description": "Soft dry straw being arranged by hand."
+      },
+      {
+        "id": "tray_set",
+        "description": "Quiet wood tray placed on a rough wooden surface."
+      }
+    ],
+    "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance.",
+    "cues": [
+      {
+        "scene_id": "S015",
+        "asset": "thin_water",
+        "timing": "single quiet inlet cue during visible flowing water"
+      },
+      {
+        "scene_id": "S043",
+        "asset": "ice_crack",
+        "timing": "sync one visible breaking action only"
+      },
+      {
+        "scene_id": "S048",
+        "asset": "straw_move",
+        "timing": "sync worker arranging straw"
+      },
+      {
+        "scene_id": "S002",
+        "asset": "tray_set",
+        "timing": "sync tray being set down"
+      }
+    ],
+    "intentional_silence": [
+      "No cooling motor.",
+      "No magical icy whoosh.",
+      "No loud wind throughout every desert scene.",
+      "No false documentary crowd voices."
+    ]
+  },
+  "extra_specs": [],
+  "initial_review": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-09",
+    "coverage": "Read all 94 narration lines, claims, visual instructions, seasonal chronology, three thumbnail promises and contiguous Shorts. Inspected researchers' plan/storage section and period clothing photograph.",
+    "refutation": "Compared climate-model output against historical claim wording: no model yield, efficiency or melt percentage narrated. Confirmed pond north of east–west wall and store below ground. Kept winter production separate from summer storage, no 400 BCE dome date, no unlimited free access or hygiene guarantee.",
+    "findings": [
+      {
+        "id": "03-I01",
+        "issue": "Repeated narration in S049–S055",
+        "fix": "Separate melting observation, drainage, reservoir distinction, external use and top opening."
+      },
+      {
+        "id": "03-I02",
+        "issue": "S047 called a normal interior illustration a cutaway",
+        "fix": "Narration now describes the visible pit; explanatory cutaway stays local graphic S049."
+      },
+      {
+        "id": "03-I03",
+        "issue": "Some summer/winter shots inherited wrong location season",
+        "fix": "Explicit scene-level season scopes throughout the chronological and recap sequences."
+      },
+      {
+        "id": "03-I04",
+        "issue": "Wardrobe visual reference pending and unmapped seasonal robe variants",
+        "fix": "Inspected c.1900 British Museum photograph; one subdued garment configuration across all private poses."
+      },
+      {
+        "id": "03-I05",
+        "issue": "Thumbnail payoffs pointed to adjacent but irrelevant scenes",
+        "fix": "Corrected links to retrieval, harvesting and protected pit."
+      }
+    ],
+    "unresolved_director_issues": []
+  }
+}

@@ -1,0 +1,1222 @@
+{
+  "id": 16,
+  "slug": "song-china-night-out",
+  "title": "What Was a Night Out Like in China 900 Years Ago?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "You Go Out for Dinner in China, 1120. What Happens?",
+    "A Night Out in China Before Electricity"
+  ],
+  "period": "Kaifeng (Bianjing/Dongjing), Northern Song China, around 1120, an illustrative warm-season evening continuing toward dawn. Based on Meng Yuanlao's retrospective Dongjing meng Hua lu, not a diary of one date. Timber shop frames, restrained plaster walls, tiled roofs with plausible modest curvature, open-front stalls, small ceramic bowls, wooden tables and stools, lamps/candles with local pools of warm light. Everyday jackets, robes, trousers and practical cloth headwear, differentiated by work and means. Night exteriors remain dark beyond lit shops. Visitor uses the episode-private understated Song-inspired everyday jacket and trousers from wardrobe_spec.json.",
+  "avoid": "No Qing queues, Manchu court robes, dragon costume, modern qipao, Japanese kimono, Korean gat, fantasy palace street, red lantern on every beam, electric bulbs, neon, modern restaurant menu boards, forks, modern wine glasses, chili peppers, tomatoes, potatoes, modern beer bottles, chopsticks stuck upright in rice, floating roofs, impossible moonlight. No claim that all China, all households, or all streets stayed open all night. Do not turn a Song daytime painting into evidence of exact night illumination.",
+  "locations": {
+    "market": {
+      "scope": "Kaifeng around 1120, warm-season evening; illustrative district near Zhou Bridge",
+      "design": "Open-front timber food stalls along an ordinary street, modest tiled roofs, low counters, ceramic bowls and plain cloth awnings. Small oil-lamp/candle pools illuminate workers and customers; blue-dark sky remains. One fixed mutton stall at left, flatbread stall farther back; no repeating decorative lantern wall."
+    },
+    "restaurant": {
+      "scope": "Kaifeng around 1120; illustrative restaurant informed by Meng volume 4",
+      "design": "Timber-framed dining room with courtyard glimpse, plain wooden tables and stools, ceramic bowls, chopsticks and serving counter at rear. One server moves between tables and kitchen hatch. No exact named restaurant floor plan; no marble palace dining hall."
+    },
+    "kitchen": {
+      "scope": "Same illustrative Kaifeng restaurant, around 1120",
+      "design": "Rear work space linked to established dining room by hatch at left; cook prepares noodles and dishes over practical hearth. Distinct bowl contents for different orders. Few utensils, no gas range or stainless steel.",
+      "anchor_reference_scene_id": "S012"
+    },
+    "winehouse": {
+      "scope": "Kaifeng around 1120; exterior impression of Fengle wine house as described retrospectively",
+      "design": "Five connected timber building masses of three storeys around shared space, linked with plausible elevated bridges and rails. Restrained painted trim and warm windows; explain this is a reconstruction from text, not a surveyed floor plan. No palace throne, modern liquor bar, pagoda spire or improbable walkway."
+    },
+    "tea": {
+      "scope": "Kaifeng around 1120; Beishanzi teahouse-inspired illustrative garden",
+      "design": "Small tea setting with rockwork grotto and little bridge suggested by Meng's account, ceramic bowls on timber tables, restrained lamps. Exact placement invented and labelled reconstruction. No Japanese tea ceremony or modern teapot service imposed."
+    },
+    "entertainment": {
+      "scope": "Kaifeng around 1120; illustrative commercial entertainment precinct",
+      "design": "Modest covered timber performance shed with simple raised platform and standing/seated audience; neighbouring food seller at edge. Blank hanging sign panels, varied everyday clothes. No modern proscenium velvet, stadium, Qing opera makeup or microphone."
+    },
+    "shadow": {
+      "scope": "Kaifeng around 1120; schematic reconstruction of shadow entertainment listed by Meng",
+      "design": "Plain light screen with simple original flat silhouettes and a controlled lamp behind. Mechanism illustrative; no claim of surviving exact puppets, invented traditional masks or modern electrical projector. Keep puppet and shadow geometry physically coherent."
+    },
+    "late_street": {
+      "scope": "Same Kaifeng street later in the night",
+      "design": "Reuse market street geometry after some stalls close. One tea seller carries a small vessel; remaining lamps low and separated. Dark quiet lane beyond. No empty-city claim and no all-night daylight.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "dawn": {
+      "scope": "Same Kaifeng district approaching dawn",
+      "design": "Reuse market architecture under pale early sky; provision carriers, bakery preparation, a few lights still glowing. No bright noon sun or simultaneous moon and sun errors.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "memory": {
+      "scope": "Meng Yuanlao recalling earlier Kaifeng after leaving it; retrospective framing",
+      "design": "Quiet neutral writing desk with blank paper and brush, author represented only as an anonymous illustrative figure rather than a verified portrait. No invented personal appearance or room."
+    },
+    "detail": {
+      "scope": "Explanatory food and object details, Kaifeng around 1120",
+      "design": "Simple ceramic bowls, wooden chopsticks, flatbread, mutton pieces, noodles and sealed ceramic storage appropriate to the individual scene. No precise reconstructed recipe when source only names a dish."
+    },
+    "graphic": {
+      "scope": "Modern explanatory cards for source and chronology",
+      "design": "Channel parchment cards with locally drawn diagrams and checked English text; no generated lettering."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Meng Yuanlao, Dongjing meng Hua lu, preface",
+      "url": "https://zh.wikisource.org/zh-hant/東京夢華",
+      "read": "Complete preface read, including nostalgic framing, departure after warfare, hearsay/omission acknowledgement and Shaoxing dingmao date.",
+      "limit": "Retrospective memoir with declared selectivity, not a census or proof that everyone prospered."
+    },
+    {
+      "id": "SRC02",
+      "title": "Dongjing meng Hua lu, volume 2: night markets, streets and wine houses",
+      "url": "https://zh.wikisource.org/wiki/東京夢華錄/卷二",
+      "read": "Zhou Bridge night market; East Corner Tower streets; Panlou eastern streets; wine-house opening paragraphs read in Chinese.",
+      "limit": "Seasonal lists kept separate; third-watch wording not converted into a precise universal closing time. Grand wine-house description not every shop."
+    },
+    {
+      "id": "SRC03",
+      "title": "Dongjing meng Hua lu, volume 3: late markets, fire prevention and dawn",
+      "url": "https://zh.wikisource.org/wiki/東京夢華錄/卷三",
+      "read": "Maxing street shops, night/early reopening, late tea sellers, fire-prevention and dawn-market sections read.",
+      "limit": "Busy districts sometimes continuous; quiet streets differ. No precise modern clock equivalence or imaginary fire event."
+    },
+    {
+      "id": "SRC04",
+      "title": "Dongjing meng Hua lu, volume 4: restaurants and food trades",
+      "url": "https://zh.wikisource.org/wiki/東京夢華錄/卷四",
+      "read": "Restaurant ordering/service, regional specialities, mistakes and penalties, cake/bread shops and fish sections read.",
+      "limit": "Do not illustrate twenty bowls balanced on an arm as a reliably measured everyday norm; service anecdote attributed. No exact prices used."
+    },
+    {
+      "id": "SRC05",
+      "title": "Dongjing meng Hua lu, volume 5: performers in the capital",
+      "url": "https://zh.wikisource.org/wiki/東京夢華錄/卷五",
+      "read": "Complete Jingwa jiyi list through daily performances and music rehearsal paragraph.",
+      "limit": "Lists performers/genres, not a timetable for our fictional evening. No imported later Beijing opera costume."
+    },
+    {
+      "id": "SRC06",
+      "title": "Dorothee Schaab-Hanke, The Capital Behind the Capital (2011)",
+      "url": "https://www.schaab-hanke.de/publikationen/Schaab-Hanke_OE_50_2011_The_Capital_Behind_the_Capital.pdf",
+      "read": "PDF p4 (printed193), pp9–10 (198–199) relevant restaurant comparison and table p17 (206); text distinguishes early-12th-century Kaifeng from later Hangzhou.",
+      "limit": "Only read passages relied upon. Later Ducheng jisheng anecdotes not imported into Kaifeng. Translation of obscure food names not treated as a modern recipe."
+    },
+    {
+      "id": "SRC07",
+      "title": "Palace Museum: Zhang Zeduan, Along the River During the Qingming Festival",
+      "url": "https://www.dpm.org.cn/collection/paint/228226.html",
+      "read": "Object description and discussion of shops, varied social statuses and clothing read.",
+      "limit": "Song artwork is selected/composed representation, not a photographic street survey. Original Northern Song work, not a later Qing remake."
+    },
+    {
+      "id": "SRC08",
+      "title": "University of Washington, clothing in painting",
+      "url": "https://depts.washington.edu/chinaciv/clothing/11preqin.htm",
+      "read": "Song detail caption and social-status discussion read; linked 11qmsht1.jpg visually inspected.",
+      "limit": "Use only the Northern Song detail for this episode; other works on same page have different dates.",
+      "text_url": "https://depts.washington.edu/chinaciv/clothing/11qmsht1.jpg"
+    },
+    {
+      "id": "SRC09",
+      "title": "University of Washington, shops and commerce in the Song scroll",
+      "url": "https://depts.washington.edu/chinaciv/painting/turbcomm.htm",
+      "read": "Commerce introduction read; 4urbcom3.jpg visually inspected for timber shop/roof/street forms.",
+      "limit": "Daytime visual reference, not proof of exact street lighting or one specific shop at night.",
+      "text_url": "https://depts.washington.edu/chinaciv/painting/4urbcom3.jpg"
+    },
+    {
+      "id": "SRC10",
+      "title": "China Culture, Costume in the Song Dynasty",
+      "url": "https://en.chinaculture.org/library/2008-01/28/content_28394.htm",
+      "read": "Official versus casual garment paragraphs, common jacket/coat and coarse short jacket distinctions read.",
+      "limit": "General dynasty overview; restrained Visitor adaptation informed by period painting, not a claim of an exact surviving outfit."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "type": "F",
+      "claim": "Visitor's evening, food choices, route, reactions and companions are illustrative framing.",
+      "sources": [],
+      "locator": "Original narrative construction",
+      "limit": "No invented diary, price paid, exact timetable or named worker testimony."
+    },
+    {
+      "id": "C1",
+      "type": "E",
+      "claim": "Kaifeng was the Northern Song capital; Meng's memoir informs urban life around 1120 and was written retrospectively after leaving the city.",
+      "sources": [
+        "SRC01",
+        "SRC06",
+        "SRC07"
+      ],
+      "locator": "Preface; Schaab-Hanke printed193; museum object description",
+      "limit": "Frame around1120, not an exact evening in1147 or Southern Song Hangzhou."
+    },
+    {
+      "id": "C2",
+      "type": "E",
+      "claim": "The Zhou Bridge night-market section lists numerous foods and distinguishes summer from winter goods.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "州橋夜市",
+      "limit": "Use mutton and flatbread/noodles from appropriate sections; summer iced liquorice water only as named offering, not universal availability."
+    },
+    {
+      "id": "C3",
+      "type": "E",
+      "claim": "Some markets close at the third watch and reopen in the fifth; busy places continue through the night, with late tea sellers serving people returning late.",
+      "sources": [
+        "SRC03"
+      ],
+      "locator": "馬行街鋪席",
+      "limit": "No exact midnight/3am guarantee, universal24/7city or freedom from all curfew controls."
+    },
+    {
+      "id": "C4",
+      "type": "E",
+      "claim": "Meng describes Sichuan-style and southern-food restaurants among multiple kinds of eating establishments.",
+      "sources": [
+        "SRC04",
+        "SRC06"
+      ],
+      "locator": "食店; Schaab-Hanke printed199",
+      "limit": "No modern chili cuisine, identical modern dishes or all customers can afford all restaurants."
+    },
+    {
+      "id": "C5",
+      "type": "E",
+      "claim": "Servers ask diners for individual orders, including differing hot/cold preferences, then call those orders to the kitchen.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "食店 from 客坐 through 報與局內",
+      "limit": "Do not invent written modern menus, touchscreen, numbered tickets or verbatim spoken orders."
+    },
+    {
+      "id": "C6",
+      "type": "E",
+      "claim": "Meng praises remarkable bowl carrying and correct distribution; he says complaints about mistakes could lead to reprimands, wage penalties or dismissal.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "食店 service paragraph",
+      "limit": "Attribute to writer's account; no actual invented worker dismissal or every employer identical."
+    },
+    {
+      "id": "C7",
+      "type": "E",
+      "claim": "The Fengle wine-house description mentions five facing buildings, three storeys, connecting bridges/rails and bright lamps/candles.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "酒樓, 白礬樓/豐樂樓",
+      "limit": "Text-based impression, not measured plan; no distilled baijiu or modern wine bottles."
+    },
+    {
+      "id": "C8",
+      "type": "E",
+      "claim": "Beishanzi teahouse has a grotto and bridge in the account, and men/women visit at night to drink tea.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "潘樓東街巷, 北山子茶坊",
+      "limit": "Exact interior invented; no general claim all women could go everywhere freely."
+    },
+    {
+      "id": "C9",
+      "type": "E",
+      "claim": "Entertainment precincts contain performance sheds alongside food and other trades; the account lists storytelling, puppetry, shadow plays and physical feats.",
+      "sources": [
+        "SRC02",
+        "SRC05"
+      ],
+      "locator": "東角樓街巷; 京瓦伎藝",
+      "limit": "No exact capacity, ticket price, programme order, modern opera or generic circus."
+    },
+    {
+      "id": "C10",
+      "type": "E",
+      "claim": "Meng describes patrol posts and elevated fire watch with firefighting tools and personnel.",
+      "sources": [
+        "SRC03"
+      ],
+      "locator": "防火",
+      "limit": "No invented fire or claim the system prevented all fires; show buckets/ladders not modern engines."
+    },
+    {
+      "id": "C11",
+      "type": "E",
+      "claim": "At dawn, callers use iron plates or wooden fish instruments, markets open and food/tea/other provisions are sold; bread-shop work can be heard early.",
+      "sources": [
+        "SRC03",
+        "SRC04"
+      ],
+      "locator": "天曉諸人入市; 餅店",
+      "limit": "Avoid exact clock times or depicting a modern alarm bell. Use only visually validated instrument, otherwise narration over market image."
+    },
+    {
+      "id": "C12",
+      "type": "E",
+      "claim": "Meng explicitly recalls a lost city fondly and acknowledges second-hand reports, omissions and places he did not visit.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Preface final paragraphs",
+      "limit": "Do not claim his praise measures all residents' wellbeing."
+    },
+    {
+      "id": "C13",
+      "type": "I",
+      "claim": "The described night economy depends on vendors, cooks, servers and performers continuing to work while customers enjoy themselves.",
+      "sources": [
+        "SRC02",
+        "SRC03",
+        "SRC04",
+        "SRC05"
+      ],
+      "locator": "Synthesis of listed services",
+      "limit": "No invented wages, working hours, class proportions or claim everyone ate out."
+    },
+    {
+      "id": "C14",
+      "type": "E",
+      "claim": "Song visual evidence distinguishes everyday garments and statuses and shows ordinary timber shop forms.",
+      "sources": [
+        "SRC07",
+        "SRC08",
+        "SRC09",
+        "SRC10"
+      ],
+      "locator": "Museum text and inspected Song details",
+      "limit": "Visitor keeps modern identity; costume an understated adaptation, not an impersonation of ethnicity."
+    }
+  ],
+  "research": "# Research direction\n\nThe episode is one imagined warm-season night in Kaifeng around 1120. Its spine is food → demanding restaurant service → wine-house spectacle → tea and entertainment → the workers still awake → dawn. The primary memoir supplies concrete details and also its own warning: the author recalls a city he lost, admits hearsay and omissions, and is not surveying every household. Use short attributed explanations rather than claiming universal prosperity.\n\nRead the specified Chinese sections directly. Independent challenge: later Hangzhou material is explicitly excluded; the third and fifth watches are not exact modern clock times; Sichuan restaurants do not imply chili peppers; a daytime scroll is not proof of night lighting. The title's 900 years is deliberately approximate.\n\nThe Visitor's clothing is a restrained plain jacket and trousers derived from the inspected Northern Song everyday-clothing detail. No rank insignia, dragon silk, elaborate headwear or altered face. Keep his clothes less visually dominant than the food and street action.\n",
+  "description": "A late meal, a demanding restaurant order, a performance—and people still working as dawn approaches. Join an imagined night out in Kaifeng around 1120, guided by Meng Yuanlao's memories of the Northern Song capital.\n\nWe distinguish the memoir's descriptions from our reconstructed route and show why a lively night economy did not mean everyone shared the same comfortable life.",
+  "tags": [
+    "Song dynasty",
+    "Kaifeng",
+    "Chinese history",
+    "medieval China",
+    "history of food",
+    "night markets",
+    "daily life history",
+    "Northern Song",
+    "Meng Yuanlao",
+    "Life Previously"
+  ],
+  "pinned_comment": "Food stalls, a restaurant, a teahouse or a performance—which stop would keep you out longest?",
+  "pilot": [
+    "S001",
+    "S012",
+    "S036",
+    "S048",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "STILL OPEN?",
+      "chip": "CHINA · c.1120",
+      "scope": "Illustrative warm-season Kaifeng night market",
+      "pose": "eyebrow-raise",
+      "background": "A warmly lit small noodle/food stall left with one bowl and cook, deep blue dark street behind. A few waiting customers, no lantern wall. Visitor in subtle episode outfit at right; no modern sign or clock.",
+      "rationale": "Immediate relatable late-night food question with a visibly historical setting; darkness versus warm stall is readable small.",
+      "payoff_scene_ids": [
+        "S001",
+        "S009",
+        "S061",
+        "S073"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "YOUR ORDER?",
+      "chip": "KAIFENG · c.1120",
+      "scope": "Restaurant scene based on Meng volume4",
+      "pose": "closeup-worried",
+      "background": "Server at left with three manageable bowls, one steaming and another without steam, facing a diner. No huge impossible tower or modern menu. Visitor at right in understated jacket.",
+      "rationale": "Human pressure and choice carry the hook; the service chapter pays it off.",
+      "payoff_scene_ids": [
+        "S025",
+        "S026",
+        "S030",
+        "S032"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "ONE MORE STOP",
+      "chip": "A SONG DYNASTY NIGHT OUT",
+      "scope": "Illustrative Kaifeng nightlife",
+      "pose": "closeup-smile",
+      "background": "Small lit tea table and covered performance entrance on left separated by dark street; one dominant point of light, no split into many tiny panels.",
+      "rationale": "Suggests a sequence of tempting stops without promising an exact historical itinerary.",
+      "payoff_scene_ids": [
+        "S045",
+        "S049",
+        "S060"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "A restaurant order in China, 900 years ago",
+      "from_scene": "S025",
+      "to_scene": "S031",
+      "hook": "Hot, cold, or prepared another way? The server had to remember.",
+      "description": "Meng Yuanlao describes individual restaurant orders in early-twelfth-century Kaifeng. The diners shown are an illustrative reconstruction."
+    },
+    {
+      "title": "The night market did not mean everyone was partying",
+      "from_scene": "S061",
+      "to_scene": "S067",
+      "hook": "For somebody else, your late snack was still work.",
+      "description": "A look at the workers behind Kaifeng's late markets, grounded in Dongjing meng Hua lu."
+    },
+    {
+      "title": "What could you watch in Song China?",
+      "from_scene": "S051",
+      "to_scene": "S057",
+      "hook": "Storytelling, puppets and shadow plays were part of the city's entertainment.",
+      "description": "The memoir lists these performance forms; this is an imagined visit, not a recovered programme."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_reference_inspected",
+    "mode": "episode_private_traditional_variant",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "selection": "Plain muted ochre-brown, hip-to-upper-thigh everyday wrap jacket with modest sleeves and a narrow cloth tie, slate loose trousers and simple dark cloth shoes. No hat for the Visitor; preserve his approved hairstyle.",
+    "historical_basis": "Northern Song everyday short jackets/trousers in the inspected Qingming scroll detail, supported by common jacket/coarse short jacket discussion. This is a restrained adaptation for the recurring character, not an exact named outfit.",
+    "references": [
+      "https://depts.washington.edu/chinaciv/clothing/11qmsht1.jpg",
+      "https://depts.washington.edu/chinaciv/clothing/11preqin.htm",
+      "https://en.chinaculture.org/library/2008-01/28/content_28394.htm"
+    ],
+    "identity_lock": "Same face, skin tone, hair, proportions, linework and expression. No eye reshaping, beard, queue, ethnicity transformation, imperial symbols or exaggerated sleeves.",
+    "continuity": "One approved private outfit across all selected poses and thumbnails. Fit folds to pose without altering anatomy; no orange hoodie visible underneath. Muted colour stays secondary to scene.",
+    "production_review": "Inspect a standing and a close-up derivative before other variants; compare full size and in scene. Use local derivatives registry and hashes. No modification of shared pose masters."
+  },
+  "pronunciations": {
+    "status": "director_guide_voice_listening_pending",
+    "entries": [
+      {
+        "term": "Kaifeng",
+        "say": "KAI-fung",
+        "note": "Mandarin Kāifēng; natural English narration, no comic accent."
+      },
+      {
+        "term": "Meng Yuanlao",
+        "say": "mung ywen-laow",
+        "note": "孟元老; confirm voice take against Mandarin pronunciation, not phonetic text inserted into captions."
+      },
+      {
+        "term": "Song",
+        "say": "soong",
+        "note": "Dynasty name 宋."
+      },
+      {
+        "term": "Fengle",
+        "say": "fung-luh",
+        "note": "豐樂; omit from narration if unnecessary."
+      }
+    ],
+    "rule": "Keep original spelling in on-screen sources; listen to actual voice output before acceptance."
+  },
+  "sound_plan": {
+    "status": "direction_ready_assets_unselected",
+    "music": "Channel theme low, with sparse original room/street texture; avoid generic oriental gong or modern restaurant music.",
+    "mix": "Narrator remains dominant; layered crowd texture very low and without intelligible invented Chinese dialogue.",
+    "new_assets": [
+      {
+        "id": "bowl_set",
+        "description": "Soft ceramic bowl touching wood."
+      },
+      {
+        "id": "quiet_market",
+        "description": "Restrained indistinct outdoor market ambience, no vehicles."
+      },
+      {
+        "id": "soft_footsteps",
+        "description": "A few quiet steps on firm ground."
+      }
+    ],
+    "acquisition": "Use inspected licensed existing effects or original Foley. No unapproved paid assets.",
+    "cues": [
+      {
+        "scene_id": "S025",
+        "asset": "bowl_set",
+        "timing": "Brief as order scene begins."
+      },
+      {
+        "scene_id": "S061",
+        "asset": "soft_footsteps",
+        "timing": "Quiet transition to later street."
+      }
+    ],
+    "intentional_silence": [
+      "S069",
+      "S070"
+    ]
+  },
+  "chapters": [
+    {
+      "title": "The city is still serving",
+      "scenes": [
+        [
+          "It is dark, you are hungry, and the street ahead is still selling dinner. Welcome to a night out in China, nine centuries ago.",
+          "C0,C2,C3",
+          "market",
+          "wide",
+          "Warm food stall at left with cook, bowls and two customers; deep blue evening beyond, quiet right foreground for Visitor.",
+          "look-around"
+        ],
+        [
+          "There are no electric signs to follow. A pool of lamplight, a cooking stall, and people waiting can make the invitation perfectly clear.",
+          "C0,C2",
+          "market",
+          "medium",
+          "Cook tends modest hearth under timber stall; local lamp warms counter and faces while nearby street stays dark.",
+          null
+        ],
+        [
+          "We are in Kaifeng around eleven twenty, the capital of the Northern Song. Our guide is a man remembering the city he knew.",
+          "C1",
+          "graphic",
+          "graphic",
+          "Simple original China location map with Kaifeng dot, no modern national boundary claim or decorative pagodas.",
+          null,
+          null,
+          "KAIFENG · NORTHERN SONG · c.1120"
+        ],
+        [
+          "Meng Yuanlao later wrote about its streets, food, shops and entertainments. His memories give us a remarkable way into an ordinary evening.",
+          "C1,C12",
+          "memory",
+          "medium",
+          "Anonymous illustrative writer at quiet desk with brush and blank sheets; no claimed portrait likeness.",
+          null,
+          "Meng Yuanlao · Dongjing meng Hua lu"
+        ],
+        [
+          "Our route is invented, but the things drawing us along it come from his account. First food. Then perhaps one more stop.",
+          "C0,C2,C9",
+          "graphic",
+          "graphic",
+          "Four simple stops as narrative order only: market, restaurant, entertainment, dawn. No false walking-distance map.",
+          null,
+          null,
+          "AN IMAGINED EVENING · DESCRIBED PLACES AND PRACTICES"
+        ],
+        [
+          "The first problem is choosing. Near Zhou Bridge, Meng lists enough snacks and dishes to make a hungry visitor dangerously indecisive.",
+          "C0,C2",
+          "market",
+          "medium",
+          "Three distinct modest offerings at established stall: mutton pieces, flatbread nearby and a bowl; no huge banquet pile.",
+          "overwhelmed"
+        ],
+        [
+          "We can find mutton being cooked and other ready-to-eat food. This is a place to buy something, rather than cook it ourselves.",
+          "C2",
+          "market",
+          "close-up",
+          "Cook turns small mutton pieces over hearth with simple utensil; no chilli, tomatoes or modern grill grate.",
+          null
+        ],
+        [
+          "Farther into his descriptions come flatbreads, noodles, different eating houses and regional specialities. Dinner is not one identical bowl for everybody.",
+          "C2,C4",
+          "detail",
+          "close-up",
+          "Three separate simple dishes: flatbread, plain noodles and mutton bowl. Original illustration, no exact recipe claim.",
+          null
+        ],
+        [
+          "And the evening has time to develop. Meng says night markets can continue well into the night, with the busiest places continuing until dawn.",
+          "C3",
+          "market",
+          "wide",
+          "Several separated lit shops on established street under dark sky, not every building open or illuminated.",
+          null,
+          "Meng, volume 3 · night markets"
+        ],
+        [
+          "That does not mean every street is a party. His account also distinguishes quieter places, and people coming home late from their business.",
+          "C3",
+          "late_street",
+          "wide",
+          "Same district with one darker side lane and a late pedestrian, food light visible behind; preserve street geometry.",
+          "glance-nervous"
+        ],
+        [
+          "For us, the next decision is pleasantly simple. Eat standing near a stall, or go inside and let somebody take our order?",
+          "C0,C2,C5",
+          "market",
+          "medium",
+          "Customer considers stall and nearby restaurant doorway, clear distance and modest buildings; no modern menu board.",
+          null
+        ],
+        [
+          "Let us try a table. There is a surprise waiting there: the customer may be considerably more demanding than we expected.",
+          "C0,C5",
+          "restaurant",
+          "wide",
+          "Diners at simple tables, server moving toward one group, rear serving hatch established. Visitor stays on clear floor.",
+          "eyebrow-raise"
+        ]
+      ]
+    },
+    {
+      "title": "A city with more than one dinner",
+      "scenes": [
+        [
+          "Inside, the meal need not be whatever one large pot happens to contain. Meng describes restaurants offering different foods and preparations.",
+          "C4,C5",
+          "restaurant",
+          "medium",
+          "Two tables receive visibly different simple bowls; one noodles, one meat dish, no identical cloned meals.",
+          null
+        ],
+        [
+          "He mentions Sichuan-style restaurants and establishments serving southern food. People could encounter regional differences without leaving the capital for another province.",
+          "C4",
+          "graphic",
+          "graphic",
+          "Two locally typeset restaurant categories beside neutral bowls, no modern provincial borders or chilli icons.",
+          null,
+          null,
+          "SICHUAN-STYLE · SOUTHERN FOOD"
+        ],
+        [
+          "Those names are not permission to put a modern takeaway menu on the table. We are following the dishes and choices in this source.",
+          "C4",
+          "detail",
+          "close-up",
+          "Plain noodle and fish dishes beside chopsticks; no takeout carton, fortune cookie, chilli or plastic tray.",
+          null
+        ],
+        [
+          "The important point is the range. A city meal could involve choosing an establishment, then choosing what you wanted it to prepare.",
+          "C4,C5",
+          "restaurant",
+          "wide",
+          "Customer at table watches server approach, another table eating; differing choices visible without textual menu.",
+          "closeup-thoughtful"
+        ],
+        [
+          "At the street stalls, the season changes the offer too. Meng gives separate summer and winter lists near Zhou Bridge.",
+          "C2",
+          "graphic",
+          "graphic",
+          "Summer bowl and winter hearth icons separated with explicit season labels; not one simultaneous stall inventory.",
+          null,
+          null,
+          "THE OFFER CHANGES WITH THE SEASON"
+        ],
+        [
+          "His summer list even includes iced cooling drinks, among them liquorice water. A warm evening could have its own cold temptation.",
+          "C2",
+          "detail",
+          "close-up",
+          "Small ceramic drinking bowl near a modest chilled vessel, restrained indication of cold; no modern ice cubes or fridge.",
+          null,
+          "Summer offerings · Meng, volume 2"
+        ],
+        [
+          "We are not reconstructing the exact recipe, or promising every passer-by could buy one. It is a named offering in his account.",
+          "C2",
+          "detail",
+          "medium",
+          "Drink displayed simply with source-caption space; no modern ingredients list, price or health claim.",
+          null
+        ],
+        [
+          "That variety is part of the pleasure of reading him. He remembers particular foods, particular places, and the choices between them.",
+          "C2,C4,C12",
+          "memory",
+          "close-up",
+          "Anonymous writer's hand beside blank page; small original food vignettes added locally around page, not actual handwriting.",
+          null
+        ],
+        [
+          "It is also a reason to be careful. A long list of things for sale does not tell us what every household could afford.",
+          "C12,C13",
+          "market",
+          "wide",
+          "Customers and workers vary in restrained clothing and activity; no automatic identical wealth or extravagant feast.",
+          null
+        ],
+        [
+          "For tonight's imagined visit, we have chosen a modest meal. The server arrives, and our simple order joins everybody else's particular instructions.",
+          "C0,C5",
+          "restaurant",
+          "medium",
+          "Server beside one table holding small slip/paper and chopsticks only if visually workable; no readable writing or modern pad.",
+          null
+        ],
+        [
+          "Somebody wants one preparation. Another wants something different. The challenge is not merely carrying a bowl. It is remembering whose bowl is whose.",
+          "C5,C6",
+          "restaurant",
+          "medium",
+          "Two diners gesture modestly toward distinct bowl positions; server attentive, no speech text painted.",
+          "closeup-worried"
+        ],
+        [
+          "Meng takes us close enough to hear the process: orders gathered at the tables, then called toward the kitchen for preparation.",
+          "C5",
+          "kitchen",
+          "wide",
+          "Server faces serving hatch, cook behind it listens; same hatch orientation as dining-room anchor.",
+          null,
+          "Meng, volume 4 · restaurants"
+        ]
+      ]
+    },
+    {
+      "title": "Your order is somebody else's test",
+      "scenes": [
+        [
+          "The server asks each diner what they want. Hot, cold, or prepared another way: Meng describes customers making their own particular requests.",
+          "C5",
+          "restaurant",
+          "medium",
+          "Server beside table, three distinct small bowl icons as local overlay for different requests, no literal dialogue.",
+          null
+        ],
+        [
+          "Those choices have to reach the kitchen. The server calls them out, so the people preparing the food know what has been asked for.",
+          "C5",
+          "kitchen",
+          "medium",
+          "Server speaks toward cook across hatch; no shouting caricature, cooking fire safely behind cook.",
+          null
+        ],
+        [
+          "Then the dishes must return to the right customers. Several tables can become several small tests of memory, balance and attention.",
+          "C5,C6",
+          "restaurant",
+          "wide",
+          "Server carries three manageable bowls toward diners, clear route between tables. No impossible twenty-bowl tower.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Meng admires astonishing feats of bowl carrying. We do not need to stage an impossible balancing act to understand why the skill mattered.",
+          "C6",
+          "detail",
+          "close-up",
+          "Three bowls securely supported with plausible hand positions; no extra fingers, stacking on head or shoulders.",
+          null
+        ],
+        [
+          "Imagine waiting for a hot dish and receiving the wrong order. For the customer, a disappointment. For the server, potentially something worse.",
+          "C0,C6",
+          "restaurant",
+          "medium",
+          "Illustrative diner pauses over bowl while server checks table; no claim this actual incident happened.",
+          null
+        ],
+        [
+          "The writer says a complaint could bring a reprimand, a loss of wages, or even dismissal. Correct service came with pressure behind it.",
+          "C6",
+          "graphic",
+          "graphic",
+          "Brief attributed source card, neutral list of possible consequences without coins or invented wage amount.",
+          null,
+          null,
+          "MENG DESCRIBES PENALTIES FOR MISTAKES"
+        ],
+        [
+          "That is his account, rather than a rule we can impose on every employer. But it changes how we watch the room.",
+          "C6",
+          "restaurant",
+          "medium",
+          "Server carefully sets correct bowl before diner; kitchen staff visible beyond hatch, calm serious focus.",
+          null
+        ],
+        [
+          "Our evening feels leisurely because somebody else is concentrating. A complicated order gives the customer choice and gives the worker more to remember.",
+          "C5,C6,C13",
+          "restaurant",
+          "wide",
+          "Diners settled and eating while server moves through clear aisle; Visitor listens at edge.",
+          "closeup-listening"
+        ],
+        [
+          "So when our bowl arrives, let us at least know what we asked for. The person carrying it has enough to keep track of.",
+          "C0,C5,C6",
+          "detail",
+          "close-up",
+          "Single noodle bowl set on table beside correctly placed chopsticks; no hand clipping through ceramic.",
+          null
+        ],
+        [
+          "The scene feels surprisingly recognisable: different tastes, a busy kitchen, and somebody trying to get dinner to the right person while it matters.",
+          "C5,C13",
+          "kitchen",
+          "medium",
+          "Cook passes one bowl through established hatch while another awaits preparation, coherent progression of food.",
+          null
+        ],
+        [
+          "Still, dinner is only one part of the city after dark. Outside, some establishments are trying to impress you before you even enter.",
+          "C7",
+          "restaurant",
+          "wide",
+          "View from dining-room doorway toward distant warmly lit building, without changing interior layout.",
+          null
+        ],
+        [
+          "A grand wine house offers a different scale of night out. Our next stop is a look at that spectacle from outside.",
+          "C0,C7",
+          "winehouse",
+          "wide",
+          "Text-based reconstruction of linked timber buildings, warm upper windows and modest elevated walkways, dark sky.",
+          "look-up-worried"
+        ]
+      ]
+    },
+    {
+      "title": "The expensive-looking part of the evening",
+      "scenes": [
+        [
+          "Meng describes the Fengle wine house with facing buildings, three storeys, connecting bridges and railings. Lamps and candles make the place shine.",
+          "C7",
+          "winehouse",
+          "wide",
+          "Five plausible connected building masses arranged around shared space; visible bridges have supported ends and rails.",
+          null,
+          "Fengle wine house · reconstruction from Meng, volume 2"
+        ],
+        [
+          "This is an impression built from his words. We do not possess a floor plan that lets us place every stair and doorway.",
+          "C7",
+          "graphic",
+          "graphic",
+          "Simple labelled massing sketch, clearly an interpretation of text rather than excavated plan.",
+          null,
+          null,
+          "A RECONSTRUCTION FROM DESCRIPTION"
+        ],
+        [
+          "But the contrast with a modest food stall is real in the account. Some businesses sell a setting as well as something to consume.",
+          "C2,C7,C13",
+          "winehouse",
+          "medium",
+          "Warm upper balcony and entrance seen from street, a few well-dressed patrons, no imperial throne or palace guard.",
+          null
+        ],
+        [
+          "Imagine arriving here after a quick snack outside. The light, height and activity make a different kind of invitation to spend the evening.",
+          "C0,C7",
+          "winehouse",
+          "street-level",
+          "Low view toward linked upper levels, correct scale and restrained warm light; Visitor small at right.",
+          "overwhelmed"
+        ],
+        [
+          "We can admire it without pretending our imagined visitor has booked the finest room, or that every city resident could afford the same experience.",
+          "C0,C12",
+          "winehouse",
+          "medium",
+          "Visitor observes exterior while patrons enter; no gold payment, reserved table or invented admission price.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Meng's city contains choices at different scales. A stall, a table, a grand establishment: they should not all look like the same luxurious hall.",
+          "C2,C4,C7",
+          "graphic",
+          "graphic",
+          "Three original silhouette comparisons: open stall, modest room, multi-level wine house; no price rankings.",
+          null,
+          null,
+          "DIFFERENT PLACES · DIFFERENT EXPERIENCES"
+        ],
+        [
+          "Nor should the whole street glow like a festival decoration. Light belongs to lamps, candles and the places where people are using them.",
+          "C7",
+          "winehouse",
+          "wide",
+          "Lit windows and entrance fade into genuine dark street; no sky-filling glow or decorative lantern strings.",
+          null
+        ],
+        [
+          "Beyond those pools of light, our route grows quieter. We have eaten. We have looked at the grander night out. What about tea?",
+          "C0,C8",
+          "late_street",
+          "wide",
+          "Dark street transition with modest lit teahouse ahead; same architectural vocabulary, no sudden palace avenue.",
+          "step-forward"
+        ],
+        [
+          "Meng mentions a teahouse with a grotto and a bridge, and people visiting at night to drink tea. Another setting for lingering.",
+          "C8",
+          "tea",
+          "wide",
+          "Small rockwork grotto and short safe bridge beside simple tea area, restrained lamps, mixed adult visitors.",
+          null,
+          "Beishanzi teahouse · Meng, volume 2"
+        ],
+        [
+          "The exact arrangement here is imagined. The garden-like features and nighttime visits come from his description, rather than from a modern themed restaurant.",
+          "C0,C8",
+          "tea",
+          "medium",
+          "Visitors sit at plain timber table with ceramic tea bowls; no modern elaborate tea ceremony or themed signage.",
+          null
+        ],
+        [
+          "For our evening, it offers a pause. Sit a moment, look around, and decide whether this is finally the last stop.",
+          "C0,C8",
+          "tea",
+          "close-up",
+          "Two small ceramic bowls on table, soft lamp light and rockwork blurred behind; Visitor remains a standing close-up composite.",
+          "closeup-smile"
+        ],
+        [
+          "Of course, somewhere nearby there is entertainment. Our sensible plan to go home has just acquired one more complication.",
+          "C0,C9",
+          "entertainment",
+          "wide",
+          "Simple covered performance shed with audience gathering; food seller at side, no grand theatre facade.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Choosing what to watch",
+      "scenes": [
+        [
+          "The commercial entertainment districts in Meng's account are places where different activities gather together. Watching a performance need not be an isolated event.",
+          "C9",
+          "entertainment",
+          "wide",
+          "Performance shed at left, small food seller and ordinary pedestrians nearby; no fifty-stage crowd spectacle.",
+          null
+        ],
+        [
+          "Food, other sellers and amusements share the district. You can see how an intended brief visit might become a much longer one.",
+          "C0,C9",
+          "entertainment",
+          "medium",
+          "Visitor looks between stage entrance and snack stall; both modest and legible, no invented ticket price.",
+          "eyebrow-raise"
+        ],
+        [
+          "Meng names performers and kinds of performance. Storytelling, puppetry, shadow plays and physical feats all appear in the city's repertoire.",
+          "C9",
+          "graphic",
+          "graphic",
+          "Four simple original icons: storyteller, puppet, shadow screen, balanced acrobat silhouette. No modern opera mask.",
+          null,
+          null,
+          "STORIES · PUPPETS · SHADOWS · PHYSICAL SKILL"
+        ],
+        [
+          "This is a list of possibilities, not a recovered programme for our particular night. We are choosing an illustrative stop from that wider world.",
+          "C0,C9",
+          "entertainment",
+          "medium",
+          "Audience faces simple platform, no readable programme board or specific named performer likeness.",
+          null
+        ],
+        [
+          "A storyteller needs no giant painted battlefield for an audience to follow a story. The attraction can be the telling itself.",
+          "C0,C9",
+          "entertainment",
+          "medium",
+          "Anonymous storyteller gestures on modest platform toward attentive adults; no literal historical battle appearing behind.",
+          null
+        ],
+        [
+          "We are not inventing his words or borrowing a later script. The image shows the form, while the source tells us it belonged here.",
+          "C0,C9",
+          "entertainment",
+          "close-up",
+          "Storyteller's open hand and audience faces, no subtitle presenting an invented quotation.",
+          null
+        ],
+        [
+          "Another option is a shadow performance. Light, a screen and moving figures create something very different from the busy street outside.",
+          "C9",
+          "shadow",
+          "wide",
+          "Simple screen with two modest original silhouettes, lamp behind safely separated, audience in front; no electric projector.",
+          null
+        ],
+        [
+          "The mechanics shown are explanatory. We do not claim these are the exact puppets or characters that a named Kaifeng audience watched.",
+          "C0,C9",
+          "shadow",
+          "side-view",
+          "Schematic side cutaway: controlled light behind flat figure, shadow on screen, viewers opposite. All labels local.",
+          null
+        ],
+        [
+          "For the Visitor, a small stage is enough. For the person giving the performance, our entertainment is skilled work that has to hold attention.",
+          "C0,C9,C13",
+          "entertainment",
+          "medium",
+          "Performer gestures while audience watches, no exaggerated applause or coins flying through air.",
+          "closeup-listening"
+        ],
+        [
+          "And there are other attractions waiting if attention wanders. A district with many things happening can keep offering another reason to stay.",
+          "C9,C13",
+          "entertainment",
+          "wide",
+          "Adjacent modest shed and food seller beyond current audience; no impossible infinite street of stages.",
+          null
+        ],
+        [
+          "We have now eaten, browsed the brighter streets, taken tea and watched a performance. The evening has acquired an impressive number of endings.",
+          "C0",
+          "graphic",
+          "graphic",
+          "Our four-stop itinerary marked as imagined, each icon complete; no map distance or clock times.",
+          null,
+          null,
+          "JUST ONE MORE STOP"
+        ],
+        [
+          "There is still the walk home. And if we become hungry again, the late-night city may not have finished offering things to buy.",
+          "C0,C3",
+          "late_street",
+          "wide",
+          "One remaining food light in street, another shuttered shop; dark sky and fewer pedestrians than earlier.",
+          "look-around"
+        ]
+      ]
+    },
+    {
+      "title": "The people still working",
+      "scenes": [
+        [
+          "Late customers are not all out for pleasure. Meng explains that people returning late from their affairs create a market for tea sellers.",
+          "C3",
+          "late_street",
+          "medium",
+          "Tea seller with small vessel serves a plainly dressed late pedestrian; no revelry or invented drunkenness.",
+          null,
+          "Meng, volume 3 · late tea sellers"
+        ],
+        [
+          "That detail changes the mood of the street. Someone else's night out can overlap with your late journey back from work or business.",
+          "C3,C13",
+          "late_street",
+          "wide",
+          "One pair strolling and one worker returning with empty carrying gear, modest distinction without invented biographies.",
+          null
+        ],
+        [
+          "The cook at the stall is also still cooking. The server at the table is still remembering orders. The performer is still performing.",
+          "C5,C9,C13",
+          "graphic",
+          "graphic",
+          "Three simple framed callbacks to approved cook, server and performer; no new costumes or unrelated workplaces.",
+          null,
+          null,
+          "SOMEBODY IS STILL WORKING"
+        ],
+        [
+          "A lively night economy requires more than people enjoying themselves. It requires people preparing, carrying, serving and keeping those activities going.",
+          "C13",
+          "market",
+          "medium",
+          "Cook tidies bowls while another customer approaches, practical work in small light pool; no celebratory montage.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Meng's account also describes fire watch and firefighting equipment. With shops, homes and flames close together, the city had something serious to watch for.",
+          "C10",
+          "late_street",
+          "wide",
+          "Modest elevated watch structure beyond roofs with observer silhouette; local street watch below, no active fire.",
+          null,
+          "Fire prevention · Meng, volume 3"
+        ],
+        [
+          "Buckets and ladders belong in that description. A modern fire engine does not. Neither does an invented blaze just to make our evening exciting.",
+          "C10",
+          "detail",
+          "close-up",
+          "Plain water buckets, rope and ladder stored neatly; period-compatible wood and fibre, no hose reel or red metal truck.",
+          null
+        ],
+        [
+          "We do not need a disaster to see the work behind the scene. Even a pleasant evening depends on people paying attention.",
+          "C10,C13",
+          "late_street",
+          "medium",
+          "Watch figure observes street while tea seller serves customer below; calm and grounded.",
+          null
+        ],
+        [
+          "And we should remember who is telling us about it. Meng is looking back fondly, after warfare forced him away from the city.",
+          "C1,C12",
+          "memory",
+          "medium",
+          "Anonymous writer at desk with faint locally composed street vignette as memory device, not supernatural apparition.",
+          null
+        ],
+        [
+          "His preface admits places he never visited, things learned from other people, and gaps that others might help him fill.",
+          "C12",
+          "graphic",
+          "graphic",
+          "Short faithful paraphrase of preface admission with source; no invented direct English quote.",
+          null,
+          null,
+          "MEMORY · SECOND-HAND REPORTS · ACKNOWLEDGED GAPS"
+        ],
+        [
+          "That makes him a valuable guide, not an all-seeing camera. We can enjoy the details while keeping the limits in view.",
+          "C12",
+          "memory",
+          "close-up",
+          "Blank manuscript beside brush and simple lamp, no fake Chinese characters; source note lower area.",
+          null
+        ],
+        [
+          "A city full of desirable things is not proof that everybody lived well. Its pleasures and its labour belong in the same picture.",
+          "C12,C13",
+          "market",
+          "wide",
+          "Late customer receives bowl as worker clears another table; modest varied clothing, no universal luxury.",
+          null
+        ],
+        [
+          "For our imagined visitor, though, one final decision remains. Go home now, or stay long enough to see the next day begin?",
+          "C0",
+          "late_street",
+          "medium",
+          "Visitor looks down street where darkest blue begins to pale slightly; no sunrise yet.",
+          "glance-nervous"
+        ]
+      ]
+    },
+    {
+      "title": "When the evening becomes tomorrow",
+      "scenes": [
+        [
+          "Meng says some markets close and reopen in the early hours, while the busiest places can keep going through the night.",
+          "C3",
+          "graphic",
+          "graphic",
+          "Simple dark-to-pale sequence with some stalls closing/reopening and one continuous light. No exact modern clock.",
+          null,
+          null,
+          "SOME CLOSE AND REOPEN · SOME CONTINUE"
+        ],
+        [
+          "He describes the third and fifth watches. We need not force those night divisions into one exact clock time for every season.",
+          "C3",
+          "graphic",
+          "graphic",
+          "Five abstract night segments labelled watch divisions, with no fabricated hour labels; explain approximate sequence only.",
+          null,
+          null,
+          "NIGHT WATCHES · NOT ONE FIXED MODERN TIMETABLE"
+        ],
+        [
+          "So our evening does not end with a switch that turns the whole city off. Different people and businesses have different rhythms.",
+          "C3,C13",
+          "late_street",
+          "wide",
+          "Some shutters closed, one tea stall active, another vendor begins setting up; preserve established architecture.",
+          null
+        ],
+        [
+          "As dawn approaches, Meng describes callers announcing the morning, people rising, markets opening, and food and drink already being sold.",
+          "C11",
+          "dawn",
+          "wide",
+          "Same street under pale pre-sunrise sky; market preparation begins, a few lamps remain. No unverified instrument close-up.",
+          null,
+          "Dawn markets · Meng, volume 3"
+        ],
+        [
+          "The bread shops have their own early sounds of work. The next day's appetite arrives before our imagined night out feels quite finished.",
+          "C11",
+          "dawn",
+          "medium",
+          "Baker prepares dough at timber bench near oven, modest roof and bowls; no modern loaf tin or bakery machinery.",
+          null
+        ],
+        [
+          "That is the final surprise. Stay out long enough, and the people beginning their day can replace the people ending their evening.",
+          "C0,C3,C11",
+          "dawn",
+          "wide",
+          "Late pedestrian moves away while two provision carriers approach, distinct figures with practical carrying loads.",
+          null
+        ],
+        [
+          "We came expecting a distant city. Instead, we found familiar decisions: what to eat, where to sit, what to watch, and when to leave.",
+          "C0,C2,C5,C9",
+          "graphic",
+          "graphic",
+          "Four clean original icons from episode, warm-to-cool palette; no modern city comparison footage.",
+          null,
+          null,
+          "EAT · SIT · WATCH · STAY?"
+        ],
+        [
+          "The familiar feeling should not erase the differences. These streets, foods, buildings and performances belong to a particular place and a particular historical account.",
+          "C1,C12,C14",
+          "dawn",
+          "wide",
+          "Broad final view of modest Northern Song street forms, varied everyday clothing, no generic Asian palace skyline.",
+          null
+        ],
+        [
+          "Nor should it hide the people making the evening possible. Somebody cooked the meal, carried the bowl, and kept the audience listening.",
+          "C13",
+          "restaurant",
+          "medium",
+          "Earlier-night callback to server and cook through fixed hatch; explicit recap transition avoids returning dawn to night unnoticed.",
+          null,
+          null,
+          null,
+          {
+            "frame": "Earlier-night callback"
+          }
+        ],
+        [
+          "Meng remembered a city worth describing in all that detail. Our imaginary night is only one way of following the invitations he left.",
+          "C0,C12",
+          "memory",
+          "medium",
+          "Anonymous writer beside blank pages, small source title composed locally, no exact portrait claim.",
+          null
+        ],
+        [
+          "Would you stop at the food stall, settle into the teahouse, or lose another hour to a performance before finally heading home?",
+          "C0,C9",
+          "dawn",
+          "medium",
+          "Visitor looks toward waking street, no tired caricature or oversized costume; pale light and quiet background.",
+          "eyebrow-raise"
+        ],
+        [
+          "Our sensible answer was one quick meal. Kaifeng had other possibilities. By the time we finished looking, somebody was already preparing breakfast.",
+          "C0,C11",
+          "dawn",
+          "wide",
+          "Baker and early food seller begin work in same street, Visitor small in foreground; calm final image.",
+          null
+        ]
+      ]
+    }
+  ],
+  "extra_specs": [
+    "night_continuity_spec.json"
+  ]
+}

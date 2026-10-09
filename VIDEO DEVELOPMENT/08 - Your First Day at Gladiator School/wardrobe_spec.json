@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "Visitor is an observing guide, not an enrolled fighter. Keep familiar clothes subtle in the composition; no helmet, armour or theatrical gladiator costume. Historical trainees carry the period clothing and kit.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Original face and identity, reduced saturation only through scene-wide grade; do not recolour the approved character asset. No weapon added to a pose. Locals' kit follows equipment_spec.json."
+}

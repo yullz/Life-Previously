@@ -1,0 +1,42 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing theme low; tension from quiet controlled spaces, not horror scoring. No triumphant combat montage.",
+  "mix": "Near -14 LUFS, true peak<=-1dBTP, all cues below voice.",
+  "new_assets": [
+    {
+      "id": "wood_practice",
+      "description": "Muted wood-on-wood practice knock, not metal clang."
+    },
+    {
+      "id": "school_gate",
+      "description": "Plain wooden hinge and soft closing thud."
+    },
+    {
+      "id": "bath_water",
+      "description": "Quiet enclosed water ambience without modern tap."
+    }
+  ],
+  "acquisition": "Inspect existing library first; quote any paid gaps, do not generate now.",
+  "cues": [
+    {
+      "scene_id": "S002",
+      "asset": "wood_practice",
+      "timing": "One restrained knock as post detail appears; illustrative off-screen practice, no fake synchronized body impact."
+    },
+    {
+      "scene_id": "S019",
+      "asset": "school_gate",
+      "timing": "Soft transition cue with gate image; no slam louder than narration."
+    },
+    {
+      "scene_id": "S065",
+      "asset": "bath_water",
+      "timing": "Low short ambience under narration, end before gate cut."
+    }
+  ],
+  "intentional_silence": [
+    "No screams, sword wounds or cheering over school scenes.",
+    "No modern gym whistle.",
+    "No ominous heartbeat implying an imminent invented execution."
+  ]
+}

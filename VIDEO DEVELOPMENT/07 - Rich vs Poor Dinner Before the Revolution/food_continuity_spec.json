@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "households": [
+    {
+      "id": "modest",
+      "role": "Composite poor household; bread and small sausage portion based on bounded source examples.",
+      "do_not": "Do not call this all food eaten in a day, assign exact weights or give this family a roast later without explanation."
+    },
+    {
+      "id": "rich",
+      "role": "Composite prosperous Paris urban household; roast poultry, cabbage garnish and sauce.",
+      "do_not": "No Versailles throne, royal person, fantasy feast or claim of a recovered1783menu."
+    },
+    {
+      "id": "oven_customer_home",
+      "role": "Separate household that can buy meat and pays a shop to cook it, saving home fuel.",
+      "do_not": "Not identical with the poorer first family; different floor plan and locals make distinction visible."
+    }
+  ],
+  "recipes": [
+    {
+      "name": "Ragoûts de Choux",
+      "source": "Menon1755,III,p24",
+      "stages": [
+        "blanch cut cabbage",
+        "cool",
+        "squeeze",
+        "braise",
+        "arrange around meat"
+      ],
+      "sauce": [
+        "ham",
+        "mushrooms",
+        "garlic studded with a spice clove",
+        "broth",
+        "coulis",
+        "reduce",
+        "strain",
+        "pepper"
+      ],
+      "exclusions": [
+        "No cream or butter copied from neighbouring cauliflower recipe.",
+        "No modern measurements,timings or nutritional claims.",
+        "No exact historic cost or work hours."
+      ]
+    },
+    {
+      "name": "Rissoles à la Béchamel",
+      "source": "Menon1755,III,p26",
+      "visible_stages": [
+        "previously cooked roast poultry chopped for filling",
+        "filling enclosed between thin pastry",
+        "edges sealed",
+        "crescent shape",
+        "fried golden"
+      ],
+      "limits": "The script summarizes the method, not all ingredients or a safe modern recipe. No claim this was every household's leftover policy."
+    }
+  ],
+  "source_handling": "Mercier's meal examples and servants comparison remain attributed observations; rhetorical fractions, giant prices, ethnic stereotypes and contempt for poor people are excluded. Cookbook is prescriptive and the two dinners are composites.",
+  "asset_checks": [
+    "One poultry platter remains identifiable from table to service space; show reduced meat after service, never a magically whole new bird.",
+    "Raw cabbage becomes cooked pieces; prevent raw-green-leaf reset after braising.",
+    "Sauce stream lands in sieve and receiving bowl, hands/proportions checked full-size.",
+    "All period shop ovens use wood/fire and masonry; no modern cooker.",
+    "Small purchase is visibly small but substantial loaf and people retain dignity."
+  ],
+  "caption_exceptions": "S064 explicitly introduces another household. Recipe labels retain1755source date while fictional Paris scene remains1783."
+}

@@ -1,0 +1,81 @@
+{
+  "episode": "ice-in-the-desert",
+  "mode": "episode_private_derivatives_required",
+  "registry": "episodes/ice-in-the-desert/poses/poses.json",
+  "rule": "Inspect base art at full size. Build only required private derivatives, preserve identity/alpha/silhouette and review every result. Register exact hashes under original pose names before rendering. Do not fall back to normal clothing for a missing required variant.",
+  "poses": [
+    {
+      "pose": "look-around",
+      "base_source": "channel/assets/visitor/look-around.png",
+      "render_source": "episodes/ice-in-the-desert/poses/look-around.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "closeup-listening",
+      "base_source": "channel/assets/visitor/closeup-listening.png",
+      "render_source": "episodes/ice-in-the-desert/poses/closeup-listening.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "count-fingers",
+      "base_source": "channel/assets/visitor/count-fingers.png",
+      "render_source": "episodes/ice-in-the-desert/poses/count-fingers.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "closeup-thoughtful",
+      "base_source": "channel/assets/visitor/closeup-thoughtful.png",
+      "render_source": "episodes/ice-in-the-desert/poses/closeup-thoughtful.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "watch-arms-crossed",
+      "base_source": "channel/assets/visitor/watch-arms-crossed.png",
+      "render_source": "episodes/ice-in-the-desert/poses/watch-arms-crossed.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "clutch-stomach",
+      "base_source": "channel/assets/visitor/clutch-stomach.png",
+      "render_source": "episodes/ice-in-the-desert/poses/clutch-stomach.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "shrug-smirk",
+      "base_source": "channel/assets/visitor/shrug-smirk.png",
+      "render_source": "episodes/ice-in-the-desert/poses/shrug-smirk.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    },
+    {
+      "pose": "eyebrow-raise",
+      "base_source": "channel/assets/visitor/eyebrow-raise.png",
+      "render_source": "episodes/ice-in-the-desert/poses/eyebrow-raise.png",
+      "wardrobe_state": "episode_default",
+      "source_hash_at_launch": null,
+      "accepted_hash": null,
+      "art_status": "not_built"
+    }
+  ]
+}
+

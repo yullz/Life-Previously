@@ -1,0 +1,10 @@
+{
+  "status": "director_selected_normal_outfit",
+  "mode": "normal",
+  "policy": "../WARDROBE_POLICY.md",
+  "reason": "No distinctive traditionaloutfitisnecessary. Visitorstaysquietmodernobserver,notcaptain,pirate orcolonialcostumecaricature.",
+  "references": [
+    "channel/assets/visitor_sheet.png"
+  ],
+  "production_review": "Preserveidentityandgroundingondeck. Nofancy-dressaccessoryonVisitor;nobrightgiantcoatblockingprimaryaction."
+}

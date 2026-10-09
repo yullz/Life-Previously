@@ -1,0 +1,348 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "Visitor, host, chosen winter evening, dinner, household tasks and arrangement of one illustrative hanok are fictional framing.",
+    "sources": [],
+    "locator": "Original framing",
+    "limit": "No named historical resident, exact house survey, documented dinner or measured temperature implied.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S005",
+      "S007",
+      "S008",
+      "S009",
+      "S010",
+      "S011",
+      "S022",
+      "S024",
+      "S028",
+      "S036",
+      "S039",
+      "S042",
+      "S044",
+      "S051",
+      "S052",
+      "S056",
+      "S059",
+      "S061",
+      "S066",
+      "S072",
+      "S075",
+      "S078",
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S084",
+      "S091",
+      "S092",
+      "S093",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "Traditional ondol sends hot combustion gases from a firebox through under-floor passages, warming stone slabs before smoke exits a chimney.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Mechanism paragraph and construction section",
+    "limit": "Combustion gases stay below the sealed floor; not hot water or room ventilation.",
+    "scene_ids": [
+      "S005",
+      "S006",
+      "S012",
+      "S013",
+      "S014",
+      "S017",
+      "S018",
+      "S023",
+      "S055",
+      "S062",
+      "S070",
+      "S077",
+      "S078",
+      "S083",
+      "S085",
+      "S086",
+      "S090",
+      "S095"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "E",
+    "claim": "A lowered kitchen hearth can combine cooking above the firebox with heating an adjoining room; stone, earth and paper form layers above flues.",
+    "sources": [
+      "SRC03",
+      "SRC04"
+    ],
+    "locator": "KOFIC construction; Bishop inn furnace passage",
+    "limit": "One arrangement, not every ondol; no exact dimensions. Never put paper directly above open flames.",
+    "scene_ids": [
+      "S013",
+      "S015",
+      "S016",
+      "S025",
+      "S026",
+      "S028",
+      "S033",
+      "S034",
+      "S047",
+      "S068",
+      "S069"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Stone slabs act as thermal storage, retaining heat after the fire has declined; duration depends on conditions.",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "Accessible introduction, traditional stone slab paragraph",
+    "limit": "No historical thermostat reading, promised hours, modern experiment extrapolation or perpetual heat.",
+    "scene_ids": [
+      "S019",
+      "S020",
+      "S040",
+      "S047",
+      "S063",
+      "S086"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "The floor near the firebox tends to be warmer; heat distribution and channel arrangement vary.",
+    "sources": [
+      "SRC03",
+      "SRC09"
+    ],
+    "locator": "Stone-layer paragraph; gorae layout discussion",
+    "limit": "No uniform temperature map or universal hottest-seat etiquette.",
+    "scene_ids": [
+      "S021",
+      "S041",
+      "S042",
+      "S066"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "Floor heating is associated with sitting, eating and sleeping at floor level; outdoor shoes are generally removed; small soban tables serve floor-level dining.",
+    "sources": [
+      "SRC06",
+      "SRC09",
+      "SRC10"
+    ],
+    "locator": "Floor lifestyle passages and museum education entry",
+    "limit": "No disappearance of all chairs or one posture mandatory for every person.",
+    "scene_ids": [
+      "S004",
+      "S023",
+      "S037",
+      "S038",
+      "S039",
+      "S040",
+      "S043",
+      "S044",
+      "S045",
+      "S046",
+      "S081",
+      "S087",
+      "S090",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "Hanok can combine a heated room with a ventilated raised wooden maru useful in summer.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "Opening hanok paragraph",
+    "limit": "Maru is not heated stone flooring; no universal house plan or quantitative cooling guarantee.",
+    "scene_ids": [
+      "S048",
+      "S049",
+      "S050",
+      "S052",
+      "S053",
+      "S054",
+      "S055",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "Bishop described brushwood entering Seoul and smoke from cooking/heating fires; fuel gathering and delivery supported household warmth.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Printed pp.40–41",
+    "limit": "Attribute observation; no exact daily schedule, pollution statistic, fuel price or efficiency ratio.",
+    "scene_ids": [
+      "S027",
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S062",
+      "S063",
+      "S085",
+      "S089"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Bishop described becoming uncomfortably hot in a Korean temple cell heated by adjacent kitchen flues.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Temple cell beside guests' kitchen, 91°F passage",
+    "limit": "Her particular reported experience; do not transfer to Seoul household or imply normal temperature; do not narrate exact number.",
+    "scene_ids": [
+      "S064",
+      "S065"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "Bishop noted tough buff oiled paper used on floors of middle- and upper-class houses.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Printed pp.306–307 paper manufacture",
+    "limit": "Not every floor or class; no unsupported recipe or durability promise.",
+    "scene_ids": [
+      "S067",
+      "S068"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "E",
+    "claim": "Kim Chun-yeong's c.1890 Samcheong-dong house illustrates compact middle/upper-class Seoul housing; it was later moved for preservation.",
+    "sources": [
+      "SRC07"
+    ],
+    "locator": "English plaque paragraphs 1–3",
+    "limit": "Not a poor family's house; no original Namsangol location or measured ondol plan.",
+    "scene_ids": [
+      "S057",
+      "S058",
+      "S059",
+      "S060",
+      "S089"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "Men's traditional clothing includes jeogori, baji with ankle ties and outer coats; padded winter clothing appears in contemporary accounts.",
+    "sources": [
+      "SRC08",
+      "SRC04"
+    ],
+    "locator": "Museum men's hanbok; Bishop winter clothing p.27",
+    "limit": "Visitor clothing is an understated adaptation, not a documented person's exact outfit or every local's costume.",
+    "scene_ids": [],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "I",
+    "claim": "The system trades fuel and tending work for stored warmth; an intact separated combustion route is essential to the illustrated mechanism.",
+    "sources": [
+      "SRC01",
+      "SRC03",
+      "SRC05",
+      "SRC07"
+    ],
+    "locator": "Synthesis of construction, fuel and thermal storage",
+    "limit": "Not a building manual, health guarantee, emissions comparison or numerical efficiency claim.",
+    "scene_ids": [
+      "S018",
+      "S020",
+      "S024",
+      "S027",
+      "S030",
+      "S032",
+      "S033",
+      "S034",
+      "S035",
+      "S060",
+      "S062",
+      "S063",
+      "S066",
+      "S069",
+      "S070",
+      "S071",
+      "S072",
+      "S081",
+      "S082",
+      "S089",
+      "S095"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "type": "E",
+    "claim": "Early partial-floor heating and later whole-floor arrangements differed; modern hydronic ondol uses pipes and is mechanically different from the illustrated hearth system.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Historical-development paragraph; modern apartment paragraph",
+    "limit": "No precise universal transition date, invention race, or claim no electricity existed in Seoul c.1900.",
+    "scene_ids": [
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S079"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]
+

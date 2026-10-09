@@ -1,0 +1,51 @@
+[
+  {
+    "id": "SRC01",
+    "title": "Jacob Riis — A Ten Years' War (1900)",
+    "url": "https://www.gutenberg.org/cache/epub/38821/pg38821-images.html",
+    "read": "2026-10-09: front matter confirms1900 edition; printed pp.89–93, Mills Houses prices, facilities, intended residents and occupancy.",
+    "limit": "Reform advocate's account, not neutral inspection of all lodging. Use concrete prices/facilities, not stigmatizing judgments or comparisons asserting identical Waldorf beds."
+  },
+  {
+    "id": "SRC02",
+    "title": "Tenement Museum —1900 Census for97 Orchard Street",
+    "url": "https://www.tenement.org/wp-content/uploads/2019/10/1900-Census.pdf",
+    "read": "2026-10-09: all3PDF pages; transcription rows5–35, including male/female boarders and Levine family rows25–29.",
+    "limit": "Census classification does not reveal nightly prices, bed position, household agreement or the experience of every immigrant."
+  },
+  {
+    "id": "SRC03",
+    "title": "Tenement Museum — The Rent Is Due",
+    "url": "https://www.tenement.org/blog/the-rent-is-due-a-history-of-rent-at-97-orchard-street/",
+    "read": "2026-10-09: entire article and references; Veiller1900 study block and floor-specific rent ranges.",
+    "limit": "The quoted block is bounded by Canal/Bayard/Chrystie/Forsyth, not97 Orchard. Do not transfer later1907/1908 figures or the article's conjectural rents into1900 fact."
+  },
+  {
+    "id": "SRC04",
+    "title": "Tenement Museum — The Levine Family Story",
+    "url": "https://www.tenement.org/wp-content/uploads/2019/10/Levine-Family-Story.pdf",
+    "read": "2026-10-09: teacher-guide source notes and narrative pp.1–7; census and1892inspection described; distinguish illustrative domestic reconstruction.",
+    "limit": "Teacher narrative contains imagination and later children. In1900 there are three children; no imagined shopping or cooking anecdote asserted as documented."
+  },
+  {
+    "id": "SRC05",
+    "title": "Tenement Museum — The Levine Tenement Story",
+    "url": "https://www.tenement.org/Virtual-Tour/vt_levstory.html",
+    "read": "2026-10-09: full account of apartment workshop, three employees, kitchen pressing and Sabbath; originally reconstructed1897 scene.",
+    "limit": "Use workshop arrangement with clear historical period; no mechanical transfer of1897child count or1904family into1900."
+  },
+  {
+    "id": "SRC06",
+    "title": "NYC LGBT Historic Sites Project — Mills House No.1",
+    "url": "https://www.nyclgbtsites.org/site/mills-house-no-1-village-gate/",
+    "read": "2026-10-09: architectural history,1897opening and intended single-male clientele.",
+    "limit": "Later1910s/1920s incidents and entertainment venues are outside this episode. Do not imply modern demographic labels for every guest."
+  },
+  {
+    "id": "SRC07",
+    "title": "Tenement Museum —97 Orchard Street",
+    "url": "https://www.tenement.org/explore/97-orchard-street/",
+    "read": "2026-10-09: building description:22apartments, roughly325squarefeet each,3rooms; Levine1892–1905 section.",
+    "limit": "Whole-building historical overview spans decades. Keep households and upgrades in their own years."
+  }
+]

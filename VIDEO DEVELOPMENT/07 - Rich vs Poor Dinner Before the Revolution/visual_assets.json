@@ -1,0 +1,494 @@
+{
+  "episode": "paris-dinner",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S004",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": "S009",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": "S009",
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S009",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S016",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S005",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S063",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S033",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": "S033",
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S033",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S033",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S009",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S033",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S064",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S009",
+      "status": "not_generated"
+    },
+    {
+      "id": "S073",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S076",
+      "parent": "S044",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S044",
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": "S044",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S044",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S044",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S081",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": "S081",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S081",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S044",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S007",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S002",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S006",
+      "text": "ILLUSTRATED COMPOSITES • PERIOD SOURCES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S027",
+      "text": "MERCIER’S ORDINARY-MEAL EXAMPLES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S060",
+      "text": "INGREDIENTS • EQUIPMENT • HEAT • WORK",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S074",
+      "text": "TWO ROUTES TO A COOKED MEAL",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S085",
+      "text": "COOKS • OVENS • SERVICE • REUSE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S091",
+      "text": "SMALL PURCHASE • ELABORATE PREPARATION",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

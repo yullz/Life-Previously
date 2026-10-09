@@ -1,0 +1,17 @@
+// FORMAT (lines starting with // are ignored)
+// TITLE: working title. lp.py check flags banned title words and titles over 70 characters (the target is 40-65, per channel/seo.md).
+// "## Name" starts a YouTube chapter at the next scene. You need at least 3.
+// "::: background prompt" starts a new image. Describe only the setting; never mention the Visitor.
+//   Tags on that line:
+//   [pose: name position size flip]  the Visitor from channel/assets/visitor/ (position left|center|right or x,y; size 0.6-0.75 standing, 0.95 close-up)
+//   [sfx: name volume +seconds]       a sound from channel/sfx/
+//   [zoom-in] [zoom-out] [pan-left] [pan-right] [still]   camera
+//   [reuse S004]  show an earlier image again    [note: Document, place, its own date]  source label on screen (never a modern book)
+// Lines under a scene are its narration: 10-22 words, at most 28.
+// In narration, {sighs} {whispers} {laughs} are voice directions: sent to ElevenLabs, never shown in captions. Use sparingly.
+// lp.py adds an ID to each scene line ("::: S001 | ..."). Never renumber them by hand.
+TITLE: {{TITLE}}
+
+## Cold open
+::: A dark room somewhere in the past, an empty space on the right [pose: lying-shocked right 0.4] [zoom-in]
+First line of narration.

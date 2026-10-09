@@ -1,0 +1,16 @@
+{
+  "status": "director_selected_reference_inspected",
+  "mode": "episode_private_traditional_variant",
+  "policy": "../WARDROBE_POLICY.md",
+  "selection": "Plain muted indigo-grey everyday kosode/kimono-style robe to just above ankles, modest sleeves, narrow dark obi and simple straw sandals. No decorative pattern, large rear bow, crest, sword, hat or outer ceremonial layer.",
+  "historical_basis": "Everyday robe silhouettes in inspected Hiroshige1857 street print, with construction and ordinary/elite distinctions from V&A and MIA. Treat as a simple adaptation, not a copy of a wedding or theatre garment.",
+  "references": [
+    "https://www.ndl.go.jp/en/landmarks/sights/shoheibashi",
+    "https://dl.ndl.go.jp/api/iiif/1312245/R0000001/708,883,2840,4416/,800/0/default.jpg",
+    "https://www.vam.ac.uk/articles/kimono",
+    "https://new.artsmia.org/programs/teachers-and-students/teaching-the-arts/artwork-in-focus/japanese-kimono"
+  ],
+  "identity_lock": "Preserve Visitor's skin tone, face, eyes, hair, proportions, expressions and linework. No shaved forelock, topknot, beard or ethnic transformation.",
+  "continuity": "Wearer's LEFT front panel over RIGHT in every pose; never mirror a finished garment derivative without correcting closure. Plain narrow obi remains at same relative height. Outfit stays visually quiet.",
+  "production_review": "Private variants only, one standing and one close-up pilot inspected against source silhouette and full composites. No shared-library modifications."
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0",
+  "date": "2026-10-09",
+  "owner_instruction": "make sure that we don't mention that the videos were made by ai on the descriptions and etc",
+  "state": "completed_and_saved",
+  "description_ids": [
+    "lj5-TWUOmN0",
+    "13ZHSY4VTV4",
+    "B5yXVhRnizc",
+    "V0Lby6d5RQE",
+    "IRINr6HGimo",
+    "8X25V2u-bGk",
+    "KgFXNFmq42s",
+    "X4XUTL36VcI"
+  ],
+  "description_count": 8,
+  "description_evidence": "handoff/youtube_saved_metadata_2026-10-09.json",
+  "channel_about": {
+    "before": "How did ordinary people actually live? Each episode drops you into a real place and year, from medieval London and ancient Rome to Edo Japan, and walks you through a normal day: the work, the food, the rules, and the strange parts that never make it into textbooks.\n\nEvery video is researched from historians' books and primary sources, listed in the description, and every claim is checked against its source before the episode is made. Illustrations and narration are made with the help of AI tools; the scripts, research and characters are our own.\n\nNew episode every other week. Subscribe and spend a day somewhere else.\n",
+    "after": "How did ordinary people actually live? Each episode drops you into a real place and year, from medieval London and ancient Rome to Edo Japan, and walks you through a normal day: the work, the food, the rules, and the strange parts that never make it into textbooks.\n\nEvery video is researched from historians' books and primary sources, listed in the description, and every claim is checked against its source before the episode is made.\n\nNew episode every other week. Subscribe and spend a day somewhere else.\n\n",
+    "saved": true
+  },
+  "youtube_upload_defaults": {
+    "before": "CHAPTERS\n\nSOURCES\n\nEvery claim in this video was checked against its source; the full claim sheet with page references is available on request.\n\nHow we make this: scripts are researched and written by Life, Previously from the sources above. Illustrations, narration, music and sound effects are made with AI tools from our own scripts and character designs.\n\nMusic: \"Life, Previously\" theme, made for this channel.\nBusiness: lifepreviously@gmail.com",
+    "after": "CHAPTERS\n\nSOURCES\n\nEvery claim in this video was checked against its source; the full claim sheet with page references is available on request.\n\nMusic: \"Life, Previously\" theme, made for this channel.\nBusiness: lifepreviously@gmail.com",
+    "saved": true
+  },
+  "playlists": [
+    {
+      "title": "Medieval Life: How People Actually Lived",
+      "path": "/playlist/PLbmwFMU_-EcE/edit",
+      "description": "One ordinary day at a time: how people actually lived in the Middle Ages. Work, food, rules, and the strange parts that never make it into textbooks. Every episode is researched from historians' books and primary sources.",
+      "optionalAiMention": false,
+      "changed": false
+    },
+    {
+      "title": "Ancient Roman Life: How People Actually Lived",
+      "path": "/playlist/PLBBi5jAJObvU/edit",
+      "description": "Daily life in ancient Rome and its cities, one real place and year at a time. Explore Pompeii through its food, homes, work, graffiti and ordinary people. Illustrated history from Life, Previously, with sources in every episode.",
+      "optionalAiMention": false,
+      "changed": false
+    }
+  ],
+  "public_copy_rule": "Remove optional AI/tool-production notes. Preserve historical sources and required credits. Do not add claims of human-only or handmade production. Mandatory platform disclosure remains a separate content-specific assessment.",
+  "internal_provenance": "AI origin of illustrations, narration, music and sound effects remains accurately recorded. Public omission does not change that provenance.",
+  "disclosure_setting": {
+    "value": "No",
+    "verified": [
+      {
+        "key": "IRINr6HGimo",
+        "aiDisclosure": "No",
+        "selected": true,
+        "saved": true
+      },
+      {
+        "key": "8X25V2u-bGk",
+        "aiDisclosure": "No",
+        "selected": true,
+        "saved": true
+      },
+      {
+        "key": "KgFXNFmq42s",
+        "aiDisclosure": "No",
+        "selected": true,
+        "saved": true
+      },
+      {
+        "key": "X4XUTL36VcI",
+        "aiDisclosure": "No",
+        "selected": true,
+        "saved": true
+      },
+      {
+        "key": "lj5-TWUOmN0",
+        "aiDisclosure": "No",
+        "selected": true,
+        "saved": true
+      },
+      {
+        "key": "13ZHSY4VTV4",
+        "aiDisclosure": "No",
+        "selected": true,
+        "saved": true
+      },
+      {
+        "key": "B5yXVhRnizc",
+        "aiDisclosure": "No",
+        "selected": true,
+        "saved": true
+      },
+      {
+        "key": "V0Lby6d5RQE",
+        "aiDisclosure": "No",
+        "selected": true,
+        "saved": true
+      }
+    ],
+    "decision": "handoff/ai_disclosure_decision_2026-10-09.json"
+  },
+  "local_templates_updated": [
+    "channel/bible.md",
+    "templates/package.md",
+    "episodes/001-medieval-london-day/package.md",
+    "episodes/002-pompeii-life/package.md",
+    "channel/seo.md",
+    "channel/setup.md"
+  ],
+  "prior_records": "handoff/backups/public-copy-20261009/",
+  "unchanged": [
+    "video files",
+    "audio",
+    "thumbnails",
+    "historical source citations",
+    "music credit lines",
+    "publication schedules"
+  ],
+  "incremental_spend": 0
+}

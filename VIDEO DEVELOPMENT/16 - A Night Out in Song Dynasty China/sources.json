@@ -1,0 +1,74 @@
+[
+  {
+    "id": "SRC01",
+    "title": "Meng Yuanlao, Dongjing meng Hua lu, preface",
+    "url": "https://zh.wikisource.org/zh-hant/東京夢華",
+    "read": "Complete preface read, including nostalgic framing, departure after warfare, hearsay/omission acknowledgement and Shaoxing dingmao date.",
+    "limit": "Retrospective memoir with declared selectivity, not a census or proof that everyone prospered."
+  },
+  {
+    "id": "SRC02",
+    "title": "Dongjing meng Hua lu, volume 2: night markets, streets and wine houses",
+    "url": "https://zh.wikisource.org/wiki/東京夢華錄/卷二",
+    "read": "Zhou Bridge night market; East Corner Tower streets; Panlou eastern streets; wine-house opening paragraphs read in Chinese.",
+    "limit": "Seasonal lists kept separate; third-watch wording not converted into a precise universal closing time. Grand wine-house description not every shop."
+  },
+  {
+    "id": "SRC03",
+    "title": "Dongjing meng Hua lu, volume 3: late markets, fire prevention and dawn",
+    "url": "https://zh.wikisource.org/wiki/東京夢華錄/卷三",
+    "read": "Maxing street shops, night/early reopening, late tea sellers, fire-prevention and dawn-market sections read.",
+    "limit": "Busy districts sometimes continuous; quiet streets differ. No precise modern clock equivalence or imaginary fire event."
+  },
+  {
+    "id": "SRC04",
+    "title": "Dongjing meng Hua lu, volume 4: restaurants and food trades",
+    "url": "https://zh.wikisource.org/wiki/東京夢華錄/卷四",
+    "read": "Restaurant ordering/service, regional specialities, mistakes and penalties, cake/bread shops and fish sections read.",
+    "limit": "Do not illustrate twenty bowls balanced on an arm as a reliably measured everyday norm; service anecdote attributed. No exact prices used."
+  },
+  {
+    "id": "SRC05",
+    "title": "Dongjing meng Hua lu, volume 5: performers in the capital",
+    "url": "https://zh.wikisource.org/wiki/東京夢華錄/卷五",
+    "read": "Complete Jingwa jiyi list through daily performances and music rehearsal paragraph.",
+    "limit": "Lists performers/genres, not a timetable for our fictional evening. No imported later Beijing opera costume."
+  },
+  {
+    "id": "SRC06",
+    "title": "Dorothee Schaab-Hanke, The Capital Behind the Capital (2011)",
+    "url": "https://www.schaab-hanke.de/publikationen/Schaab-Hanke_OE_50_2011_The_Capital_Behind_the_Capital.pdf",
+    "read": "PDF p4 (printed193), pp9–10 (198–199) relevant restaurant comparison and table p17 (206); text distinguishes early-12th-century Kaifeng from later Hangzhou.",
+    "limit": "Only read passages relied upon. Later Ducheng jisheng anecdotes not imported into Kaifeng. Translation of obscure food names not treated as a modern recipe."
+  },
+  {
+    "id": "SRC07",
+    "title": "Palace Museum: Zhang Zeduan, Along the River During the Qingming Festival",
+    "url": "https://www.dpm.org.cn/collection/paint/228226.html",
+    "read": "Object description and discussion of shops, varied social statuses and clothing read.",
+    "limit": "Song artwork is selected/composed representation, not a photographic street survey. Original Northern Song work, not a later Qing remake."
+  },
+  {
+    "id": "SRC08",
+    "title": "University of Washington, clothing in painting",
+    "url": "https://depts.washington.edu/chinaciv/clothing/11preqin.htm",
+    "read": "Song detail caption and social-status discussion read; linked 11qmsht1.jpg visually inspected.",
+    "limit": "Use only the Northern Song detail for this episode; other works on same page have different dates.",
+    "text_url": "https://depts.washington.edu/chinaciv/clothing/11qmsht1.jpg"
+  },
+  {
+    "id": "SRC09",
+    "title": "University of Washington, shops and commerce in the Song scroll",
+    "url": "https://depts.washington.edu/chinaciv/painting/turbcomm.htm",
+    "read": "Commerce introduction read; 4urbcom3.jpg visually inspected for timber shop/roof/street forms.",
+    "limit": "Daytime visual reference, not proof of exact street lighting or one specific shop at night.",
+    "text_url": "https://depts.washington.edu/chinaciv/painting/4urbcom3.jpg"
+  },
+  {
+    "id": "SRC10",
+    "title": "China Culture, Costume in the Song Dynasty",
+    "url": "https://en.chinaculture.org/library/2008-01/28/content_28394.htm",
+    "read": "Official versus casual garment paragraphs, common jacket/coat and coarse short jacket distinctions read.",
+    "limit": "General dynasty overview; restrained Visitor adaptation informed by period painting, not a claim of an exact surviving outfit."
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "SRC01",
+    "title": "National Institute of Korean History — development of ondol culture",
+    "url": "https://contents.history.go.kr/front/hm/print.do?levelId=hm_044_0050&tabId=01&treeId=010304&whereStr=",
+    "read": "Read Korean primary-source commentary and mechanism paragraph on 2026-10-09; combustion path and uncertainty of origins confirmed.",
+    "limit": "Use mechanism and historical variation only. No exact invention date or national-priority claim."
+  },
+  {
+    "id": "SRC02",
+    "title": "National Folk Museum of Korea — Hanok",
+    "url": "https://www.nfm.go.kr/k-box/ui/annyeong/hanok.do?lang=en",
+    "read": "Full English educational text read in browser on 2026-10-09.",
+    "limit": "Wooden maru ventilation and heated-room contrast. Formal gender-separated plan especially upper class, not every household."
+  },
+  {
+    "id": "SRC03",
+    "title": "Korean Film Council — Ondol and floor construction",
+    "url": "https://www.koreanfilm.or.kr/eng/news/location.jsp?blbdComCd=601020&mode=VIEW&pageIndex=2&pageRowSize=5&seq=151",
+    "read": "Construction section read on 2026-10-09: lowered kitchen, flues, stone, earth and paper layers; warmer near fire; modern water pipes distinct.",
+    "limit": "Do not repeat incorrect etymology, exact construction dimensions as universal, or claim thicker stones prevent all heat loss."
+  },
+  {
+    "id": "SRC04",
+    "title": "Isabella Bird Bishop, Korea and Her Neighbors (1898)",
+    "url": "https://www.gutenberg.org/cache/epub/69300/pg69300-images.html",
+    "read": "Read pp.40–41 Seoul fuel/smoke, rural-house and inn heating passages, temple overheating, and pp.306–307 paper manufacture. Selected passages, not whole book.",
+    "limit": "Outsider with prejudicial judgments: exclude those. No fuel efficiency numbers, exact citywide firing time, Manchurian kang conflation, or traveller's camp-bed as Korean custom."
+  },
+  {
+    "id": "SRC05",
+    "title": "Gook-Sup Song — contact with ondol floor materials, Energy and Buildings 37 (2005)",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0378778804001616",
+    "read": "Abstract and accessible introduction read on 2026-10-09; traditional stone slabs described as thermal storage mass.",
+    "limit": "Only storage mechanism. Modern eight-person experiment, water temperatures and neutral-temperature findings are not historical room measurements."
+  },
+  {
+    "id": "SRC06",
+    "title": "Korea.net / Cultural Heritage Administration — ondol heritage",
+    "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=156191",
+    "read": "Full article read on 2026-10-09; floor sitting, eating, sleeping and shoe-removal passage.",
+    "limit": "No simplistic West-versus-Korea heat-transfer comparison, chronology or claim all homes identical."
+  },
+  {
+    "id": "SRC07",
+    "title": "Academy of Korean Studies — Kim Chun-yeong house plaque",
+    "url": "https://dh.aks.ac.kr/~heritage/wiki/index.php/삼청동_오위장_김춘영_가옥",
+    "read": "Full English plaque read on 2026-10-09: c.1890 owner, original Samcheong-dong, compact layout, 1998 relocation, middle/upper-class context.",
+    "limit": "Architectural example only; not our fictional household or proof of its exact under-floor plan."
+  },
+  {
+    "id": "SRC08",
+    "title": "National Folk Museum — Men's hanbok",
+    "url": "https://www.nfm.go.kr/k-box/ui/hanbok/male.do?lang=en",
+    "read": "Full clothing text and jacket/trousers photograph visually inspected on 2026-10-09.",
+    "limit": "Use garment construction, ankle ties, understated adapted winter outfit; not scholar's hat or ceremonial robe. Reference image is not dated as the exact 1900 garment."
+  },
+  {
+    "id": "SRC09",
+    "title": "National Institute of Korean History — ondol educational explanation",
+    "url": "https://contents.history.go.kr/front/tz/view.do?levelId=tz_b40",
+    "read": "Full scenario read and compared with Korean source commentary on 2026-10-09.",
+    "limit": "Use names agungi/gorae/gulttuk, varied channel layouts and soban relationship. Reject 49/100-day legend as performance data, total disappearance of chairs, all houses reduced to one storey, and English class-spread mistranslation."
+  },
+  {
+    "id": "SRC10",
+    "title": "National Folk Museum — ondol and floor-sitting education",
+    "url": "https://nfm.go.kr/english/subIndex/969.do",
+    "read": "Ondol and Floor-Sitting Culture programme entry read on 2026-10-09.",
+    "limit": "Corroborates soban and floor culture; modern programme is not a 1900 diary."
+  }
+]
+

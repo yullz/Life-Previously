@@ -1,0 +1,122 @@
+{
+ "sting": {
+  "seconds": 3,
+  "kind": "accent",
+  "prompt": "A single deep, warm medieval church bell strike ringing out and slowly fading, with one soft low hand-drum hit exactly on the strike; no melody, no chimes, no electronic tones, natural reverb, clean ending"
+ },
+ "bell-distant": {
+  "seconds": 4,
+  "prompt": "A single medieval church bell ringing slowly far away across a sleeping town at dawn, soft and distant",
+  "kind": "spot"
+ },
+ "bell-many": {
+  "seconds": 5,
+  "prompt": "Several medieval church bells ringing at once across a city, overlapping, slightly out of time with each other",
+  "kind": "accent"
+ },
+ "bell-close": {
+  "seconds": 5,
+  "prompt": "One large heavy church bell tolling slowly, close and deep, evening curfew bell",
+  "kind": "accent"
+ },
+ "quill-scratch": {
+  "seconds": 2.5,
+  "prompt": "A quill pen scratching quickly on thick parchment",
+  "kind": "spot"
+ },
+ "paper-unroll": {
+  "seconds": 2,
+  "prompt": "An old parchment scroll being unrolled on a wooden desk",
+  "kind": "spot"
+ },
+ "water-splash": {
+  "seconds": 2,
+  "prompt": "Hands splashing cold water from a wooden basin onto a face",
+  "kind": "spot"
+ },
+ "forge-fire": {
+  "seconds": 4,
+  "prompt": "A blacksmith's forge at night: bellows pumping and a fire roaring up with crackling sparks",
+  "kind": "ambience"
+ },
+ "stomach-growl": {
+  "seconds": 1.5,
+  "prompt": "A short comic stomach growl",
+  "kind": "spot"
+ },
+ "market-sizzle": {
+  "seconds": 4,
+  "prompt": "Meat sizzling over an open fire with a busy medieval market murmuring in the background",
+  "kind": "ambience"
+ },
+ "crowd-laugh": {
+  "seconds": 3,
+  "prompt": "A small street crowd laughing and jeering outdoors",
+  "kind": "ambience"
+ },
+ "crowd-street": {
+  "seconds": 5,
+  "prompt": "A busy medieval street: overlapping voices, cart wheels on mud, a horse, pigs grunting, distant hammering",
+  "kind": "ambience"
+ },
+ "coins": {
+  "seconds": 1.5,
+  "prompt": "A few old metal coins clinking in a hand",
+  "kind": "spot"
+ },
+ "crowd-football": {
+  "seconds": 4,
+  "prompt": "A rowdy crowd of young men shouting and running on a cobbled street, chaotic ball game",
+  "kind": "ambience"
+ },
+ "tavern-crowd": {
+  "seconds": 5,
+  "prompt": "Indoor medieval tavern ambience: murmuring voices, wooden cups clunking, occasional laughter",
+  "kind": "ambience"
+ },
+ "gate-shut": {
+  "seconds": 3,
+  "prompt": "Huge heavy wooden city gates swinging shut with a deep thud and an iron bar dropping into place",
+  "kind": "spot"
+ },
+ "night-wind": {
+  "seconds": 5,
+  "prompt": "Quiet night wind in an empty stone street, faint and eerie",
+  "kind": "ambience"
+ },
+ "door-shut": {
+  "seconds": 1.5,
+  "prompt": "A small wooden front door closing firmly, latch clicking",
+  "kind": "spot"
+ },
+ "crowd-roman-street": {
+  "seconds": 5,
+  "kind": "ambience",
+  "prompt": "A busy ancient Roman town street in the morning: overlapping voices, footsteps on stone pavements, iron-rimmed cart wheels rolling over stone paving, a donkey braying once in the distance, water splashing from a stone fountain; no bells, no engines"
+ },
+ "mill-grind": {
+  "seconds": 4,
+  "kind": "ambience",
+  "prompt": "A heavy stone grain mill turning slowly in a stone room: grinding stone on stone, a wooden beam creaking, a donkey's hooves walking in a circle on a stone floor"
+ },
+ "crowd-arena": {
+  "seconds": 5,
+  "kind": "ambience",
+  "prompt": "A huge crowd in an open-air stone amphitheatre cheering and roaring, echoing off stone seats, outdoors, ancient, no music, no announcer, no modern stadium sounds"
+ },
+ "rumble-deep": {
+  "seconds": 4,
+  "kind": "accent",
+  "prompt": "A deep, distant volcanic rumble rolling across a bay, very low thunder-like booming that slowly fades, no music"
+ },
+ "pumice-fall": {
+  "seconds": 5,
+  "kind": "ambience",
+  "prompt": "Small light pumice stones and ash pattering steadily onto clay roof tiles and a stone street, with a low distant rumble underneath, outdoors"
+ },
+ "crowd-riot": {
+  "seconds": 5,
+  "kind": "ambience",
+  "prompt": "An angry crowd rioting in an open-air stone amphitheatre: men shouting and yelling insults, stones clattering on stone seats, running feet, outdoors, ancient, no music, no announcer, no modern sounds"
+ }
+}

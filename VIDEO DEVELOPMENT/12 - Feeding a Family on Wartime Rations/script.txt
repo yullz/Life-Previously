@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: Could You Feed a Family on Britain’s Wartime Rations?
+
+## Four people, one kitchen
+::: S001 | Four-person family planning at modest table with closed ration books,basket of vegetables and empty plates; no finished meal. [pose: look-around 0.8,0.94 0.6] [note: London,July1944 · illustrative household] [zoom-in]
+London, July nineteen forty-four. Four people need dinner, and your ration book cannot tell you what to cook.
+
+::: S002 | Plain closed ration book beside raw potatoes and empty enamel pot; no coupon actually in food. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S001] [pan-left]
+What are you actually going to make for dinner? A coupon is useful, but nobody wants it boiled with potatoes.
+
+::: S003 | Original schematic of small labelled rationed-food group inside larger meal system; no actual photo copied. [note: Explanation,not a complete allowance display] [still]
+A familiar display of tiny rationed portions can make this look like a challenge in surviving on almost nothing.
+
+::: S004 | Expand schematic to add staple foods and meals outside home; distinct categories,not exact quantities. [note: Ministry of Food,1951report,paras23–25,47] [still]
+But that pile leaves out something crucial: the rationed part of a diet was not the whole diet.
+
+::: S005 | Family parent considers bread and potatoes beside small wrapped cheese piece; avoid giant weekly pile. [same-as: S001] [zoom-in]
+Bread and potatoes, for example, were not rationed in the same way. That still did not make feeding a family effortless.
+
+::: S006 | Three distinct locally drawn icons,one book,one coin group,one stocked shelf. [pose: closeup-thoughtful 0.8,1.02 0.82] [still]
+You needed permission to buy certain foods, money to pay, and a shop that had what you wanted.
+
+::: S007 | Parent by empty pot,other parent sets four plates; children at table,ordinary expressions. [same-as: S001] [zoom-out]
+After that came the cooking. And tomorrow, four people would expect you to solve the whole problem again.
+
+::: S008 | All four consistent family members in modest kitchen,source label clear; no fabricated family name. [note: Illustrative family · documented constraints] [same-as: S001] [pan-right]
+Our family is reconstructed, not taken from a diary. Their decisions follow records from this period.
+
+::: S009 | July1944date card separate from crossed-out mixed-year stack; no document imitation. [note: Date matters] [still]
+Allowances changed. Combining different years could create a dinner nobody was entitled to, so we are fixing our date.
+
+::: S010 | Visitor observes table planning from right,never handling family food. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [still]
+The task is dinner, but households had different amounts of money, time and food to work with.
+
+::: S011 | Mother with shopping bag and closed ration book approaches small grocer,modest daytime queue. [zoom-out]
+Start where the shopping starts: not with a recipe, but with the relationship between your ration book and the shopkeeper.
+
+::: S012 | Grocer behind wooden counter,customer's closed purse and ration book separate in foreground. [pan-right]
+Even with the right coupons, there is something else you still have to bring.
+
+## The book does not pay
+::: S013 | Coins set beside book on counter,groceries still behind grocer; no checkout barcode. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S012] [zoom-in]
+Money. Rationing limited what you could buy; it did not turn the groceries into a free weekly delivery.
+
+::: S014 | Three policy labels with grocery-payment arrow;simple not bureaucracychart. [note: Ministry of Food,1951report,paras19–20,28] [still]
+Price controls and subsidies helped manage supplies alongside rationing. They did not replace household spending.
+
+::: S015 | Mother presents open blank book while grocer receives coins in separate clear action,cheese wrapped at left. [same-as: S012] [zoom-out]
+So our shopper hands over a book and pays for the purchase. The two actions do different jobs.
+
+::: S016 | Locally typeset paraphrase with visible1940childbooksource; no false1944cover. [note: Child ration book,1940 · TNA BT131/40] [still]
+A surviving child's ration book from nineteen forty explains registration: you chose shops for particular rationed foods.
+
+::: S017 | Simple book-to-shopkeeper diagram,customer's cut-out coupons crossed once; words local. [note: 1940book,instruction6] [still]
+The shopkeeper removed the appropriate coupons. The instructions specifically warned that coupons you had cut out yourself could not be used.
+
+::: S018 | Grocer's hands handle book at counter,customer waits; no hand scissors near child'sface or randomcouponrain. [same-as: S012] [pan-left]
+These were controlled purchases, not loose tokens to scatter between whoever happened to be shopping.
+
+::: S019 | Dated1940instructionparaphrase,oneweekarrowstopsbeforelaterweek. [note: 1940book,instruction9] [still]
+The book also warned that unused weekly coupons could not be saved for later. A missed week was no future feast.
+
+::: S020 | Mother receives wrapped purchase and closes book; source card reservedlower15percent. [same-as: S012] [pan-right]
+That book belongs to nineteen forty. Its instructions show how rules, as well as prices, shaped shopping.
+
+::: S021 | Mother leaves grocer toward neighbouring bakery and vegetable shop,each clearly distinct. [same-as: S011] [zoom-in]
+And different foods did not all pass through the same rule. To understand dinner, you have to look beyond that counter.
+
+::: S022 | Small vegetable crates,customer queue and sparse tomato tray; no entirely emptyshop. [pan-left]
+Other purchases might depend on what arrived, what remained, and when you reached the shop.
+
+::: S023 | Mother studies available vegetables,another shopper reaches for remaining cabbage with normalanatomy. [same-as: S022] [zoom-out]
+That is where the tidy picture of equal little food piles begins to turn into an ordinary, messy shopping day.
+
+::: S024 | Potatoes and carrots available,small empty tomato tray obvious butunlabelled. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S022] [pan-right]
+The book could organize supplies without promising every ingredient in your favourite dinner.
+
+## Unrationed is not unlimited
+::: S025 | Mother buys modest brownish loaf with coins at wooden counter,book stays closed in bag. [note: London,July1944] [zoom-in]
+Take bread. Our July nineteen forty-four shopping trip needs no bread coupons. Those belong to a later chapter.
+
+::: S026 | Clear datedlatercomparison,singlearrowfrom1944to1946. [note: Hansard,27June1946announcement] [still]
+Bread and flour rationing began in July nineteen forty-six, after the war. Moving those coupons backward changes the story.
+
+::: S027 | A few plain loaves on wooden shelf,small coin purchase foreground; no unlimitedmountain. [note: Ministry of Food,1951report,para47] [same-as: S025] [zoom-out]
+During the war, keeping bread and potatoes available outside ordinary retail rationing was an explicit aim of food policy.
+
+::: S028 | Bread and potatoes added to table beside separate wrapped rationedgroceries,stillplanningnotweeklytotal. [same-as: S001] [pan-right]
+Those staples help explain why a small display of rationed meat and fats cannot represent everything a family ate.
+
+::: S029 | Shopkeeper weighs potatoes in mechanical balance; money visible,vegetables notmagicallyfree. [same-as: S022] [zoom-in]
+But outside rationing does not mean outside reality. A potato still needs growing, moving, selling, paying for and cooking.
+
+::: S030 | Sparse fish display in small separate shop glimpsed alongstreet,modestqueue; no fakepricelettering. [same-as: S011] [pan-left]
+Fish and fruit could be unrationed yet difficult to obtain. Fresh vegetables were not always easy to find either.
+
+::: S031 | Customer sees sparse tomato tray alongside available potatoes; queue continues outside. [pose: watch-arms-crossed 0.8,0.94 0.6] [note: Home Intelligence,18July1944,section14] [same-as: S022] [zoom-out]
+A government report that July recorded shortages of fruit and tomatoes, complaints about fish, and high prices for some vegetables.
+
+::: S032 | Balanced shopview:several useful producecrates,some scarceitems; avoiduniversaldespair. [same-as: S022] [pan-right]
+Not every shop was empty. But a rationing system could not provide a reliable supply of everything.
+
+::: S033 | Mother pauses between shops with shopping bag,looks toward queue;Visitorrightsmall. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S011] [still]
+For our dinner, a missing ingredient forces a choice. Change the dish, try another shop, or spend time in another queue.
+
+::: S034 | Simple paper shopping list blank,coins and vegetablebag on table,next to cookingpot. [same-as: S001] [pan-left]
+Every option uses something. If the substitute costs less money, it may still cost more time or require another round of cooking.
+
+::: S035 | Parents jointly sort actual purchased vegetables,children place utensils; ordinarylabour. [same-as: S001] [zoom-out]
+Someone still has to turn available food into meals. Adding up ounces will not do that job.
+
+::: S036 | Mother returns attention to shelf of plain tinnedgoods and separate pointbooklet at counter. [same-as: S012] [pan-right]
+Before we cook, another kind of allowance complicates the shopping choices.
+
+## Choosing where the allowance goes
+::: S037 | Counter display of several plain tins and a separate booklet,grocerexplains with gesture. [note: Points scheme · Ministry of Food,para45] [same-as: S012] [zoom-in]
+The points system covered a range of foods, including canned goods. It let shoppers choose how to spend a limited points entitlement.
+
+::: S038 | Hypotheticalpointbar splitbetween two unpricedtinicons,no actualpointvalue. [note: Illustrative trade-off,not a1944price list] [still]
+That offered flexibility, but not an unlimited second ration. Spending points on one purchase left fewer for another.
+
+::: S039 | One unlabelled tin beside coin group and pointbook,visually distinct threethings. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S012] [zoom-out]
+You still paid money as well. A points price and a cash price answered different questions about the same tin.
+
+::: S040 | Local calibrated2ozcheeseblockschematic labelledordinaryweeklyration; no familytotal. [note: Hansard,9June1944,col1663] [still]
+For cheese, meanwhile, the ordinary weekly ration in this summer was two ounces. Some special categories received different allowances.
+
+::: S041 | Small cheese piece beside adult hand for sensible scale,plain grater nearby;localapproximategramlabel. [note: 2oz≈57g · illustrative allocation] [same-as: S001] [zoom-in]
+Two ounces is roughly fifty-seven grams. Put some in tonight's dish, and there is less available for tomorrow's sandwich.
+
+::: S042 | Separate laterdate card,do not changeJulykitchenblock. [note: Hansard,28September1944] [still]
+Later that year, the government announced the ordinary cheese ration would return to three ounces from the fifteenth of October.
+
+::: S043 | Same originalsmallJulycheesepiece,Visitorobservesfromright withthoughtfulface. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [still]
+You cannot borrow October's cheese for July's dinner. Even this small example needs its date.
+
+::: S044 | Adultandchildiconsdifferent,not numericalfamilyrationtable. [note: Household members could have different provision] [still]
+Nor can one adult allowance, multiplied by four, describe a whole family's needs or entitlements.
+
+::: S045 | Periodschoolmealroom,children correctproportions,adult server,milkglassandordinarymeals; noexactquantities. [note: Policy context,not this family's guaranteed daily use] [zoom-in]
+Children had particular support, including school milk and meals. Young children and expectant mothers were also covered by special nutrition measures.
+
+::: S046 | Four familymembersdistinctages seatedplanning,no identicalportions laidoutasyet. [same-as: S001] [pan-left]
+Our family is not four interchangeable adults. Ages, routines and meals outside the home affect the kitchen's job.
+
+::: S047 | Parent wraps small cheese and places in coolcupboard,vegetablesremainonboard; norefrigerator. [note: Illustrative choice] [same-as: S001] [zoom-out]
+For tonight, suppose we keep the cheese for another meal. That changes the recipe, not the number of people expecting dinner.
+
+::: S048 | White ceramic piedish and dicedrootvegetables on samekitchenwoodtable,nomeat. [pose: look-around 0.8,0.94 0.6] [note: A sourced recipe example] [pan-right]
+A period recipe offers another starting point, provided you can get the vegetables it calls for.
+
+## Building a dinner without meat
+::: S049 | Four clearlydistinctvegetablesbeforechopping on woodboard;whitepiedishrear,nomeat orcream. [note: Woolton pie · period recipe reproduced by Chertsey Museum] [same-as: S048] [zoom-in]
+Woolton pie is a useful example. The period recipe reproduced by Chertsey Museum starts with potatoes, cauliflower, swede and carrots.
+
+::: S050 | Cut swede,yellowishflesh and purple-creamouterroot,separate carrot,potato,cauliflowerpieces; noidenticalorangecubes. [same-as: S048] [pan-left]
+Swede is the root vegetable also called rutabaga. Here, it joins the other vegetables in a diced filling.
+
+::: S051 | Small springonions beside plain extractpot and smalloatmealbowl; no specific spoonquantityshown. [same-as: S048] [zoom-out]
+The recipe adds spring onions if possible, vegetable extract and oatmeal. It builds flavour and body without a meat filling.
+
+::: S052 | Enamel pot with visibly cooked dicedvegetables and modest liquid; stablegasburnerbelow,cookhandsnatural. [same-as: S048] [pan-right]
+The vegetables are cooked with water before going into the dish. This is not a raw heap hidden beneath pastry.
+
+::: S053 | Cookedfilling in samewhiteovaldish,smallparsleysprinkle,and separate rolledwheatmealpastry lid ready. [same-as: S048] [zoom-in]
+After cooling, they go into a pie dish with parsley. A potato or wheatmeal pastry crust covers the top.
+
+::: S054 | Finished modest brownedwheatmealcrust inwhiteovaldish,smallbrown-gravyjug; no cheese topping. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S048] [pan-left]
+For our illustration, we are using the wheatmeal pastry version. The finished pie is browned and served with gravy.
+
+::: S055 | Plain flourjar,smallfatportion and cookingrange beside finishedpie; no invented quantitiesorstocklabels. [same-as: S001] [zoom-out]
+That does not make the crust free of ingredients, or the meal free of fuel. A recipe still uses household resources.
+
+::: S056 | Recipeingredientsandfinishedpie as demonstration,smallsourcecaption; no wholecityeatingclones. [note: Recipe example · actual supplies could differ] [same-as: S048] [pan-right]
+For our July family, those vegetables are not guaranteed. This is a recipe demonstration, not proof of that day's shop stock.
+
+::: S057 | One portion lifted with vegetablecrosssection,nomeatstreakorcream; piephysicsplausible. [same-as: S048] [zoom-in]
+It shows one way of changing the centre of dinner. Meat does not have to be the main ingredient in this dish.
+
+::: S058 | Four ordinary portionsservedattable,remainingpie incentre; breadpresentifdesired no giantbanquet. [same-as: S001] [pan-left]
+But one dinner cannot tell us whether a family managed a whole week. Tomorrow brings another set of decisions.
+
+::: S059 | Closed cheeseparcelinplaincupboard cutawayview,not magicallyrefilled; parentchecksnextmealitems. [same-as: S001] [zoom-out]
+The small cheese ration still needs planning. Other meals, purchases and ingredients have not disappeared just because this pie came together.
+
+::: S060 | Family begins quietdinner,fourdistinctmembers,Visitorrightsecondary. [pose: watch-arms-crossed 0.8,0.94 0.6] [note: One illustrative meal,not a complete diet] [same-as: S001] [pan-right]
+That is one illustrative dinner, not a complete diet or a balanced week's accounts.
+
+## The ingredient you cannot put in a basket
+::: S061 | Mother carrying bag waits inmodestqueue alongsamebrickshopfront; summerdaylight. [same-as: S011] [zoom-in]
+Now add the ingredient the recipe does not weigh: time. Someone had to find the food before anyone could cook it.
+
+::: S062 | Workerinplaincoat passesqueue while glancingattimeonshopclockblankface; no exactscheduledhour. [note: Home Intelligence,18July1944,section14a] [same-as: S022] [pan-left]
+The government's July report recorded complaints that working people who could not queue missed out on scarce fruit and tomatoes.
+
+::: S063 | Two shopperswithdifferentemptybaskets waitatcounter,sparse tomatocrate foreground; no readableinventeddialogue. [same-as: S022] [zoom-out]
+It also reported queues for particular items delaying people who wanted something else. The errand could grow without adding any food.
+
+::: S064 | Shopper checks bag and looks downanotherstreet,Visitoratrightcalmthoughtful. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S011] [still]
+With an already full day, visiting another shop was not an unlimited option.
+
+::: S065 | Equalbookicons leadtodifferenttimeandsupplyicons; no fakepopulationpercentage. [note: Interpretation from reported shopping difficulties] [still]
+This helps explain why apparently equal allowances did not produce identical experiences. Access depended on more than the number printed in a book.
+
+::: S066 | Ordinaryshopper sees coveredparcelbehindcounter,ambiguousnotcrimeproof; use reportcaptionrather thanstagedbribe. [note: Reported complaints,not a claim about this particular shop] [same-as: S012] [pan-left]
+The same report mentions complaints about under-the-counter sales and conditional selling. The official system did not remove every source of frustration.
+
+::: S067 | Two balanced reportfindings inlargeprint,notnutritionverdict. [note: Home Intelligence,18July1944,section14] [still]
+We should not turn that report into proof that everybody was miserable. It also recorded widespread satisfaction with the food situation.
+
+::: S068 | Family at modestmeal,normal mixedexpressions neitherstarvingnorcelebrating; pieconsistent. [same-as: S001] [pan-right]
+Some people thought they were well fed in the fifth year of war, even while disliking shortages or monotonous meals.
+
+::: S069 | Parent seatedaftercooking,ordinarytiredface,childreneat; no heroicpatrioticiconography. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [still]
+Both things can be true. A system can protect supplies and still leave the person making dinner thoroughly tired of the options.
+
+::: S070 | Parent preparesmodestsandwich withsmallcheeseslice,remainingblockreduced; no inventedcalorievalue. [same-as: S001] [pan-left]
+The complaints about cheese were especially relevant to people carrying packed meals. A small ration becomes noticeable across several working lunches.
+
+::: S071 | Plain communalmealroom,servinghatch andordinaryplates,peoplepayatfront; no universaldisgustfaces. [note: Reported views on canteens,July1944] [zoom-out]
+There were also complaints about canteen cooking, alongside a sense that people with access to canteens had an advantage.
+
+::: S072 | Adult receivesordinarycookedmeal onceramicplate,roomclearlydifferentfromhome. [same-as: S071] [pan-right]
+That takes us beyond our family's table. The food reaching a household was only part of the feeding system.
+
+## Dinner was bigger than the kitchen
+::: S073 | Home,canteen,schoolicons connectedwithoutquantities orguaranteedaccess. [note: Ministry of Food,1951report,paras23–25] [still]
+Workplace canteens, school meals and public dining could supplement what people ate at home. Those arrangements changed the calculation.
+
+::: S074 | Customer payscoins fortray atplainhatch; no coupons handedover,no luxuryrestaurantdress. [note: Illustrative British Restaurant] [same-as: S071] [pan-left]
+British Restaurants offered inexpensive meals as part of wartime communal feeding. Customers still paid for them.
+
+::: S075 | Smallerlunchsettingfortwo whiletwofamilymembersaway,notchildrenabandoned; parenttidiesfewerplates. [same-as: S001] [zoom-out]
+Meals outside the home could also reduce the cooking left for somebody at home. The government recognized that practical benefit.
+
+::: S076 | Illustrative adult passesworkplace entrance andmealhallfaraway,notguaranteedlocalroute. [same-as: S011] [pan-right]
+But access mattered. A worker with a convenient canteen and someone without one did not necessarily have the same options.
+
+::: S077 | Childreceivesmealfromadultserver,agecorrectotherchildrenatbenches; sourcecaptionclear. [same-as: S045] [zoom-in]
+School provision likewise belongs in the story of feeding children. It should not be silently folded into four adult ration totals.
+
+::: S078 | Ordinarygardener tendsmoderatepotatoandcabbageplot,toolsandgrowthstagesplausible. [note: Wartime food-production policy] [pan-left]
+Growing food could add another source of supplies, and wartime policy pushed for more home production of staple crops and vegetables.
+
+::: S079 | Handsworkingsoilwithsimplefork,mixedyoungplants,notinstantfullgrowncrop. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S078] [zoom-out]
+Yet a poster cannot give every family land, tools, time and a successful harvest. We cannot assume our household has them.
+
+::: S080 | Ordinarykitchenaftermeal,washingup andnextingredients visible,bothparentshelp. [same-as: S001] [pan-right]
+Advice to be resourceful always lands in a particular home, with particular people and a particular amount of work already waiting.
+
+::: S081 | Hands washingplainpot inbasin,emptyfourplatesstacked; no modernspraytap. [same-as: S001] [zoom-in]
+That is the difference between a national food plan and the evening job of turning it into dinner.
+
+::: S082 | Originalcatalogue-basedtitlecard,nofilmframe copied andnohistoricalfootageclaim. [note: IWM COI155 · catalogue description] [still]
+An official film from nineteen forty-four used a selected family of four to explain rationing and its benefits.
+
+::: S083 | Filmmessageandreportedshoppingexperience inbalancedtwocolumns,no fabricatedquote. [note: IWM catalogue + Home Intelligence] [still]
+It was a persuasive explanation, not a record of every family's life. The shopping reports help us see the friction behind that message.
+
+::: S084 | Returntosamefamilykitchen,books and emptydish ontable,smallcalmVisitorright. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [pan-right]
+Our kitchen needs both perspectives: what the system was meant to accomplish, and what it still asked a household to do.
+
+## Could you make it work?
+::: S085 | Tablegroupsbread,vegetables,smallwrappedrationedfoodandemptymealplates; no exactcompleteweeklyallocation. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [zoom-in]
+So, could you feed a family on Britain's wartime rations? First, you would need to stop treating the rations as the entire menu.
+
+::: S086 | Fourlargecategories surroundingoneplate,not everymechanismrepeatedtiny. [note: Synthesis] [still]
+The ration book organized access to certain foods. Other foods, money, shopping time and meals elsewhere helped determine what people actually ate.
+
+::: S087 | Parentsplannextdaywithbookandavailableingredients,childreninbackgroundquietlytidying. [same-as: S001] [zoom-out]
+You would plan across meals, accept substitutions, and learn which rules applied to each person and purchase.
+
+::: S088 | Samewhitepie dish withfewremainingvegetablepiecesafterserving,nofullrefill. [same-as: S048] [pan-right]
+You might make something like our vegetable pie. But making it once would not erase the rest of the week's work.
+
+::: S089 | Parentwipesworktable,ordinarysatisfactionandfatigue nottriumphalglow. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [still]
+There is ingenuity in that process, without needing to pretend that scarcity was secretly wonderful or that everybody experienced it equally.
+
+::: S090 | Balancedshortterms,no medicalnutritionjudgement. [note: Reported satisfaction and complaints] [still]
+There is also a real difference between being hungry for variety and having no food. Our sources do not reduce everyone to either extreme.
+
+::: S091 | Ordinaryneighbourhoodshoppingcontinues,smallqueueandcarryingbags,noall-citydestructionorparty. [note: Home Intelligence,18July1944] [same-as: S011] [zoom-out]
+The July reports let satisfaction sit beside queues, shortages and monotony. That is a more useful picture than a heroic recipe alone.
+
+::: S092 | Cooklooksfromlimitedingredients tofourplates,practicalplanningnotstarvationtable. [same-as: S001] [pan-right]
+For the people doing the cooking, national policy arrived as very local questions. Is the shop open? Is anything left? Will this stretch?
+
+::: S093 | Bothparentsclearplateswitholderchildhelping,youngchildseated; nohousewife-onlyburdenassumption. [same-as: S001] [zoom-in]
+And once dinner was finished, the dishes still needed washing. Feeding the family was a repeated job, not a single clever substitution.
+
+::: S094 | Earlierdinnermomentexplicitreturn,allfouratservedmeal,consistentpieandplates. [note: Returning to our illustrative dinner] [same-as: S001] [pan-left]
+Our four people have dinner. It is a modest ending, but it is the task we began with.
+
+::: S095 | Closedbookbesideemptypiedish andcleanutensils,sunlightfading,no illegiblecovertext. [same-as: S001] [zoom-out]
+The ration book helped organize the food. The household still had to organize the day around getting it and making it edible.
+
+::: S096 | Quiettidiedkitchenendframe,plainwarmdaylight andcalmrightarea forendscreen,notnightoutsidewithsunvisible. [same-as: S001] [pan-right]
+If you had to repeat that tomorrow, the most valuable ingredient might be one the ration book never promised: a little more time.

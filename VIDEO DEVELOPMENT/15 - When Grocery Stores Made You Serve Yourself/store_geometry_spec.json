@@ -1,0 +1,100 @@
+{
+  "schema_version": "1.0",
+  "status": "director_design_source_checked_media_pending",
+  "source": "https://patents.google.com/patent/US1242872A/en",
+  "inspection": "All three drawing sheets viewed at readable size in the browser. This is a reconstruction of the patent, not a measured as-built plan of the first store.",
+  "plan": {
+    "orientation": "Front/lobby at bottom; rear stockroom at top. Keep this orientation in all local diagrams.",
+    "zones": [
+      "Front lobby 8",
+      "Middle sales room 9",
+      "Rear stockroom 10"
+    ],
+    "shelves": "Two outer wall shelves and three interior longitudinal runs form four parallel aisles.",
+    "customer_route": [
+      "Basket station 27 in left-front lobby",
+      "One-way entrance gates 29/30",
+      "Up leftmost aisle",
+      "Across at rear",
+      "Down second aisle",
+      "Across at front around the centre cabinet",
+      "Up third aisle",
+      "Across at rear",
+      "Down fourth/rightmost aisle",
+      "Front-right checking counter",
+      "Return basket; leave through exit gate 40"
+    ],
+    "prohibited": [
+      "No route through a solid shelf or partition",
+      "No fifth aisle",
+      "No central cross-aisle shortcut",
+      "No reversed entry and exit",
+      "No cart or unattended till"
+    ]
+  },
+  "fixed_features": {
+    "refrigerator": "Cabinet 16 near front of central run; glazed front visible through screened opening 17, narrow paired self-closing doors. No invented refrigerant or compressor.",
+    "stockroom": "Rear zone, access doors 21, stairs/ladder 22 to galleries 23; connecting passages 24 and guardrails 25.",
+    "checkout": "Waiting lane 35, basket rests 36/37, counter 38, exit 39/gate 40. Adding machine 100 separate from register 101."
+  },
+  "cross_location_parents": [
+    {
+      "child": "aisle",
+      "parent": "S001",
+      "rule": "First establish a local plan from Fig. 2, then lobby and aisle anchors from it. Do not edit a perspective into impossible geometry."
+    },
+    {
+      "child": "checkout",
+      "parent": "S001",
+      "rule": "Front-right part of same lobby, consistent counter and gate."
+    },
+    {
+      "child": "stockroom",
+      "parent": "S017",
+      "rule": "Behind sales room; preserve doors and gallery relationships."
+    }
+  ],
+  "shopping_continuity": {
+    "fictional_list": [
+      "sugar",
+      "soap"
+    ],
+    "optional_extra": "One tin of tomatoes, explicitly fictional example",
+    "sugar": "Five-pound cloth bag, matching launch advertisement; no retail price",
+    "basket_states": [
+      {
+        "scenes": "S001–S021",
+        "state": "Empty until sugar is picked up; hypothetical close-ups may show separate packages."
+      },
+      {
+        "scenes": "S022–S029",
+        "state": "Sugar sack only; tomato tin remains on shelf."
+      },
+      {
+        "scenes": "S030–S048",
+        "state": "Sugar, soap, tomato tin after narrated choice; source/diagram scenes may isolate objects."
+      },
+      {
+        "scenes": "S049–S055",
+        "state": "Items leave basket for checking/wrapping; basket becomes empty."
+      },
+      {
+        "scenes": "S056 onward",
+        "state": "Basket returned inside; purchaser carries wrapped goods. Earlier-trip recaps are explicitly marked."
+      }
+    ]
+  },
+  "local_typography": {
+    "rule": "Never ask image generation to make labels or prices. Add a few unobtrusive checked commodity words or original pictograms on flat label panels; leave distant labels abstract, without pseudo-writing.",
+    "brand": "Optional plain Piggly Wiggly nameplate added locally. No modern pig mascot.",
+    "price": "No invented price totals or retail price tags.",
+    "source_cards": "Use short paraphrases or selected original phrases with September 1916 ad attribution; patent graphics clearly marked 1917."
+  },
+  "required_checks": [
+    "Follow every route segment on the top-down plan without crossing a shelf.",
+    "Compare lobby, aisle, checkout and stockroom anchors side by side.",
+    "Basket and purchase counts match scene state; no basket leaves with shopper.",
+    "Cashier, wrapping, register and basket return stay distinct from modern self-checkout.",
+    "Read every caption at 160px thumbnail and normal playback size as appropriate."
+  ]
+}

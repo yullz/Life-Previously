@@ -1,0 +1,1340 @@
+{
+  "id": "15",
+  "slug": "self-service-groceries",
+  "title": "Why Did Grocery Stores Make You Serve Yourself?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "Why Shoppers Became Their Own Grocery Clerks",
+    "The Store That Made Customers Do the Work"
+  ],
+  "period": "Memphis, Tennessee, 1917. A reconstructed walk through the self-serving store described in Clarence Saunders's patent US1,242,872, granted October9,1917 after filing October21,1916. This is a patent-based explanatory setting, not a claim that every detail was built in one exact shop. Opening-year context and launch advertisements are labelled September1916. Early-twentieth-century timber grocery fixtures, narrow aisles, hand baskets, packaged goods, staffed checking/payment counter and mechanical register. Everyday male and female shoppers wear restrained1910s clothes; no flapper-era silhouette. Preserve the patent's front lobby, left entrance, serpentine four-aisle shopping circuit, right checkout and rear stockroom. Raised staff galleries are a proposed patent feature, labelled as such. Visitor remains modern in the approved orange hoodie, composited separately.",
+  "avoid": "No rolling shopping carts, barcode scanners, self-checkout screens, card readers, fluorescent lighting, refrigerated wall banks, plastic shopping bags, modern supermarket parking lot,1930swarehouse layout, modern Piggly Wiggly pig mascot,1950ssignage,2020pandemic arrows or cloned contemporary packaging. No worldwide first-supermarket claim, exact savings percentage, universal welcome/access claim or assertion every older grocer offered only one product. No paid-or-free delivery scene for the advertised1916model. No secret mind-control or guaranteed impulse purchase claim. No model-painted labels, brands, prices or floor-plan arrows. No kidnapping/prison imagery for the circuit.",
+  "locations": {
+    "lobby": {
+      "scope": "Memphis 1917; reconstruction of Saunders's patented layout",
+      "design": "Front entrance lobby with merchandise room beyond screened partition. Entry passage and hand-basket station on viewer's left; staffed checkout lane and counter on right; central glazed refrigerated cabinet visible beyond the screen. Plain wood trim, pale plaster, modest electric pendant fixture. Two separate entry/exit gates. Keep exact geometry using store_geometry_spec.json."
+    },
+    "aisle": {
+      "scope": "Memphis 1917; patented sales-room circuit, illustrative reconstruction",
+      "design": "Four parallel customer aisles formed by wall shelving and three interior shelf runs, connected alternately at rear/front/rear ends. Tall timber cabinets with flat-faced tins, small boxes and cloth sacks. No cross-aisle shortcuts, dead ends, extra doors or mirrored route. Packages retain blank clean label panels until limited local typography is added.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "checkout": {
+      "scope": "Memphis 1917; staffed checking and settlement station in patent",
+      "design": "Right-front counter, mechanical adding machine and separate mechanical cash register. Basket rests along waiting lane. Clerk checks, totals and wraps goods; customer returns store basket before exit gate. No conveyor, scanner, till touchscreen or unattended payment.",
+      "anchor_reference_scene_id": "S007"
+    },
+    "stockroom": {
+      "scope": "Memphis 1917; rear stockroom and galleries specified in patent",
+      "design": "Rear shelves of boxed reserve goods; two plain access doors into sales room, guarded elevated walkways atop shelving reached from stockroom by stairs or ladder. Diagram-based, no impossible ladders over customers. No exact number of staff or staffing ratio claimed.",
+      "anchor_reference_scene_id": "S007"
+    },
+    "old_counter": {
+      "scope": "Illustrative conventional clerk-served grocery, Memphis 1910s; comparison, not a named shop",
+      "design": "Clerk behind timber counter fetches packages from shelves for waiting adult customer. Modest ordinary store, multiple products available. No cartoon filth, laziness or only-one-brand assertion."
+    },
+    "product": {
+      "scope": "Explanatory package close-ups matching the patented grocery setting",
+      "design": "Plain period-compatible tins, small paper/card packages and tied cloth sugar sack on wood. Selected category words added locally; unimportant distant labels remain clean abstract shapes without gibberish. No invented brands, retail price, health promise or modern logo."
+    },
+    "advert": {
+      "scope": "September 3, 1916 launch advertisements in Memphis Commercial Appeal",
+      "design": "Locally composed source cards derived from the actually inspected advertisements. Clearly label as advertised promises rather than audited outcomes. Use only selected original words with date/source; no image-model lettering."
+    },
+    "outside": {
+      "scope": "Memphis 1917; illustrative commercial street outside a small grocery",
+      "design": "Restrained brick storefront with timber-framed doorway and plain pavement. Small shop scale, no claimed exact79Jefferson facade. Any Piggly Wiggly name composed locally in simple source-informed lettering; no modern pig mascot. Customer carries wrapped goods rather than rolling cart."
+    },
+    "diagram": {
+      "scope": "Modern explanatory diagram of Saunders's 1917 patent",
+      "design": "Parchment schematic preserving labelled zones and continuous four-aisle circuit. All routes, arrows, labels and dates local. Show proposed design, not a measured as-built survey."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Clarence Saunders, US1,242,872, Self-serving store (1917)",
+      "url": "https://patents.google.com/patent/US1242872A/en",
+      "text_url": "https://patentimages.storage.googleapis.com/cc/b8/73/07a11a4e391684/US1242872.pdf",
+      "read": "Complete description and claims read; all three original drawing sheets visually inspected through Google Patents full-size images in browser on2026-10-09. Fig2 route, Fig1 lobby perspective and Fig3–4 galleries/cabinet section compared with description.",
+      "limit": "A patent describes claimed design and inventor's intended benefits, not independent proof of sales multiples, profit-margin reductions or identical layout in every store. Do not use OCR's garbled personal name/patent number. Use US1,242,872."
+    },
+    {
+      "id": "SRC02",
+      "title": "Memphis Commercial Appeal launch advertisements, September3,1916, reproduced by Tennessee History for Kids",
+      "url": "https://www.tnhistoryforkids.org/history/people/clarence-saunders/",
+      "read": "Both original advertisements visually read in full at linked images1916_09_03_MCA_1.jpg and1916_09_03_MCA_2.jpg. First warns off timekillers/sightseers and announces Wednesday opening; second describes customer as own clerk, ready-packed goods,5lbcloth sugar bag, baskets/cashier and no free or paid delivery.",
+      "limit": "Advertisements are promises and persuasion, not neutral operating statistics or proof of the actual opening date. Modern page's national store-count/chain-size claims are not used."
+    },
+    {
+      "id": "SRC03",
+      "title": "Piggly Wiggly corporate history",
+      "url": "https://www.pigglywiggly.com/history/",
+      "read": "Indexed official history read: Memphis1916, Saunders, customers select goods in baskets and franchise expansion.",
+      "limit": "Company promotional account. Its September6date differs from Memphis Library/Tennessee Museum September11; narration uses September1916. No adoption of its universal first-ever claims or current store counts."
+    },
+    {
+      "id": "SRC04",
+      "title": "Tennessee State Museum, The Story of Piggly Wiggly",
+      "url": "https://tnmuseum.org/junior-curators/posts/the-story-of-piggly-wiggly-the-first-supermarket",
+      "read": "Article's opening, self-service, franchising and later-business narrative read.",
+      "limit": "Children's summary oversimplifies the first-supermarket priority claim and the cause of cheaper prices. Use for context only, with original patent/ads governing mechanics. Later biography/stock-market/Keedoozle story excluded."
+    },
+    {
+      "id": "SRC05",
+      "title": "Smithsonian Lemelson Center, One-Way Supermarket Aisles",
+      "url": "https://invention.si.edu/invention-stories/one-way-supermarket-aisles",
+      "read": "Historical1916–17paragraphs, route interpretation and later developments read.",
+      "limit": "Article discusses2020one-way aisles. Do not transplant its opening modern context; it loosely includes carts in the early store description, contradicted by the patent basket description and later museum cart chronology. Candy placement not used without a dated1917primary source."
+    },
+    {
+      "id": "SRC06",
+      "title": "Library of Congress, Clifford H. Poland, interior of Piggly Wiggly in or near Memphis, c1918, LCCN96512541",
+      "url": "https://www.loc.gov/item/96512541/",
+      "read": "Indexed LOC catalogue record read: title, photographer, c1918, two turnstiles, no known publication restrictions. Direct site has an anti-bot gate; photo itself not yet inspected.",
+      "limit": "c1918does not establish1916opening-day appearance, nor exact address or first store. Optional comparison only, not a required input; the patent drawings supply the approved geometry."
+    },
+    {
+      "id": "SRC07",
+      "title": "Smithsonian National Museum of American History, Basket for Goldman's Folding Basket Carriage",
+      "url": "https://www.si.edu/object/nmah_1216282",
+      "read": "Indexed museum object record read: circa1937basket carriage, two wire baskets,1938filing and1940patent.",
+      "limit": "Exclusion reference only: no rolling Goldman cart in1917scenes. Do not claim this object alone proves the first wheeled shopping aid anywhere."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "type": "F",
+      "claim": "Visitor, grocery list, individual shopper and extra-purchase temptation are original illustrative framing, not a documented customer's diary.",
+      "sources": [],
+      "locator": "Narrative construction",
+      "limit": "No invented transaction price, queue length, staffing count or personal testimony."
+    },
+    {
+      "id": "C1",
+      "type": "E",
+      "claim": "Saunders established Piggly Wiggly in Memphis in September1916; his self-serving-store patent was filed1916and granted1917.",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03",
+        "SRC04"
+      ],
+      "locator": "Patent cover; launch ads; institutional histories",
+      "limit": "No precise opening-day assertion, worldwide invention priority or sudden universal switch."
+    },
+    {
+      "id": "C2",
+      "type": "E",
+      "claim": "Conventional clerk service involved customers placing orders and staff collecting goods; Saunders proposed customers selecting goods themselves.",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Patent opening purpose; second advertisement; company history",
+      "limit": "A common contrast, not every store/one available product or universally lazy clerks."
+    },
+    {
+      "id": "C3",
+      "type": "E",
+      "claim": "Patent has front lobby, middle sales room, rear stockroom and alternating aisle connections producing one continuous circuit.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Descriptionp1; Fig2",
+      "limit": "Design reconstruction, not a measured plan of every actual shop. No hidden shortcut in illustration."
+    },
+    {
+      "id": "C4",
+      "type": "E",
+      "claim": "A basket station and one-direction entrance gate lead into the circuit; baskets carry selected goods and are returned before departure.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Descriptionp2, cabinet27/gates29–30/basket text",
+      "limit": "Not trolley or self-checkout; use a hand basket, never depict its permanent removal as standard."
+    },
+    {
+      "id": "C5",
+      "type": "E",
+      "claim": "The patent explicitly intends shoppers to review the assortment and become acquainted with different lines of goods while following the route.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Opening purpose and aisle-description paragraphs",
+      "limit": "Intended exposure, not proof every shopper bought extras or exact uplift."
+    },
+    {
+      "id": "C6",
+      "type": "E",
+      "claim": "Goods are packaged for convenient handling; launch ad gives a5lbsugar cloth bag and says articles ready-packed for sale.",
+      "sources": [
+        "SRC01",
+        "SRC02"
+      ],
+      "locator": "Descriptionp1 packages; second ad middle paragraphs",
+      "limit": "Illustrative advertised example, no sale price, exact brands or barcode. Five-pound bag not modern plastic."
+    },
+    {
+      "id": "C7",
+      "type": "E",
+      "claim": "The patent includes a glazed refrigerated cabinet near front middle shelving, paired narrow self-closing doors and visibility from lobby/street through a screened opening.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Descriptionpp1–2, Fig3–4",
+      "limit": "A proposed cabinet, not present-day wall refrigerators; no claim about refrigerant, electric compressor or exact temperature."
+    },
+    {
+      "id": "C8",
+      "type": "E",
+      "claim": "Rear stockroom access, galleries above display cabinets, guardrails and a possible floor-walker are specified to guide customers and monitor stock/sales.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Descriptionp2 galleries23/passageways24/rails25",
+      "limit": "Proposed design feature, not proof of a named employee spying on every shopper in every shop."
+    },
+    {
+      "id": "C9",
+      "type": "E",
+      "claim": "The checking station includes basket rests; staff remove goods, check/bill/wrap them, take payment and record the sale before exit.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Descriptionp2, structures34–40, machines100–101",
+      "limit": "No barcode, conveyor or unmanned checkout; adding machine and cash register distinct in drawing."
+    },
+    {
+      "id": "C10",
+      "type": "E",
+      "claim": "The patent seeks lower overhead and fewer order-fetching clerks; Saunders claims improved margins/capacity but those are his assertions.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Opening objects; descriptionp2last paragraph",
+      "limit": "No independently certified savings percent, no asserted mass firing, no universal net effect on all labour."
+    },
+    {
+      "id": "C11",
+      "type": "E",
+      "claim": "The1916launch advertisement promises no free or paid delivery and jokes that each customer will be her own clerk.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "Second ad, own-clerk and no-delivery paragraphs",
+      "limit": "Attribute to launch offer, not all self-service stores for all time. Do not invent credit policy."
+    },
+    {
+      "id": "C12",
+      "type": "E",
+      "claim": "The other launch ad warns against sightseers/timekillers and tells visitors to mean business.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "First ad lower half",
+      "limit": "Promotional voice, not authenticated store ban enforced against our Visitor. No invented spoken Saunders quote."
+    },
+    {
+      "id": "C13",
+      "type": "I",
+      "claim": "Self-selection redistributes fetching and carrying while staff still stock/check/wrap/take payment; convenience and work can shift together.",
+      "sources": [
+        "SRC01",
+        "SRC02"
+      ],
+      "locator": "Synthesis of described operations",
+      "limit": "Not an allegation that customers became employees or no shop workers remained."
+    },
+    {
+      "id": "C14",
+      "type": "E",
+      "claim": "The corporate and museum histories describe franchising the Piggly Wiggly system to other stores.",
+      "sources": [
+        "SRC03",
+        "SRC04"
+      ],
+      "locator": "Corporate history franchise paragraph; museum franchise explanation",
+      "limit": "No exact count/yeargrowth, no all modern supermarkets descend solely from this one inventor."
+    },
+    {
+      "id": "C15",
+      "type": "I",
+      "claim": "A guided route exposes shoppers to more goods than a direct pick-up; an extra item in the Visitor's fictional basket illustrates a possibility, not measured behaviour.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Circuit and exposure purpose",
+      "limit": "No psychological manipulation metric or guarantee; distinguish planned list from imagined extra."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "You came for groceries",
+      "scenes": [
+        [
+          "You came to buy sugar. Somehow, you are now carrying a basket, fetching the goods, and following a route somebody else designed.",
+          "C0,C4,C5",
+          "lobby",
+          "wide",
+          "A shopper pauses inside the front lobby holding a small empty hand basket; entry left and checkout right. Visitor observes beside clear floor.",
+          "eyebrow-raise"
+        ],
+        [
+          "The shop has found a new pair of hands. Yours. Has shopping become easier, or have you acquired a job?",
+          "C0,C13",
+          "product",
+          "close-up",
+          "Customer hands reach for a modest cloth package on timber shelving. No Visitor hand, uniform or employment badge.",
+          null
+        ],
+        [
+          "Memphis, nineteen seventeen. Clarence Saunders has opened Piggly Wiggly, and patented a design for a self-serving store.",
+          "C1",
+          "outside",
+          "wide",
+          "Small illustrative Memphis grocery exterior. Pedestrians in restrained 1910s day clothes; no claim to exact first-store facade.",
+          "look-around",
+          "Memphis, 1917 · Saunders patent US 1,242,872"
+        ],
+        [
+          "We are following his patent through an imagined trip. Its promise: choose the groceries yourself.",
+          "C0,C1,C2",
+          "diagram",
+          "graphic",
+          "Source-bound floor plan with lobby, sales room and stockroom as three successive bands.",
+          null,
+          null,
+          "A SHOPPING TRIP THROUGH THE 1917 PATENT"
+        ],
+        [
+          "Picture the alternative. You give a clerk your order, and the clerk collects it from behind the counter.",
+          "C0,C2",
+          "old_counter",
+          "wide",
+          "Adult customer faces a clerk who retrieves a package from a full shelf. Shop clean, ordinary and functional.",
+          null
+        ],
+        [
+          "You ask; they fetch. Self-service changes who does the fetching.",
+          "C2,C13",
+          "old_counter",
+          "medium",
+          "Clerk hands one plain paper package across the counter while customer waits. No caricature of lazy staff.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Now the goods are within reach. Stop, look, choose, and put a package in your basket.",
+          "C4,C6",
+          "aisle",
+          "medium",
+          "Shopper compares two plain packages within the first aisle. Basket rests securely on forearm; clear human hand anatomy.",
+          null
+        ],
+        [
+          "No need to describe every item to somebody else. But the shop still has a plan for how you move.",
+          "C2,C3",
+          "diagram",
+          "graphic",
+          "Four parallel aisles with only their correct alternating end connections. Entrance at lower left; checkout lower right.",
+          null,
+          null,
+          "CHOOSE YOUR GOODS · FOLLOW THE ROUTE"
+        ],
+        [
+          "Our imaginary list: sugar and soap. Two things. This should be a very short visit.",
+          "C0",
+          "product",
+          "close-up",
+          "Locally designed simple list card beside a cloth sack and unbranded soap package; no painted writing.",
+          "count-fingers",
+          null,
+          "OUR IMAGINARY LIST: SUGAR · SOAP"
+        ],
+        [
+          "Except this layout prevents a direct route to every shelf. That is part of the idea.",
+          "C3,C5",
+          "diagram",
+          "graphic",
+          "Shortest imagined direct line stops against a solid shelf; valid continuous route remains clear. No arrows through walls.",
+          null,
+          null,
+          "THE SHELVES SET THE ROUTE"
+        ],
+        [
+          "Saunders wants customers to become acquainted with the assortment. We know what we want. He has other goods to introduce.",
+          "C5",
+          "aisle",
+          "wide",
+          "Long view along stocked timber shelves; shopper small in frame. No invented brand logos or prices.",
+          null,
+          "Saunders, self-serving store patent, 1917"
+        ],
+        [
+          "First, though, we need to get through the entrance. The basket is waiting. So is a gate that only goes one way.",
+          "C4",
+          "lobby",
+          "medium",
+          "Entry gate on left with basket station before it. Clearly separate exit gate at far right.",
+          "glance-nervous"
+        ]
+      ]
+    },
+    {
+      "title": "The store gives you a basket",
+      "scenes": [
+        [
+          "Pick up a hand basket and pass through the entrance gate. This is the moment your shopping route begins.",
+          "C4",
+          "lobby",
+          "medium",
+          "Customer passes left entry gate with hand basket; latch and hinge plausible. Preserve front-lobby anchor geometry.",
+          null
+        ],
+        [
+          "No rolling trolley here. The basket carries the packages you collect along the way.",
+          "C4",
+          "product",
+          "close-up",
+          "Small period-compatible hand basket with two handles; no wheels, folding trolley frame or child seat.",
+          null
+        ],
+        [
+          "The patent has three main areas: a front lobby, a sales room, and a stockroom behind.",
+          "C3",
+          "diagram",
+          "graphic",
+          "Three horizontal zones, preserving front at bottom and stockroom at top; small source label.",
+          null,
+          null,
+          "LOBBY → SALES ROOM → STOCKROOM"
+        ],
+        [
+          "Customers enter through the lobby. The stockroom supplies the business without joining our shopping circuit.",
+          "C3,C8",
+          "lobby",
+          "wide",
+          "View through screened partition toward first aisle; stockroom doors at distant rear, no customer shortcut.",
+          "look-around"
+        ],
+        [
+          "Inside, wall shelving and three long interior shelf runs form four aisles. Their ends connect in an alternating pattern.",
+          "C3",
+          "aisle",
+          "wide",
+          "Elevated explanatory oblique view of four aisles formed by three interior shelving runs and outer walls. No roof, no fifth aisle.",
+          null,
+          "Reconstruction from patent Fig. 2"
+        ],
+        [
+          "Up one aisle, around the end, down the next. Then around again. No convenient shortcut.",
+          "C3",
+          "diagram",
+          "graphic",
+          "Animate locally drawn route only: lower left up, rear across, down, front across, up, rear across, down right.",
+          null,
+          null,
+          "ONE CONTINUOUS CIRCUIT"
+        ],
+        [
+          "You still choose which packages to take. The arrangement chooses the order in which you encounter the shelves along the way.",
+          "C3,C5",
+          "aisle",
+          "medium",
+          "Customer passes first shelf run and reaches its correct rear opening; fixed packages stay in their established positions.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Freedom to choose the goods does not necessarily mean freedom to wander anywhere.",
+          "C3,C13",
+          "diagram",
+          "graphic",
+          "Two separate simple icons: hand selecting package and fixed route. Neutral explanatory design, no prison imagery.",
+          null,
+          null,
+          "CHOICE OF GOODS · A GUIDED ROUTE"
+        ],
+        [
+          "The plan also expects goods to be packaged in convenient quantities. The customer needs something manageable to lift from the shelf.",
+          "C6",
+          "product",
+          "close-up",
+          "Assorted modest tins, small paper packets and tied cloth sacks, each graspable; no loose open heap of sugar.",
+          null
+        ],
+        [
+          "A launch advertisement gives a concrete example: five pounds of granulated sugar, already waiting in a cloth bag for the shopper.",
+          "C6",
+          "product",
+          "close-up",
+          "One tied cloth sugar sack sized for five pounds, plain clean fabric; quantity added as a local explanatory caption.",
+          null,
+          "Launch advertisement, Memphis Commercial Appeal, September 1916"
+        ],
+        [
+          "Nobody needs to weigh that example out while you wait. The advertised package is ready.",
+          "C6",
+          "aisle",
+          "medium",
+          "Shopper lifts the established cloth sack from its shelf into basket. No new package shape or retail price.",
+          null
+        ],
+        [
+          "One item accounted for. Now we can go straight to the soap. Almost.",
+          "C0,C3,C6",
+          "product",
+          "close-up",
+          "Same basket now contains exactly one cloth sugar sack; empty space for later soap and optional tin.",
+          "closeup-smile"
+        ]
+      ]
+    },
+    {
+      "title": "The long way to the soap",
+      "scenes": [
+        [
+          "The next thing you want might be physically close. A shelf can still stand between you and the route that reaches it.",
+          "C0,C3",
+          "aisle",
+          "medium",
+          "Customer sees another aisle through an explanatory cutaway, but solid cabinet blocks direct passage; no actual hole in shelf.",
+          null
+        ],
+        [
+          "Saunders describes the advantage plainly: customers should review the assortment and become acquainted with different lines of goods in the store.",
+          "C5",
+          "diagram",
+          "graphic",
+          "Continuous path passes small generic package icons, one icon lit at a time. Source attribution below.",
+          null,
+          null,
+          "THE AIM: SHOW YOU THE ASSORTMENT"
+        ],
+        [
+          "A clerk could fetch your order without you encountering those goods. Here, you walk past them.",
+          "C2,C5",
+          "old_counter",
+          "medium",
+          "Comparison view of the same conventional clerk-served counter with goods beyond customer reach. Do not portray empty stock.",
+          null
+        ],
+        [
+          "The shelves have become part of the sales pitch. They can offer a suggestion without anyone starting a conversation with you.",
+          "C5,C15",
+          "aisle",
+          "close-up",
+          "One attractive but modest unbranded tin among ordinary packets; no speech bubble or magical spotlight.",
+          "eyebrow-raise"
+        ],
+        [
+          "For our imagined shopper, it is a tin of tomatoes. It was not on the list. It is now rather visible.",
+          "C0,C15",
+          "product",
+          "close-up",
+          "Simple tomato tin with blank label reserved for a small local tomato illustration. No modern pull tab or brand.",
+          null
+        ],
+        [
+          "Perhaps you take it. Perhaps you leave it. The patent tells us what Saunders wanted the route to do, not your decision.",
+          "C0,C5,C15",
+          "diagram",
+          "graphic",
+          "One basket icon branches into two hypothetical outcomes: tin included or shelf unchanged. Do not imply measured proportions.",
+          null,
+          null,
+          "EXPOSURE IS THE PLAN · PURCHASE IS A POSSIBILITY"
+        ],
+        [
+          "Our fictional purchase supplies no honest sales statistic. The patent describes an ambition, not every customer's response.",
+          "C0,C15",
+          "product",
+          "medium",
+          "Tin remains on shelf beside shopper's hand held back; calm choice rather than coercion.",
+          null
+        ],
+        [
+          "But the business logic is clear. While you do the collecting, the route keeps introducing you to things the shop can sell.",
+          "C5,C13",
+          "aisle",
+          "wide",
+          "Shopper continues around correct front connection between middle aisles, basket holding only the established sugar sack.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The floor plan is doing a job. It is part of how the shop sells groceries.",
+          "C3,C5",
+          "diagram",
+          "graphic",
+          "Whole patent-derived plan with shelf blocks, entrance and checkout fixed. Route stays legible at mobile size.",
+          null,
+          null,
+          "THE LAYOUT DOES PART OF THE SELLING"
+        ],
+        [
+          "For our imagined visit, we will take the tomatoes as well as the soap.",
+          "C0,C15",
+          "product",
+          "close-up",
+          "Basket now contains sugar sack, one soap packet and one tomato tin, separated clearly. No fourth item.",
+          null
+        ],
+        [
+          "That extra purchase is invented. The effort to put more goods before your eyes is documented.",
+          "C0,C5,C15",
+          "advert",
+          "graphic",
+          "Small original source card distinguishing illustrated example from patent's stated purpose. Avoid repetitive dense caveat text.",
+          null,
+          null,
+          "AN IMAGINED PURCHASE · A DOCUMENTED DESIGN"
+        ],
+        [
+          "Our list is complete. Before paying, look behind the shelves, and above them.",
+          "C0,C8",
+          "aisle",
+          "wide",
+          "View toward rear stockroom doors and an elevated guarded gallery; shopper remains on lower sales-room floor.",
+          "look-up-worried"
+        ]
+      ]
+    },
+    {
+      "title": "Someone still runs the shop",
+      "scenes": [
+        [
+          "Packages do not arrive by magic. A stockroom supplies the sales area through connecting doors.",
+          "C8",
+          "stockroom",
+          "wide",
+          "Rear stockroom contains reserve boxes and shelves; two plain access doors align with patent layout.",
+          null
+        ],
+        [
+          "Staff still have to manage the goods. Saunders even provides galleries above the display cabinets, reached from the stockroom.",
+          "C8",
+          "stockroom",
+          "medium",
+          "Guarded gallery reached by stockroom stair or ladder; no access rising through a customer aisle.",
+          "look-up-worried"
+        ],
+        [
+          "These raised walkways connect. A floor-walker could move there, help customers, and keep an eye on stock and sales below.",
+          "C8",
+          "stockroom",
+          "wide",
+          "Single plainly dressed employee stands behind solid gallery rail overlooking shelves, without exaggerated spy pose.",
+          null,
+          "Proposed galleries · patent description and Figs. 1–2"
+        ],
+        [
+          "These are features of the patent, not proof that every later store operated exactly this way.",
+          "C3,C8",
+          "diagram",
+          "graphic",
+          "Gallery highlighted on source-bound plan; label identifies design evidence, not a photograph of every shop.",
+          null,
+          null,
+          "THE PATENTED DESIGN"
+        ],
+        [
+          "Downstairs, another feature sits near the front: a refrigerated cabinet with a glazed front, visible from the lobby through a screened opening.",
+          "C7",
+          "aisle",
+          "medium",
+          "Central front refrigerated cabinet aligns with middle shelf run and lobby screen, modest glass-fronted timber construction.",
+          null
+        ],
+        [
+          "The drawing gives it narrow paired doors that close themselves. It is a specific cabinet, rather than a modern wall of chilled aisles.",
+          "C7",
+          "product",
+          "close-up",
+          "Source-informed paired cabinet doors and simple mechanical closure detail; no compressor, digital display or frost wall.",
+          null,
+          "Patent Figs. 3–4"
+        ],
+        [
+          "The glass makes goods visible. The shop arranges visibility as carefully as movement.",
+          "C5,C7",
+          "lobby",
+          "medium",
+          "View from lobby through screened opening toward glazed cabinet, correct sight line; no extra transparent walls.",
+          "closeup-listening"
+        ],
+        [
+          "The ordinary packages have already been prepared for handling. Work happened before you picked them up.",
+          "C6,C13",
+          "product",
+          "close-up",
+          "Cloth sack, paper soap packet and sealed tin arranged in their established forms; no modern production line.",
+          null
+        ],
+        [
+          "So when we say the customer does the work, we should be precise. You are choosing, collecting, and carrying the goods around.",
+          "C4,C13",
+          "aisle",
+          "medium",
+          "Customer carries the three-item basket along the final aisle, walking toward front-right checkout.",
+          null
+        ],
+        [
+          "Other people still run the store. The clearest reminder waits at the end of our route.",
+          "C8,C9,C13",
+          "checkout",
+          "wide",
+          "Staffed counter at front-right with basket rests, separate adding machine and register; preserve lobby orientation.",
+          "look-around"
+        ],
+        [
+          "A counter, a clerk, and equipment for recording the sale. Another person is still involved.",
+          "C9",
+          "checkout",
+          "medium",
+          "Clerk stands behind counter with hands clear; customer approaches waiting lane. No conveyor or scanner.",
+          null
+        ],
+        [
+          "You fetched the groceries. Paying is a different operation. Put the basket down.",
+          "C4,C9",
+          "checkout",
+          "close-up",
+          "Customer lowers same three-item basket onto a timber basket rest without removing any item yet.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The human at the checkout",
+      "scenes": [
+        [
+          "At the checking station, staff take the goods from the basket. Choosing them yourself does not mean simply walking out with them.",
+          "C9",
+          "checkout",
+          "medium",
+          "Clerk removes soap packet first; sugar sack and tomato tin remain in basket. Clear hand contact.",
+          null,
+          "Checking station · Saunders patent, 1917"
+        ],
+        [
+          "The patent describes the goods being checked, billed and wrapped. Payment is received, and the sale is entered in the cash register.",
+          "C9",
+          "checkout",
+          "close-up",
+          "Three goods aligned on counter beside paper wrapping; separate register in background. No invented amount.",
+          null
+        ],
+        [
+          "An adding machine and a cash register appear as separate pieces of equipment in the drawing. No barcode scanner is involved.",
+          "C9",
+          "checkout",
+          "close-up",
+          "Two distinct source-informed mechanical machines, plain number areas reserved for local detail if needed. No electronic screen.",
+          "eyebrow-raise"
+        ],
+        [
+          "The customer has taken over collecting the order. The checking and payment process still brings that order back to a member of staff.",
+          "C9,C13",
+          "diagram",
+          "graphic",
+          "Three linked stages: customer selects, staff checks, customer pays. Distinct simple person icons.",
+          null,
+          null,
+          "SELECT → CHECK → PAY"
+        ],
+        [
+          "Self-service shopping and unattended checkout are different ideas. We are looking at self-service here.",
+          "C4,C9,C13",
+          "checkout",
+          "medium",
+          "Customer waits across counter while clerk checks the sugar package; no unattended till or self-scanning.",
+          null
+        ],
+        [
+          "The basket also has a job to finish. It belongs to the store, and the design calls for its return before departure.",
+          "C4",
+          "product",
+          "close-up",
+          "Empty hand basket beside wrapped goods, clearly separate objects. Do not show customer keeping basket.",
+          null
+        ],
+        [
+          "Our groceries can be wrapped, paid for, and taken away. The basket stays behind for another person's trip around the same shelves.",
+          "C4,C9",
+          "checkout",
+          "medium",
+          "Clerk passes paper-wrapped goods to customer; returned empty basket stays inside beside counter.",
+          null
+        ],
+        [
+          "An exit gate completes the journey. Enter on one side, follow the circuit, settle the bill, and leave through the other.",
+          "C3,C4,C9",
+          "diagram",
+          "graphic",
+          "Final route arrives lower-right checkout then exit gate; entry remains lower left. Direction arrows do not reverse.",
+          null,
+          null,
+          "IN → AROUND → CHECKOUT → OUT"
+        ],
+        [
+          "Browsing, collecting and payment form one sequence. That sequence is part of what Saunders wants to sell.",
+          "C3,C5,C10",
+          "diagram",
+          "graphic",
+          "Three panels of the same layout, highlighting successive operations without changing walls or shelf geometry.",
+          null,
+          null,
+          "A SYSTEM FOR SELLING GROCERIES"
+        ],
+        [
+          "He says the arrangement can reduce overhead. Fewer clerks need to spend their time fetching each customer's order from the shelves.",
+          "C10",
+          "old_counter",
+          "medium",
+          "Conventional clerk makes another trip from counter to shelf; neutral comparison, no firing scene or empty pay envelope.",
+          null,
+          "Saunders's stated business aim"
+        ],
+        [
+          "Those are the inventor's claims. His sales pitch is not an independently measured savings figure.",
+          "C10",
+          "advert",
+          "graphic",
+          "Patent objective paraphrased with visible attribution; no percentage, fabricated graph or profit total.",
+          null,
+          null,
+          "THE INVENTOR'S AIM: LOWER OVERHEAD"
+        ],
+        [
+          "But the change in the task is visible. You carried the order to the counter. The clerk did not collect it for you.",
+          "C9,C13",
+          "checkout",
+          "wide",
+          "Returned basket, clerk and exiting shopper in one stable composition; Visitor observes quietly at frame edge.",
+          "closeup-thoughtful"
+        ]
+      ]
+    },
+    {
+      "title": "What disappears from the service",
+      "scenes": [
+        [
+          "From the customer's side, that can feel useful. You choose a package directly instead of explaining the whole list across a counter.",
+          "C2,C13",
+          "aisle",
+          "medium",
+          "Earlier-trip callback: shopper selects soap packet from shelf; identify this as recap so basket state is not current.",
+          null,
+          null,
+          null,
+          {
+            "frame": "Earlier-trip explanatory callback"
+          }
+        ],
+        [
+          "It also means carrying your selections through the shop. The service has changed shape; the effort has not simply vanished.",
+          "C4,C13",
+          "product",
+          "close-up",
+          "Recap basket with established sugar, soap and tomato tin; shopper's hands support its handles realistically.",
+          null
+        ],
+        [
+          "The launch advertisement is blunt. It jokes that every customer will be her own clerk.",
+          "C11",
+          "advert",
+          "graphic",
+          "Original local typesetting of short ad phrase with publication and September 1916 date.",
+          null,
+          null,
+          "“HER OWN CLERK” · THE 1916 ADVERTISEMENT"
+        ],
+        [
+          "Advertising, not an employment contract. The joke is about taking over part of the service.",
+          "C0,C11,C13",
+          "lobby",
+          "medium",
+          "Visitor glances at source card while customer enters with basket; no uniform, staff badge or employment paperwork.",
+          "shrug-smirk"
+        ],
+        [
+          "And the offer removes another familiar possibility. If you expect the store to bring your groceries home, read the advertisement carefully.",
+          "C11",
+          "advert",
+          "graphic",
+          "Source card builds toward delivery statement; restrained newspaper-inspired local type, not generated gibberish.",
+          null,
+          null,
+          "WHAT ABOUT DELIVERY?"
+        ],
+        [
+          "Step back to September nineteen sixteen. These launch promises do not describe every later store.",
+          "C1,C11",
+          "advert",
+          "graphic",
+          "Clearly dated launch-ad transition, keeping 1916 distinct from main 1917 patent visit.",
+          null,
+          null,
+          "MEMPHIS · SEPTEMBER 1916"
+        ],
+        [
+          "Piggly Wiggly says it will offer no delivery service. Not free delivery. Not even delivery that the customer pays extra to receive.",
+          "C11",
+          "advert",
+          "graphic",
+          "Locally composed brief faithful paraphrase from second launch ad; source/date legible.",
+          null,
+          null,
+          "NO FREE OR PAID DELIVERY"
+        ],
+        [
+          "The customer helps herself to ready-packed goods and pays the cashier. Taking the purchase away is part of that advertised arrangement.",
+          "C6,C9,C11",
+          "outside",
+          "medium",
+          "Illustrative shopper leaves with paper-wrapped goods held close; no delivery van or store basket.",
+          null
+        ],
+        [
+          "That makes the trade-off easier to see. More direct control over choosing the goods comes with doing more of the fetching and carrying.",
+          "C11,C13",
+          "diagram",
+          "graphic",
+          "Balanced two-column comparison: choose directly / collect and carry. No implied quantified savings.",
+          null,
+          null,
+          "CHOOSE DIRECTLY · COLLECT AND CARRY"
+        ],
+        [
+          "Perhaps that suits our imaginary shopper. For another customer, the missing service could matter much more.",
+          "C0,C13",
+          "outside",
+          "medium",
+          "Shopper pauses with modest wrapped load outside doorway; no invented disability, household distance or heavy freight.",
+          "closeup-thoughtful"
+        ],
+        [
+          "The same business idea need not suit everyone. It offers a particular bargain in how shopping works.",
+          "C13",
+          "diagram",
+          "graphic",
+          "Three neutral icons for selection, effort and service; no thumbs-up score or universal winner.",
+          null,
+          null,
+          "A DIFFERENT SHOPPING BARGAIN"
+        ],
+        [
+          "And if you thought the new store wanted everyone to wander in and admire the invention, its other advertisement has a surprise.",
+          "C12",
+          "advert",
+          "medium",
+          "Simple source-card backdrop with blank area for next scene's quoted phrase. No invented historical reader reaction.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Please come to buy something",
+      "scenes": [
+        [
+          "The launch copy warns against timekillers, curiosity seekers and sightseers. It wants people who mean business, rather than a crowd enjoying the novelty.",
+          "C12",
+          "advert",
+          "graphic",
+          "Short selected phrase from first launch advertisement, locally typeset with date/source. No full newspaper facsimile.",
+          null,
+          null,
+          "“MEAN BUSINESS” · THE 1916 ADVERTISEMENT"
+        ],
+        [
+          "So the shop can make you follow a long route past the goods while insisting you did not come merely to look around.",
+          "C5,C12,C13",
+          "aisle",
+          "wide",
+          "Main 1917 design recap: customer follows valid circuit, no crowd or security confrontation.",
+          null,
+          null,
+          null,
+          {
+            "scope": "Memphis 1917 patent reconstruction",
+            "frame": "Return from 1916 advertisement to the main explanatory visit"
+          }
+        ],
+        [
+          "There is the tension in miniature. Browsing is useful when it helps sell groceries. The advertised aim is still to make a sale.",
+          "C5,C12,C13",
+          "product",
+          "close-up",
+          "Tomato tin beside sugar sack and soap packet as the three goods of our fictional purchase; no price.",
+          null
+        ],
+        [
+          "Hear that as a sales campaign. Our fictional Visitor was not thrown out for hesitating.",
+          "C0,C12",
+          "lobby",
+          "medium",
+          "Visitor stands calmly beside entry area; clerk works normally, no eviction or hostile gesture.",
+          "awkward-stand"
+        ],
+        [
+          "The publicity and arrangement make a recognisable business. Company and museum histories also describe the system being franchised.",
+          "C1,C14",
+          "outside",
+          "wide",
+          "Small Memphis shop exterior with one locally composed Piggly Wiggly nameplate; avoid modern mascot and copied facade.",
+          null,
+          "Piggly Wiggly history · Tennessee State Museum"
+        ],
+        [
+          "Other stores could operate through it. The idea could travel beyond this one room in Memphis.",
+          "C14",
+          "diagram",
+          "graphic",
+          "One simple shop icon branches to several generic shop icons; no exact count, dates or map of unverified locations.",
+          null,
+          null,
+          "A SYSTEM THAT COULD BE FRANCHISED"
+        ],
+        [
+          "That does not make every modern supermarket a copy. Stores can change while keeping self-selection.",
+          "C3,C14",
+          "diagram",
+          "graphic",
+          "Patent plan stays centre; surrounding generic store silhouettes are unlabelled variations, not claimed historical plans.",
+          null,
+          null,
+          "THIS DESIGN IS NOT EVERY STORE"
+        ],
+        [
+          "We need no claim that nobody elsewhere had tried self-service. Saunders's documented design is our subject.",
+          "C1",
+          "advert",
+          "graphic",
+          "Patent number and grant year, small source line; avoid world-first badge or invention trophy.",
+          null,
+          null,
+          "SAUNDERS'S SELF-SERVING STORE · 1917"
+        ],
+        [
+          "Its details are enough to make the story interesting: baskets, one-way gates, a winding route, prepared packages, and a staffed checking station.",
+          "C3,C4,C6,C9",
+          "diagram",
+          "graphic",
+          "Five consistent icons drawn from this episode's approved basket, gate, plan, sack and checkout.",
+          null,
+          null,
+          "BASKET · ROUTE · PACKAGES · CHECKOUT"
+        ],
+        [
+          "Each does a small job. Together, they turn the customer from someone waiting for an order into someone moving that order through the shop.",
+          "C2,C13",
+          "aisle",
+          "medium",
+          "Recap shopper walks final aisle with three-item basket; clear earlier-trip label in editorial timing.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {
+            "frame": "Earlier-trip recap"
+          }
+        ],
+        [
+          "Now return to our imaginary list. We came for sugar and soap. We leave with both, and that extra tin of tomatoes.",
+          "C0,C15",
+          "product",
+          "close-up",
+          "Local two-item list card beside three actual items before wrapping. Continuity uses the same sack, packet and tin.",
+          null
+        ],
+        [
+          "One invented purchase illustrates the ambition: put the assortment directly in the customer's path.",
+          "C0,C5,C15",
+          "diagram",
+          "graphic",
+          "Route ends at checkout with three-item basket icon; factual design and illustrative basket labelled separately.",
+          null,
+          null,
+          "THE DESIGN PUTS GOODS IN YOUR PATH"
+        ]
+      ]
+    },
+    {
+      "title": "Who got the better deal?",
+      "scenes": [
+        [
+          "Outside, the store basket is gone from our hands. It stayed inside. The wrapped groceries are ours to take away.",
+          "C0,C4,C9",
+          "outside",
+          "medium",
+          "Shopper carries wrapped three-item purchase outside, no basket. Visitor beside doorway on clear pavement.",
+          "step-forward"
+        ],
+        [
+          "We chose and carried. Staff checked, wrapped, and took payment.",
+          "C4,C9,C13",
+          "checkout",
+          "medium",
+          "Recap of orderly checkout, returned empty basket beside counter. No duplicate goods or second purchase.",
+          null,
+          null,
+          null,
+          {
+            "frame": "Completed-trip recap"
+          }
+        ],
+        [
+          "The work was divided differently. That is the heart of self-service here, and it is more interesting than saying the workers disappeared.",
+          "C13",
+          "diagram",
+          "graphic",
+          "Customer tasks and staff tasks remain visible simultaneously in two columns, no disappearing people animation.",
+          null,
+          null,
+          "THE WORK IS DIVIDED DIFFERENTLY"
+        ],
+        [
+          "Saunders hoped to reduce costs. Shoppers chose directly. Shelves introduced goods beyond the original list.",
+          "C5,C10,C13",
+          "aisle",
+          "wide",
+          "Empty but fully stocked established aisle after shopper passes; package positions unchanged, warm restrained light.",
+          null
+        ],
+        [
+          "Those interests can meet in the same trip. They can also pull in different directions when choosing freely means carrying more than you planned.",
+          "C0,C13,C15",
+          "outside",
+          "close-up",
+          "Wrapped purchase rests securely in customer's arms; one small locally illustrated tomato icon recalls extra item, not visible through paper.",
+          null
+        ],
+        [
+          "The extra tin is a story device. The route that brought it before us is drawn in the patent.",
+          "C0,C3,C5,C15",
+          "diagram",
+          "graphic",
+          "Source-bound four-aisle route beside single hypothetical tin icon, clear labels.",
+          null,
+          null,
+          "IMAGINED TIN · DOCUMENTED ROUTE"
+        ],
+        [
+          "So why make customers serve themselves? To change how goods are selected and carried, and how the store spends effort making the sale.",
+          "C2,C10,C13",
+          "lobby",
+          "wide",
+          "Final stable lobby view: new shopper enters left with basket, previous purchase leaves right. Distinct people, no duplicated limbs.",
+          null
+        ],
+        [
+          "The clever part is that the customer can experience that change as freedom: take your time with this package, choose that one instead.",
+          "C0,C13",
+          "product",
+          "close-up",
+          "Two ordinary soap packages available for comparison, blank distinct wrappers; no factual claim of exact brands or prices.",
+          "closeup-smile"
+        ],
+        [
+          "All while walking a path the store has already chosen. Your decisions and its design are working together, whether your list changes or not.",
+          "C3,C5,C13",
+          "diagram",
+          "graphic",
+          "Customer selection icon moves along fixed route, simple local line animation if supported, otherwise sequential static cards.",
+          null,
+          null,
+          "YOUR CHOICES · THE STORE'S ROUTE"
+        ],
+        [
+          "The cashier still waits at the end. A self-serving shop can look familiar without using unattended checkout.",
+          "C9,C13",
+          "checkout",
+          "medium",
+          "Clerk at mechanical register and adding machine, calm final portrait of staffed checkout. No modern comparison screen.",
+          null
+        ],
+        [
+          "Next time you enter a grocery store for two things, notice the route. How much of what you pass was on your list?",
+          "C0,C15",
+          "outside",
+          "wide",
+          "Visitor turns toward camera beside modest storefront, hands empty; shopper exits with goods.",
+          "eyebrow-raise"
+        ],
+        [
+          "For our Memphis shopper, the answer was sugar and soap. The tomatoes were the store's opportunity. We provided the extra pair of hands.",
+          "C0,C5,C13,C15",
+          "product",
+          "close-up",
+          "Final graphic arrangement of two list items plus one tin, hand-basket silhouette behind. Clean original local typography.",
+          null,
+          null,
+          "SUGAR · SOAP · ONE EXTRA IDEA"
+        ]
+      ]
+    }
+  ],
+  "research": "Walk the audience through a patent-based Memphis1917shop, with labelled1916launch-ad flashbacks. The main reveal is stated in Saunders's own purpose: the route brings the customer past the assortment while reducing order-fetching labour. The cashier remains; this is not self-checkout. Read original6-page patent, including3drawing sheets; visual geometry checked in browser. First advertisement humorously discourages sightseers; second names ready-packed goods,5lbsugar in a cloth bag, baskets/cashier and no delivery. Keep intended business benefits distinct from proven cost or sales results. September6versus11opening discrepancy is unnecessary to the story; use month/year. Do not adopt museum children's summary's universal first-supermarket claim, one-product-old-shop caricature, or claim that choice alone caused lower prices. Smithsonian article loosely mentions carts in early model; original specifies baskets and1937object confirms the model's modern-cart exclusion. LOCphoto is c1918in or near Memphis, not securely first-store1916; catalogue read but image not inspected, so optional only. No competitor-channel material was used.",
+  "description": "Step into a reconstructed Memphis grocery store in1917, built around Clarence Saunders's self-serving-store patent. Customers picked their own goods—but the route, the baskets and the staffed checkout were carefully planned. Original1916launch advertisements reveal what shoppers were being offered, what work shifted to them and which service disappeared. The customer and shopping list are illustrative; design claims are distinguished from verified results.",
+  "tags": [
+    "grocery store history",
+    "Piggly Wiggly",
+    "Clarence Saunders",
+    "self service",
+    "Memphis history",
+    "supermarket history",
+    "shopping history",
+    "1917",
+    "history of retail",
+    "everyday history",
+    "Life Previously"
+  ],
+  "pinned_comment": "Would you trade having your groceries fetched and delivered for choosing everything yourself? Which part of the1917design feels most familiar?",
+  "pilot": [
+    "S001",
+    "S007",
+    "S046",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "YOU DO THE WORK",
+      "chip": "MEMPHIS · 1917",
+      "scope": "Patent-based grocery entry",
+      "pose": "eyebrow-raise",
+      "background": "Left-side hand-basket station and entry gate with rows of grocery shelves behind; one historical shopper reaches for a basket. Reserve upper-left headline and right Visitor. No rolling cart, cashier screen, barcode or person portrayed as imprisoned.",
+      "rationale": "Directly states the surprising transfer of fetching work; historical setting prevents confusion with a modern self-checkout complaint.",
+      "payoff_scene_ids": [
+        "S001",
+        "S004",
+        "S061",
+        "S065"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "THE LONG WAY",
+      "chip": "THE STORE'S PLAN",
+      "scope": "Explanatory1917floor-plan graphic",
+      "pose": "closeup-thoughtful",
+      "background": "Simplified wooden grocery aisles viewed from high angle; locally drawn route follows the verified four-aisle circuit. Only one bold route line, no maze fantasy or locked-cell imagery.",
+      "rationale": "Visual puzzle tied to a genuine design purpose: walking past the assortment.",
+      "payoff_scene_ids": [
+        "S025",
+        "S026",
+        "S032",
+        "S034"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "NO DELIVERY?",
+      "chip": "THE 1916 OFFER",
+      "scope": "Launch advertisement promise",
+      "pose": "shrug-smirk",
+      "background": "Historical customer holds a wrapped grocery parcel just inside simple storefront; hand basket stays beside cashier. Delivery text is local typography; no giant courier van or fabricated angry crowd.",
+      "rationale": "Concrete trade-off from the inspected launch ad; title answers why service changed.",
+      "payoff_scene_ids": [
+        "S067",
+        "S068",
+        "S069"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The store that made you walk past everything",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "The long route was part of the business idea.",
+      "description": "Saunders's1917patent explicitly planned exposure to the assortment. This illustrates a design intention, not a measured extra-purchase rate."
+    },
+    {
+      "title": "Self-service still had a cashier",
+      "from_scene": "S049",
+      "to_scene": "S056",
+      "hook": "Picking the goods yourself did not mean operating the till.",
+      "description": "The original1917design retained staffed checking, wrapping and payment. No barcode scanner or self-checkout screen."
+    },
+    {
+      "title": "What the first Piggly Wiggly ads promised",
+      "from_scene": "S067",
+      "to_scene": "S074",
+      "hook": "Ready-packed goods, a cashier—and no delivery.",
+      "description": "Based on September1916launch advertisements. Their promises are historical advertising, not proof of every customer's experience."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "No traditional costume is needed. The Visitor remains a subtle modern observer; background shoppers and clerks wear restrained1910s everyday clothing.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Keep his identity and orange hoodie unchanged. Do not add a grocer apron, exaggerated moustache or basket to an approved pose."
+  },
+  "pronunciations": {
+    "status": "director_selected",
+    "entries": [
+      {
+        "term": "Piggly Wiggly",
+        "say": "PIG-lee WIG-lee",
+        "note": "Natural brand name, no comic voice."
+      },
+      {
+        "term": "Saunders",
+        "say": "SAWN-derz",
+        "note": "Clarence Saunders."
+      },
+      {
+        "term": "Memphis",
+        "say": "MEM-fiss",
+        "note": "Tennessee."
+      }
+    ],
+    "rule": "Speak patent dates in natural English; do not read the patent number on every source appearance."
+  },
+  "sound_plan": {
+    "status": "direction_ready_assets_unselected",
+    "music": "Quiet channel theme with subdued grocery-room texture; no modern supermarket radio or jingle.",
+    "mix": "Dialogue and explanation dominate. Mechanical sounds brief, never electronic scanner beeps.",
+    "new_assets": [
+      {
+        "id": "basket_set",
+        "description": "Soft hand basket set on timber counter."
+      },
+      {
+        "id": "paper_wrap",
+        "description": "Quiet paper wrapping."
+      },
+      {
+        "id": "gate_click",
+        "description": "Small mechanical gate latch, no prison clang."
+      }
+    ],
+    "acquisition": "Inspect existing licensed assets or make simple original Foley; no paid purchase without contract approval.",
+    "cues": [
+      {
+        "scene_id": "S013",
+        "asset": "gate_click",
+        "timing": "Brief entry transition."
+      },
+      {
+        "scene_id": "S049",
+        "asset": "basket_set",
+        "timing": "Low basket contact."
+      },
+      {
+        "scene_id": "S055",
+        "asset": "paper_wrap",
+        "timing": "Under wrapping image."
+      }
+    ],
+    "intentional_silence": []
+  },
+  "extra_specs": [
+    "store_geometry_spec.json"
+  ]
+}

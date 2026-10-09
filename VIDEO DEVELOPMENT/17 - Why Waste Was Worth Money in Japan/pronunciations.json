@@ -1,0 +1,26 @@
+{
+  "status": "director_guide_voice_listening_pending",
+  "entries": [
+    {
+      "term": "Edo",
+      "say": "EH-doh",
+      "note": "Former name of Tokyo."
+    },
+    {
+      "term": "shimogoe",
+      "say": "shee-moh-goh-eh",
+      "note": "下肥; prefer English night soil after one introduction."
+    },
+    {
+      "term": "nagaya",
+      "say": "nah-gah-yah",
+      "note": "長屋; optional, no need to overload narration."
+    },
+    {
+      "term": "Koshigaya",
+      "say": "koh-shee-gah-yah",
+      "note": "Municipal history source; can remain on-screen only."
+    }
+  ],
+  "rule": "Listen to actual narration and keep original spelling in sources/captions."
+}

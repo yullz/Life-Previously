@@ -1,0 +1,38 @@
+[
+  {
+    "id": "SRC01",
+    "title": "Louis de Rouvroy, duc de Saint-Simon, Memoirs, chapter XLIV",
+    "url": "https://www.gutenberg.org/cache/epub/3875/pg3875-images.html#link2HCH0044",
+    "read": "ChapterXLIV: winter/thaw/refreeze, Versailles bottle anecdote, grain and barley, relief, summer unrest and August20 bread-for-work incident; read on2026-10-09.",
+    "limit": "Public-domain memoir/translation. First-person court testimony and reported events, written retrospectively with political hostility. Treat sweeping all/every/nobody claims and conspiracy accusations as rhetoric, not established universal facts."
+  },
+  {
+    "id": "SRC02",
+    "title": "Météo-France: Le grand hiver1709; interview with Emmanuel Le Roy Ladurie",
+    "url": "https://meteofrance.com/meteo-a-z/le-grand-hiver-1709",
+    "read": "Temperature series/calibration, alternation of frost and thaw; response measures and summer consequences; sections read2026-10-09.",
+    "limit": "Historian interview,2020, synthesising Legrand/LeGoff and Lachiver. Avoid claiming a single uncontested death toll or that1709 was the coldest winter ever. Illustration attribution conflicts with museum date; do not reuse it as1709 evidence."
+  },
+  {
+    "id": "SRC03",
+    "title": "Pliemon, Foelsche, Rohr and Pfister: Subdaily meteorological measurements by Louis Morin in Paris",
+    "url": "https://cp.copernicus.org/articles/18/1685/2022/index.html",
+    "read": "Original observation series provenance, homogenisation/measurement limits, extreme winter1708/09 and distinctions among cold seasons; relevant methods and discussion read2026-10-09.",
+    "limit": "Modern analysis of early measurements; do not portray converted values as a modern Celsius reading recorded by Morin, or infer household behaviour from weather alone."
+  },
+  {
+    "id": "SRC04",
+    "title": "Francis Assaf: L'Hiver de1709, Early Modern France",
+    "url": "https://earlymodernfrance.org/node/131",
+    "read": "Comparisons of Saint-Simon, Dangeau, Palatine letters and Gazette; passages on transport disruption, differing reports and geographic scope read2026-10-09.",
+    "limit": "Scholarly comparison with quoted primary documents. Gazette omissions are not proof of normal weather. Do not transfer provincial stories or unsourced reported deaths to Paris."
+  },
+  {
+    "id": "SRC05",
+    "title": "Paris Musées, Le Secours du Potage, museum record G.16774",
+    "url": "https://parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/le-secours-du-potage",
+    "read": "Catalogue creator, date1693 and CC0 attribution fields read2026-10-09.",
+    "limit": "Excluded from evidence for a specific1709 event. At most a separately dated1693 visual-context reference; no archival image required in final video.",
+    "public": false
+  }
+]

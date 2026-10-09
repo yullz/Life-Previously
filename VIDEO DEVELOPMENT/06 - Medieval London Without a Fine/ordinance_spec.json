@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "selected_text": "Riley1861 pp334–336, Liber Albus ff223–224; not the separate p408version",
+  "scenario_date": "c.1364",
+  "writ_date_note": "12June,37EdwardIII =1363; modern scholarly metadata labels c.1364. Do not silently claim1364enactment.",
+  "penalties": [
+    {
+      "act": "Draw weapon without striking",
+      "money": "6s 8d (half a mark)",
+      "operator": "OR",
+      "prison": "15 days"
+    },
+    {
+      "act": "Draw blood with weapon",
+      "money": "20s",
+      "operator": "OR",
+      "prison": "40 days"
+    },
+    {
+      "act": "Fist blow without blood",
+      "money": "3s",
+      "operator": "OR",
+      "prison": "8 days"
+    },
+    {
+      "act": "Fist blow with blood",
+      "money": "40d (3s 4d)",
+      "operator": "OR",
+      "prison": "12 days"
+    }
+  ],
+  "release": "Good-behaviour surety also required; city's penalty does not extinguish victim's separate legal recovery.",
+  "curfew": {
+    "signal": "Bow bell between day and night",
+    "exception": [
+      "known man of good repute OR his servant",
+      "good cause",
+      "light"
+    ],
+    "logic": "Reputation/service condition, cause and light together. Lantern alone insufficient.",
+    "violation": "Newgate until fine and good surety; fine amount not supplied."
+  },
+  "hosts": "Warn guests to leave arms at lodging. Punishment clause depends on failure to warn leading to guest carrying; discretionary fine plus imprisonment, no fabricated sum.",
+  "court_case": {
+    "date": "6March1365",
+    "people": [
+      "William Moot",
+      "John de Henham",
+      "Thomas Fraunceys"
+    ],
+    "charges": [
+      "affray by night",
+      "doors open after curfew",
+      "nightwalking against peace"
+    ],
+    "recorded_outcome": "Committed to prison then released same day on mainprise to keep peace.",
+    "not_in_record": [
+      "fine amount",
+      "exact dialogue",
+      "acquittal declaration",
+      "a universal same-day-release rule"
+    ]
+  },
+  "visual_rule": "Use local typography for rules and date labels; no photographed/painted fake documents. No gory injuries. Historical scenes are illustrative, never staged as recovered footage.",
+  "continuity": "The opening is a flash-forward to the hypothetical night encounter. S004 returns to earlier daylight. S059–S064 offer a labelled alternative rather than silently claiming an actual arrest and escape. S076–S086 are a separate1365record; S088returns to the fictional1364challenge."
+}

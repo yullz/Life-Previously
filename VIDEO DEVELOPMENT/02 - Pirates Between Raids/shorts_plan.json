@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "pirates-between-raids",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "A Pirate Cook Who Never Volunteered",
+      "from_scene": "S061",
+      "to_scene": "S067",
+      "hook": "The forced cook",
+      "description": "Georges Bardeau was forcibly retained when pirates captured La Concorde. His story complicates the idea that everyone aboard chose pirate life.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "A Pirate Ship’s Book Survived in a Cannon",
+      "from_scene": "S085",
+      "to_scene": "S091",
+      "hook": "The paper fragment reveal",
+      "description": "Conservators identified tiny fragments from Queen Anne’s Revenge as pages of Edward Cooke’s 1712 voyage narrative. That does not tell us who read it.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Did Pirates Have a Bedtime?",
+      "from_scene": "S073",
+      "to_scene": "S079",
+      "hook": "One crew's surprising reported rule",
+      "description": "A 1724 account gives Roberts’s crew an eight o’clock lights-out rule—with drinking allowed on deck. It was not a rule for every pirate.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

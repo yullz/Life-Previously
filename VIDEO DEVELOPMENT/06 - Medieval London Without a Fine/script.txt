@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: Could You Get Through Medieval London Without a Fine?
+
+## A quiet walk, apparently
+::: S001 | Night lane, one watchman at left raises open palm, second behind with enclosed lantern. Clear right for Visitor. [pose: freeze-embarrassed 0.8,0.94 0.6] [note: Imagined encounter • London c. 1364] [zoom-in]
+You are walking to your lodgings. No stolen purse, no fight. Then the watch stops you.
+
+::: S002 | Same night encounter closer, calm watchman, no drawn weapon or arrest. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S001] [still]
+Your problem is the hour. Or your explanation. Or the awkward fact that nobody here seems to know who you are.
+
+::: S003 | Watchman and closed doorway left, Visitor at right with clear ground; scene still night. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+Could you cross medieval London without a fine? Our Visitor's simple afternoon is becoming complicated.
+
+::: S004 | Daylight lane with ordinary shops and few pedestrians; local caption EARLIER added below. [pose: step-forward 0.8,0.94 0.6] [note: Earlier that day • fictional challenge] [pan-right]
+We begin earlier, around the year thirteen sixty-four. You have somewhere to sleep and would prefer not to replace it with Newgate.
+
+::: S005 | Closed plain bound book on table; title and source composed locally, never generated on cover. [note: Liber Albus • selected ordinances of the 1360s] [zoom-in]
+Our rules survive in the Liber Albus, a collection of London's laws and customs.
+
+::: S006 | Civic table with blank parchment, official and visitor local standing separately; no invented trial scene. [same-as: S005] [pan-left]
+They tell us what authorities prescribed. Later, a court entry supplies an actual outcome.
+
+::: S007 | Three simple symbols, sheathed sword, two faces, bell; no penalty figures yet. [still]
+For now, your challenge has three temptations: carry something impressive, win an argument, and stay out a little longer.
+
+::: S008 | Plain daytime shopfront and empty right ground; Visitor relaxed. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S004] [still]
+Your ambition is modest: reach bedtime with your money and freedom intact.
+
+::: S009 | Two pedestrians pass in background; Visitor distinct right, no mocking crowd. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S004] [zoom-in]
+That should be easy. You can hear the confidence that makes this an excellent afternoon for somebody else.
+
+::: S010 | Plain sheathed sword and belt on wooden bench, no person or hand. [pan-left]
+At your lodging, a sword lies on a bench. Our imagined prop makes a poor suggestion.
+
+::: S011 | Host stands left of bench, open hand indicating sheathed sword should stay; no drawn lettering. [pose: look-around 0.8,0.94 0.6] [zoom-out]
+Carry that, and perhaps nobody will bother you. The innkeeper has a different view, with a reason beyond disliking scratches on the furniture.
+
+::: S012 | Host and closed cupboard at left, Visitor close-up right; weapon remains safely on bench. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S011] [still]
+Your first decision arrives before the street. Does looking ready for trouble help you avoid it?
+
+## Leave the sword behind
+::: S013 | Sheathed sword lies unused on bench; locally added small DAY AND NIGHT caption. [note: Liber Albus • arms provision] [same-as: S010] [zoom-in]
+The ordinance prohibits going armed in city or suburbs, day or night. An ordinary visitor has no sword exemption.
+
+::: S014 | Well-dressed but modest local passes without weapon; avoid implying all rich people exempt. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S004] [pan-left]
+The rule has exceptions, but they describe particular duties. Looking expensive is not one of the duties listed.
+
+::: S015 | Two period men walk together left; subordinate carries one sheathed sword, master nearby; no modern ceremonial uniform. [same-as: S004] [zoom-out]
+A lord's attendant may carry his master's sword while accompanying him. That relationship matters.
+
+::: S016 | City official with plain staff and two accompanying adults; simple clothing, no invented heraldic insignia. [note: Specified official/service exceptions] [same-as: S004] [pan-right]
+Other exceptions include royal serjeants-at-arms, city officers, and people accompanying officers at their command to help preserve the peace.
+
+::: S017 | Official group farther away left; Visitor observes at right without carrying weapon. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S004] [still]
+So seeing somebody armed does not tell you that you may copy him. You may be copying the exception, without qualifying for it.
+
+::: S018 | Sheathed sword on bench with simple local confiscation icon; no exact invented value. [same-as: S010] [pan-left]
+Your host must also warn guests to leave their weapons where they are lodging.
+
+::: S019 | Host indicates cupboard beside bench; one local guest listens; right foreground clear. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S011] [zoom-out]
+And your host has obligations too. Guests are supposed to be warned to leave their arms where they are lodging.
+
+::: S020 | Host thoughtful beside closed cupboard, no angry officer or automatic punishment shown. [note: Host liability depends on failure to warn] [same-as: S011] [pan-right]
+If a guest carries weapons because the host failed to warn them, the host can face imprisonment and a fine.
+
+::: S021 | Host icon plus simple authority bench; no invented money figure. [still]
+Your innkeeper has a practical interest in your behaviour. You are not the only person who might regret this accessory.
+
+::: S022 | Host firmly closes cupboard, plain wood, no locking mechanism detail invented. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S011] [still]
+The Visitor leaves the sword. No heroic flourish, and no portrait needed to commemorate the achievement.
+
+::: S023 | Bench now empty, cupboard closed, Visitor standing by clear exit. [pose: thumbs-up 0.8,0.94 0.6] [same-as: S011] [zoom-out]
+The Visitor leaves the sword behind. No heroic pose, no flourish, and no need to commission a portrait of this achievement.
+
+::: S024 | Daytime lane slightly later light, market shutters unchanged, no Visitor props. [pose: step-forward 0.8,0.94 0.6] [same-as: S004] [pan-right]
+One temptation avoided. You step into London with empty hands, which will shortly become relevant to the next bad idea.
+
+## The price of winning an argument
+::: S025 | Two adults in brick/slate tunics stand apart, raised brows and open hands only. [pose: look-around 0.8,0.94 0.6] [zoom-in]
+Two people are arguing in our invented courtyard. You are certain you could explain who is being unreasonable.
+
+::: S026 | Same disagreement closer; clear right for Visitor's cautious reaction. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S025] [still]
+Unhelpful confidence again. The ordinance distinguishes drawing a weapon, using it, and striking with a fist.
+
+::: S027 | Knife partly out of scabbard resting on bench, no hand or threatened person. [note: Selected ordinance • drawing without striking] [same-as: S010] [zoom-out]
+Under this particular London ordinance, drawing a sword or knife can be punishable even if you never land a blow.
+
+::: S028 | Two clearly separated options with OR in centre; weapon icon safely above. [still]
+The prescribed alternative is half a mark, or fifteen days in Newgate. That is six shillings and eight pence, or imprisonment.
+
+::: S029 | Same two options; emphasize OR, no addition sign. [still]
+The word 'or' matters. We are not automatically adding both punishments together.
+
+::: S030 | Simple closed scabbard icon and two penalty options; no blood or wound. [still]
+If the weapon draws blood, that rises to twenty shillings or forty days. No injury illustration required.
+
+::: S031 | Both locals lower hands slightly; no punch staged, tension in posture only. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S025] [zoom-out]
+Keeping the knife sheathed is useful. It does not make punching your neighbour into a clever, inexpensive alternative.
+
+::: S032 | Two rows, NO BLOOD / BLOOD; each displays money OR days; small fist icon, no injury. [still]
+A fist blow without blood carries three shillings or eight days. Drawing blood with the fist raises that to forty pence or twelve days.
+
+::: S033 | Courtyard disagreement held at distance, Visitor listens rather than acts. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S025] [still]
+Different categories in this ordinance, rather than a universal price list for every medieval town.
+
+::: S034 | Two distinct parties at simple civic table, plain parchment; no modern compensation cheque. [note: City penalty and victim’s claim are separate] [same-as: S005] [pan-left]
+More awkwardly, paying the city does not erase the injured person's separate claim. The text preserves their ability to seek legal recovery.
+
+::: S035 | Open relaxed hands and distance between locals, no victorious attacker. [same-as: S025] [zoom-out]
+The city's fine is not a fee for being allowed to hit somebody you dislike.
+
+::: S036 | Two sober townspeople stand alongside a third at table, no invented signatures visible. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S005] [pan-right]
+Before release, these offenders must also find people to guarantee good behaviour. Money is not the only thing being asked for.
+
+::: S037 | Empty space beside Visitor contrasted with two locals together at left; no accusatory pointing. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S005] [still]
+Tonight, you will face the same awkward question: who will answer for you?
+
+::: S038 | Disputants remain separated; Visitor at right turned toward exit, no physical contact. [pose: awkward-stand 0.8,0.94 0.6] [same-as: S025] [pan-left]
+The best outcome is uneventful. Our Visitor does not join the quarrel.
+
+::: S039 | Sword fully sheathed on original bench; calm neutral lighting, no pile of invented earnings. [same-as: S010] [zoom-out]
+Nobody gets punched, no blade leaves its sheath, and your money remains available for things that are actually pleasant.
+
+::: S040 | Street light becomes late-afternoon gold, shutters beginning to close; no nightwatch yet. [pose: step-forward 0.8,0.94 0.6] [same-as: S004] [pan-right]
+You avoided a fight. Surely a peaceful walk is simpler. London attaches conditions to that too.
+
+## The bell changes the walk
+::: S041 | Dusk at same street junction, few remaining pedestrians; no visible exact distance marker. [pose: look-around 0.8,0.94 0.6] [same-as: S004] [zoom-in]
+Light is fading. You are causing no disturbance, and your lodging is an imagined short walk away.
+
+::: S042 | Dusk lane with tiny indistinct church roof in distance, no Wren tower. [pose: look-up-worried 0.8,0.94 0.6] [note: Curfew at St Mary-le-Bow] [same-as: S004] [still]
+Then the curfew sounds. For this ordinance, the named church is Our Lady at Bow, now called St Mary-le-Bow.
+
+::: S043 | Single bronze bell in plain medieval stone belfry, natural dusk beyond, no clock. [note: Between day and night • no fixed hour supplied] [zoom-out]
+The bell is to ring between day and night. Our source does not turn that into a universal nine o'clock.
+
+::: S044 | Dusk shadows lengthen across familiar lane, no sundial or clock inserted. [same-as: S004] [pan-right]
+Changing light matters. The rule does not wait for your watch to display a convenient number.
+
+::: S045 | Night lane same as opening, two calm watchmen at left; no arrest underway. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [zoom-in]
+It forbids wandering after curfew, unless you fit an exception. That last part is where a simple explanation often goes wrong.
+
+::: S046 | One lantern-bearing local messenger approaches watchmen at left, no Visitor overlap. [same-as: S001] [pan-left]
+This is not a claim that nobody may ever be outside after dark. We need to read the conditions.
+
+::: S047 | Watchman open palm and stern but ordinary face, no exaggerated menace. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S001] [still]
+But ignoring the rule can have more serious consequences than an embarrassed conversation about why you lost track of time.
+
+::: S048 | Plain medieval gate passage with heavy adjacent door, night; no later prison facade. [pose: glance-nervous 0.8,0.94 0.6] [note: Prescribed consequence • not every recorded outcome] [pan-right]
+The ordinance directs that somebody found wandering contrary to it be taken to Newgate. A casual stroll has acquired a destination.
+
+::: S049 | Closed heavy timber door in stonework, small lantern outside; no written sum or inmate number. [same-as: S048] [zoom-in]
+Release requires a fine and good surety for future behaviour. This clause does not give us a fixed fine to display.
+
+::: S050 | Civic table with two potential guarantors beside unnamed subject, clearly explanatory reconstruction. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S005] [pan-left]
+In other words, the problem can involve both payment and somebody prepared to stand behind your promise to behave.
+
+::: S051 | Empty space beside Visitor; watchmen left remain unchanged. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S001] [still]
+For our newcomer, your excellent opinion of yourself is not somebody else's guarantee.
+
+::: S052 | Enclosed candle lantern on original inn table, night illumination; no Visitor hand added. [same-as: S011] [pan-right]
+You have a better idea: get a lantern. Useful—but it is only one part of the exception.
+
+## The lantern is not a permit
+::: S053 | Three conditions on separate short lines; preserve reputation/service wording. [note: Liber Albus • curfew exception] [still]
+The selected ordinance allows a known man of good reputation, or his servant, out for good cause and with a light.
+
+::: S054 | Lantern sits left on table, Visitor thoughtful right; no change to fixed pose hands. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S011] [still]
+The light does not replace the other conditions. You cannot buy your whole explanation as a candle.
+
+::: S055 | Messenger and watchman converse silently, messenger lantern visible and correct candle source. [same-as: S001] [zoom-out]
+Nor does simply claiming you have an errand settle the question. The wording also cares who you are connected to.
+
+::: S056 | Period messenger left with lantern; Visitor separate on right; do not merge into same body. [pose: awkward-stand 0.8,0.94 0.6] [same-as: S001] [pan-right]
+Imagine a known household's servant on a legitimate errand, and our unexplained stranger, walking the same lane.
+
+::: S057 | Watchman faces messenger calmly, Visitor watches; no arrest or verdict shown. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [still]
+They may look equally harmless to you. The ordinance gives the first a relationship that the second cannot simply borrow.
+
+::: S058 | Messenger's plain lantern and watchman's open hand, no identity document or invented spoken quote. [same-as: S001] [pan-left]
+That does not tell us the result of every encounter. It tells us why reputation and purpose belong in the picture.
+
+::: S059 | Same lane, Visitor smiles uncertainly, watchman expression neutral. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S001] [still]
+Our Visitor has no local reputation. That friendly smile is doing a lot of work, without references.
+
+::: S060 | Editorial rewind to dusk street; locally added IF YOU RETURN EARLIER caption, no backward moving people. [pose: step-forward 0.8,0.94 0.6] [note: Alternative in our fictional challenge] [same-as: S004] [pan-right]
+The practical lesson for this fictional challenge is to return earlier. You cannot count on a lantern to answer every question.
+
+::: S061 | Visitor beside open lodging door at dusk, host inside left; no new weapon. [pose: look-around 0.8,0.94 0.6] [same-as: S011] [zoom-in]
+Going back before curfew avoids this particular nightwalking problem. It does not create a magical exemption from every other city rule.
+
+::: S062 | Host speaks silently to an ordinary guest; no card, scanner or modern graphic prop. [same-as: S011] [pan-left]
+Notice how different this feels from waving a modern card at a scanner. The important connections are between people.
+
+::: S063 | Source clause paraphrase with simple condition symbols; no modern civil-rights scale. [still]
+This exception belongs to its society. We cannot rewrite it as a universal right of night travel.
+
+::: S064 | Calm interior before night, no court or prison props. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S011] [still]
+For our visitor, arriving indoors early is losing a little evening freedom in order to keep control of where the night ends.
+
+## Who is watching the street?
+::: S065 | Plain civic room with one alderman figure at table and two townspeople, no exact likeness. [pose: look-around 0.8,0.94 0.6] [note: Ward watches • prescribed organization] [same-as: S005] [zoom-in]
+Meanwhile, who is supposed to notice the trouble? The ordinance places responsibility on the city's wards and their aldermen.
+
+::: S066 | Two nightwatchmen in plain wool standing at lane junction, one lantern, one staff; no marching army. [same-as: S001] [pan-left]
+Each alderman is to arrange proper watches. If neglect allows trouble, the ward and its alderman are made answerable.
+
+::: S067 | Quiet lane with ordinary doors and watchmen, no institutional signage. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [still]
+This gives the neighbourhood a stake in keeping the peace. It is not a picture of a modern police station on every corner.
+
+::: S068 | Blank parchment register beside wax seal and quill; any actual labels added locally, no invented names. [note: The ordinance requires names • surviving completeness unknown] [same-as: S005] [pan-right]
+The alderman is also to hold names of inhabitants and lodgers, including people in less visible workplaces.
+
+::: S069 | Official gestures to blank register, another local waits; no giant surveillance map. [same-as: S005] [zoom-in]
+A list required by a rule is not proof that every list was complete. But you can see the ambition.
+
+::: S070 | Host and ordinary guest at table, lantern to side; calm scene. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S011] [pan-left]
+Authorities wanted to know who belonged in the ward and who was staying with whom. Your lodging connects you to that system.
+
+::: S071 | Two ordinary adults halt a third with open hands at respectful distance; no weapon or beating. [note: Authority in officers’ absence • selected ordinance] [same-as: S004] [zoom-out]
+There is also an arrest provision for reputable men of standing when officers are absent. They can bring offenders to the sheriffs.
+
+::: S072 | Visitor observing ordinary townsmen, no fight, calm hands. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S004] [still]
+That is broader than waiting for one professional uniform. It is not permission for anybody to attack a stranger they dislike.
+
+::: S073 | Three distinct ordinary adult figures around civic table, no staged pledge ceremony. [same-as: S005] [zoom-in]
+The repeated concern is peace, but the means include neighbours, hosts, civic officers and people willing to answer for others.
+
+::: S074 | Visitor right, two familiar local characters greet each other left without invented speech. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S004] [still]
+Being unknown makes our challenge difficult. Connections could change how an encounter unfolds.
+
+::: S075 | Plain modern source-book representation added locally beside blank historical register; distinguish archive source from period prop. [same-as: S005] [zoom-out]
+Yet a rulebook cannot show us exactly how an evening ended. For that, we need a record of an actual case.
+
+::: S076 | Three adult men at civic table, modest dress and calm poses; no claimed portraits. [pose: closeup-listening 0.8,1.02 0.82] [note: Documented case • 6 March 1365] [pan-right]
+Move forward to March thirteen sixty-five. Three named men appear in the city's records, and the ending deserves a closer look.
+
+## A real case complicates the rules
+::: S077 | Three unnamed-looking adult men, source names typeset locally beneath each without claiming order is documented. [note: Court record • reconstructed appearances] [same-as: S076] [zoom-in]
+The men are William Moot, John de Henham and Thomas Fraunceys. We know their names from the calendar of court records.
+
+::: S078 | Three short charge labels, no scene of an unverified attack. [still]
+They faced several charges together: a night-time affray, keeping doors open after curfew, and nightwalking against the peace.
+
+::: S079 | Same civic-room group, no handcuffs or guilty branding. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S076] [still]
+This was not a record of three people punished merely for taking a peaceful stroll. The combination matters.
+
+::: S080 | Official at table, three men standing; local caption SAME DAY, no animated escape. [note: Committed, then released the same day] [same-as: S076] [pan-right]
+The entry says they were committed to prison. Then, on the same day, they were released on mainprise to keep the peace.
+
+::: S081 | Plain seal and blank record at table; no stamped ACQUITTED word. [same-as: S005] [zoom-in]
+That means their release came with guarantees about keeping the peace. It does not mean the record has declared the entire affair imaginary.
+
+::: S082 | Simple record card states no fine amount specified; no zero-pound symbol. [still]
+The entry gives no fine amount. An attractive price tag would invent information.
+
+::: S083 | Men leaving civic-room doorway in a restrained reconstruction, no celebration or implied acquittal. [same-as: S076] [zoom-out]
+Nor can we use this one outcome to promise every arrested traveller a same-day exit. It is one recorded case.
+
+::: S084 | Two clear columns with no copied manuscript: rule / recorded case. [still]
+What it gives us is a useful contrast: the ordinance sets out expectations, while a court record preserves a particular response.
+
+::: S085 | Civic room emptier after encounter; Visitor listens thoughtfully. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S076] [still]
+Their names change the scale. People had an evening go wrong; they are not anonymous medieval scenery.
+
+::: S086 | Three plain hats/hoods on bench beside men, no symbolic criminal labels or invented personal possessions claim. [note: Illustrative reconstruction] [same-as: S076] [pan-left]
+This brief entry cannot recover their conversation. It can tell us about that same-day release.
+
+::: S087 | Locally typeset brief modern summary with exact date and mainprise outcome, no fake old handwriting. [same-as: S005] [zoom-out]
+We cannot recover their conversation from this short entry. We can preserve what it actually records, including that same-day release.
+
+::: S088 | Same lodging interior at dusk, host by rear door and lantern on table. [pose: look-around 0.8,0.94 0.6] [note: Back to our fictional c. 1364 challenge] [same-as: S011] [pan-right]
+Now return to our fictional Visitor, who would prefer to learn from the documents without becoming an entry in them.
+
+## An uneventful victory
+::: S089 | Closed weapon cupboard, calm common room and open door at dusk; Visitor grounded right. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S011] [zoom-in]
+Your best route through our challenge has been remarkably unheroic: leave the sword, leave the argument, and return before curfew.
+
+::: S090 | Lantern on table beside doorway, no permit scroll or implied standalone authorization. [same-as: S011] [pan-left]
+If you do need to travel later, the ordinance's exception involves more than a light. Reputation, service and purpose matter too.
+
+::: S091 | Calm civic table with two townspeople beside unnamed subject, no automatic penalty scoreboard. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S005] [zoom-out]
+If trouble does happen, the rules distinguish different acts. They also ask who will guarantee your behaviour afterwards.
+
+::: S092 | Simple civic-room doorway, men outside in daylight; exact 1365 date label remains. [note: 6 March 1365 • recorded outcome] [same-as: S076] [pan-right]
+And actual records can give a more complicated outcome than a dramatic headline. Our three defendants were released the same day.
+
+::: S093 | Rear lodging door now closed, warm candle lantern left; no visible motion needed beyond cut. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S011] [zoom-in]
+For the Visitor, the nicest sound tonight is the lodging door. You have somewhere to be, and no reason to test Newgate.
+
+::: S094 | Visitor relaxed by table, host elsewhere in background, no triumphant money pile. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S011] [still]
+A modest victory: we avoided the problems in our story, not every difficulty of living here.
+
+::: S095 | Bench, closed cupboard and lantern in one coherent modest composition; objects remain in established places. [same-as: S011] [zoom-out]
+Which would have caught you first: carrying the sword, stepping into the argument, or assuming your lantern settled the matter?
+
+::: S096 | Calm final room with right/top area available for end-screen; no painted text. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S011] [pan-right]
+This is Life, Previously. Sometimes the surprising part of history is how much effort it takes to have an uneventful evening.

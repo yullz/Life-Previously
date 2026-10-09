@@ -1,0 +1,42 @@
+{
+  "status": "director_specified_not_generated_or_heard",
+  "music": "Existing theme, restrained curiosity; no triumphant gold-jackpot sting.",
+  "mix": "Near-14LUFS,true peak<=-1dBTP, all effects below narrator.",
+  "new_assets": [
+    {
+      "id": "river_shallow",
+      "description": "Quiet flowing shallow river, no sea surf."
+    },
+    {
+      "id": "rocker_wood",
+      "description": "Low wood creak and gravel wash, no metal engine."
+    },
+    {
+      "id": "canvas_rain",
+      "description": "Soft rain on canvas, no thunder jump-scare."
+    }
+  ],
+  "acquisition": "Use inspected library where appropriate, quote paid gaps separately.",
+  "cues": [
+    {
+      "scene_id": "S004",
+      "asset": "river_shallow",
+      "timing": "Low short establishing ambience."
+    },
+    {
+      "scene_id": "S029",
+      "asset": "rocker_wood",
+      "timing": "Subtle illustrative working ambience under diagram transition; no false body sync."
+    },
+    {
+      "scene_id": "S056",
+      "asset": "canvas_rain",
+      "timing": "Low tent ambience, voice remains clear."
+    }
+  ],
+  "intentional_silence": [
+    "No slot-machine coin sounds.",
+    "No gunfight or screaming to imply an undocumented event.",
+    "No sound effect falsely turns tiny flakes into a huge nugget."
+  ]
+}

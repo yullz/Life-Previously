@@ -1,0 +1,291 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: How Did People Keep Ice in the Desert Before Fridges?
+
+## A summer drink with a winter deadline
+::: S001 | Summer daylight on fixed earthen complex. Basin dry, dome beyond wall; no workers. Quiet right foreground. [pose: look-around 0.8,0.94 0.6] [zoom-in]
+You ask for something cold. Outside, the ground is dry, the sunlight is fierce, and the buildings are made of earth.
+
+::: S002 | Worker B at left sets a small tray with irregular ice piece in doorway shade; no magical glow. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [pan-left]
+Then someone brings out ice. No cable, no compressor, no freezer humming in the corner. Where has it been hiding?
+
+::: S003 | Same fixed complex, one adult worker beside small access opening, no modern tourism items. [note: Meybod, Iran • c.1900 • reconstruction] [same-as: S001] [zoom-out]
+Welcome to Meybod, in Iran's Yazd province. We're reconstructing a traditional ice house at work around nineteen hundred.
+
+::: S004 | Dome beyond wall and shallow basin all legible; no extra buildings added. [pose: count-fingers 0.8,0.94 0.6] [same-as: S001] [pan-right]
+The answer involves this dome, but the dome cannot do the whole job. Look beyond it and you find a system.
+
+::: S005 | Three simple locally drawn components in sequence: basin and shade wall, store, summer cup. [still]
+There is a pond, a wall, a store and a considerable amount of human effort. Your cold drink has a backstory.
+
+::: S006 | Small summer ice piece on plain tray in shade, slight wet edge but no large puddle. [pose: closeup-thoughtful 0.8,1.02 0.82] [pan-left]
+The crucial ingredient arrived months before you. To understand summer's ice, we have to go back to winter.
+
+::: S007 | Summer interior variant: packed ice partly depleted under straw, narrow daylight, safe level access ledge right. [pose: watch-arms-crossed 0.8,0.94 0.6] [zoom-out]
+The dome did not make unlimited ice whenever somebody fancied a refreshing afternoon. It stored a seasonal supply.
+
+::: S008 | Empty summer shaded doorway, ice tray left; clear right foreground. [pose: clutch-stomach 0.8,0.94 0.6] [same-as: S002] [still]
+That is an excellent arrangement, provided people begin preparing long before the day when you stand outside looking thirsty.
+
+::: S009 | Summer exterior with the same one dome, wall and dry basin; no locals. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [zoom-in]
+Our visit is invented. The buildings, historical descriptions and engineering provide the evidence for this seasonal process.
+
+::: S010 | Two seasonal panels with water-to-ice symbol and protected ice store. [still]
+First question: how do you make ice? Second: how do you stop summer taking it back?
+
+::: S011 | Same basin and wall in winter, cool clear evening, empty shallow basin; worker A at left. [note: Winter • preparing the supply] [same-as: S001] [zoom-out]
+The trick is to use the conditions the place already offers. Winter gives you a different opportunity from summer.
+
+::: S012 | Winter twilight, empty basin and inlet left, clear earth path right. [pose: look-around 0.8,0.94 0.6] [same-as: S011] [still]
+So put down the imaginary drink. We have arrived several months early, and the night shift has a rather important purpose.
+
+## The wall is part of the machine
+::: S013 | Simple two-season diagram with winter moon and summer sun; no temperature axis or invented readings. [still]
+Desert does not mean permanently hot. The Iranian plateau's cool winters and hot summers offer very different working conditions.
+
+::: S014 | Shallow water begins entering basin, low water depth visually clear at edge; worker A supervises left. [pose: count-fingers 0.8,0.94 0.6] [same-as: S011] [pan-left]
+The ice-making basin is shallow. We need a layer of water that can lose heat, not a miniature inland sea.
+
+::: S015 | Small flow entering shallow basin through simple earthen channel, no metal pipe or pressurized jet. [note: Meybod · winter water supply] [same-as: S011] [zoom-out]
+Water is directed into it. In complexes like these, qanats—underground water channels—could help supply the water needed for the process.
+
+::: S016 | Continuous shallow channel leads into basin; no workers, modest amount of water. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S015] [pan-right]
+Water arriving is already an achievement. An impressive dome cannot compensate for an empty basin.
+
+::: S017 | Daytime winter view looking south: wall south of basin, shadow extending north across foreground water; single low sun not visible. [same-as: S011] [zoom-in]
+Now consider the tall wall. It stands on the sunny side of the pond, with the freezing area to its north.
+
+::: S018 | Plan and small side view: north arrow up, wall east-west below pond, sunlight from south and shadow north. [still]
+Its east-to-west alignment helps shield the pond from low winter sun. A useful wall can look rather uneventful.
+
+::: S019 | Winter daytime shadow covers basin; worker A stands on dry path at left, no ice yet. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S011] [zoom-out]
+There is no moving part to admire, no grand performance. The useful result is the stretch of ground it keeps shaded.
+
+::: S020 | Single correct overhead arrangement, basin north of wall and shaded; no confusing wrong-example duplicate. [still]
+Direction matters. The pond needs the wall's shadow, so the layout is part of how the system works.
+
+::: S021 | Clear winter night, shallow open pond with no roof, wall behind, one small moon only if composition needs it. [same-as: S011] [zoom-in]
+At night, the water faces the open sky. The wall is not a lid, and the basin is not hidden beneath the dome.
+
+::: S022 | Basin icon points to separate domed store, winter label over both. [still]
+These are separate stages: make ice outside, then move it into storage. Confusing them makes the whole building seem mysterious.
+
+::: S023 | Worker A checks near edge while standing on dry ground; no person on pond surface. [pose: look-around 0.8,0.94 0.6] [same-as: S011] [zoom-out]
+Workers need suitable conditions in the shallow water they manage, rather than an entirely frozen landscape.
+
+::: S024 | Empty clear path right, small water inlet visible left, winter night. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S011] [still]
+You are hoping to wait comfortably while the building does everything. The process has other plans for your evening.
+
+::: S025 | Still shallow water surface after filling, visible earthen edge, no steam or glow. [same-as: S015] [zoom-in]
+Before lifting and carrying comes something you cannot see directly: heat leaving the water.
+
+::: S026 | Quiet winter water surface with faint natural reflection, wall fixed behind. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S011] [pan-left]
+No glowing blue magic. Water has to lose enough heat to freeze under those winter conditions.
+
+## Borrowing the cold night
+::: S027 | Shallow water section, restrained arrows point upward labelled heat leaving; no blue rays entering water. [still]
+One way water loses heat is by radiating it toward the night sky. Clear, dry conditions can make that loss especially useful.
+
+::: S028 | Two modest outgoing arrows, radiation dominant and evaporation smaller; label qualitative, no numerical ratio. [note: Modern physical explanation • not1900 measurements] [still]
+Evaporation carries energy away too. Modern modelling finds both processes important, with radiation providing the larger cooling effect.
+
+::: S029 | Open shallow pond under clear night, wall south, no canopy or enclosing roof. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S011] [zoom-in]
+That explains why the open pond matters. The building uses a particular environment, rather than simply hiding water in a dark room.
+
+::: S030 | Same pond with a few high clouds at night; do not show simultaneous dramatic freezing. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S011] [pan-left]
+The result depends on weather and water management. We cannot promise the same amount every night.
+
+::: S031 | Worker A observes shallow icy edge from dry path, holding no invented measuring instrument. [same-as: S011] [zoom-out]
+Confidence is no substitute for checking the surface. Our workers have a physical process to manage.
+
+::: S032 | Three sequential side sections: shallow water, first frozen layer, next thin layer; no numeric thickness. [still]
+Historical descriptions include adding water in thin layers, allowing those layers to freeze and building a thicker sheet over successive cold nights.
+
+::: S033 | Modest shallow basin edge and thin partly frozen surface; no swimming pool or person standing on it. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S011] [still]
+Fill a deep swimming pool and you will not simply lift out a perfect block the next morning.
+
+::: S034 | Worker A pours a shallow fresh layer from plain vessel near inlet, safe posture, no frozen waterfall. [same-as: S011] [pan-left]
+Methods varied. The common principle was manageable water, winter cooling and repeated work while conditions allowed it.
+
+::: S035 | Dawn light, cloudy ice sheet at near edge, worker A bends from dry ground with simple wooden-handled tool. [pose: look-around 0.8,0.94 0.6] [same-as: S011] [zoom-out]
+Imagine checking that surface after a cold night. Yesterday's water has become something you can break up, move and save.
+
+::: S036 | Thin irregular ice slab on plain tray, small wet edge in weak morning light. [same-as: S006] [pan-right]
+Saving it is the important next step. Ice left in the wrong conditions does not care how pleased you were to make it.
+
+::: S037 | Winter morning basin in wall's shadow, two workers positioned on dry path with one tray, no ice stock piled in sun. [same-as: S011] [zoom-in]
+Shade helps, but shade is not a command telling all melting to stop. The growing supply needs its protected home.
+
+::: S038 | Two schematic boxes production and storage, each marked model; no plotted invented historical quantities. [still]
+Researchers model production and storage separately. Their estimates depend on assumptions; they are not tallies from this particular winter.
+
+::: S039 | Same dawn pond and modest ice layer; no quantity label or workers. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S011] [zoom-out]
+We can explain the mechanism without inventing an exact number of blocks from Meybod on an imaginary January night.
+
+::: S040 | One cloudy irregular slab partly lifted onto a plain wooden tray; only two plausible adult hands visible. [same-as: S006] [pan-right]
+What we do have is enough to follow the next job. This lovely new ice is not going to carry itself.
+
+::: S041 | Worker A and B prepare one modest tray left of clear path, separately composited character right. [pose: clutch-stomach 0.8,0.94 0.6] [same-as: S011] [still]
+Your cold summer drink now depends on somebody doing cold winter work. The exchange is beginning to look less effortless.
+
+::: S042 | Winter morning version of fixed complex, two workers carry one small tray toward access opening; preserve wall/dome geometry. [note: Winter • harvesting for storage] [same-as: S001] [pan-left]
+Keep the dome in view. We are leaving the making stage and entering the keeping stage.
+
+## How to keep a piece of winter
+::: S043 | Worker A breaks slab at edge with simple tool while B waits on dry path with tray; no flying sharp shards. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S011] [zoom-out]
+The ice is broken into manageable pieces and transferred to the store. That sentence conceals quite a lot of handling.
+
+::: S044 | Three irregular cloudy ice pieces on tray, varied natural fracture surfaces, no uniform cubes. [same-as: S006] [pan-right]
+Our irregular pieces reflect a physical process of freezing and breaking, rather than perfect cubes from a mould.
+
+::: S045 | Winter interior, circular below-ground pit left partly packed with ice, thick wall base, empty level ledge right. [pose: look-around 0.8,0.94 0.6] [note: Meybod · winter storage reconstruction] [same-as: S007] [zoom-in]
+Inside the dome, the main storage space lies below ground. The dramatic roof is only the visible part of the arrangement.
+
+::: S046 | Thick adobe section beside dry straw bundle, no polished modern material. [pose: closeup-thoughtful 0.8,1.02 0.82] [pan-left]
+The dome shelters the store. Thick earthen construction and insulation help slow heat getting to the ice over the warmer months.
+
+::: S047 | Packed ice pit partly covered with straw, dim earth walls; access ledge visible, no explanatory arrows or transparent architecture. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S007] [zoom-out]
+Beneath that roof, the protected stock occupies a pit. The arrangement keeps the ice sheltered while workers reach it from the edge.
+
+::: S048 | Worker B arranges a dry straw insulating layer across packed ice from safe ledge, A absent. [same-as: S007] [pan-right]
+The ice itself is packed and protected with materials such as straw or reeds. It is a stored supply worth looking after.
+
+::: S049 | Side cutaway of dome and below-ground pit with insulation around ice; few incoming heat arrows reduced by protection. [still]
+Summer will still take a share through melting. Good storage slows that loss; it cannot make ice indestructible.
+
+::: S050 | Ice piece on shaded tray with a few small drops, no exaggerated flood or giant puddle. [same-as: S006] [pan-left]
+A few drops on our tray make the problem visible. Each piece is still ice, but its edges are slowly changing.
+
+::: S051 | Simple pit section with meltwater arrow downward to drain; no pipe to city sewers, clear ice level. [still]
+Meltwater needs somewhere to go. A drain at the bottom helps carry it away from the remaining stored ice.
+
+::: S052 | Packed solid ice and straw in pit, no water-filled tank; safe dry ledge right. [pose: count-fingers 0.8,0.94 0.6] [same-as: S007] [pan-right]
+This is not a tank filled with icy water. Confusing an ice house with a water reservoir gives the wrong interior.
+
+::: S053 | Only ice, straw and earthen structure, no hanging meat, food shelves or cupboard props. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S007] [zoom-in]
+The ice can cool things elsewhere. The store and the thing somebody cools need not share a location.
+
+::: S054 | Ice-store symbol points to a plain cup at another location; locally drawn, no food shelves inside store. [still]
+Cooling a drink later is a separate job. The ice store holds the supply; it is not a household food refrigerator.
+
+::: S055 | Small daylight opening high in earthen dome, no icy chimney plume, no floor-level separately composited character. [same-as: S007] [zoom-out]
+Even the opening at the dome's top is only one feature. It cannot turn an unsuitable season into a reliable ice-making night.
+
+::: S056 | Winter packed pit mostly insulated, two workers at access ledge, consistent dimensions. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S007] [pan-right]
+We have made ice during suitable weather, brought it inside and protected it. Now comes the longest part of the process.
+
+::: S057 | Season timeline winter work to summer use, no exact days or fake calendar dates. [still]
+Waiting takes months. Winter's work and summer's demand are separated by considerably more than an impatient afternoon.
+
+::: S058 | Summer returns: same complex, basin dry, warm light, no snow, worker B at shaded entrance. [note: Summer • using the stored supply] [same-as: S001] [pan-left]
+If storage has gone well, something useful remains available through a very different season. Back to our thirsty visitor.
+
+## Summer comes to collect
+::: S059 | Summer daytime basin dry and empty, dome beyond fixed wall, quiet right path. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [zoom-out]
+The outside world is warm again. The pond is no longer the answer to your immediate request. The stored supply is.
+
+::: S060 | Summer interior variant, worker B safely removes a small piece from accessible stock near ledge, no suspended body. [same-as: S007] [pan-right]
+Inside, someone accesses the ice and brings out a portion. Our little piece has a history stretching back into winter.
+
+::: S061 | Worker B stands by tray in shaded doorway, two waiting adults at left only, clear right. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S002] [zoom-in]
+This is where a building becomes part of daily life: not just a remarkable shape, but a place people use.
+
+::: S062 | Plain cup and a modest ice piece on tray beside small water vessel, no specific recipe. [pose: closeup-listening 0.8,1.02 0.82] [note: Historical use • cooling drinks] [pan-left]
+Historical accounts describe ice used to cool drinks. The pleasure at the end of the process was fairly easy to understand.
+
+::: S063 | Plain cup sits left on low table, earthen shade room, clear floor right. [pose: look-around 0.8,0.94 0.6] [same-as: S062] [zoom-out]
+We have not recovered the recipe for our imaginary cup. Its role is to show where the long chain of work can lead.
+
+::: S064 | One tray with ice in shaded entrance, worker B behind it; no extra process icons painted. [pose: count-fingers 0.8,0.94 0.6] [same-as: S002] [pan-right]
+By now, the ice has travelled through several stages: water supply, freezing, harvesting, storage and finally a summer use.
+
+::: S065 | Empty tray beside closed access opening, no crowd or claim specific failure occurred. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S002] [still]
+Break one link and the handsome dome cannot finish the job. Architecture depends on the people operating it.
+
+::: S066 | Reconstructed winter maintenance view of empty basin and wall, worker A inspects inlet, no disaster. [note: Earlier in the cycle • possible difficulties] [same-as: S011] [pan-left]
+Perhaps the nights disappoint. Perhaps the stock is smaller. Perhaps repairs are needed. A useful system can still have difficulties.
+
+::: S067 | Simple mud-brick section with a small repair patch, no exaggerated ruin or person. [same-as: S046] [zoom-out]
+Those are possibilities, not a report of a particular failure. They explain why the technology has limits.
+
+::: S068 | Shallow exposed earthen channel with ordinary ground around it, no visible disease, insects swarm or disgust imagery. [note: Storage performance is not a hygiene guarantee] [same-as: S015] [pan-right]
+Nor can we turn an old ice supply into a guarantee of modern hygiene. Open water and handling bring their own problems.
+
+::: S069 | Worker B checks tray in summer shade, modest relaxed expression, no triumphant pose. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S002] [zoom-in]
+The cleverness is real. So is the work. You can appreciate both without pretending the system made every inconvenience disappear.
+
+::: S070 | Two adults wait at left near worker B and ice tray, no coins or price board. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S002] [still]
+And we have not yet asked who controls the ice, who maintains the water supply, or how a customer gets a share.
+
+## Who makes the system work?
+::: S071 | Two equal paths: community/endowment and business; each leads to ice supply, no ownership percentages. [still]
+Iranian ice houses did not all share one business model. Some were connected to communal or endowed water systems; others were commercial ventures.
+
+::: S072 | Modest summer queue of two adults, worker B behind tray, no self-service pile. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S002] [pan-right]
+That means we should not announce that every resident simply walked in and collected unlimited free ice whenever they wanted.
+
+::: S073 | Worker A inspects earthen water inlet in winter morning, B absent; right path open. [pose: watch-arms-crossed 0.8,0.94 0.6] [note: Winter work • water management] [same-as: S011] [zoom-in]
+Water had to be managed, structures maintained and ice handled. Someone's resources and someone's labor were involved before our visitor arrived.
+
+::: S074 | Plain sun-dried mud brick beside modest repair mortar on wood board, no trowel of modern design. [same-as: S046] [pan-left]
+Local earth could supply building materials. Local did not mean effortless: construction and maintenance still required work.
+
+::: S075 | Plain cup left on shaded low table, one small ice piece beside it. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S062] [zoom-out]
+Think of your cup as the final page of a much longer story. It begins with decisions about water, space and winter weather.
+
+::: S076 | Winter dawn harvesting, two workers carry one modest tray along dry path, no identical background crowd. [note: Winter work • harvesting] [same-as: S011] [pan-right]
+Then come repeated tasks: managing the basin, collecting ice, protecting the stock and distributing a portion when somebody needs it.
+
+::: S077 | Summer complex, one worker at doorway and two modest distant adults, same architecture. [pose: count-fingers 0.8,0.94 0.6] [same-as: S001] [zoom-in]
+We remember the dome because we see it. The organisation is easier to miss, but matters just as much.
+
+::: S078 | Summer tray with ice left, worker B absent, natural shadow, clear right. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S002] [still]
+You have arrived for the refreshing part. Other people had to turn the coldest part of the year into something useful later.
+
+::: S079 | Cloudy ice piece on simple tray in shade; restrained pale-blue edges, no literal winter landscape trapped inside. [same-as: S006] [zoom-out]
+There is a satisfying reversal here. Winter is usually the season you try to get through. Here, part of it becomes a resource.
+
+::: S080 | Dry firm plateau landscape around modest complex, no endless dunes or lush tropical oasis. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [pan-right]
+Climate, water, materials and management made this arrangement possible. Other places could not necessarily use the same design.
+
+::: S081 | Focus on dome while keeping a portion of wall and pond visible; no false isolated building version. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S001] [zoom-in]
+Copying the silhouette alone does not copy the performance. A dome is only part of the answer.
+
+::: S082 | Ice piece on tray in summer shade, separately composited character right, no extra locals. [pose: count-fingers 0.8,0.94 0.6] [same-as: S002] [pan-left]
+We can now answer our opening question. First, clear away three attractive mistakes that would make the story less accurate.
+
+## What the ice house really achieved
+::: S083 | Winter night pond beginning to freeze, no hot sun, dome fixed beyond wall. [note: Meybod c.1900 · winter production] [same-as: S011] [zoom-out]
+First: it did not need to make our summer ice on a scorching afternoon. Suitable winter conditions supplied the earlier production window.
+
+::: S084 | Summer pit with partial remaining ice under straw; no icicles on every wall or full frozen chamber. [note: Storage: slower losses] [same-as: S007] [pan-right]
+Second: the store did not prevent all melting. Shelter and insulation slowed the losses, preserving a useful supply over time.
+
+::: S085 | Presentational reconstruction of fixed historical complex with neutral light; no date inscription or imaginary ancient builders. [note: Building dates and early origins are different questions] [same-as: S001] [zoom-in]
+Third: ancient ice storage does not securely date every surviving dome. Particular buildings have their own histories.
+
+::: S086 | Same summer exterior and ordinary late-Qajar worker, no ancient imperial costume. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [pan-left]
+Our setting is Meybod around nineteen hundred, following a traditional process—not transplanting its dome into a much earlier century.
+
+::: S087 | Single irregular ice piece on shaded tray, slight wet edge, no glow. [same-as: S006] [zoom-out]
+Once those mistakes are removed, the achievement remains impressive: use winter conditions to provide something desirable during summer heat.
+
+::: S088 | Two side-by-side sections: outgoing heat above pond; reduced incoming heat through store insulation. [still]
+The making and the keeping solve different problems. Shallow outdoor water loses heat; the protected store limits later heat getting back in.
+
+::: S089 | Winter worker A tending shallow inlet, grounded practical scene, no heroic spotlight. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S011] [zoom-in]
+The process depends on weather, materials, water and human decisions. None can be replaced by enthusiasm for the past.
+
+::: S090 | Two workers at safe dry access ledge, remaining straw-covered summer stock below; ordinary scale and posture. [pose: look-around 0.8,0.94 0.6] [same-as: S007] [pan-left]
+Admire the engineering, while remembering the carrying, maintenance and uncertainty. People had to manage those too.
+
+::: S091 | Plain cup on left table, small ice piece nearby, quiet right foreground. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S062] [still]
+And then, months later, somebody asks for a cold drink. After all that effort, the final request sounds almost offensively simple.
+
+::: S092 | Summer fixed complex, basin dry, worker B at shaded doorway with tray, no electrical items. [same-as: S001] [pan-right]
+The answer to ice in the desert was a whole sequence of jobs, arranged around the seasons instead of around a power socket.
+
+::: S093 | Final ice piece on shaded tray, ordinary translucent edge and a few drops, no decorative snowflakes. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S006] [zoom-in]
+Your little piece of ice has made the journey from a cold night to a hot day. That is the part worth remembering.
+
+::: S094 | Modest ice tray beside summer access opening, empty right foreground, no locals. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S002] [still]
+Which would you rather manage: freezing the supply in winter, or keeping enough for summer? The dome, unfortunately, cannot choose for you.

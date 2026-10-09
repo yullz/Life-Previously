@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "status": "director_constraints_not_media_approval",
+  "cases": [
+    {
+      "name": "Mary Warren",
+      "date": "19April1692",
+      "place": "Salem Village",
+      "stage": "examination,not final trial",
+      "source": "SWP135"
+    },
+    {
+      "name": "Rebecca Nurse",
+      "date": "lateJune1692;appeal4July;execution19July",
+      "place": "trial in Salem Town",
+      "source": "SWP94;Fisk and appeal preserved inCalef1700"
+    },
+    {
+      "name": "Samuel Wardwell",
+      "date": "confession1September;recantation13September;execution22September",
+      "source": "SWP133",
+      "limit": "No counterfactual survival guarantee"
+    },
+    {
+      "name": "Mary Easty/Esty and Sarah Cloyce",
+      "date": "joint and final petitionsSeptember1692",
+      "source": "SWP45",
+      "limit": "SpecificSeptember9/15 editorial dates,not unquestioned manuscript date"
+    },
+    {
+      "name": "Sarah Cloyce",
+      "date": "January1693 rejected indictments",
+      "source": "SWP33",
+      "limit": "No invented explanation for survival"
+    }
+  ],
+  "image_rules": [
+    "No ghost/demon shown in historical room. Allegation diagrams must visibly say ALLEGED or CLAIMED.",
+    "No burning; all mentioned executions are hangings, conveyed without graphic imagery.",
+    "No torture invented to illustrate pressure.",
+    "Do not treat family room,examination room and Town courtroom as one location.",
+    "No invented act of Mary Easty personally writing/signing a document; show document at rest or clearly editorial graphic.",
+    "Nurse scenes after execution only explicitly earlier illustrative moments; S089 carries earlier label."
+  ],
+  "visitor": "Modern guide remains observer,not a documented accused person or person who cures the crisis.",
+  "source_cards": {
+    "quote": "NO MORE INNOCENT BLOOD",
+    "rule": "Modernized spelling noted; all other compressed statements marked paraphrase. Exact full original documents must not be fabricated by image model."
+  },
+  "outcomes": "No causal arrow saying Easty's petition alone ended trials; no statement everyone died or confessions guaranteed release.",
+  "later_scene": {
+    "id": "S080",
+    "scope": "Sarah Cloyce's1693outcome",
+    "rule": "One sister only; no MaryEasty resurrected in this scene."
+  },
+  "pending": "Exact-script factual/logic review,visual reference inspection and all media production/reviews remain pending."
+}

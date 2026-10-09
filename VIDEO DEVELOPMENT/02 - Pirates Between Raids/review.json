@@ -1,0 +1,48 @@
+{
+  "state": "draft_built",
+  "source_passages_read": true,
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-09",
+    "coverage": "Read all 96 narration lines, scene instructions, claim mapping, source limits, dates, thumbnail promises and contiguous Shorts.",
+    "refutation": "Checked excavation evidence against narrative temptation: bones cannot date a pirate meal; needle function remains disputed; mortality/cures and exact sounding depth omitted; cook's forced retention separated from inference; Roberts's rules cannot transfer to Blackbeard; paper fragments cannot establish reader. Re-read quoted Roberts rule and artifact descriptions.",
+    "findings": [
+      {
+        "id": "02-I01",
+        "issue": "Repeated conclusions in S078–S081",
+        "fix": "Distinct rule-source qualification, scope limitation, return transition and conservation puzzle."
+      },
+      {
+        "id": "02-I02",
+        "issue": "Lit lantern after eight-o'clock lights-out claim",
+        "fix": "Lantern extinguished and dark for subsequent rule scenes; no invented disobedience."
+      },
+      {
+        "id": "02-I03",
+        "issue": "Pilot included local graphics and non-anchor dependencies",
+        "fix": "Paid pilot selects deck, carpenter, sounding station, medical objects and coercion scene with parents resolved."
+      },
+      {
+        "id": "02-I04",
+        "issue": "Neutral tool location reused gouge as edit parent for unrelated needle/weight",
+        "fix": "Independent needle and lead anchors, later lead reuses S036; collection recap independent."
+      },
+      {
+        "id": "02-I05",
+        "issue": "Returning deck work areas and thumbnail payoff links incomplete",
+        "fix": "Explicit deck parent for repair/rope/rail/chart; corrected medicine and cooking payoff IDs."
+      },
+      {
+        "id": "02-I06",
+        "issue": "Hard-coded nine-pose wardrobe count could become stale",
+        "fix": "Pose plan is authoritative; every required scene/thumbnail pose gets private hat."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "additional_slate_review_1": "pending",
+  "additional_slate_review_2": "pending",
+  "media_reviews": "not_applicable_yet_no_media_generated",
+  "known_research_boundaries": "Anchor: Queen Anne's Revenge in early 1718, with an explicitly imagined workday. One dated comparison concerns Roberts's different crew, 1719–1722, as described in 1724. The script follows practical needs, then changes the viewer's expectation of freedom by naming a forcibly retained cook. Archaeology is not a daily diary: food bones can predate capture, a medicine tool cannot certify a cure, printed scraps cannot identify a reader. Rejected: a precise daily menu, a definite sail needle from the disputed silver object, pirate democracies as universally egalitarian, universal bedtime rules, book-club scenes, burying treasure, walking planks, and detailed vessel geometry unsupported by a plan. Johnson is cited under its published author's name; attribution to Daniel Defoe is disputed. Visual artifact references must be inspected before exact object drawing, but all narrative claims above use passages already read."
+}

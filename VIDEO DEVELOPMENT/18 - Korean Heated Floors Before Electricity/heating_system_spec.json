@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "status": "director_plan_media_not_built",
+  "purpose": "Keep the historical house, diagrams, thumbnail and edits mechanically consistent.",
+  "house": "Illustrative Seoul hanok c.1900; not a survey of Kim Chun-yeong's house.",
+  "canonical_geometry": {
+    "courtyard": "Main room rear right, maru rear left, lower kitchen right end, external chimney behind room.",
+    "cutaway": "Side view: kitchen/firebox RIGHT, room LEFT above flues, far LEFT external chimney. The courtyard view is three-dimensional; use the same physical adjacency when changing viewpoint.",
+    "layers_bottom_to_top": [
+      "combustion flues between masonry supports",
+      "stone slabs",
+      "earth levelling and sealing layer",
+      "paper finished surface"
+    ],
+    "arrows": {
+      "orange": "Hot combustion gases BELOW sealed floor, then outside chimney.",
+      "amber": "Heat through solid floor; not flowing smoke or water.",
+      "blue": "Only ambient airflow around raised maru in summer graphic; never pipework in historical floor."
+    }
+  },
+  "frames": {
+    "S013": "Canonical cutaway",
+    "S014": "Gases below stones",
+    "S015": "Layer stack",
+    "S016": "Solid separation",
+    "S018": "Heat versus smoke routes",
+    "S019": "Thermal storage after lower fire",
+    "S020": "Occupied room, no numerical warmth guarantee",
+    "S021": "Alternative channel layouts explicitly examples",
+    "S022": "Canonical diagram again",
+    "S023": "Opaque finished room"
+  },
+  "continuity": {
+    "S001": "Courtyard anchor",
+    "S002": "Room anchor",
+    "S012": "Kitchen anchor",
+    "S048": "Maru first view",
+    "S051": "Summer edit of courtyard S001",
+    "S064": "Separate temple-cell example; never edit the household room into a claimed exact temple",
+    "S074": "Early partial-floor comparison, no exact date or invention priority",
+    "S076": "Modern water-pipe comparison, labelled and separate"
+  },
+  "wardrobe": {
+    "indoor": "Plain padded jeogori and baji; socks, no coat or outdoor shoes.",
+    "outdoor": "Same base outfit under muted coat, simple dark shoes.",
+    "threshold": "Use close-up transition or explicit shoe change; do not jump between incompatible full-body states.",
+    "summer": "Visitor absent from summer comparison to avoid adding unnecessary summer costume generation."
+  },
+  "historical_limits": [
+    "No 49-day or 100-day heating claim.",
+    "No universal room temperature or fuel efficiency number.",
+    "Do not imply Seoul lacked electricity in c.1900.",
+    "No all-houses-identical or all-chairs-disappeared claim.",
+    "Temple overheating is Bishop's separate experience; no exact temperature narrated.",
+    "Kim Chun-yeong house was originally in Samcheong-dong and moved in 1998; not a poor-family exemplar.",
+    "No paper over bare flame, smoke in room, red-hot floor, stove inside room or hot-water pipe in historical section."
+  ],
+  "execution": "Build explanatory geometry locally as SVG/PNG stages, then composite labels. Inspect at full size and thumbnail size. Background illustrations show opaque finished architecture; never ask the image model to invent the internal engineering."
+}
+

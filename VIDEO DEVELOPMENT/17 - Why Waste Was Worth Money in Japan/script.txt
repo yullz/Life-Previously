@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: Why Was Your Poop Worth Money in Old Japan?
+
+## The thing somebody wants to buy
+::: S001 | Closed shared privy beside two closed wooden buckets and collector standing outside. No occupant or contents visible. Visitor on clear ground. [pose: eyebrow-raise 0.8,0.94 0.6] [zoom-in]
+Someone has come to empty the toilet. The surprising part is the payment: he may be paying to take its contents away.
+
+::: S002 | Ordinary timber row housing and narrow earth courtyard, privy at far left, modest late-Edo residents. [note: Edo, 1867 · illustrative reconstruction] [pan-left]
+Edo, the city that became Tokyo, in eighteen sixty-seven. Human waste has buyers, sellers and disputes.
+
+::: S003 | Farmer stands beside cultivated vegetable rows and covered storage, no active waste spreading or visible contents. [zoom-out]
+Not because anyone mistakes it for something pleasant. Farmers want fertilizer, and the city produces material they can use in their fields.
+
+::: S004 | Closed bucket icon connected to field icon, plain neutral labels; no poop cartoon. [still]
+The polite English name is night soil: human waste collected for agricultural use.
+
+::: S005 | Collector in daylight with two closed buckets suspended from shoulder pole, balanced plausible load, ordinary pedestrians. [zoom-in]
+The name can mislead us. Collection in Japan also happened during the day. No secret midnight operation required.
+
+::: S006 | Closed stave bucket and plain coin pouch on separate clean ground areas, neutral original composition. [pose: closeup-thoughtful 0.8,1.02 0.82] [pan-left]
+We will follow an imagined collection through a documented trade. The interesting part is where the value goes.
+
+::: S007 | Landlord at simple threshold and collector holding modest pouch, closed bucket nearby; no transaction amount visible. [zoom-out]
+Because there is a second surprise. Producing the waste does not necessarily mean you receive the money from selling it.
+
+::: S008 | Several dwelling doors lead to common courtyard and shared privy; no people using it, no exact tenant count. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S002] [pan-right]
+In rental housing with shared privies, the landlord can control those rights. Your toilet visit may support somebody else's business.
+
+::: S009 | Collector checks secure bucket lids and shoulder pole outside service area, hands clear of contents. [same-as: S001] [zoom-in]
+Our collector must still remove the material, carry it, and reach someone who can use it.
+
+::: S010 | Simple riverside landing with moored unpowered cargo boat and closed containers; no motor or huge sail. [pan-left]
+That requires work, equipment, and sometimes access to a boat. The load itself may have to be bought.
+
+::: S011 | Locally designed teaser source card with1867date and blue water droplet, no literal open waste. [still]
+By the end, we will even encounter a complaint about dishonest dealers watering the product down. There is a market to cheat.
+
+::: S012 | Landlord and collector face each other across low writing surface, blank ledger and plain pouch. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S007] [pan-right]
+First, though, let us meet the person collecting payment. The landlord has something to sell, although he did not produce all of it.
+
+## Your landlord's other income
+::: S013 | Same row dwellings and shared privy, small group of residents elsewhere in courtyard; clear service access. [note: Kayo Tajima, 2007 · Edo collection contracts] [same-as: S002] [zoom-in]
+In Edo's nagaya, or row-house communities, people could share a privy. Research describes landlords controlling its night-soil sales.
+
+::: S014 | Collector offers pouch to landlord while an ordinary tenant passes in background, no direct payout to tenant. [same-as: S007] [pan-left]
+The farmer or collector deals with the landlord. Producing the material does not necessarily give you control of the price.
+
+::: S015 | Visitor looks between dwelling and landlord's threshold, hands empty, restrained outfit secondary to action. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S002] [zoom-out]
+That arrangement makes a difference to our imaginary visitor. You cannot simply assume a share of the proceeds because you live here.
+
+::: S016 | Three roles clearly separated: resident, landlord, collector; money arrow collector to landlord only. [still]
+Not every person in Japan receives cash for every toilet visit. This is a particular ownership arrangement.
+
+::: S017 | Blank paper agreement and two hands near coin pouch, no signatures or invented legal terms. [same-as: S007] [zoom-in]
+A contract can secure access to the supply. Waste from a crowded property is worth arranging to obtain.
+
+::: S018 | Recurring supply icon between housing and farm, no daily frequency or exact quantity asserted. [still]
+The property keeps producing material. The farmer needs fertilizer again. A continuing relationship can suit both sides.
+
+::: S019 | Separate illustrative alternatives: plain pouch on one side, clean vegetable basket on other; not a single exact barter receipt. [same-as: S006] [zoom-out]
+Payment is not always one universal form. Historical accounts describe money or agricultural produce, and arrangements differ by place and circumstance.
+
+::: S020 | Collector and landlord complete neutral exchange with unmarked pouch; no readable coins or numeric total. [same-as: S007] [pan-right]
+Our illustrated transaction has no invented price. A bill from another city would not tell us this household's terms.
+
+::: S021 | Money arrow points toward property; material arrow points toward countryside. Clear opposite directions. [still]
+The direction matters. Someone pays for access to material that the residents also need removed.
+
+::: S022 | Tenant, landlord and collector in separate natural actions within same courtyard, no hero/villain caricature. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S002] [pan-left]
+Useful removal and a sale happen together. The benefits go to people with different rights and resources.
+
+::: S023 | Collector moves toward outskirts with securely balanced closed buckets; Visitor observes from safe clear path. [same-as: S005] [zoom-out]
+To understand why our collector wanted the load, leave the doorway and look at a field.
+
+::: S024 | Vegetable rows, farmer and simple storage shed, modest landscape east of Edo, no mountain rice-terrace stereotype. [same-as: S003] [pan-right]
+There, the contents are part of producing the crops that the city wants to buy. The unpleasant cargo has a practical customer.
+
+## Why a farmer would want it
+::: S025 | Simple nutrient dots move from closed bucket icon toward soil/root icon; no magical instant plant growth. [still]
+Growing crops draws on nutrients in the soil. Human waste contains nutrients, including nitrogen and phosphorus, that can give it fertilizer value.
+
+::: S026 | Farmer examines established crop rows beside covered storage, no chemical flask or modern agronomist equipment. [same-as: S003] [pan-left]
+Buyers need no modern laboratory to notice results in their fields. Agricultural writings discuss the material's use and quality.
+
+::: S027 | Small separate icons for plant compost, ash, animal manure container and night-soil container; no exact recipe. [still]
+They discuss other materials too. Night soil is one fertilizer source, rather than the single secret behind all farming.
+
+::: S028 | Farmer checks covered storage near simple shed; cultivated plots in background, no step-by-step application instructions. [same-as: S003] [pan-right]
+Historical manuals consider collection, storage and application. This is knowledge and work, not simply disposal outside the city.
+
+::: S029 | Town and field icons connected by two labelled arrows; no invented population or tonnage. [still]
+The expanding city creates two connected opportunities: more people want food, and more people produce the material that farmers can use.
+
+::: S030 | Edo vegetable seller displays clean daikon and greens; customers in ordinary clothes, no waste buckets anywhere near food. [pan-left]
+Nearby growers have customers for fresh vegetables in town. The countryside, in turn, has customers for fertilizer.
+
+::: S031 | Farmer and dealer discuss closed containers and blank ledger, no sniffing or exposed material. [pose: closeup-thoughtful 0.8,1.02 0.82] [zoom-out]
+Quality matters too. Agricultural writers discuss differences in the material they obtain. Buying fertilizer is not simply buying the fullest possible container.
+
+::: S032 | Two equal closed-container icons; one has added-water annotation, usefulness question remains, no unsupported numeric concentration. [still]
+That explains the later argument about added water. A larger-looking load is not necessarily a more useful purchase.
+
+::: S033 | Closed wooden bucket beside a simple locally drawn water-weight icon, no transparent contents or accurate percentage claim. [same-as: S006] [zoom-in]
+First, it must reach the farm. Much of what the collector carries is water.
+
+::: S034 | Collector on earth road between town edge and fields, no exact distance scale, load realistic. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S005] [pan-left]
+Valuable in a field, expensive to move. Distance is part of the price.
+
+::: S035 | Two closed buckets hang symmetrically from flexible pole on shoulder, feet firmly grounded, no crushing exaggerated burden. [same-as: S005] [zoom-out]
+Our collector cannot turn its value into lighter buckets. Every step still has to move the weight that sits on his shoulder.
+
+::: S036 | Simple road and waterway alternatives connect town to farms, marked schematic rather than geographic map. [still]
+The route matters as much as the supply. This story is becoming a transport business.
+
+## The weight of the business
+::: S037 | Side view of collector, two equal closed stave buckets at similar height, pole supported on one shoulder, natural gait. [same-as: S005] [zoom-in]
+On land, one method uses two buckets suspended from a shoulder pole. The collector carries the load by balancing it across his body.
+
+::: S038 | Wood staves and thin binding hoops on closed vessel; no steel drum or imagined exact museum-date claim. [note: Bucket construction described in Hyakushō denki, via Tajima] [same-as: S006] [pan-left]
+The buckets must be strong without unnecessary weight. An early agricultural manual discusses their construction and the burden of carrying them.
+
+::: S039 | Separate illustrative handcart with securely tied closed containers; collector walks beside it, no simultaneous shoulder load. [same-as: S005] [zoom-out]
+Horses and small handcarts offer other ways to move loads. They still require handling, equipment and someone to do the travelling.
+
+::: S040 | Simple labour-time icon beside route, no exact hourly wage or universal journey duration. [still]
+Time spent transporting fertilizer cannot also be spent on another task. The journey belongs in the economics.
+
+::: S041 | Dealer meets farmer at modest store, covered load behind; equal respectful human depiction, no universal wealth claim. [same-as: S031] [zoom-in]
+Some farmers can supply that labour and equipment. Others depend on people who can bring the material to them.
+
+::: S042 | Optional chain property → collector/dealer → farm, with direct alternative shown faintly; no required universal chain. [still]
+The collector need not be the final grower. The trade can include intermediaries.
+
+::: S043 | Shoulder carrier on near path and cart on separate distant route, no impossible combined load or claimed universal distribution. [same-as: S005] [zoom-out]
+There is no single business arrangement that explains every household and village.
+
+::: S044 | Plain pouch beside closed bucket and shoulder pole, neutral costs illustration without numeric total. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S006] [pan-right]
+The shared problem is practical. Useful material has to move, and somebody must cover the cost.
+
+::: S045 | Established wooden landing with cargo boat carrying multiple secured closed containers; enough freeboard and clear gangway. [same-as: S010] [zoom-in]
+East of Edo, waterways offer another possibility. Boats can move larger cargoes than a pair of buckets on one person's shoulder.
+
+::: S046 | Unpowered wooden craft moves along calm river, crew uses pole/oar, bank and boat proportions plausible. [note: River transport · Katsushika and Koshigaya municipal histories] [pan-left]
+Fertilizer boats connect Edo with farming villages along the rivers. Waterways change what can travel together.
+
+::: S047 | Crew secures mooring while another worker handles one closed bucket at a time, no floating barrels. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S010] [zoom-out]
+It does not make transport free. A boat is an investment, and handling a load remains work at both ends.
+
+::: S048 | Schematic branching waterways and land routes, no arbitrary equal-distance ring or imported Kanazawa map. [still]
+The trade follows routes and landing places, rather than a perfect circle around Edo.
+
+## Two directions, different cargoes
+::: S049 | Earlier inbound-leg illustrative boat with clean produce/firewood cargo only; no waste containers present. Label inbound leg locally. [same-as: S046] [zoom-in]
+A boat can bring vegetables, firewood or charcoal toward the city, then return with fertilizer. The journey can serve needs in both directions.
+
+::: S050 | Two separate boat silhouettes for inbound goods and outbound covered fertilizer, no shared cargo diagram. [still]
+That means separate journey legs, not food and waste mixed in one open pile.
+
+::: S051 | Farmer meets dealer beside secured covered containers on landing, no dumping into river or abandoned rubbish. [same-as: S010] [zoom-out]
+At the country landing, dealers can sell onward. The farms are customers, rather than simply a dumping ground.
+
+::: S052 | Farmer preparing a plot beside other growing beds, seasonal work emphasis; no simultaneous winter snow and summer crops. [same-as: S003] [pan-right]
+Demand also changes through the agricultural year. Municipal histories describe seasonal prices, with busy planting periods affecting what buyers are willing to pay.
+
+::: S053 | Price represented by variable pouch icon beside season, quality and transport icons; no fabricated line graph. [still]
+There is no fixed cash reward for a toilet visit. Prices depend on circumstances.
+
+::: S054 | Clearly dated earlier source card1845, neutral group/contract icons; no depiction of1867 event as simultaneous. [still]
+The buyers do not always like the terms. In eighteen forty-five, villages near Edo joined an agreement seeking better quality and lower prices.
+
+::: S055 | Timeline returns explicitly to1867; water-droplet icon beside closed cargo, short source attribution. [still]
+That did not solve every problem. By eighteen sixty-seven, officials were confronting a complaint about diluted loads.
+
+::: S056 | Farmer questions dealer over closed load and blank account, serious ordinary interaction, no villain moustache. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S031] [pan-right]
+Quality control may be an unexpected source of drama here. Farmers paying for fertilizer had reason to care.
+
+::: S057 | Same-size closed bucket outlines; diluted example contains only abstract internal ratio bars in separate educational inset, not realistic waste. [still]
+A bucket can look full while delivering less of the material the buyer needs. Adding water changes the bargain without improving the fertilizer.
+
+::: S058 | Archival paper backdrop with local English source citation; no forged Japanese original or named fictional culprit. [note: Koshigaya municipal history · May 1867 notice] [pan-left]
+Koshigaya's municipal history reproduces the notice. We can follow the complaint without inventing a particular guilty merchant.
+
+::: S059 | Covered containers, simple tally board left blank and two parties discussing load, no exact quantity yet. [same-as: S031] [zoom-out]
+Its details are more revealing than a general claim that waste was valuable. People were arguing over what a purchased load actually contained.
+
+::: S060 | Two-step source-based diagram: dilution complaint → rules and records, no fictional arrest. [still]
+Look at the trick, and the response officials wanted. There is money worth protecting.
+
+## Even this could be watered down
+::: S061 | Non-graphic explanatory reconstruction of boat with closed cargo; separate blue droplet overlay indicates alleged dilution, no exposed contents. [note: Official complaint, May 1867 · reproduced in Koshigaya history] [same-as: S046] [zoom-in]
+The eighteen sixty-seven notice describes dealers adding water during transport, increasing the apparent size of the load they could offer for sale.
+
+::: S062 | Generic load blocks divided inconsistently between advertised whole and alleged extra; no invented exact price. [still]
+It also complains about deceptive accounting for how much constituted a boatload, and charging more for what was presented as an extra portion.
+
+::: S063 | Farmer examines closed delivered vessels beside field, no laboratory or failed crop attributed to an invented case. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S003] [zoom-out]
+Farmers could pay for a quantity that failed to deliver the expected fertilizer value. That is the conflict.
+
+::: S064 | Short attributed paraphrase of enforcement provision, no execution/prison image or claim punishment occurred. [still]
+The notice threatens punishment for dishonest sales. A related agreement calls for action against people seen adding water along the route.
+
+::: S065 | Hands open plain ledger while covered load sits beyond; actual checked English label added locally, no generated Japanese writing. [same-as: S031] [zoom-in]
+Transaction records and scheduled checks are required too. A dealer's assurance is not enough.
+
+::: S066 | Separate labels complaint / rule / outcome unknown, sparse source card without dense paragraph. [still]
+These are responses to a reported problem. They do not prove every trader cheated, or that enforcement always worked.
+
+::: S067 | Farmer, dealer, closed containers and record table in one coherent modest setting, no caricature. [same-as: S031] [zoom-out]
+But they prove the story is not simply about throwing something away. Buyers care about quality, quantity, price and access to a reliable supply.
+
+::: S068 | Plain four-part local typography: quality, quantity, price, rights; closed bucket small secondary icon. [still]
+An unusual product still raises ordinary market questions: who gets paid, and for what?
+
+::: S069 | Five distinct role icons connected with optional pathways, no rigid universal hierarchy. [still]
+Tenants, landlords, collectors, dealers and farmers can stand at different points in the exchange. Their interests need not match.
+
+::: S070 | Collector secures load while farmer and dealer confer, practical scene rather than coins raining down. [same-as: S010] [pan-left]
+The landlord wants a buyer. The farmer wants useful fertilizer. The transporter needs the journey to make economic sense.
+
+::: S071 | Original courtyard after collection, doors and service area orderly but modest; no transformation into luxury housing. [same-as: S002] [zoom-out]
+The city also needs removal. Several needs support the trade without making every participant equally prosperous.
+
+::: S072 | Closed vessel with restrained local educational marker separating value from sanitation; no hazard spectacle. [same-as: S006] [pan-right]
+There is one more distinction to make before we call the system clever. A valuable fertilizer is not automatically a harmless substance.
+
+## Useful does not mean harmless
+::: S073 | Neutral microscopic-dot symbol beside closed bucket, clearly conceptual and not a diagnosis of historical person. [still]
+Human waste can carry pathogens and parasite eggs. Turning it into an economic resource does not, by itself, make those risks disappear.
+
+::: S074 | Source card identifying modern ministry explanation, no modern plant depicted as1867technology. [note: Japan Ministry of the Environment · historical recycling and sanitary treatment] [still]
+Japan's environmental ministry distinguishes historical recycling from later sanitary treatment. They are related, but different, achievements.
+
+::: S075 | Modest original courtyard and closed service area, no spotless glowing utopia or invented sick family. [same-as: S002] [zoom-out]
+So we should not turn this episode into a claim that old Edo had solved every waste problem, or that reuse made illness impossible.
+
+::: S076 | Broad network town↔multiplefarms with open branches, no single sealed circular loop or mass-balance percentage. [still]
+Nor can we trace every bucket around a perfect loop, back to the same household's dinner table.
+
+::: S077 | Established vegetable plots and distant settlement, covered storage separate from produce, calm documentary framing. [same-as: S003] [zoom-in]
+What the evidence does show is a connection between urban consumption and surrounding agriculture. Material leaving the city could help support food production outside it.
+
+::: S078 | Small sequence of access, bucket, route, agreement and field icons; no new unverified mechanism. [still]
+Access, containers, transport, labour, buyers and agreements: many practical arrangements keep the exchange working.
+
+::: S079 | Farmer and dealer review blank record calmly beside covered cargo; no fistfight invented. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S031] [zoom-out]
+It could also produce arguments, unequal advantages and fraud. Those difficulties belong in the history alongside the useful recycling.
+
+::: S080 | Collector walks with proper balanced load, dignity and practical concentration; Visitor observes without gagging. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S005] [pan-right]
+The collector deserves more than a disgusted reaction. He moves material between places with different needs.
+
+::: S081 | Road leading from town edge toward fields, covered load travelling through middle, no literal teleportation. [same-as: S005] [zoom-in]
+The residents want it gone. A farmer may want it delivered. The distance between those wishes is where the business has to operate.
+
+::: S082 | Landlord's threshold and tenant in courtyard, pouch remains with landlord; no invented amount or protest. [same-as: S007] [pan-left]
+Remember our tenant. Producing the material did not guarantee the sale money.
+
+::: S083 | Three clear words around closed bucket: use, rights, transport; no universal economic equation. [still]
+Value depends on usefulness, rights and the cost of moving things. Recycling alone does not explain the business.
+
+::: S084 | Clean separate produce baskets arrive at modest vegetable stall, no fertilizer equipment sharing the food display. [same-as: S030] [pan-right]
+Now we can return to the city market. The incoming vegetables are part of the other side of this relationship.
+
+## The other end of the exchange
+::: S085 | Customer selects daikon from clean produce basket while vendor attends, ordinary late-Edo clothing. [same-as: S030] [zoom-in]
+Edo's residents buy food grown in the surrounding countryside. Those farms can, in turn, buy fertilizer supplied by the people living in the city.
+
+::: S086 | Clean daikon in separate produce basket, neutral source-caption space; no bucket beside food. [same-as: S006] [pan-left]
+This illustrated radish represents a relationship. We cannot trace it to our particular bucket.
+
+::: S087 | Town/field two-way diagram, material arrows separate from money/work annotations; no perfect closed-loop seal. [still]
+Produce toward the city, fertilizer toward the fields. Payments and work connect the two.
+
+::: S088 | Established boat carries secured closed containers along calm river; no spilled load or invented storm. [same-as: S046] [pan-right]
+The unpleasantness never stopped the material from being useful. Usefulness did not stop it from being heavy, disputed, or sometimes dishonestly sold.
+
+::: S089 | Brief recap of landlord/collector transaction, same outfits and plain pouch, no new event implied. [same-as: S007] [zoom-in]
+Landlords control some supplies, collectors move them, and farmers pay for what they need.
+
+::: S090 | Closed original privy service area, now without loaded buckets; empty access path, no occupant. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S001] [pan-left]
+A toilet can begin a business story. Its contents mean different things to different people.
+
+::: S091 | Three role icons with short labels, modest palette and no comic feces imagery. [still]
+To the resident, something to remove. To the farmer, a possible input. To the dealer, a product that has to find a buyer.
+
+::: S092 | Final short source card with May1867 and Koshigaya attribution, blue droplet icon secondary. [still]
+The eighteen sixty-seven complaint adds another role: officials prescribing rules against dilution and dishonest accounting.
+
+::: S093 | Visitor at edge of vegetable plot with farmer working in distance, clear footing, no oversized costume. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S003] [zoom-in]
+Our visitor came wondering why anyone would pay for waste. The answer is in the fields—and in the effort of getting it there.
+
+::: S094 | Boat, landing and distant farmland form final coherent network view, no cost percentages. [same-as: S010] [pan-left]
+Landlord, boat owner, farmer: who matters most? Each controls a different part of the journey.
+
+::: S095 | Visitor looks back at landlord's threshold from shared courtyard, understated reaction and stable architecture. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S002] [zoom-out]
+For the person producing the material, the first surprise remains. Someone else can have the right to sell it.
+
+::: S096 | Collector recedes along route toward fields with closed buckets; calm final image, no gross-out punchline. [same-as: S005] [pan-right]
+In old Edo, even what you left behind could keep moving through the economy. Your part might end long before the business did.

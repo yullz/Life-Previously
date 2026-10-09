@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "waking-before-alarm-clocks",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "Who woke the knocker-up?",
+      "from_scene": "S073",
+      "to_scene": "S080",
+      "hook": "The human alarm clock needed an alarm too.",
+      "description": "Mrs Waters' reported routine in an1877 account; one person's system,not a universal rule.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Why tap the window instead of the door?",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "A loud wake-up call could create a business problem.",
+      "description": "A contemporary account explains the shift from disruptive door noise to targeted window taps.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Your wake-up call has a price list",
+      "from_scene": "S043",
+      "to_scene": "S050",
+      "hook": "An earlier start could cost more.",
+      "description": "Mrs Waters' personal weekly rates,reported in1877; not a national tariff.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

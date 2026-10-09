@@ -1,0 +1,147 @@
+{
+  "schema_version": "1.0",
+  "state": "all_eight_uploaded_scheduled_and_verified",
+  "channel_id": "UCOt5ow5AZYQWuh49YP56vvA",
+  "authorization": "handoff/owner_publication_authorization_2026-10-09.json",
+  "timezone": "Europe/Sofia",
+  "london": {
+    "id": "IRINr6HGimo",
+    "url": "https://youtu.be/IRINr6HGimo",
+    "source": "episodes/001-medieval-london-day/build/director_review/001_candidate_c4.mp4",
+    "sha256": "62e6cf621f950e316a41002ee3a054d37e57f1cd0cbdd4240e0a9250a893be81",
+    "schedule": "2026-10-10T19:00:00+03:00",
+    "schedule_verified": true,
+    "youtube_checks": "No issues found",
+    "captions": "English by you; published from 001_candidate_c4.srt",
+    "thumbnail": "thumbnail_D.jpg",
+    "playlist": "Medieval Life: How People Actually Lived",
+    "end_screen": "Subscribe and best for viewer; final ten seconds"
+  },
+  "pompeii": {
+    "id": "8X25V2u-bGk",
+    "url": "https://youtu.be/8X25V2u-bGk",
+    "source": "episodes/002-pompeii-life/build/director_review/002_candidate_c3_closeout.mp4",
+    "sha256": "b6cfdd307dec5687ffde937b74d1ed056c01573b5878cb944bc6feb759ab5b32",
+    "schedule": "2026-10-17T19:00:00+03:00",
+    "schedule_verified": true,
+    "youtube_checks": "No issues found",
+    "captions": "English by you; published from 002_candidate_c3_closeout.srt",
+    "thumbnail": "Approved edge-cleaned thumbnail.jpg",
+    "playlist": "Ancient Roman Life: How People Actually Lived",
+    "end_screen": "Subscribe and best for viewer; final ten seconds"
+  },
+  "shorts": [
+    {
+      "index": 0,
+      "id": "KgFXNFmq42s",
+      "date": "2026-10-11T19:00:00+03:00",
+      "checks": "No issues found",
+      "relatedVideo": "Unavailable: YouTube requires more channel history",
+      "title": "How Did Medieval Londoners Go to the Toilet?",
+      "file": "C:/Users/Windows/Desktop/Life Previously/episodes/001-medieval-london-day/build/director_review/shorts_c4/short1_toilets_master.mp4",
+      "url": "https://youtube.com/shorts/KgFXNFmq42s",
+      "scheduleVerified": true,
+      "hdComplete": true,
+      "processingPending": false,
+      "aiDisclosure": "No"
+    },
+    {
+      "index": 1,
+      "title": "Did Medieval People Really Drink Beer Instead of Water?",
+      "id": "X4XUTL36VcI",
+      "date": "2026-10-13T19:00:00+03:00",
+      "scheduleVerified": true,
+      "file": "C:/Users/Windows/Desktop/Life Previously/episodes/001-medieval-london-day/build/director_review/shorts_c4/short2_beer_water_master.mp4",
+      "url": "https://youtube.com/shorts/X4XUTL36VcI",
+      "hdComplete": true,
+      "processingPending": false,
+      "aiDisclosure": "No",
+      "relatedVideo": "Unavailable: YouTube requires more channel history"
+    },
+    {
+      "index": 2,
+      "title": "7 Years, No Wife: Life as a Medieval Apprentice",
+      "id": "lj5-TWUOmN0",
+      "date": "2026-10-15T19:00:00+03:00",
+      "scheduleVerified": true,
+      "file": "C:/Users/Windows/Desktop/Life Previously/episodes/001-medieval-london-day/build/director_review/shorts_c4/short3_apprentice_master.mp4",
+      "url": "https://youtube.com/shorts/lj5-TWUOmN0",
+      "hdComplete": true,
+      "processingPending": false,
+      "aiDisclosure": "No",
+      "relatedVideo": "Unavailable: YouTube requires more channel history"
+    },
+    {
+      "index": 3,
+      "title": "Where Did People in Pompeii Go to the Toilet?",
+      "id": "13ZHSY4VTV4",
+      "date": "2026-10-18T19:00:00+03:00",
+      "scheduleVerified": true,
+      "file": "C:/Users/Windows/Desktop/Life Previously/episodes/002-pompeii-life/build/director_review/shorts_c3_closeout/short1_toilets_master.mp4",
+      "url": "https://youtube.com/shorts/13ZHSY4VTV4",
+      "hdComplete": true,
+      "processingPending": false,
+      "aiDisclosure": "No",
+      "relatedVideo": "Unavailable: YouTube requires more channel history"
+    },
+    {
+      "index": 4,
+      "title": "What Did a Drink Cost in Pompeii?",
+      "id": "B5yXVhRnizc",
+      "date": "2026-10-20T19:00:00+03:00",
+      "scheduleVerified": true,
+      "processingPending": false,
+      "checks": "No issues found",
+      "file": "C:/Users/Windows/Desktop/Life Previously/episodes/002-pompeii-life/build/director_review/shorts_c3_closeout/short2_fastfood_master.mp4",
+      "url": "https://youtube.com/shorts/B5yXVhRnizc",
+      "hdComplete": true,
+      "aiDisclosure": "No",
+      "relatedVideo": "Unavailable: YouTube requires more channel history"
+    },
+    {
+      "index": 5,
+      "title": "Pompeii's Gladiators Had Fans. Then Came the Riot.",
+      "id": "V0Lby6d5RQE",
+      "date": "2026-10-22T19:00:00+03:00",
+      "scheduleVerified": true,
+      "file": "C:/Users/Windows/Desktop/Life Previously/episodes/002-pompeii-life/build/director_review/shorts_c3_closeout/short3_gladiators_master.mp4",
+      "url": "https://youtube.com/shorts/V0Lby6d5RQE",
+      "hdComplete": true,
+      "processingPending": false,
+      "aiDisclosure": "No",
+      "relatedVideo": "Unavailable: YouTube requires more channel history"
+    }
+  ],
+  "all_eight_hd_complete": true,
+  "all_eight_ai_disclosure": "No; selected and saved on all eight after the owner's explicit final instruction. See handoff/ai_disclosure_decision_2026-10-09.json.",
+  "tags": {
+    "london": {
+      "count": 22,
+      "studio_counter": "497/500"
+    },
+    "pompeii": {
+      "count": 22,
+      "studio_counter": "426/500"
+    },
+    "shorts_counts": [
+      12,
+      12,
+      11,
+      12,
+      13,
+      12
+    ]
+  },
+  "related_video_links": "Blocked by YouTube: Build your channel history. No related links set; Shorts direct viewers to the channel.",
+  "notices": "All eight entries showed no notices in the content lists; no active copyright issues observed.",
+  "launch_followups": [
+    "Pinned comments after publication",
+    "Featured episode/trailer after the first episode is public",
+    "Short-to-episode related links when YouTube enables the feature"
+  ],
+  "owner_schedule": "UPLOAD SCHEDULE.md",
+  "saved_ui_evidence": "handoff/youtube_saved_metadata_2026-10-09.json",
+  "original_uploads": "Both current content lists initially empty; no remote deletions or changes to original IDs performed by Astra.",
+  "public_description_notes": "Optional AI/tool notes removed from all eight descriptions per owner instruction; sources and music credits retained.",
+  "public_copy_evidence": "handoff/public_copy_update_2026-10-09.json"
+}

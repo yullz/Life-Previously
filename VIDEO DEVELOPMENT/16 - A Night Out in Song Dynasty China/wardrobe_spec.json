@@ -1,0 +1,15 @@
+{
+  "status": "director_selected_reference_inspected",
+  "mode": "episode_private_traditional_variant",
+  "policy": "../WARDROBE_POLICY.md",
+  "selection": "Plain muted ochre-brown, hip-to-upper-thigh everyday wrap jacket with modest sleeves and a narrow cloth tie, slate loose trousers and simple dark cloth shoes. No hat for the Visitor; preserve his approved hairstyle.",
+  "historical_basis": "Northern Song everyday short jackets/trousers in the inspected Qingming scroll detail, supported by common jacket/coarse short jacket discussion. This is a restrained adaptation for the recurring character, not an exact named outfit.",
+  "references": [
+    "https://depts.washington.edu/chinaciv/clothing/11qmsht1.jpg",
+    "https://depts.washington.edu/chinaciv/clothing/11preqin.htm",
+    "https://en.chinaculture.org/library/2008-01/28/content_28394.htm"
+  ],
+  "identity_lock": "Same face, skin tone, hair, proportions, linework and expression. No eye reshaping, beard, queue, ethnicity transformation, imperial symbols or exaggerated sleeves.",
+  "continuity": "One approved private outfit across all selected poses and thumbnails. Fit folds to pose without altering anatomy; no orange hoodie visible underneath. Muted colour stays secondary to scene.",
+  "production_review": "Inspect a standing and a close-up derivative before other variants; compare full size and in scene. Use local derivatives registry and hashes. No modification of shared pose masters."
+}

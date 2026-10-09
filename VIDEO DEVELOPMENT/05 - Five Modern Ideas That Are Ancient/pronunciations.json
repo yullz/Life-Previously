@@ -1,0 +1,36 @@
+{
+  "status": "director_specified_not_voiced",
+  "entries": [
+    {
+      "term": "Pompeii",
+      "say": "pom-PAY",
+      "note": "Consistent with episode 002."
+    },
+    {
+      "term": "Ostia",
+      "say": "OSS-tee-uh",
+      "note": "Three syllables."
+    },
+    {
+      "term": "Aquae Sulis",
+      "say": "ACK-wye SOO-liss",
+      "note": "Caption keeps Latin spelling."
+    },
+    {
+      "term": "hypocaust",
+      "say": "HIGH-poh-kawst",
+      "note": "Explain immediately."
+    },
+    {
+      "term": "Hero",
+      "say": "HEER-oh",
+      "note": "Author's name; not the abstract heroic role."
+    },
+    {
+      "term": "Pneumatics",
+      "say": "new-MAT-iks",
+      "note": "The book title."
+    }
+  ],
+  "rule": "Read AD dates naturally; the approximate Roman-era label must not become a precise invention year."
+}

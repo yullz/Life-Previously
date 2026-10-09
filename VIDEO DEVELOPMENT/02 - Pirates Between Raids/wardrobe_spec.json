@@ -1,0 +1,12 @@
+{
+  "status": "director_design_selected_art_not_built",
+  "mode": "modest_pirate_hat_on_normal_outfit",
+  "specification": "pirate_hat_spec.json",
+  "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+  "continuity": "Identical modest dark-brown hat across all required poses listed in pose_plan.json and packaging. Existing orange hoodie, face and body retained. No skulls, plume or theatrical enlargement.",
+  "references": [
+    "channel/assets/visitor_sheet.png",
+    "channel/assets/visitor/<pose>.png"
+  ],
+  "production_review": "Inspect actual hat-bearing poses at full size and beside period crew before acceptance."
+}

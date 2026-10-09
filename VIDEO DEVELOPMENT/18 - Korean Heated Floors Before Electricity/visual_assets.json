@@ -1,0 +1,529 @@
+{
+  "episode": "korean-heated-floors",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S004",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S029",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S029",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S039",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S063",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S064",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S002",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S011",
+      "text": "UNDER THE FLOOR",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S013",
+      "text": "FIREBOX → FLUES → CHIMNEY",
+      "label": "SIMPLIFIED SECTION",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S014",
+      "text": "HOT GASES BELOW",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S015",
+      "text": "STONE · EARTH · PAPER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S016",
+      "text": "A SOLID FLOOR",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S018",
+      "text": "HEAT UP · SMOKE OUT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S019",
+      "text": "STORED HEAT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S021",
+      "text": "CHANNEL LAYOUTS VARIED",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S022",
+      "text": "ONE HOUSE TO FOLLOW",
+      "label": "ILLUSTRATIVE PLAN",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S034",
+      "text": "COOKING + ROOM HEAT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S041",
+      "text": "WARMTH CAN VARY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S054",
+      "text": "HEATED ROOM · AIRY HALL",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S058",
+      "text": "A COMPACT SEOUL HOUSE",
+      "label": "SAMCHEONG-DONG · c.1890",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S059",
+      "text": "ONE EXAMPLE, NOT EVERY HOME",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S064",
+      "text": {
+        "scope": "Korean temple cell in Bishop's 1890s travels, not the Seoul household",
+        "frame": "Distinct plain temple cell; do not reuse the exact household room."
+      },
+      "label": "SEPARATE EXAMPLE · BISHOP'S TEMPLE STAY",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S065",
+      "text": {
+        "scope": "Same separate temple example",
+        "frame": "Maintain temple cell from previous shot; no named temple exterior invented."
+      },
+      "label": "ONE TRAVELLER'S EXPERIENCE",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S069",
+      "text": "SURFACE ABOVE · HEAT BELOW",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S070",
+      "text": "SEPARATE COMBUSTION ROUTE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S073",
+      "text": "THE DESIGN CHANGED",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S074",
+      "text": "PART OF A FLOOR → WHOLE-FLOOR ARRANGEMENTS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S076",
+      "text": "HOT WATER IN PIPES",
+      "label": "MODERN COMPARISON",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S077",
+      "text": "SIMILAR COMFORT · DIFFERENT SYSTEMS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S085",
+      "text": "FUEL → FIRE → WARM FLOOR",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S086",
+      "text": "SMOKE OUT · WARMTH STAYS FOR A WHILE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}
+

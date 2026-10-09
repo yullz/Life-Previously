@@ -1,0 +1,402 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "Visitor, one landlord/collector, selected route and imagined negotiation are illustrative, not a documented personal diary or sale.",
+    "sources": [],
+    "locator": "Original framing",
+    "limit": "No invented price, named victim, quantity sold or exact journey duration.",
+    "scene_ids": [
+      "S001",
+      "S006",
+      "S012",
+      "S015",
+      "S020",
+      "S023",
+      "S035",
+      "S086",
+      "S093",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "In Edo, human waste was collected and traded for use as agricultural fertilizer; night soil could include feces and urine and collection was not restricted to night.",
+    "sources": [
+      "SRC01",
+      "SRC04"
+    ],
+    "locator": "Tajima paras3–4; ministry historical panel",
+    "limit": "Not uniquely invented in Japan; no universal separation of urine/feces or night-only activity.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S005"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "E",
+    "claim": "In Edo rental nagaya, rights over shared-privy night soil could belong to landlords, who contracted with farmers and received payment.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Paras4 and37",
+    "limit": "No automatic payment to every tenant, no universal landlord annual income figure, no Osaka urine-ownership rule transplanted.",
+    "scene_ids": [
+      "S007",
+      "S008",
+      "S012",
+      "S013",
+      "S014",
+      "S015",
+      "S016",
+      "S017",
+      "S021",
+      "S022",
+      "S053",
+      "S068",
+      "S069",
+      "S070",
+      "S078",
+      "S082",
+      "S083",
+      "S089",
+      "S094",
+      "S095"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Farmers or agents collected night soil for money or produce, linking town waste supply and agricultural production.",
+    "sources": [
+      "SRC01",
+      "SRC04"
+    ],
+    "locator": "Paras4,23,35–37; ministry recycling diagram/text",
+    "limit": "No claim every exchange was barter or direct; no fixed Edo rice payment from Kanazawa.",
+    "scene_ids": [
+      "S001",
+      "S003",
+      "S009",
+      "S014",
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S021",
+      "S023",
+      "S024",
+      "S029",
+      "S030",
+      "S042",
+      "S043",
+      "S069",
+      "S071",
+      "S077",
+      "S081",
+      "S085",
+      "S087",
+      "S089",
+      "S091",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "Human waste has fertilizer value through nutrients including nitrogen and phosphorus; quality was discussed in historical agricultural writings.",
+    "sources": [
+      "SRC01",
+      "SRC05"
+    ],
+    "locator": "Tajima paras17–18; ministry2008PDFp5",
+    "limit": "No magical status-based quality law, exact nutrient quantity or Edo laboratory analysis.",
+    "scene_ids": [
+      "S025",
+      "S026",
+      "S031"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "Night soil was one among several manure/fertilizer sources, and collection/storage/application involved agricultural knowledge.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Paras11–19,37",
+    "limit": "No exact safe treatment recipe or claim storage guaranteed pathogen elimination.",
+    "scene_ids": [
+      "S026",
+      "S027",
+      "S028"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "The material contains much water and is heavy; land transport used paired shoulder buckets, horses or small handcarts and required labour.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Paras38,41,43; quoted bucket construction para19",
+    "limit": "No unaudited capacity ratios, exact load weight or universal collection frequency.",
+    "scene_ids": [
+      "S009",
+      "S010",
+      "S033",
+      "S034",
+      "S035",
+      "S036",
+      "S037",
+      "S038",
+      "S039",
+      "S040",
+      "S044",
+      "S078",
+      "S080",
+      "S081",
+      "S083",
+      "S088",
+      "S089",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "River transport connected eastern villages to Edo and allowed larger loads; boats could carry goods toward town and fertilizer on return.",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Tajima paras23,42–43; municipal transport passages",
+    "limit": "Use schematic cargo craft, not an exact surviving later boat. Goods and waste separate legs, no cross-contamination visual.",
+    "scene_ids": [
+      "S010",
+      "S036",
+      "S045",
+      "S046",
+      "S048",
+      "S049",
+      "S050",
+      "S051",
+      "S078",
+      "S087"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Transport assets and labour cost money; farmers unable to provide them could depend on dealers or wealthier farmers.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Tajima para43; Katsushika transport sideline",
+    "limit": "No claim all collectors were poor outcasts or all sellers wealthy; no invented class statistics.",
+    "scene_ids": [
+      "S010",
+      "S022",
+      "S034",
+      "S040",
+      "S041",
+      "S042",
+      "S043",
+      "S044",
+      "S047",
+      "S048",
+      "S051",
+      "S069",
+      "S070",
+      "S071",
+      "S078",
+      "S079",
+      "S083",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "Demand and agricultural seasons affected prices, and local farmers sought quality and price reductions, including an1845agreement.",
+    "sources": [
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Koshigaya1845 paragraph; Katsushika seasonal price passage",
+    "limit": "Date earlier agreement explicitly; no guaranteed10percent saving or universal price curve.",
+    "scene_ids": [
+      "S052",
+      "S053",
+      "S054",
+      "S055"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "E",
+    "claim": "A May1867notice described dealers diluting cargoes with water and deceptive load accounting, and threatened punishment; an implementing agreement required records and action against fraud.",
+    "sources": [
+      "SRC02"
+    ],
+    "locator": "1867 notice and six provisions",
+    "limit": "Officially reported problem and prescribed response, not proof of prevalence, successful arrests or all dealers cheating.",
+    "scene_ids": [
+      "S002",
+      "S011",
+      "S031",
+      "S032",
+      "S055",
+      "S056",
+      "S057",
+      "S058",
+      "S059",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S064",
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S078",
+      "S079",
+      "S088",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "Economic reuse should be distinguished from sanitary treatment; untreated night soil can carry pathogens/parasite eggs, addressed explicitly in later treatment goals.",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Sanitary treatment panel next to historical cycle",
+    "limit": "General health fact, not measured1867infection rate or claim any shown character became ill. No DIY application advice.",
+    "scene_ids": [
+      "S072",
+      "S073",
+      "S074",
+      "S075"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "I",
+    "claim": "A material can be both unpleasant to remove and valuable to another user; profitability depends on usefulness, access, transport and trustworthy trade.",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Synthesis of market and transport evidence",
+    "limit": "Not waste-free utopia, infinitely closed loop or all participants benefiting equally.",
+    "scene_ids": [
+      "S006",
+      "S018",
+      "S021",
+      "S022",
+      "S032",
+      "S036",
+      "S044",
+      "S051",
+      "S056",
+      "S057",
+      "S059",
+      "S063",
+      "S067",
+      "S068",
+      "S069",
+      "S070",
+      "S071",
+      "S075",
+      "S076",
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S083",
+      "S088",
+      "S090",
+      "S091",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "type": "E",
+    "claim": "Vegetables and rice grown around Edo supplied the city while urban waste returned as fertilizer.",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03",
+      "SRC04"
+    ],
+    "locator": "Urban-fringe agriculture and municipal crop sections",
+    "limit": "No proof the pictured bucket produced the pictured daikon or fed its original household.",
+    "scene_ids": [
+      "S024",
+      "S029",
+      "S030",
+      "S076",
+      "S077",
+      "S084",
+      "S085",
+      "S086",
+      "S087"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C14",
+    "type": "E",
+    "claim": "Late-Edo street visuals and ordinary kimono construction support an understated episode outfit.",
+    "sources": [
+      "SRC07",
+      "SRC08",
+      "SRC09",
+      "SRC10"
+    ],
+    "locator": "Inspected1857print and museum garment explanations",
+    "limit": "Visitor identity remains unchanged; no costume signals of samurai rank or ceremonial role.",
+    "scene_ids": [],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

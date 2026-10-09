@@ -1,0 +1,342 @@
+[
+  {
+    "id": "C0",
+    "claim": "The Visitor, a particular cup, assigned errands and a reconstructed day around1900 are fictional framing.",
+    "type": "F",
+    "sources": [],
+    "locator": "Opening states reconstruction; conditional viewer tasks throughout.",
+    "limit": "No invented historical person, exact wage, recipe, tariff or dated weather reading.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S008",
+      "S009",
+      "S012",
+      "S019",
+      "S024",
+      "S031",
+      "S033",
+      "S035",
+      "S036",
+      "S039",
+      "S041",
+      "S044",
+      "S047",
+      "S050",
+      "S057",
+      "S058",
+      "S060",
+      "S063",
+      "S066",
+      "S067",
+      "S075",
+      "S078",
+      "S086",
+      "S091",
+      "S093",
+      "S094"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "claim": "Traditional Iranian ice houses stored winter ice for use in summer; Meybod preserves a large domed example.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Iranica opening, use/typology, final survey paragraph; PLEA pp.3579–3580.",
+    "limit": "Not an assertion that all Iranian buildings used one design or that the dome dates to400BCE.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S006",
+      "S007",
+      "S009",
+      "S022",
+      "S042",
+      "S045",
+      "S053",
+      "S055",
+      "S056",
+      "S057",
+      "S059",
+      "S064",
+      "S082",
+      "S083",
+      "S085",
+      "S086",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "claim": "Many complexes used shallow water basins and shade walls for winter ice production, then moved harvested ice into storage.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Iranica ice-making sequence; METU pp.227–229 shade wall, provision pool and store.",
+    "limit": "Thin-layer methods and harvesting schedules vary; no single exact depth or yield presented as universal.",
+    "scene_ids": [
+      "S004",
+      "S005",
+      "S010",
+      "S012",
+      "S014",
+      "S021",
+      "S022",
+      "S023",
+      "S029",
+      "S031",
+      "S032",
+      "S033",
+      "S034",
+      "S035",
+      "S040",
+      "S042",
+      "S043",
+      "S044",
+      "S064",
+      "S076",
+      "S080",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "claim": "At Meybod the shade wall protects the pond from low winter sun; its east–west alignment places the pond on its north side.",
+    "type": "E",
+    "sources": [
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "PLEA Fig.1 and p.3580; METU pp.227–228.",
+    "limit": "Do not invert the wall/pond relation in maps or imply nighttime shade causes cold by itself.",
+    "scene_ids": [
+      "S017",
+      "S018",
+      "S019",
+      "S020",
+      "S037"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "claim": "The plateau climate has cool winters and hot summers; modeled night-sky radiation and evaporation help water lose heat.",
+    "type": "E",
+    "sources": [
+      "SRC02",
+      "SRC04"
+    ],
+    "locator": "PLEA climate data p.3580, model results p.3582 and discussion p.3585.",
+    "limit": "No numerical historic temperatures, no summer instant-freezing claim; model result attributed as modern explanation.",
+    "scene_ids": [
+      "S011",
+      "S013",
+      "S021",
+      "S023",
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S029",
+      "S030",
+      "S038",
+      "S039",
+      "S055",
+      "S080",
+      "S083",
+      "S088",
+      "S089"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "claim": "Ice was collected, transferred and insulated for seasonal storage, with adobe structures and straw/reed insulation limiting heat gain.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Iranica typology/materials; PLEA storage pp.3582–3583/3586; METU pp.228–231.",
+    "limit": "Do not promise zero melting or a fixed survival percentage. No claim to exact Meybod insulation thickness.",
+    "scene_ids": [
+      "S010",
+      "S036",
+      "S037",
+      "S046",
+      "S047",
+      "S048",
+      "S049",
+      "S050",
+      "S056",
+      "S060",
+      "S074",
+      "S076",
+      "S084",
+      "S088"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "claim": "Below-ground storage and massive construction shelter the ice; meltwater needs a route away at the bottom.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Iranica distinction from water reservoirs; METU p.229 drain well; PLEA storage assumptions.",
+    "limit": "No magicalcold generation from dome, no swimming tank, no exact underground temperature.",
+    "scene_ids": [
+      "S045",
+      "S046",
+      "S047",
+      "S049",
+      "S051",
+      "S052",
+      "S055"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "claim": "Water supply, labor and management were part of operation; qanats could supply complexes; ownership included communal/endowed and commercial arrangements.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Iranica qanat and ownership paragraphs; METU pool p.228 and distribution accounts p.225.",
+    "limit": "Do not say all ice was free, equally accessible, or every house had a private ice store. Qanat diagram is generic, not surveyed Meybod route.",
+    "scene_ids": [
+      "S005",
+      "S015",
+      "S016",
+      "S024",
+      "S040",
+      "S041",
+      "S043",
+      "S064",
+      "S065",
+      "S069",
+      "S070",
+      "S071",
+      "S072",
+      "S073",
+      "S074",
+      "S076",
+      "S077",
+      "S080",
+      "S089",
+      "S090",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "claim": "Ice served summer cooling uses including drinks; ice-house storage itself was not a domestic food refrigerator.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Iranica use/typology and Fryer discussion; PLEA introduction; METU travelers p.223/225.",
+    "limit": "No exact drink recipe, no guarantee of safe direct consumption or universal availability.",
+    "scene_ids": [
+      "S053",
+      "S054",
+      "S059",
+      "S061",
+      "S062",
+      "S063",
+      "S064"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "claim": "Operation depended on weather, supplies, insulation and upkeep; ice loss and contamination were real limits.",
+    "type": "E",
+    "sources": [
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "PLEA assumptions and melt results; METU p.231 obsolescence/contamination/maintenance.",
+    "limit": "No quantified historic failure rate or health outcomes; not a claim modern refrigeration and ice houses were equivalent.",
+    "scene_ids": [
+      "S007",
+      "S030",
+      "S034",
+      "S038",
+      "S066",
+      "S067",
+      "S068",
+      "S069",
+      "S073",
+      "S074",
+      "S082",
+      "S084",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "claim": "The process links winter production to later demand; seasonal planning is an interpretation of documented architecture and operation.",
+    "type": "I",
+    "sources": [
+      "SRC01",
+      "SRC02",
+      "SRC03"
+    ],
+    "locator": "Synthesis of production, storage and distribution sections.",
+    "limit": "Metaphor of saving winter is explanatory; no claim heat is a substance or cold is manufactured in summer.",
+    "scene_ids": [
+      "S006",
+      "S008",
+      "S011",
+      "S016",
+      "S058",
+      "S061",
+      "S065",
+      "S069",
+      "S075",
+      "S077",
+      "S078",
+      "S079",
+      "S081",
+      "S087",
+      "S089",
+      "S091",
+      "S092",
+      "S093"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

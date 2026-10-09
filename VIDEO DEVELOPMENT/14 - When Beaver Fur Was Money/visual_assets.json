@@ -1,0 +1,511 @@
+{
+  "episode": "beaver-fur-money",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S004",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S007",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S016",
+      "parent": "S015",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S018",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S045",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S045",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S045",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S045",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S066",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S066",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S076",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S006",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S002",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S003",
+      "text": "WHAT COUNTS? / WHAT CAN IT BUY? / WHO DECIDES?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S005",
+      "text": "MADE BEAVER / A UNIT OF VALUE",
+      "label": "Archives of Manitoba · Made beaver",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S017",
+      "text": "SOFT UNDERFUR → FELT",
+      "label": "Canadian Museum of History · Fur trade",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S022",
+      "text": "1733 TRADE LIST / PRINTED IN 1744",
+      "label": "Arthur Dobbs · published1744",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S025",
+      "text": "20 HOOKS = 1 UNIT / 8 KNIVES = 1 UNIT",
+      "label": "Dobbs · p.194, rows26and40",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S033",
+      "text": "PAIR / POUND / YARD",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S035",
+      "text": "READ THE QUANTITY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S037",
+      "text": "BRASS KETTLES / 1 LB = 1 BEAVER UNIT",
+      "label": "Dobbs · p.193, row3",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S039",
+      "text": "EXAMPLE: 3 LB × 1 UNIT/LB = 3 UNITS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S042",
+      "text": "GUNS: 10, 11 OR 12 UNITS",
+      "label": "Dobbs · p.194, row30",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S050",
+      "text": "CLOTH STANDARDS / OR TAX PAYMENT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S052",
+      "text": "DIFFERENT POSTS / DIFFERENT FINDS",
+      "label": "Fort Albany / Fort Frontenac / Fort Michilimackinac",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S056",
+      "text": "FUR → / ← GOODS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S059",
+      "text": "THE POST MATTERS",
+      "label": "Dobbs · p.193, note",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S061",
+      "text": "LESS NEARBY COMPETITION / HIGHER LISTED TERMS",
+      "label": "DOBBS'S EXPLANATION · 1744",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S063",
+      "text": "FORT ALBANY · 1733",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S073",
+      "text": "EQUIPMENT CREDIT / c.1726–1737",
+      "label": "Preston · citing Williams1983",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S075",
+      "text": "GOODS NOW / EXPECTED FURS LATER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S079",
+      "text": "OUR EXAMPLE / 6 UNITS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S083",
+      "text": "HOOKS 1 + KNIVES 1 + SUGAR 1",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S084",
+      "text": "3 + 1 + 1 + 1 = 6",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S085",
+      "text": "ONE BLANKET / OR THE MIXED BASKET",
+      "label": "ILLUSTRATIVE BASKET · 1733 LISTED RATES",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S091",
+      "text": "VALUE / QUALITY / LOCAL TERMS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

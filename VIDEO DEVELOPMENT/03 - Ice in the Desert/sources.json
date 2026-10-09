@@ -1,0 +1,46 @@
+[
+  {
+    "id": "SRC01",
+    "title": "Hemming Jørgensen — Yaḵčāl, Encyclopaedia Iranica",
+    "url": "https://www.iranicaonline.org/articles/yakcal/",
+    "read": "2026-10-09: full entry, typology, ice production, ownership and survey; author conducted 2007–2009 site survey.",
+    "limit": "Strong historical synthesis grounded in field research. Pits' ancient origins do not establish the date of Meybod's dome; the article warns chronology is uncertain. Ice stores are distinct from food refrigerators."
+  },
+  {
+    "id": "SRC02",
+    "title": "Pochee, Gunstone and Wilton — Passive ice making and seasonal storage (2017)",
+    "url": "https://discovery.ucl.ac.uk/id/eprint/10087896/",
+    "read": "2026-10-09: complete eight-page paper, printed pp.3579–3586; model assumptions and limitations included.",
+    "limit": "Modern simulations using a typical meteorological year, not weather observations from1900 or measured historical output. Do not use model percentages as historical facts."
+  },
+  {
+    "id": "SRC03",
+    "title": "Hosseini and Namazian — An Overview of Iranian Ice Repositories (2012)",
+    "url": "https://open.metu.edu.tr/handle/11511/50831",
+    "read": "2026-10-09: pp.223–231 read, including architectural elements, cited travelers, access and drainage. PDF at https://open.metu.edu.tr/bitstream/handle/11511/50831/223-234.pdf.",
+    "limit": "Use supported architectural descriptions and cite locations of travelers accurately. Reject broad public-access claims, speculative400BCE chronology and wording suggesting summer pond freezing; compare with Jørgensen and physics research."
+  },
+  {
+    "id": "SRC04",
+    "title": "Hareth Pochee — The Physics of Freezing at the Iranian Yakhchal",
+    "url": "https://www.maxfordham.com/practice-people/journal/the-physics-of-freezing-at-the-iranian-yakhchal",
+    "read": "2026-10-09: full research-team explanation, including storage, radiation, evaporation and vent hypothesis. Published plan and storage-model section visually inspected 2026-10-09; north-side pond and below-ground store verified. Model dimensions/insulation thickness are not assigned to our reconstruction.",
+    "limit": "Same research family as SRC02, not an independent replication. Useful explanatory summary; alternative vent interpretation is a hypothesis."
+  },
+  {
+    "id": "SRC05",
+    "title": "Layla Diba — Clothing in the Safavid and Qajar periods",
+    "url": "https://www.iranicaonline.org/articles/clothing-x/",
+    "read": "2026-10-09: complete Qajar section, especially later nineteenth-century distinctions, traditional robes and trousers, court/ordinary differences.",
+    "limit": "Costume source only. Select subdued ordinary layers; do not borrow elaborate early-Qajar court portraits as everyday workwear.",
+    "public": false
+  },
+  {
+    "id": "SRC06",
+    "title": "British Museum — Sykes.127, Iranian men and a boy, c.1900",
+    "url": "https://www.britishmuseum.org/collection/object/AA_Sykes-127",
+    "read": "Catalogue and visible photograph inspected 2026-10-09; plain layered garments and trousers.",
+    "limit": "Clothing comparison only, not a Meybod location or ice-house worker. Black-and-white image does not establish garment colours.",
+    "public": false
+  }
+]

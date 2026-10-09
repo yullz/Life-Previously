@@ -1,0 +1,322 @@
+[
+  {
+    "id": "C0",
+    "type": "F",
+    "claim": "Visitor's walk, lodging, argument temptation and escape from a fine are fictional viewer framing, not recorded events or guaranteed historical advice.",
+    "sources": [],
+    "locator": "Original challenge structure.",
+    "limit": "Do not give a claimed real starting budget or guaranteed method of escaping arrest.",
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S004",
+      "S007",
+      "S008",
+      "S009",
+      "S010",
+      "S011",
+      "S012",
+      "S018",
+      "S022",
+      "S023",
+      "S024",
+      "S025",
+      "S031",
+      "S035",
+      "S038",
+      "S039",
+      "S040",
+      "S041",
+      "S044",
+      "S051",
+      "S052",
+      "S054",
+      "S056",
+      "S059",
+      "S060",
+      "S061",
+      "S064",
+      "S074",
+      "S088",
+      "S089",
+      "S093",
+      "S094",
+      "S095",
+      "S096"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C1",
+    "type": "E",
+    "claim": "Mid-fourteenth-century London peace ordinances survive in Liber Albus; the selected writ is dated12June regnal year37 of EdwardIII, while Alsford labels the text c.1364.",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "Riley pp.334–336; Alsford metadata and discussion.",
+    "limit": "Use c.1364 as scenario, not a claim of first enactment or a single timeless medieval code.",
+    "scene_ids": [
+      "S005",
+      "S006"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C2",
+    "type": "E",
+    "claim": "The ordinance prohibits going armed/carrying arms in city or suburbs by day/night, with specified service-related exceptions and confiscation.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p.335, That no one go armed.",
+    "limit": "No claim every form of working knife was always prosecuted identically; focus on obvious sword/weapon carrying, no knight exemption.",
+    "scene_ids": [
+      "S013",
+      "S017",
+      "S018"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C3",
+    "type": "E",
+    "claim": "Exceptions include great lords' attendants carrying their masters' swords in their presence, royal serjeants-at-arms, city officers and those accompanying them at their command.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p.335, arms exceptions.",
+    "limit": "Do not turn rich clothing, a title or carrying somebody else's sword alone into permission.",
+    "scene_ids": [
+      "S014",
+      "S015",
+      "S016",
+      "S017"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C4",
+    "type": "E",
+    "claim": "Hosts must warn guests to leave arms at lodgings; if a guest carries arms because the host failed to warn, the host faces imprisonment and a discretionary fine.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p.335, Of Hostelers.",
+    "limit": "No fixed host fine; do not say every guest offence automatically punishes host.",
+    "scene_ids": [
+      "S011",
+      "S019",
+      "S020",
+      "S021",
+      "S022"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C5",
+    "type": "E",
+    "claim": "Drawing sword/knife/weapon without striking carries half a mark (6s8d) or15days at Newgate; shedding blood with the weapon carries20s or40days.",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "pp.335–336; same clause in Alsford.",
+    "limit": "OR, not both automatically. Selected ordinance, not all medieval courts or complete sentence outcomes.",
+    "scene_ids": [
+      "S026",
+      "S027",
+      "S028",
+      "S029",
+      "S030",
+      "S033",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C6",
+    "type": "E",
+    "claim": "A fist blow without blood carries3s or8days; with blood40d (3s4d) or12days; good-behaviour sureties required before release.",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "p.336; Alsford assault clause.",
+    "limit": "Keep p.408's2s variant out of selected code. No gore or claim victim compensated by the city's fine.",
+    "scene_ids": [
+      "S026",
+      "S031",
+      "S032",
+      "S033",
+      "S036",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C7",
+    "type": "E",
+    "claim": "Victim retains legal recovery in addition to city penalties; the text orders bloodshed cases heard before sheriffs without specified procedural delays.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p.336 following assault scale.",
+    "limit": "Only separate recovery is narrated; no claim swift trial always occurred.",
+    "scene_ids": [
+      "S034",
+      "S035"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C8",
+    "type": "E",
+    "claim": "Curfew is rung at Our Lady/St Mary-le-Bow between day and night; wandering contrary to ordinance risks Newgate until fine and good-behaviour surety.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p.334, Of keeping the peace.",
+    "limit": "No universal fixed hour, no curfew fine amount supplied, and no assertion all night travel forbidden.",
+    "scene_ids": [
+      "S040",
+      "S042",
+      "S043",
+      "S044",
+      "S045",
+      "S047",
+      "S048",
+      "S049",
+      "S050",
+      "S091"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C9",
+    "type": "E",
+    "claim": "Curfew exception names a known reputable man or his servant, for good cause, with a light.",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "p.334; Alsford opening clause.",
+    "limit": "Requirements work together. A lantern alone is not a permit; text's social category is not a modern ID system.",
+    "scene_ids": [
+      "S002",
+      "S045",
+      "S046",
+      "S052",
+      "S053",
+      "S054",
+      "S055",
+      "S056",
+      "S057",
+      "S060",
+      "S063",
+      "S090"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C10",
+    "type": "E",
+    "claim": "Aldermen must arrange proper ward watches and maintain names of inhabitants/lodgers/workers; ward responsibility for watch failure is stated.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p.336, Of good Watches.",
+    "limit": "Prescribed organization, not complete surviving roster, surveillance performance or exact watch size.",
+    "scene_ids": [
+      "S065",
+      "S066",
+      "S067",
+      "S068",
+      "S069",
+      "S070"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C11",
+    "type": "E",
+    "claim": "Reputable men of standing may arrest felons/misdoers when officers are absent and bring them to sheriffs' houses.",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "p.335, power of arrest.",
+    "limit": "No general license for anyone to attack strangers; no modern police equivalence.",
+    "scene_ids": [
+      "S071",
+      "S072"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C12",
+    "type": "E",
+    "claim": "On6March1365 William Moot, John de Henham and Thomas Fraunceys faced combined night-affray, open-door-after-curfew and nightwalking charges; committed then released same day on mainprise to keep peace.",
+    "sources": [
+      "SRC03"
+    ],
+    "locator": "Roll A10, entry under6March1365, following Curteys detinue case.",
+    "limit": "Present as charges and recorded disposition. No invented dialogue, verdict, fine or blows; label date jump.",
+    "scene_ids": [
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S080",
+      "S081",
+      "S082",
+      "S083",
+      "S086",
+      "S087",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  },
+  {
+    "id": "C13",
+    "type": "I",
+    "claim": "Rules and actual case records are different evidence; reputation, purpose, light and people willing to answer for behaviour matter to this system.",
+    "sources": [
+      "SRC01",
+      "SRC03"
+    ],
+    "locator": "Curfew/surety/watch provisions and1365mainprise entry.",
+    "limit": "Social interpretation bounded to sources, not certainty about every encounter or a ranking against modern policing.",
+    "scene_ids": [
+      "S006",
+      "S037",
+      "S050",
+      "S057",
+      "S058",
+      "S062",
+      "S070",
+      "S073",
+      "S074",
+      "S075",
+      "S083",
+      "S084",
+      "S085",
+      "S092"
+    ],
+    "status": "source_read; exact-script review pending",
+    "checked_date": null
+  }
+]

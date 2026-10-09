@@ -1,0 +1,1357 @@
+{
+  "id": 17,
+  "slug": "edo-night-soil",
+  "title": "Why Was Your Poop Worth Money in Old Japan?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "In Old Japan, Your Landlord Could Sell Your Poop",
+    "Why Did Farmers Pay to Empty Edo's Toilets?"
+  ],
+  "period": "Edo and its eastern farming hinterland, 1867, before the city's renaming to Tokyo. Illustrative warm-season collection and trade; the May 1867 anti-fraud notice is a dated documentary anchor, not a claim that every scene occurs on the notice day. Modest timber nagaya row housing, earth lanes, shared detached privy, wooden stave buckets with hoops, shoulder pole, simple unpowered wooden river craft, vegetable fields and riverside landing. Everyday late-Edo clothing with practical hems and restrained colours. The Visitor uses a plain muted indigo kosode/kimono-style robe with narrow obi in private pose variants. No exposed human waste, defecation or visible toilet user.",
+  "avoid": "No flush toilet, sewer pipe, toilet paper roll, modern plastic bucket, steel tanker, powered boat, concrete quay, modern Tokyo skyline, samurai armour on every man, sword on Visitor, geisha outfit, decorative ceremonial kimono, Qing queue, Korean hat, bright green stink cloud, comic poop pile, waste-to-coin alchemy, instantaneous crop growth, waste splashing food, hand-to-mouth contact, modern fertilizer sack. Do not show night-only collection because the English term says night soil. No claim of perfect sanitation, universal prosperity or a completely closed environmental loop.",
+  "locations": {
+    "nagaya": {
+      "scope": "Illustrative Edo nagaya courtyard, 1867",
+      "design": "Narrow earth lane between low timber row dwellings with modest tiled roofs, simple sliding doors, shared detached privy at far left and a clear access path. Keep well/water supply out of the composition to avoid unsupported proximity. No exact named household."
+    },
+    "privy": {
+      "scope": "Shared Edo privy service area, 1867; non-graphic reconstruction",
+      "design": "Small plain timber enclosure seen from outside or service side, closed door, covered collection/storage vessel and service access. No occupant or exposed contents. Wooden buckets kept clearly distinct from food containers.",
+      "anchor_reference_scene_id": "S001"
+    },
+    "landlord": {
+      "scope": "Illustrative landlord's threshold, same Edo property, 1867",
+      "design": "Plain timber doorway and small low writing surface with blank account sheet, coin pouch and landlord figure. No luxurious palace or universal caricature of wealth; exact transaction amount unstated.",
+      "anchor_reference_scene_id": "S002"
+    },
+    "road": {
+      "scope": "Edo outskirts, 1867",
+      "design": "Firm earth road with modest houses thinning toward vegetable fields. Collector carries two balanced closed wooden stave buckets on a shoulder pole, or separately specified handcart. No mixing carry methods or excessive load."
+    },
+    "landing": {
+      "scope": "Illustrative riverside landing east of Edo, 1867",
+      "design": "Simple timber/earth landing, modest wooden cargo craft with tied containers, pole or oar propulsion. No modern concrete harbour or exact documented vessel dimensions. Fixed bank, boat orientation and mooring."
+    },
+    "boat": {
+      "scope": "Eastern Edo waterway, 1867; illustrative fertilizer transport",
+      "design": "Same plain unpowered cargo boat from landing, stable load of covered wooden containers, adequate freeboard, one or two crew. No motor, steam funnel, huge ocean sail or waste visibly spilling into river.",
+      "anchor_reference_scene_id": "S010"
+    },
+    "field": {
+      "scope": "Vegetable-growing village in Edo's eastern hinterland, 1867",
+      "design": "Small cultivated plots with leafy greens and daikon, earth paths, simple shed and covered fertilizer storage away from harvested produce. Match season and crop stage; no rice terrace mountain cliché."
+    },
+    "market": {
+      "scope": "Illustrative Edo vegetable market, 1867",
+      "design": "Modest open-front timber stalls with daikon and greens in clean separate produce baskets. Buyers in ordinary clothes; no night-soil buckets at food stall, no claimed exact return of one crop to one household."
+    },
+    "dealer": {
+      "scope": "Illustrative regional fertilizer dealer's store/landing, 1867",
+      "design": "Wooden storage space and covered containers, plain ledger and two parties discussing trade. No readable model-generated contract, numbered modern scale or sale price."
+    },
+    "notice": {
+      "scope": "May 1867 anti-fraud notice reproduced in Koshigaya municipal history",
+      "design": "Locally typeset source card or neutral blank archival-paper backdrop. The text is paraphrased in English with precise source/date; no invented original Japanese calligraphy."
+    },
+    "detail": {
+      "scope": "Explanatory objects tied to Edo fertilizer trade, 1867",
+      "design": "Closed wooden bucket, bamboo/wood hoops, shoulder pole, plain coin pouch, separate clean vegetable basket. Each scene specifies which objects appear. Never expose contents or imply waste itself was legal tender."
+    },
+    "graphic": {
+      "scope": "Modern explanatory diagrams, clearly separate from reconstructed scenes",
+      "design": "Simple channel graphics for money flow, material flow, water/weight and historical limits. No fabricated data charts."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Kayo Tajima, The Marketing of Urban Human Waste in the Early Modern Edo/Tokyo Metropolitan Area (2007)",
+      "url": "https://journals.openedition.org/eue/1039",
+      "read": "Paragraphs3–7,16–19,23 and35–43 read; introduction, landlord ownership, collection, transport and quoted early manuals. Later Meiji statistics not used.",
+      "limit": "Research article quoting older records. Kanazawa annual rice payments and distance rings are not Edo examples; exact capacities/ratios omitted. Collection could be daytime."
+    },
+    {
+      "id": "SRC02",
+      "title": "Koshigaya municipal history: night soil, pp743–745",
+      "url": "https://adeac.jp/koshigaya-city-digital-archives/texthtml/d000010/mp000010-100010/ht003190",
+      "read": "Full section read, including1845 agreement,1860 purchase example, May1867 notice and six provisions of implementing agreement.",
+      "limit": "Main documentary incident is1867. Earlier/later prices not imported into one transaction. Official allegation and prohibition do not prove every dealer cheated or enforcement succeeded."
+    },
+    {
+      "id": "SRC03",
+      "title": "Katsushika municipal history: farming in Edo's eastern hinterland",
+      "url": "https://www.city.katsushika.lg.jp/history/history/2-3-2-123-2.html",
+      "read": "Complete short section on crops, river transport, wealthy farmers' transport sideline and seasonal prices.",
+      "limit": "No exact boat type universal; no modern dates or surviving1960s vessels depicted as1867."
+    },
+    {
+      "id": "SRC04",
+      "title": "Japan Ministry of the Environment, Night Soil Treatment and Decentralized Wastewater Treatment Systems",
+      "url": "https://www.env.go.jp/recycle/jokaso/en/pamph/pdf/wts_full.pdf",
+      "read": "PDFp2 historical recycling and adjacent sanitary treatment text read.",
+      "limit": "Historical cycle and public-health distinction only. Its present-money conversion and loosely dated price table are excluded. Modern treatment is not attributed to Edo."
+    },
+    {
+      "id": "SRC05",
+      "title": "Japan Ministry of the Environment, annual report2008 material cycles",
+      "url": "https://www.env.go.jp/content/900457281.pdf",
+      "read": "PDFp5 night-soil pricing/nutrient discussion and waste-disposal distinction read.",
+      "limit": "Nitrogen/phosphorus explain fertilizer value. Early Showa composition table is not Edo measured data. No exact social-class chemical ranking or contemporary dollar conversion."
+    },
+    {
+      "id": "SRC06",
+      "title": "Edo-Tokyo Museum, Night Soil Bucket, collection89000246",
+      "url": "https://www.edohakuarchives.jp/detail-97395.html",
+      "read": "Catalogue date19th–20thcentury read; displayed group photograph visually inspected.",
+      "limit": "Comparative construction reference, not a securely dated1867 vessel. Do not copy every adjacent object as part of a collection kit.",
+      "text_url": "https://www.edohakuarchives.jp/image_files/650/649782-M.jpg"
+    },
+    {
+      "id": "SRC07",
+      "title": "National Diet Library: Shohei-bashi and Yatsukoji period prints",
+      "url": "https://www.ndl.go.jp/en/landmarks/sights/shoheibashi",
+      "read": "Catalogue page and two print views inspected; Yatsukoji1857 street dress/architecture detail used.",
+      "limit": "Artist's selected scene, not survey of every Edo neighbourhood; modern photographs on page excluded.",
+      "text_url": "https://dl.ndl.go.jp/api/iiif/1312245/R0000001/708,883,2840,4416/,800/0/default.jpg"
+    },
+    {
+      "id": "SRC08",
+      "title": "Cultural Heritage Online, Hiroshige Yatsukoji print",
+      "url": "https://online.bunka.go.jp/heritages/detail/446936",
+      "read": "Indexed institutional catalogue identifies work as Edo period,1857; used to date NDL comparative visual.",
+      "limit": "Catalogue dating only; no political/procession interpretation used."
+    },
+    {
+      "id": "SRC09",
+      "title": "Victoria and Albert Museum, Kimono",
+      "url": "https://www.vam.ac.uk/articles/kimono",
+      "read": "Straight-seamed construction, wearer-left-over-right closure, obi and status/material paragraphs read.",
+      "limit": "General construction source; plain late-Edo Visitor adaptation supported by period visual. No decorative elite garment copied."
+    },
+    {
+      "id": "SRC10",
+      "title": "Minneapolis Institute of Art, Japanese Kimono",
+      "url": "https://new.artsmia.org/programs/teachers-and-students/teaching-the-arts/artwork-in-focus/japanese-kimono",
+      "read": "Construction and Edo social signalling sections read through indexed browser tool; ordinary cotton and muted details distinguished from theatrical/ceremonial wear.",
+      "limit": "No direct copying of the featured woman's wedding robe. Simplified social hierarchy on education page not narrated."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "type": "F",
+      "claim": "Visitor, one landlord/collector, selected route and imagined negotiation are illustrative, not a documented personal diary or sale.",
+      "sources": [],
+      "locator": "Original framing",
+      "limit": "No invented price, named victim, quantity sold or exact journey duration."
+    },
+    {
+      "id": "C1",
+      "type": "E",
+      "claim": "In Edo, human waste was collected and traded for use as agricultural fertilizer; night soil could include feces and urine and collection was not restricted to night.",
+      "sources": [
+        "SRC01",
+        "SRC04"
+      ],
+      "locator": "Tajima paras3–4; ministry historical panel",
+      "limit": "Not uniquely invented in Japan; no universal separation of urine/feces or night-only activity."
+    },
+    {
+      "id": "C2",
+      "type": "E",
+      "claim": "In Edo rental nagaya, rights over shared-privy night soil could belong to landlords, who contracted with farmers and received payment.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Paras4 and37",
+      "limit": "No automatic payment to every tenant, no universal landlord annual income figure, no Osaka urine-ownership rule transplanted."
+    },
+    {
+      "id": "C3",
+      "type": "E",
+      "claim": "Farmers or agents collected night soil for money or produce, linking town waste supply and agricultural production.",
+      "sources": [
+        "SRC01",
+        "SRC04"
+      ],
+      "locator": "Paras4,23,35–37; ministry recycling diagram/text",
+      "limit": "No claim every exchange was barter or direct; no fixed Edo rice payment from Kanazawa."
+    },
+    {
+      "id": "C4",
+      "type": "E",
+      "claim": "Human waste has fertilizer value through nutrients including nitrogen and phosphorus; quality was discussed in historical agricultural writings.",
+      "sources": [
+        "SRC01",
+        "SRC05"
+      ],
+      "locator": "Tajima paras17–18; ministry2008PDFp5",
+      "limit": "No magical status-based quality law, exact nutrient quantity or Edo laboratory analysis."
+    },
+    {
+      "id": "C5",
+      "type": "E",
+      "claim": "Night soil was one among several manure/fertilizer sources, and collection/storage/application involved agricultural knowledge.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Paras11–19,37",
+      "limit": "No exact safe treatment recipe or claim storage guaranteed pathogen elimination."
+    },
+    {
+      "id": "C6",
+      "type": "E",
+      "claim": "The material contains much water and is heavy; land transport used paired shoulder buckets, horses or small handcarts and required labour.",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Paras38,41,43; quoted bucket construction para19",
+      "limit": "No unaudited capacity ratios, exact load weight or universal collection frequency."
+    },
+    {
+      "id": "C7",
+      "type": "E",
+      "claim": "River transport connected eastern villages to Edo and allowed larger loads; boats could carry goods toward town and fertilizer on return.",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Tajima paras23,42–43; municipal transport passages",
+      "limit": "Use schematic cargo craft, not an exact surviving later boat. Goods and waste separate legs, no cross-contamination visual."
+    },
+    {
+      "id": "C8",
+      "type": "E",
+      "claim": "Transport assets and labour cost money; farmers unable to provide them could depend on dealers or wealthier farmers.",
+      "sources": [
+        "SRC01",
+        "SRC03"
+      ],
+      "locator": "Tajima para43; Katsushika transport sideline",
+      "limit": "No claim all collectors were poor outcasts or all sellers wealthy; no invented class statistics."
+    },
+    {
+      "id": "C9",
+      "type": "E",
+      "claim": "Demand and agricultural seasons affected prices, and local farmers sought quality and price reductions, including an1845agreement.",
+      "sources": [
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Koshigaya1845 paragraph; Katsushika seasonal price passage",
+      "limit": "Date earlier agreement explicitly; no guaranteed10percent saving or universal price curve."
+    },
+    {
+      "id": "C10",
+      "type": "E",
+      "claim": "A May1867notice described dealers diluting cargoes with water and deceptive load accounting, and threatened punishment; an implementing agreement required records and action against fraud.",
+      "sources": [
+        "SRC02"
+      ],
+      "locator": "1867 notice and six provisions",
+      "limit": "Officially reported problem and prescribed response, not proof of prevalence, successful arrests or all dealers cheating."
+    },
+    {
+      "id": "C11",
+      "type": "E",
+      "claim": "Economic reuse should be distinguished from sanitary treatment; untreated night soil can carry pathogens/parasite eggs, addressed explicitly in later treatment goals.",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "Sanitary treatment panel next to historical cycle",
+      "limit": "General health fact, not measured1867infection rate or claim any shown character became ill. No DIY application advice."
+    },
+    {
+      "id": "C12",
+      "type": "I",
+      "claim": "A material can be both unpleasant to remove and valuable to another user; profitability depends on usefulness, access, transport and trustworthy trade.",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03"
+      ],
+      "locator": "Synthesis of market and transport evidence",
+      "limit": "Not waste-free utopia, infinitely closed loop or all participants benefiting equally."
+    },
+    {
+      "id": "C13",
+      "type": "E",
+      "claim": "Vegetables and rice grown around Edo supplied the city while urban waste returned as fertilizer.",
+      "sources": [
+        "SRC01",
+        "SRC02",
+        "SRC03",
+        "SRC04"
+      ],
+      "locator": "Urban-fringe agriculture and municipal crop sections",
+      "limit": "No proof the pictured bucket produced the pictured daikon or fed its original household."
+    },
+    {
+      "id": "C14",
+      "type": "E",
+      "claim": "Late-Edo street visuals and ordinary kimono construction support an understated episode outfit.",
+      "sources": [
+        "SRC07",
+        "SRC08",
+        "SRC09",
+        "SRC10"
+      ],
+      "locator": "Inspected1857print and museum garment explanations",
+      "limit": "Visitor identity remains unchanged; no costume signals of samurai rank or ceremonial role."
+    }
+  ],
+  "research": "# Research direction\n\nEdo and the eastern farming hinterland,1867. The story follows value rather than gross-out spectacle: whose waste is it, why buy it, who carries it, and why would anyone counterfeit a load? The concrete documentary payoff is the May1867 anti-dilution notice reproduced in Koshigaya's municipal history. The1845 price agreement is a clearly dated earlier example.\n\nTajima's2007 article supplies landlord rights, daytime collection, labour and transport constraints. Read passages distinguish Edo from Kanazawa; no Kanazawa rice payment is imported. Municipal histories independently support river transport, crop exchange and seasonal prices. Ministry material explains the nutrient value and the difference between reuse and sanitation.\n\nReject popular claims of universal perfect cleanliness, exact landlord fortunes, one fixed price for a poop, or everybody being paid personally. Do not use the ministry's modern-currency conversion or its undated historical price table. Later Meiji/Showa statistics and the museum bucket's broad19th–20th-century date stay visibly separate from1867.\n",
+  "description": "In Edo, the city that became Tokyo, human waste could be a valuable agricultural commodity. But the money did not necessarily go to the person who produced it.\n\nFollow an illustrative1867 route from a shared privy to the farming villages outside the city, through landlord contracts, heavy transport and a documented problem with watered-down cargoes. This is a history of work and trade, with non-graphic illustrations.",
+  "tags": [
+    "Edo Japan",
+    "Japanese history",
+    "night soil",
+    "history of sanitation",
+    "Tokyo history",
+    "daily life history",
+    "history of farming",
+    "Edo period",
+    "fertilizer history",
+    "Life Previously"
+  ],
+  "pinned_comment": "The strangest part: the landlord's rights, the transport business, or the attempt to sell watered-down loads?",
+  "pilot": [
+    "S001",
+    "S005",
+    "S010",
+    "S046",
+    "TH-A"
+  ],
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "WORTH MONEY?",
+      "chip": "EDO · 1867",
+      "scope": "Illustrative closed night-soil bucket and trade",
+      "pose": "eyebrow-raise",
+      "background": "Large closed wooden stave bucket at left with a small coin pouch beside it, modest Edo doorway behind. No visible waste, green fumes, gold bars or bucket overflowing. Visitor in plain muted indigo outfit at right.",
+      "rationale": "Answers the title with a concrete object and an economic puzzle; readable without relying on disgust.",
+      "payoff_scene_ids": [
+        "S001",
+        "S007",
+        "S025",
+        "S085"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "NOT YOURS?",
+      "chip": "YOUR LANDLORD'S BUSINESS",
+      "scope": "Edo shared-privy ownership and sale",
+      "pose": "closeup-worried",
+      "background": "Plain landlord at left accepts a small pouch from a collector; closed bucket between them. Keep hands and transaction clear; no invented amount or theatrical villain.",
+      "rationale": "A personal twist: producing something did not necessarily confer sale rights.",
+      "payoff_scene_ids": [
+        "S013",
+        "S017",
+        "S022"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "WATERED DOWN?",
+      "chip": "A REAL 1867 COMPLAINT",
+      "scope": "Documented cargo dilution, non-graphic diagram",
+      "pose": "closeup-thoughtful",
+      "background": "Two closed bucket icons and a blue water droplet arrow on parchment inset against a simple river landing. No exposed contents; label the documented complaint locally.",
+      "rationale": "Unexpected fraud gives a second packaging angle with a precise source-backed payoff.",
+      "payoff_scene_ids": [
+        "S061",
+        "S064",
+        "S067"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Your landlord could sell this too",
+      "from_scene": "S013",
+      "to_scene": "S020",
+      "hook": "In Edo, producing it did not necessarily mean you owned the sale rights.",
+      "description": "Research describes landlords contracting over waste from shared privies in rental housing. No universal tenant payout is implied."
+    },
+    {
+      "title": "The watered-down cargo nobody expected",
+      "from_scene": "S061",
+      "to_scene": "S068",
+      "hook": "An1867notice complained of dealers adding water to valuable waste.",
+      "description": "Based on a notice reproduced in Koshigaya municipal history. The illustrated dealer is fictional; the complaint and rules are documented."
+    },
+    {
+      "title": "Why boats mattered to Edo's waste trade",
+      "from_scene": "S037",
+      "to_scene": "S044",
+      "hook": "The valuable part came with a lot of weight.",
+      "description": "Transport costs helped shape the trade between Edo and farming villages. No modern tanker or motorboat was involved."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_reference_inspected",
+    "mode": "episode_private_traditional_variant",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "selection": "Plain muted indigo-grey everyday kosode/kimono-style robe to just above ankles, modest sleeves, narrow dark obi and simple straw sandals. No decorative pattern, large rear bow, crest, sword, hat or outer ceremonial layer.",
+    "historical_basis": "Everyday robe silhouettes in inspected Hiroshige1857 street print, with construction and ordinary/elite distinctions from V&A and MIA. Treat as a simple adaptation, not a copy of a wedding or theatre garment.",
+    "references": [
+      "https://www.ndl.go.jp/en/landmarks/sights/shoheibashi",
+      "https://dl.ndl.go.jp/api/iiif/1312245/R0000001/708,883,2840,4416/,800/0/default.jpg",
+      "https://www.vam.ac.uk/articles/kimono",
+      "https://new.artsmia.org/programs/teachers-and-students/teaching-the-arts/artwork-in-focus/japanese-kimono"
+    ],
+    "identity_lock": "Preserve Visitor's skin tone, face, eyes, hair, proportions, expressions and linework. No shaved forelock, topknot, beard or ethnic transformation.",
+    "continuity": "Wearer's LEFT front panel over RIGHT in every pose; never mirror a finished garment derivative without correcting closure. Plain narrow obi remains at same relative height. Outfit stays visually quiet.",
+    "production_review": "Private variants only, one standing and one close-up pilot inspected against source silhouette and full composites. No shared-library modifications."
+  },
+  "pronunciations": {
+    "status": "director_guide_voice_listening_pending",
+    "entries": [
+      {
+        "term": "Edo",
+        "say": "EH-doh",
+        "note": "Former name of Tokyo."
+      },
+      {
+        "term": "shimogoe",
+        "say": "shee-moh-goh-eh",
+        "note": "下肥; prefer English night soil after one introduction."
+      },
+      {
+        "term": "nagaya",
+        "say": "nah-gah-yah",
+        "note": "長屋; optional, no need to overload narration."
+      },
+      {
+        "term": "Koshigaya",
+        "say": "koh-shee-gah-yah",
+        "note": "Municipal history source; can remain on-screen only."
+      }
+    ],
+    "rule": "Listen to actual narration and keep original spelling in sources/captions."
+  },
+  "sound_plan": {
+    "status": "direction_ready_assets_unselected",
+    "music": "Quiet channel theme; calm trade/work atmosphere. No comedy fart effects, stereotyped gong or exaggerated flies.",
+    "mix": "Voice dominates. A few bucket, step and waterway textures establish work without disgust.",
+    "new_assets": [
+      {
+        "id": "wood_bucket",
+        "description": "Closed wooden bucket set gently on earth/wood."
+      },
+      {
+        "id": "oar_water",
+        "description": "Quiet unpowered boat water movement."
+      },
+      {
+        "id": "paper_account",
+        "description": "Soft paper handling."
+      }
+    ],
+    "acquisition": "Inspect existing licensed effects or use original Foley; no paid generation without authorization.",
+    "cues": [
+      {
+        "scene_id": "S013",
+        "asset": "paper_account",
+        "timing": "Brief at transaction setup."
+      },
+      {
+        "scene_id": "S037",
+        "asset": "wood_bucket",
+        "timing": "Low bucket contact."
+      },
+      {
+        "scene_id": "S049",
+        "asset": "oar_water",
+        "timing": "Subtle boat transition."
+      }
+    ],
+    "intentional_silence": [
+      "S073",
+      "S074"
+    ]
+  },
+  "chapters": [
+    {
+      "title": "The thing somebody wants to buy",
+      "scenes": [
+        [
+          "Someone has come to empty the toilet. The surprising part is the payment: he may be paying to take its contents away.",
+          "C0,C1,C3",
+          "nagaya",
+          "wide",
+          "Wide establishing view of timber row housing and narrow earth courtyard; shared privy at far left, two covered buckets and adult collector beside its closed door. No occupant or contents visible. Clear right foreground for later compositing.",
+          "eyebrow-raise"
+        ],
+        [
+          "Edo, the city that became Tokyo, in eighteen sixty-seven. Human waste has buyers, sellers and disputes.",
+          "C1,C10",
+          "nagaya",
+          "wide",
+          "Ordinary timber row housing and narrow earth courtyard, privy at far left, modest late-Edo residents.",
+          null,
+          "Edo, 1867 · illustrative reconstruction"
+        ],
+        [
+          "Not because anyone mistakes it for something pleasant. Farmers want fertilizer, and the city produces material they can use in their fields.",
+          "C1,C3",
+          "field",
+          "wide",
+          "Farmer stands beside cultivated vegetable rows and covered storage, no active waste spreading or visible contents.",
+          null
+        ],
+        [
+          "The polite English name is night soil: human waste collected for agricultural use.",
+          "C1",
+          "graphic",
+          "graphic",
+          "Closed bucket icon connected to field icon, plain neutral labels; no poop cartoon.",
+          null,
+          null,
+          "NIGHT SOIL → AGRICULTURAL FERTILIZER"
+        ],
+        [
+          "The name can mislead us. Collection in Japan also happened during the day. No secret midnight operation required.",
+          "C1",
+          "road",
+          "medium",
+          "Collector in daylight with two closed buckets suspended from shoulder pole, balanced plausible load, ordinary pedestrians.",
+          null
+        ],
+        [
+          "We will follow an imagined collection through a documented trade. The interesting part is where the value goes.",
+          "C0,C12",
+          "detail",
+          "close-up",
+          "Closed stave bucket and plain coin pouch on separate clean ground areas, neutral original composition.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Because there is a second surprise. Producing the waste does not necessarily mean you receive the money from selling it.",
+          "C2",
+          "landlord",
+          "medium",
+          "Landlord at simple threshold and collector holding modest pouch, closed bucket nearby; no transaction amount visible.",
+          null
+        ],
+        [
+          "In rental housing with shared privies, the landlord can control those rights. Your toilet visit may support somebody else's business.",
+          "C2",
+          "nagaya",
+          "medium",
+          "Several dwelling doors lead to common courtyard and shared privy; no people using it, no exact tenant count.",
+          "glance-nervous"
+        ],
+        [
+          "Our collector must still remove the material, carry it, and reach someone who can use it.",
+          "C3,C6",
+          "privy",
+          "medium",
+          "Collector checks secure bucket lids and shoulder pole outside service area, hands clear of contents.",
+          null
+        ],
+        [
+          "That requires work, equipment, and sometimes access to a boat. The load itself may have to be bought.",
+          "C6,C7,C8",
+          "landing",
+          "wide",
+          "Simple riverside landing with moored unpowered cargo boat and closed containers; no motor or huge sail.",
+          null
+        ],
+        [
+          "By the end, we will even encounter a complaint about dishonest dealers watering the product down. There is a market to cheat.",
+          "C10",
+          "notice",
+          "graphic",
+          "Locally designed teaser source card with1867date and blue water droplet, no literal open waste.",
+          null,
+          null,
+          "1867: A COMPLAINT ABOUT DILUTED LOADS"
+        ],
+        [
+          "First, though, let us meet the person collecting payment. The landlord has something to sell, although he did not produce all of it.",
+          "C0,C2",
+          "landlord",
+          "medium",
+          "Landlord and collector face each other across low writing surface, blank ledger and plain pouch.",
+          "watch-arms-crossed"
+        ]
+      ]
+    },
+    {
+      "title": "Your landlord's other income",
+      "scenes": [
+        [
+          "In Edo's nagaya, or row-house communities, people could share a privy. Research describes landlords controlling its night-soil sales.",
+          "C2",
+          "nagaya",
+          "wide",
+          "Same row dwellings and shared privy, small group of residents elsewhere in courtyard; clear service access.",
+          null,
+          "Kayo Tajima, 2007 · Edo collection contracts"
+        ],
+        [
+          "The farmer or collector deals with the landlord. Producing the material does not necessarily give you control of the price.",
+          "C2,C3",
+          "landlord",
+          "medium",
+          "Collector offers pouch to landlord while an ordinary tenant passes in background, no direct payout to tenant.",
+          null
+        ],
+        [
+          "That arrangement makes a difference to our imaginary visitor. You cannot simply assume a share of the proceeds because you live here.",
+          "C0,C2",
+          "nagaya",
+          "medium",
+          "Visitor looks between dwelling and landlord's threshold, hands empty, restrained outfit secondary to action.",
+          "shrug-smirk"
+        ],
+        [
+          "Not every person in Japan receives cash for every toilet visit. This is a particular ownership arrangement.",
+          "C2",
+          "graphic",
+          "graphic",
+          "Three roles clearly separated: resident, landlord, collector; money arrow collector to landlord only.",
+          null,
+          null,
+          "PRODUCER ≠ AUTOMATIC SELLER"
+        ],
+        [
+          "A contract can secure access to the supply. Waste from a crowded property is worth arranging to obtain.",
+          "C2,C3",
+          "landlord",
+          "close-up",
+          "Blank paper agreement and two hands near coin pouch, no signatures or invented legal terms.",
+          null
+        ],
+        [
+          "The property keeps producing material. The farmer needs fertilizer again. A continuing relationship can suit both sides.",
+          "C3,C12",
+          "graphic",
+          "graphic",
+          "Recurring supply icon between housing and farm, no daily frequency or exact quantity asserted.",
+          null,
+          null,
+          "A CONTINUING SUPPLY"
+        ],
+        [
+          "Payment is not always one universal form. Historical accounts describe money or agricultural produce, and arrangements differ by place and circumstance.",
+          "C3",
+          "detail",
+          "close-up",
+          "Separate illustrative alternatives: plain pouch on one side, clean vegetable basket on other; not a single exact barter receipt.",
+          null
+        ],
+        [
+          "Our illustrated transaction has no invented price. A bill from another city would not tell us this household's terms.",
+          "C0,C3",
+          "landlord",
+          "medium",
+          "Collector and landlord complete neutral exchange with unmarked pouch; no readable coins or numeric total.",
+          null
+        ],
+        [
+          "The direction matters. Someone pays for access to material that the residents also need removed.",
+          "C2,C3,C12",
+          "graphic",
+          "graphic",
+          "Money arrow points toward property; material arrow points toward countryside. Clear opposite directions.",
+          null,
+          null,
+          "PAYMENT IN · MATERIAL OUT"
+        ],
+        [
+          "Useful removal and a sale happen together. The benefits go to people with different rights and resources.",
+          "C2,C8,C12",
+          "nagaya",
+          "wide",
+          "Tenant, landlord and collector in separate natural actions within same courtyard, no hero/villain caricature.",
+          "closeup-listening"
+        ],
+        [
+          "To understand why our collector wanted the load, leave the doorway and look at a field.",
+          "C0,C3",
+          "road",
+          "wide",
+          "Collector moves toward outskirts with securely balanced closed buckets; Visitor observes from safe clear path.",
+          null
+        ],
+        [
+          "There, the contents are part of producing the crops that the city wants to buy. The unpleasant cargo has a practical customer.",
+          "C3,C13",
+          "field",
+          "wide",
+          "Vegetable rows, farmer and simple storage shed, modest landscape east of Edo, no mountain rice-terrace stereotype.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Why a farmer would want it",
+      "scenes": [
+        [
+          "Growing crops draws on nutrients in the soil. Human waste contains nutrients, including nitrogen and phosphorus, that can give it fertilizer value.",
+          "C4",
+          "graphic",
+          "graphic",
+          "Simple nutrient dots move from closed bucket icon toward soil/root icon; no magical instant plant growth.",
+          null,
+          null,
+          "NUTRIENTS HAVE AGRICULTURAL VALUE"
+        ],
+        [
+          "Buyers need no modern laboratory to notice results in their fields. Agricultural writings discuss the material's use and quality.",
+          "C4,C5",
+          "field",
+          "medium",
+          "Farmer examines established crop rows beside covered storage, no chemical flask or modern agronomist equipment.",
+          null
+        ],
+        [
+          "They discuss other materials too. Night soil is one fertilizer source, rather than the single secret behind all farming.",
+          "C5",
+          "graphic",
+          "graphic",
+          "Small separate icons for plant compost, ash, animal manure container and night-soil container; no exact recipe.",
+          null,
+          null,
+          "ONE SOURCE AMONG SEVERAL"
+        ],
+        [
+          "Historical manuals consider collection, storage and application. This is knowledge and work, not simply disposal outside the city.",
+          "C5",
+          "field",
+          "medium",
+          "Farmer checks covered storage near simple shed; cultivated plots in background, no step-by-step application instructions.",
+          null
+        ],
+        [
+          "The expanding city creates two connected opportunities: more people want food, and more people produce the material that farmers can use.",
+          "C3,C13",
+          "graphic",
+          "graphic",
+          "Town and field icons connected by two labelled arrows; no invented population or tonnage.",
+          null,
+          null,
+          "FOOD TOWARD TOWN · FERTILIZER TOWARD FIELDS"
+        ],
+        [
+          "Nearby growers have customers for fresh vegetables in town. The countryside, in turn, has customers for fertilizer.",
+          "C3,C13",
+          "market",
+          "wide",
+          "Edo vegetable seller displays clean daikon and greens; customers in ordinary clothes, no waste buckets anywhere near food.",
+          null
+        ],
+        [
+          "Quality matters too. Agricultural writers discuss differences in the material they obtain. Buying fertilizer is not simply buying the fullest possible container.",
+          "C4,C10",
+          "dealer",
+          "medium",
+          "Farmer and dealer discuss closed containers and blank ledger, no sniffing or exposed material.",
+          "closeup-thoughtful"
+        ],
+        [
+          "That explains the later argument about added water. A larger-looking load is not necessarily a more useful purchase.",
+          "C10,C12",
+          "graphic",
+          "graphic",
+          "Two equal closed-container icons; one has added-water annotation, usefulness question remains, no unsupported numeric concentration.",
+          null,
+          null,
+          "MORE VOLUME ≠ MORE USEFUL MATERIAL"
+        ],
+        [
+          "First, it must reach the farm. Much of what the collector carries is water.",
+          "C6",
+          "detail",
+          "close-up",
+          "Closed wooden bucket beside a simple locally drawn water-weight icon, no transparent contents or accurate percentage claim.",
+          null
+        ],
+        [
+          "Valuable in a field, expensive to move. Distance is part of the price.",
+          "C6,C8",
+          "road",
+          "wide",
+          "Collector on earth road between town edge and fields, no exact distance scale, load realistic.",
+          "watch-arms-crossed"
+        ],
+        [
+          "Our collector cannot turn its value into lighter buckets. Every step still has to move the weight that sits on his shoulder.",
+          "C0,C6",
+          "road",
+          "medium",
+          "Two closed buckets hang symmetrically from flexible pole on shoulder, feet firmly grounded, no crushing exaggerated burden.",
+          null
+        ],
+        [
+          "The route matters as much as the supply. This story is becoming a transport business.",
+          "C6,C7,C12",
+          "graphic",
+          "graphic",
+          "Simple road and waterway alternatives connect town to farms, marked schematic rather than geographic map.",
+          null,
+          null,
+          "THE ROUTE CHANGES THE BUSINESS"
+        ]
+      ]
+    },
+    {
+      "title": "The weight of the business",
+      "scenes": [
+        [
+          "On land, one method uses two buckets suspended from a shoulder pole. The collector carries the load by balancing it across his body.",
+          "C6",
+          "road",
+          "medium",
+          "Side view of collector, two equal closed stave buckets at similar height, pole supported on one shoulder, natural gait.",
+          null
+        ],
+        [
+          "The buckets must be strong without unnecessary weight. An early agricultural manual discusses their construction and the burden of carrying them.",
+          "C6",
+          "detail",
+          "close-up",
+          "Wood staves and thin binding hoops on closed vessel; no steel drum or imagined exact museum-date claim.",
+          null,
+          "Bucket construction described in Hyakushō denki, via Tajima"
+        ],
+        [
+          "Horses and small handcarts offer other ways to move loads. They still require handling, equipment and someone to do the travelling.",
+          "C6",
+          "road",
+          "wide",
+          "Separate illustrative handcart with securely tied closed containers; collector walks beside it, no simultaneous shoulder load.",
+          null
+        ],
+        [
+          "Time spent transporting fertilizer cannot also be spent on another task. The journey belongs in the economics.",
+          "C6,C8",
+          "graphic",
+          "graphic",
+          "Simple labour-time icon beside route, no exact hourly wage or universal journey duration.",
+          null,
+          null,
+          "TRANSPORT USES TIME AND LABOUR"
+        ],
+        [
+          "Some farmers can supply that labour and equipment. Others depend on people who can bring the material to them.",
+          "C8",
+          "dealer",
+          "medium",
+          "Dealer meets farmer at modest store, covered load behind; equal respectful human depiction, no universal wealth claim.",
+          null
+        ],
+        [
+          "The collector need not be the final grower. The trade can include intermediaries.",
+          "C3,C8",
+          "graphic",
+          "graphic",
+          "Optional chain property → collector/dealer → farm, with direct alternative shown faintly; no required universal chain.",
+          null,
+          null,
+          "DIRECT COLLECTION OR INTERMEDIARIES"
+        ],
+        [
+          "There is no single business arrangement that explains every household and village.",
+          "C3,C8",
+          "road",
+          "wide",
+          "Shoulder carrier on near path and cart on separate distant route, no impossible combined load or claimed universal distribution.",
+          null
+        ],
+        [
+          "The shared problem is practical. Useful material has to move, and somebody must cover the cost.",
+          "C6,C8,C12",
+          "detail",
+          "close-up",
+          "Plain pouch beside closed bucket and shoulder pole, neutral costs illustration without numeric total.",
+          "closeup-worried"
+        ],
+        [
+          "East of Edo, waterways offer another possibility. Boats can move larger cargoes than a pair of buckets on one person's shoulder.",
+          "C7",
+          "landing",
+          "wide",
+          "Established wooden landing with cargo boat carrying multiple secured closed containers; enough freeboard and clear gangway.",
+          null
+        ],
+        [
+          "Fertilizer boats connect Edo with farming villages along the rivers. Waterways change what can travel together.",
+          "C7",
+          "boat",
+          "wide",
+          "Unpowered wooden craft moves along calm river, crew uses pole/oar, bank and boat proportions plausible.",
+          null,
+          "River transport · Katsushika and Koshigaya municipal histories"
+        ],
+        [
+          "It does not make transport free. A boat is an investment, and handling a load remains work at both ends.",
+          "C8",
+          "landing",
+          "medium",
+          "Crew secures mooring while another worker handles one closed bucket at a time, no floating barrels.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The trade follows routes and landing places, rather than a perfect circle around Edo.",
+          "C7,C8",
+          "graphic",
+          "graphic",
+          "Schematic branching waterways and land routes, no arbitrary equal-distance ring or imported Kanazawa map.",
+          null,
+          null,
+          "RIVERS AND ROADS SHAPE THE TRADE"
+        ]
+      ]
+    },
+    {
+      "title": "Two directions, different cargoes",
+      "scenes": [
+        [
+          "A boat can bring vegetables, firewood or charcoal toward the city, then return with fertilizer. The journey can serve needs in both directions.",
+          "C7",
+          "boat",
+          "wide",
+          "Earlier inbound-leg illustrative boat with clean produce/firewood cargo only; no waste containers present. Label inbound leg locally.",
+          null
+        ],
+        [
+          "That means separate journey legs, not food and waste mixed in one open pile.",
+          "C7",
+          "graphic",
+          "graphic",
+          "Two separate boat silhouettes for inbound goods and outbound covered fertilizer, no shared cargo diagram.",
+          null,
+          null,
+          "SEPARATE JOURNEY LEGS"
+        ],
+        [
+          "At the country landing, dealers can sell onward. The farms are customers, rather than simply a dumping ground.",
+          "C7,C8,C12",
+          "landing",
+          "medium",
+          "Farmer meets dealer beside secured covered containers on landing, no dumping into river or abandoned rubbish.",
+          null
+        ],
+        [
+          "Demand also changes through the agricultural year. Municipal histories describe seasonal prices, with busy planting periods affecting what buyers are willing to pay.",
+          "C9",
+          "field",
+          "wide",
+          "Farmer preparing a plot beside other growing beds, seasonal work emphasis; no simultaneous winter snow and summer crops.",
+          null
+        ],
+        [
+          "There is no fixed cash reward for a toilet visit. Prices depend on circumstances.",
+          "C2,C9",
+          "graphic",
+          "graphic",
+          "Price represented by variable pouch icon beside season, quality and transport icons; no fabricated line graph.",
+          null,
+          null,
+          "SEASON · QUALITY · TRANSPORT"
+        ],
+        [
+          "The buyers do not always like the terms. In eighteen forty-five, villages near Edo joined an agreement seeking better quality and lower prices.",
+          "C9",
+          "notice",
+          "graphic",
+          "Clearly dated earlier source card1845, neutral group/contract icons; no depiction of1867 event as simultaneous.",
+          null,
+          null,
+          "EARLIER: VILLAGES' AGREEMENT · 1845"
+        ],
+        [
+          "That did not solve every problem. By eighteen sixty-seven, officials were confronting a complaint about diluted loads.",
+          "C9,C10",
+          "notice",
+          "graphic",
+          "Timeline returns explicitly to1867; water-droplet icon beside closed cargo, short source attribution.",
+          null,
+          null,
+          "BACK TO 1867: DILUTION COMPLAINT"
+        ],
+        [
+          "Quality control may be an unexpected source of drama here. Farmers paying for fertilizer had reason to care.",
+          "C10,C12",
+          "dealer",
+          "medium",
+          "Farmer questions dealer over closed load and blank account, serious ordinary interaction, no villain moustache.",
+          "eyebrow-raise"
+        ],
+        [
+          "A bucket can look full while delivering less of the material the buyer needs. Adding water changes the bargain without improving the fertilizer.",
+          "C10,C12",
+          "graphic",
+          "graphic",
+          "Same-size closed bucket outlines; diluted example contains only abstract internal ratio bars in separate educational inset, not realistic waste.",
+          null,
+          null,
+          "FULL DOES NOT MEAN EQUIVALENT"
+        ],
+        [
+          "Koshigaya's municipal history reproduces the notice. We can follow the complaint without inventing a particular guilty merchant.",
+          "C10",
+          "notice",
+          "close-up",
+          "Archival paper backdrop with local English source citation; no forged Japanese original or named fictional culprit.",
+          null,
+          "Koshigaya municipal history · May 1867 notice"
+        ],
+        [
+          "Its details are more revealing than a general claim that waste was valuable. People were arguing over what a purchased load actually contained.",
+          "C10,C12",
+          "dealer",
+          "medium",
+          "Covered containers, simple tally board left blank and two parties discussing load, no exact quantity yet.",
+          null
+        ],
+        [
+          "Look at the trick, and the response officials wanted. There is money worth protecting.",
+          "C10",
+          "notice",
+          "graphic",
+          "Two-step source-based diagram: dilution complaint → rules and records, no fictional arrest.",
+          null,
+          null,
+          "A TRADE WORTH REGULATING"
+        ]
+      ]
+    },
+    {
+      "title": "Even this could be watered down",
+      "scenes": [
+        [
+          "The eighteen sixty-seven notice describes dealers adding water during transport, increasing the apparent size of the load they could offer for sale.",
+          "C10",
+          "boat",
+          "wide",
+          "Non-graphic explanatory reconstruction of boat with closed cargo; separate blue droplet overlay indicates alleged dilution, no exposed contents.",
+          null,
+          "Official complaint, May 1867 · reproduced in Koshigaya history"
+        ],
+        [
+          "It also complains about deceptive accounting for how much constituted a boatload, and charging more for what was presented as an extra portion.",
+          "C10",
+          "graphic",
+          "graphic",
+          "Generic load blocks divided inconsistently between advertised whole and alleged extra; no invented exact price.",
+          null,
+          null,
+          "THE DISPUTE ALSO CONCERNED LOAD ACCOUNTING"
+        ],
+        [
+          "Farmers could pay for a quantity that failed to deliver the expected fertilizer value. That is the conflict.",
+          "C10,C12",
+          "field",
+          "medium",
+          "Farmer examines closed delivered vessels beside field, no laboratory or failed crop attributed to an invented case.",
+          "closeup-worried"
+        ],
+        [
+          "The notice threatens punishment for dishonest sales. A related agreement calls for action against people seen adding water along the route.",
+          "C10",
+          "notice",
+          "graphic",
+          "Short attributed paraphrase of enforcement provision, no execution/prison image or claim punishment occurred.",
+          null,
+          null,
+          "RULES AGAINST DILUTION AND DISHONEST SALES"
+        ],
+        [
+          "Transaction records and scheduled checks are required too. A dealer's assurance is not enough.",
+          "C10",
+          "dealer",
+          "close-up",
+          "Hands open plain ledger while covered load sits beyond; actual checked English label added locally, no generated Japanese writing.",
+          null
+        ],
+        [
+          "These are responses to a reported problem. They do not prove every trader cheated, or that enforcement always worked.",
+          "C10",
+          "notice",
+          "graphic",
+          "Separate labels complaint / rule / outcome unknown, sparse source card without dense paragraph.",
+          null,
+          null,
+          "REPORTED PROBLEM · PRESCRIBED RESPONSE"
+        ],
+        [
+          "But they prove the story is not simply about throwing something away. Buyers care about quality, quantity, price and access to a reliable supply.",
+          "C10,C12",
+          "dealer",
+          "wide",
+          "Farmer, dealer, closed containers and record table in one coherent modest setting, no caricature.",
+          null
+        ],
+        [
+          "An unusual product still raises ordinary market questions: who gets paid, and for what?",
+          "C2,C10,C12",
+          "graphic",
+          "graphic",
+          "Plain four-part local typography: quality, quantity, price, rights; closed bucket small secondary icon.",
+          null,
+          null,
+          "QUALITY · QUANTITY · PRICE · RIGHTS"
+        ],
+        [
+          "Tenants, landlords, collectors, dealers and farmers can stand at different points in the exchange. Their interests need not match.",
+          "C2,C3,C8,C12",
+          "graphic",
+          "graphic",
+          "Five distinct role icons connected with optional pathways, no rigid universal hierarchy.",
+          null
+        ],
+        [
+          "The landlord wants a buyer. The farmer wants useful fertilizer. The transporter needs the journey to make economic sense.",
+          "C2,C8,C12",
+          "landing",
+          "medium",
+          "Collector secures load while farmer and dealer confer, practical scene rather than coins raining down.",
+          null
+        ],
+        [
+          "The city also needs removal. Several needs support the trade without making every participant equally prosperous.",
+          "C3,C8,C12",
+          "nagaya",
+          "wide",
+          "Original courtyard after collection, doors and service area orderly but modest; no transformation into luxury housing.",
+          null
+        ],
+        [
+          "There is one more distinction to make before we call the system clever. A valuable fertilizer is not automatically a harmless substance.",
+          "C11",
+          "detail",
+          "close-up",
+          "Closed vessel with restrained local educational marker separating value from sanitation; no hazard spectacle.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "Useful does not mean harmless",
+      "scenes": [
+        [
+          "Human waste can carry pathogens and parasite eggs. Turning it into an economic resource does not, by itself, make those risks disappear.",
+          "C11",
+          "graphic",
+          "graphic",
+          "Neutral microscopic-dot symbol beside closed bucket, clearly conceptual and not a diagnosis of historical person.",
+          null,
+          null,
+          "ECONOMIC VALUE ≠ SANITARY TREATMENT"
+        ],
+        [
+          "Japan's environmental ministry distinguishes historical recycling from later sanitary treatment. They are related, but different, achievements.",
+          "C11",
+          "notice",
+          "graphic",
+          "Source card identifying modern ministry explanation, no modern plant depicted as1867technology.",
+          null,
+          "Japan Ministry of the Environment · historical recycling and sanitary treatment"
+        ],
+        [
+          "So we should not turn this episode into a claim that old Edo had solved every waste problem, or that reuse made illness impossible.",
+          "C11,C12",
+          "nagaya",
+          "medium",
+          "Modest original courtyard and closed service area, no spotless glowing utopia or invented sick family.",
+          null
+        ],
+        [
+          "Nor can we trace every bucket around a perfect loop, back to the same household's dinner table.",
+          "C12,C13",
+          "graphic",
+          "graphic",
+          "Broad network town↔multiplefarms with open branches, no single sealed circular loop or mass-balance percentage.",
+          null,
+          null,
+          "A NETWORK, NOT A PERFECT CLOSED LOOP"
+        ],
+        [
+          "What the evidence does show is a connection between urban consumption and surrounding agriculture. Material leaving the city could help support food production outside it.",
+          "C3,C13",
+          "field",
+          "wide",
+          "Established vegetable plots and distant settlement, covered storage separate from produce, calm documentary framing.",
+          null
+        ],
+        [
+          "Access, containers, transport, labour, buyers and agreements: many practical arrangements keep the exchange working.",
+          "C2,C6,C7,C8,C10",
+          "graphic",
+          "graphic",
+          "Small sequence of access, bucket, route, agreement and field icons; no new unverified mechanism.",
+          null,
+          null,
+          "THE WORK BEHIND THE EXCHANGE"
+        ],
+        [
+          "It could also produce arguments, unequal advantages and fraud. Those difficulties belong in the history alongside the useful recycling.",
+          "C8,C10,C12",
+          "dealer",
+          "medium",
+          "Farmer and dealer review blank record calmly beside covered cargo; no fistfight invented.",
+          "watch-arms-crossed"
+        ],
+        [
+          "The collector deserves more than a disgusted reaction. He moves material between places with different needs.",
+          "C6,C12",
+          "road",
+          "medium",
+          "Collector walks with proper balanced load, dignity and practical concentration; Visitor observes without gagging.",
+          "closeup-listening"
+        ],
+        [
+          "The residents want it gone. A farmer may want it delivered. The distance between those wishes is where the business has to operate.",
+          "C3,C6,C12",
+          "road",
+          "wide",
+          "Road leading from town edge toward fields, covered load travelling through middle, no literal teleportation.",
+          null
+        ],
+        [
+          "Remember our tenant. Producing the material did not guarantee the sale money.",
+          "C2,C12",
+          "landlord",
+          "medium",
+          "Landlord's threshold and tenant in courtyard, pouch remains with landlord; no invented amount or protest.",
+          null
+        ],
+        [
+          "Value depends on usefulness, rights and the cost of moving things. Recycling alone does not explain the business.",
+          "C2,C6,C8,C12",
+          "graphic",
+          "graphic",
+          "Three clear words around closed bucket: use, rights, transport; no universal economic equation.",
+          null,
+          null,
+          "USE · RIGHTS · TRANSPORT"
+        ],
+        [
+          "Now we can return to the city market. The incoming vegetables are part of the other side of this relationship.",
+          "C13",
+          "market",
+          "wide",
+          "Clean separate produce baskets arrive at modest vegetable stall, no fertilizer equipment sharing the food display.",
+          null
+        ]
+      ]
+    },
+    {
+      "title": "The other end of the exchange",
+      "scenes": [
+        [
+          "Edo's residents buy food grown in the surrounding countryside. Those farms can, in turn, buy fertilizer supplied by the people living in the city.",
+          "C3,C13",
+          "market",
+          "medium",
+          "Customer selects daikon from clean produce basket while vendor attends, ordinary late-Edo clothing.",
+          null
+        ],
+        [
+          "This illustrated radish represents a relationship. We cannot trace it to our particular bucket.",
+          "C0,C13",
+          "detail",
+          "close-up",
+          "Clean daikon in separate produce basket, neutral source-caption space; no bucket beside food.",
+          null
+        ],
+        [
+          "Produce toward the city, fertilizer toward the fields. Payments and work connect the two.",
+          "C3,C7,C13",
+          "graphic",
+          "graphic",
+          "Town/field two-way diagram, material arrows separate from money/work annotations; no perfect closed-loop seal.",
+          null,
+          null,
+          "PRODUCE IN · FERTILIZER OUT"
+        ],
+        [
+          "The unpleasantness never stopped the material from being useful. Usefulness did not stop it from being heavy, disputed, or sometimes dishonestly sold.",
+          "C6,C10,C12",
+          "boat",
+          "wide",
+          "Established boat carries secured closed containers along calm river; no spilled load or invented storm.",
+          null
+        ],
+        [
+          "Landlords control some supplies, collectors move them, and farmers pay for what they need.",
+          "C2,C3,C6",
+          "landlord",
+          "medium",
+          "Brief recap of landlord/collector transaction, same outfits and plain pouch, no new event implied.",
+          null
+        ],
+        [
+          "A toilet can begin a business story. Its contents mean different things to different people.",
+          "C12",
+          "privy",
+          "wide",
+          "Closed original privy service area, now without loaded buckets; empty access path, no occupant.",
+          "eyebrow-raise"
+        ],
+        [
+          "To the resident, something to remove. To the farmer, a possible input. To the dealer, a product that has to find a buyer.",
+          "C3,C12",
+          "graphic",
+          "graphic",
+          "Three role icons with short labels, modest palette and no comic feces imagery.",
+          null,
+          null,
+          "REMOVE · USE · SELL"
+        ],
+        [
+          "The eighteen sixty-seven complaint adds another role: officials prescribing rules against dilution and dishonest accounting.",
+          "C10",
+          "notice",
+          "graphic",
+          "Final short source card with May1867 and Koshigaya attribution, blue droplet icon secondary.",
+          null,
+          null,
+          "A DOCUMENTED TRADE DISPUTE · 1867"
+        ],
+        [
+          "Our visitor came wondering why anyone would pay for waste. The answer is in the fields—and in the effort of getting it there.",
+          "C0,C3,C6",
+          "field",
+          "wide",
+          "Visitor at edge of vegetable plot with farmer working in distance, clear footing, no oversized costume.",
+          "closeup-thoughtful"
+        ],
+        [
+          "Landlord, boat owner, farmer: who matters most? Each controls a different part of the journey.",
+          "C0,C2,C8",
+          "landing",
+          "wide",
+          "Boat, landing and distant farmland form final coherent network view, no cost percentages.",
+          null
+        ],
+        [
+          "For the person producing the material, the first surprise remains. Someone else can have the right to sell it.",
+          "C2",
+          "nagaya",
+          "medium",
+          "Visitor looks back at landlord's threshold from shared courtyard, understated reaction and stable architecture.",
+          "shrug-smirk"
+        ],
+        [
+          "In old Edo, even what you left behind could keep moving through the economy. Your part might end long before the business did.",
+          "C12",
+          "road",
+          "wide",
+          "Collector recedes along route toward fields with closed buckets; calm final image, no gross-out punchline.",
+          null
+        ]
+      ]
+    }
+  ],
+  "extra_specs": [
+    "trade_continuity_spec.json"
+  ]
+}

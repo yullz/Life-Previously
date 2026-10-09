@@ -1,0 +1,37 @@
+{
+  "status": "director_guide",
+  "entries": [
+    {
+      "term": "ondol",
+      "say": "ON-dol",
+      "note": "Keep vowels short; verify Korean pronunciation before voice."
+    },
+    {
+      "term": "hanok",
+      "say": "HAH-nok",
+      "note": "Two syllables."
+    },
+    {
+      "term": "maru",
+      "say": "MAH-roo",
+      "note": "Two syllables."
+    },
+    {
+      "term": "soban",
+      "say": "SOH-bahn",
+      "note": "Small dining table."
+    },
+    {
+      "term": "Seoul",
+      "say": "soul",
+      "note": "Natural English place-name pronunciation."
+    },
+    {
+      "term": "Kim Chun-yeong",
+      "say": "Kim Choon-yuhng",
+      "note": "Guide only; check Korean audio reference before paid narration."
+    }
+  ],
+  "rule": "Do not spend voice credits until names and selected narrator reads are checked; technical Korean terms appear sparingly."
+}
+

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "SRC01",
+    "title": "Clarence Saunders, US1,242,872, Self-serving store (1917)",
+    "url": "https://patents.google.com/patent/US1242872A/en",
+    "text_url": "https://patentimages.storage.googleapis.com/cc/b8/73/07a11a4e391684/US1242872.pdf",
+    "read": "Complete description and claims read; all three original drawing sheets visually inspected through Google Patents full-size images in browser on2026-10-09. Fig2 route, Fig1 lobby perspective and Fig3–4 galleries/cabinet section compared with description.",
+    "limit": "A patent describes claimed design and inventor's intended benefits, not independent proof of sales multiples, profit-margin reductions or identical layout in every store. Do not use OCR's garbled personal name/patent number. Use US1,242,872."
+  },
+  {
+    "id": "SRC02",
+    "title": "Memphis Commercial Appeal launch advertisements, September3,1916, reproduced by Tennessee History for Kids",
+    "url": "https://www.tnhistoryforkids.org/history/people/clarence-saunders/",
+    "read": "Both original advertisements visually read in full at linked images1916_09_03_MCA_1.jpg and1916_09_03_MCA_2.jpg. First warns off timekillers/sightseers and announces Wednesday opening; second describes customer as own clerk, ready-packed goods,5lbcloth sugar bag, baskets/cashier and no free or paid delivery.",
+    "limit": "Advertisements are promises and persuasion, not neutral operating statistics or proof of the actual opening date. Modern page's national store-count/chain-size claims are not used."
+  },
+  {
+    "id": "SRC03",
+    "title": "Piggly Wiggly corporate history",
+    "url": "https://www.pigglywiggly.com/history/",
+    "read": "Indexed official history read: Memphis1916, Saunders, customers select goods in baskets and franchise expansion.",
+    "limit": "Company promotional account. Its September6date differs from Memphis Library/Tennessee Museum September11; narration uses September1916. No adoption of its universal first-ever claims or current store counts."
+  },
+  {
+    "id": "SRC04",
+    "title": "Tennessee State Museum, The Story of Piggly Wiggly",
+    "url": "https://tnmuseum.org/junior-curators/posts/the-story-of-piggly-wiggly-the-first-supermarket",
+    "read": "Article's opening, self-service, franchising and later-business narrative read.",
+    "limit": "Children's summary oversimplifies the first-supermarket priority claim and the cause of cheaper prices. Use for context only, with original patent/ads governing mechanics. Later biography/stock-market/Keedoozle story excluded."
+  },
+  {
+    "id": "SRC05",
+    "title": "Smithsonian Lemelson Center, One-Way Supermarket Aisles",
+    "url": "https://invention.si.edu/invention-stories/one-way-supermarket-aisles",
+    "read": "Historical1916–17paragraphs, route interpretation and later developments read.",
+    "limit": "Article discusses2020one-way aisles. Do not transplant its opening modern context; it loosely includes carts in the early store description, contradicted by the patent basket description and later museum cart chronology. Candy placement not used without a dated1917primary source."
+  },
+  {
+    "id": "SRC06",
+    "title": "Library of Congress, Clifford H. Poland, interior of Piggly Wiggly in or near Memphis, c1918, LCCN96512541",
+    "url": "https://www.loc.gov/item/96512541/",
+    "read": "Indexed LOC catalogue record read: title, photographer, c1918, two turnstiles, no known publication restrictions. Direct site has an anti-bot gate; photo itself not yet inspected.",
+    "limit": "c1918does not establish1916opening-day appearance, nor exact address or first store. Optional comparison only, not a required input; the patent drawings supply the approved geometry."
+  },
+  {
+    "id": "SRC07",
+    "title": "Smithsonian National Museum of American History, Basket for Goldman's Folding Basket Carriage",
+    "url": "https://www.si.edu/object/nmah_1216282",
+    "read": "Indexed museum object record read: circa1937basket carriage, two wire baskets,1938filing and1940patent.",
+    "limit": "Exclusion reference only: no rolling Goldman cart in1917scenes. Do not claim this object alone proves the first wheeled shopping aid anywhere."
+  }
+]

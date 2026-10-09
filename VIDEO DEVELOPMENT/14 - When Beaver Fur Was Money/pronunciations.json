@@ -1,0 +1,21 @@
+{
+  "status": "director_selected",
+  "entries": [
+    {
+      "term": "Albany",
+      "say": "AWL-buh-nee",
+      "note": "James Bay post, not the New York city."
+    },
+    {
+      "term": "breeches",
+      "say": "BRITCH-iz",
+      "note": "Knee-length trousers."
+    },
+    {
+      "term": "Cree",
+      "say": "KREE",
+      "note": "No imitated accent."
+    }
+  ],
+  "rule": "Say made beaver clearly as an accounting term. Avoid reading long source titles or unexplained jargon aloud."
+}

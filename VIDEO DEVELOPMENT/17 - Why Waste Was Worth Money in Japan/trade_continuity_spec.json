@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "status": "director_specification_ready_media_pending",
+  "historical_scope": "Edo and eastern farming hinterland,1867. May1867fraud notice is source anchor. S054 explicitly flashes back to1845agreement; S055returns1867.",
+  "non_graphic_rule": "No exposed feces/urine, defecation, toilet users, splashes, flies close-ups or comedic smell clouds. Closed vessels and economic diagrams communicate the subject.",
+  "ownership": "Money flows from collector/buyer toward landlord or rights holder, not automatically to tenant. Do not conflate producing, owning, collecting and using.",
+  "transport": {
+    "land": "Two balanced closed wooden stave buckets on a shoulder pole, or separate horse/handcart depiction. No free-floating buckets or impossible shoulder contact.",
+    "water": "Plain unpowered wooden river cargo craft with adequate freeboard. Keep boat stable across landing and river views. No exact capacity claim.",
+    "legs": "S049inbound produce/firewood; other boat scenes outbound fertilizer. Clear editorial labels; no direct food/waste mixing.",
+    "capital": "Equipment and boats require resources; no assumption every small farmer owns a boat."
+  },
+  "source_geometry": {
+    "bucket": "Wooden staves/light hoops grounded in early manual quoted by Tajima. Museum89000246is broadly19th–20thcentury comparative reference, not securely1867.",
+    "boat": "Text-based generic transport reconstruction. Do not copy a later motorized Kasai boat or label an unverified model as exact.",
+    "nagaya": "Illustrative shared-privy layout, no claimed excavated household plan; keep water source absent rather than inventing unsafe exact placement."
+  },
+  "continuity_links": [
+    {
+      "child": "privy",
+      "parent": "S002",
+      "rule": "Detached service enclosure at same courtyard's far-left end."
+    },
+    {
+      "child": "landlord",
+      "parent": "S002",
+      "rule": "One doorway of same property, consistent timber/roof/wall forms."
+    },
+    {
+      "child": "boat",
+      "parent": "S010",
+      "rule": "Same vessel as first landing anchor, preserving hull and load arrangement."
+    }
+  ],
+  "fraud": {
+    "evidence": "Koshigaya municipal history quotes May1867notice and reproduces implementing provisions.",
+    "show": "Neutral educational water-drop overlay and accounting diagram; no named fictional villain presented as documented.",
+    "do_not_claim": [
+      "All dealers cheated",
+      "Rules eliminated fraud",
+      "Actual arrests occurred in our illustrated case",
+      "A specific crop failed due to the depicted load",
+      "Exact source quantity units are modern buckets"
+    ]
+  },
+  "health": "Distinguish economic reuse from sanitary treatment. No DIY dilution/application/fermentation recipe or claim storage kills all pathogens.",
+  "wardrobe": "Plain indigo-grey private Visitor robe, narrow obi, wearer-left-over-right closure. No mirrored closure, ceremonial pattern, swords, topknot or changed facial features.",
+  "acceptance": [
+    "Trace separate money and material flows without reversing them.",
+    "Check closed containers throughout; no accidental gross-out detail.",
+    "Check clean produce and fertilizer on separate transport legs and in separate storage.",
+    "Keep1845and1867labels distinct; no Meiji/Showastatistics on1867cards.",
+    "Do not use the ministry's present-money conversion or loosely dated historical price table.",
+    "Match thumbnail promise to landlord rights/value/fraud sections with no image of exposed waste."
+  ]
+}

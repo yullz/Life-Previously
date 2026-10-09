@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "episode": "australia-voyage-1854",
+  "source": "selected fully reviewed master",
+  "timing": "Resolve scene boundaries against actual final alignment. No fabricated timestamps.",
+  "shorts": [
+    {
+      "title": "The voyage outlasted the newspaper plan",
+      "from_scene": "S073",
+      "to_scene": "S080",
+      "hook": "They budgeted for ten issues. The wind had other plans.",
+      "description": "TheMarcoPoloChronicle'sOctober1854farewell explains its three-weekpublicationgap.",
+      "id": "short-1",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "Why laundry had a timetable at sea",
+      "from_scene": "S025",
+      "to_scene": "S032",
+      "hook": "Yourwashingdaywasnotjustyourdecision.",
+      "description": "NoticesfromtheMarcoPolo's1854voyage showsharedshipboardroutines.",
+      "id": "short-2",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    },
+    {
+      "title": "The stowaway who got a berth",
+      "from_scene": "S005",
+      "to_scene": "S012",
+      "hook": "Onepassengerwantedon;anotherwantedhome.",
+      "description": "JosiahThomas'sreportedberthexchangeintheJuly291854MarcoPoloChronicle.",
+      "id": "short-3",
+      "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
+      "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
+    }
+  ]
+}

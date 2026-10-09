@@ -1,0 +1,510 @@
+{
+  "episode": "gold-rush-1849",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S004",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S012",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S017",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": "S012",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S024",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": "S024",
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S029",
+      "parent": "S024",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S024",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": "S024",
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S044",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S045",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S045",
+      "status": "not_generated"
+    },
+    {
+      "id": "S048",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S053",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": "S045",
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S056",
+      "status": "not_generated"
+    },
+    {
+      "id": "S059",
+      "parent": "S056",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S056",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S066",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S066",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S056",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": "S048",
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S072",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S073",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S076",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": "S077",
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S077",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S077",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S077",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S077",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S084",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S084",
+      "status": "not_generated"
+    },
+    {
+      "id": "S087",
+      "parent": "S084",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": "S008",
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S091",
+      "parent": "S004",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S051",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": "S002",
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S001",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S003",
+      "text": "GOLD FOUND ≠ MONEY KEPT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S005",
+      "text": "KIMBALL WEBSTER • A PERSONAL ACCOUNT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S007",
+      "text": "WORK • EQUIPMENT • CLAIM • WEATHER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S010",
+      "text": "EARLIER FINDS • THE 1848 RUSH",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S016",
+      "text": "$6 EACH PER DAY • BOARD INCLUDED",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S019",
+      "text": "PAID WORK / YOUR OWN CLAIM",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S023",
+      "text": "KNOWN GROUP PURCHASES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S027",
+      "text": "$62 KNOWN GROUP COST • TOOLS EXTRA",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S028",
+      "text": "SHARED OUTLAY • NOT A FULL BUDGET",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S030",
+      "text": "SCREEN • WASH • COLLECT",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S039",
+      "text": "NEARLY $16 GROSS • A SHORT GOOD SPELL",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S041",
+      "text": "WAGE WITH MEALS / GOLD BEFORE COSTS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S052",
+      "text": "LESS WORK • DEARER SUPPLIES",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S054",
+      "text": "PURCHASING POWER SHRINKS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S058",
+      "text": "BOARD THEN • TENT SPACE NOW",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S063",
+      "text": "BARELY COVERING EXPENSES • WEBSTER",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S065",
+      "text": "COUNT THE DIFFICULT DAYS TOO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S074",
+      "text": "$6 + BOARD / GOLD BEFORE COSTS / $4.50 + BOARD",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S086",
+      "text": "ALREADY HOME",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S088",
+      "text": "OPPORTUNITY FOR WHOM?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S092",
+      "text": "RETURN • COST • CONDITIONS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S093",
+      "text": "WHAT WOULD YOU TRY?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}
