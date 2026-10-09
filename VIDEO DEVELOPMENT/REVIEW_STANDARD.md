@@ -65,6 +65,10 @@ This is the bar every package is reviewed against: the initial content review, s
 - Nothing in the package asks Claude to research, choose wording, pick a lead thumbnail or invent a missing specification. Pilot lists resolve to paid anchors in dependency order and include the hardest setting, a character interaction scene and the lead thumbnail. Supplemental specs are listed in `extra_specs`. Continuity rules named in a spec (for example 09: S048 edits S004) are bound in the scene rows, not only described.
 - No placeholder text, no "TBD", no collapsed-space strings (for example "MarcoPolo atworkingquay"), no stale counts.
 
-## 10. Review record
+## 10. Every episode is individual (owner, 9 October 2026)
+
+Each package has its own vibe and fits its own story and theme. The channel style is the frame; the mood, humour and rhythm inside it belong to that episode. A review must not make the eighteen sound alike, must not make one episode refer to or lean on another, and must not trim an explanation because a sibling package covers similar ground. The slate check (`SLATE_CHECK.md`) only confirms that no two packages tell the same story or make the same promise.
+
+## 11. Review record
 
 Each pass writes its findings and fixes into `episode.json` (`initial_review`, `slate_reviews[]`) so `review.json` shows the real state. A finding without a fix is recorded as open, never silently dropped. Reviews are self-reviews by the assistant acting for the director under the owner's 9 October 2026 instruction; they are not independent human review, and they approve no media.

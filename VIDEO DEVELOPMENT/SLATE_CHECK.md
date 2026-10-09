@@ -1,6 +1,10 @@
 # Slate check — era variety, duplicate angles, shared material
 
-Kept by Claude while developing the packages one at a time (owner instruction, 9 October 2026). Publishing order and scheduling are the owner's later decision and are not assessed here. What is assessed, per package against all eighteen and the two published episodes: setting and century, format, the core question, the thumbnail promise, the title shape, and any story material two packages would otherwise both explain.
+Kept by Claude while developing the packages one at a time (owner instruction, 9 October 2026). Publishing order and scheduling are the owner's later decision and are not assessed here.
+
+**Rule (owner, 9 October 2026): every episode is individual.** Each has its own vibe and fits its own story and theme. This check only confirms that no two packages tell the same story or make the same promise; it never makes one episode refer to another, borrow another's beats, trim its own explanation because a sibling covers it, or sound like the others. Reviews preserve each package's own tone (01 is dry hardship, 02 a salty workday, 10 sober and humane, and so on) inside the channel's style.
+
+What is assessed, per package against all eighteen and the published episodes: setting and century, format, the core question, the thumbnail promise and the title shape. A true duplicate would go to the owner as a decision, not be fixed by cross-wiring the scripts.
 
 ## The slate at a glance
 
@@ -28,17 +32,16 @@ Kept by Claude while developing the packages one at a time (owner instruction, 9
 | 17 | Edo, 1867 | trade story | why household waste had buyers | WORTH MONEY? |
 | 18 | Seoul, c. 1900 | evening at home | how a floor was heated | FIRE UNDER HERE? |
 
-## Known overlaps to manage when each package is developed
+## Neighbouring subjects (none is a duplicate; each episode keeps its own full explanation)
 
-- **05 and 18 (heated floors):** 05's hypocaust stop and 18's ondol episode explain the same idea (fire somewhere else, heat under the floor). When 05 is developed, keep its floor stop to the Roman building and the "who could use it" catch, and point forward to the Korean episode instead of explaining the heat path twice. 18 keeps the full explanation.
-- **05 and 16 (buying hot food):** 05 opens on Pompeii's counters; 16 is a whole evening of bought food in Kaifeng. Different places and a thousand years apart; 05 should not generalise "ancient takeaway" beyond the Roman evidence.
-- **06 and published 001 (London):** same city, 1364 versus 1390, rules versus a day. 06 is a challenge format and must not reuse 001's curfew-and-bells beats as its own discoveries; it can name the earlier episode once.
-- **01 and 07 (Paris):** 1709 and the 1780s, weather crisis versus inequality at the table. Both touch bread prices; 07 should not restage 01's shortage story, and neither should be scheduled next to the other.
-- **01 and 12 (feeding a household in a crisis):** different centuries and causes (frost versus war rationing); 12 is a budget, 01 is access. Keep 12's thumbnail and cold open on coupons and quantities, not on hunger.
-- **09 and 14 (what money buys):** both are shopping-and-value puzzles; 1849 cash and gold versus 1733 beaver units. Different continents and centuries; thumbnails already differ (RICH YET? versus FUR = MONEY?).
-- **11 and 15 (recent everyday systems, British and American):** no overlap in subject; both carry a "who did the work before you did" turn, which is fine two episodes apart.
-- **16, 17, 18 (East Asia):** distinct countries, centuries and subjects; each needs its own researched outfit, buildings and food (WARDROBE_POLICY.md). None may share a generic "Asian" look.
-- **Title shapes:** "How Did People …" appears in 01, 03 and 18; "You …" openings in 04, 09 and 13; "Why …" in 15 and 17. Variety is adequate across eighteen; avoid two of the same shape adjacent when scheduling.
+- **05 and 18 (heated floors):** a Roman hypocaust as one of five ancient ideas, and a Korean evening on an ondol floor. Different buildings, mechanisms, centuries and stories; each explains its own heating in full.
+- **05 and 16 (buying hot food):** Pompeii's counters inside a countdown; a whole night out in Kaifeng a thousand years later. Each stays with its own evidence.
+- **06 and published 001 (London):** 1364 rules challenge versus a 1390 day. Different format and question; 06 makes its own discoveries in its own voice.
+- **01 and 07 (Paris):** 1709 weather crisis versus 1780s dinner inequality. Both mention bread prices in passing; different stories.
+- **01 and 12 (a household in a crisis):** frost and access versus wartime quantities. Different centuries, causes and formats.
+- **09 and 14 (what money buys):** 1849 gold and cash versus 1733 beaver units. Different continents and tones.
+- **16, 17, 18 (East Asia):** distinct countries, centuries and subjects; each has its own researched outfit, buildings and food (WARDROBE_POLICY.md).
+- **Title shapes:** "How Did People …" in 01, 03 and 18; "You …" in 04, 09 and 13; "Why …" in 15 and 17. Fine across eighteen; only relevant to adjacency when the owner schedules.
 
 ## Per-package checks
 
@@ -47,4 +50,4 @@ Kept by Claude while developing the packages one at a time (owner instruction, 9
 - Angle (access to fuel, bread and help through one crisis year) is not covered elsewhere; 12 is the only other scarcity story and is a quantity budget in wartime.
 - Thumbnail promise FIRE OR FOOD? and alternates (STILL HUNGRY, ONE MORE BOWL) do not repeat another package's headline family.
 - No shared source material with another package; Saint-Simon and Morin appear only here.
-- Verdict: distinct. No change needed; the two Paris episodes and the two scarcity episodes should simply not be scheduled back to back.
+- Verdict: distinct. No change needed.
