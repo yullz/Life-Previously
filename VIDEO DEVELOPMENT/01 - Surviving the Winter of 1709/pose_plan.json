@@ -50,18 +50,18 @@
       "art_status": "existing_approved_art_inspect_at_launch"
     },
     {
-      "pose": "closeup-worried",
-      "base_source": "channel/assets/visitor/closeup-worried.png",
-      "render_source": "channel/assets/visitor/closeup-worried.png",
+      "pose": "scratch-head",
+      "base_source": "channel/assets/visitor/scratch-head.png",
+      "render_source": "channel/assets/visitor/scratch-head.png",
       "wardrobe_state": "episode_default",
       "source_hash_at_launch": null,
       "accepted_hash": null,
       "art_status": "existing_approved_art_inspect_at_launch"
     },
     {
-      "pose": "scratch-head",
-      "base_source": "channel/assets/visitor/scratch-head.png",
-      "render_source": "channel/assets/visitor/scratch-head.png",
+      "pose": "closeup-worried",
+      "base_source": "channel/assets/visitor/closeup-worried.png",
+      "render_source": "channel/assets/visitor/closeup-worried.png",
       "wardrobe_state": "episode_default",
       "source_hash_at_launch": null,
       "accepted_hash": null,
@@ -96,4 +96,3 @@
     }
   ]
 }
-

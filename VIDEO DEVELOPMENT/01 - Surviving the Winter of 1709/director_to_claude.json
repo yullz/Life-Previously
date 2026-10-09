@@ -3,7 +3,13 @@
   "message_type": "complete_episode_execution_brief",
   "episode_slug": "winter-1709",
   "title": "How Did People Survive the Winter of 1709?",
-  "status": "development_in_progress_do_not_execute_yet",
+  "status": "director_package_ready",
+  "release": {
+    "status": "ready",
+    "date": "2026-10-09",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial review (Astra) with re-check, source verification of all 12 claims, and two package review passes complete. Cross-slate ordering checks pending until the whole library is developed. Production still needs the owner's itemized spending approval; publication is a separate owner decision."
+  },
   "owner_authorization": "All director development authorized. Paid production quote and publication approval remain separate.",
   "read_first": [
     "START_HERE.md",
@@ -32,11 +38,11 @@
   "supplemental_specs": [],
   "local_graphic_pilot": [],
   "counts": {
-    "narration_words": 1789,
+    "narration_words": 1795,
     "chapters": 8,
     "shots": 96,
-    "illustrations": 81,
-    "local_graphics": 15,
+    "illustrations": 82,
+    "local_graphics": 14,
     "thumbnail_backgrounds": 3
   },
   "pilot": [
@@ -47,6 +53,7 @@
     "S031",
     "S034",
     "S060",
+    "S072",
     "TH-A"
   ],
   "pilot_submission_rule": "Submit only requests whose accepted parent hash/media ID is resolved. Pilot list is ordered; it is not a single parallel batch.",

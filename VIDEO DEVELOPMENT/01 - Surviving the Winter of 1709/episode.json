@@ -8,61 +8,61 @@
     "The Winter That Kept Hurting After the Ice Melted"
   ],
   "period": "Paris and its surrounding French countryside, January through August 1709, during Louis XIV's reign. Modest plastered masonry houses with steep slate or tile roofs, small wooden-framed windows and shutters; narrow pre-Haussmann streets. Interiors have a masonry hearth, wooden table and simple earthenware. Adult men wear plain long coats, waistcoats, knee breeches and stockings; adult women plain bodices, long petticoats, aprons and linen caps. Muted clothing. Winter snow belongs only in explicitly winter scenes; spring and August scenes are green/bare-ground as appropriate. Reconstructed ordinary settings, not exact recovered rooms. Early instruments appear only as labelled schematics, never as modern thermometers inside a historical room.",
-  "avoid": "Eiffel Tower, Haussmann boulevards, tricolours, guillotines, revolutionary costumes, Victorian top hats, medieval Tudor streets, electricity, radiators, gas lamps, modern Celsius thermometer in a period scene, icebergs, metre-deep urban snow, happy crowds skating on dangerous river ice, conspicuous modern French baguettes, exact fabricated prices, soup-distribution print dated1693 presented as1709",
+  "avoid": "Eiffel Tower, Haussmann boulevards, tricolours, guillotines, revolutionary costumes, Victorian top hats, medieval Tudor streets, electricity, radiators, gas lamps, modern Celsius thermometer in a period scene, icebergs, metre-deep urban snow, happy crowds skating on dangerous river ice, conspicuous modern French baguettes, exact fabricated prices, soup-distribution print dated 1693 presented as 1709",
   "locations": {
     "room": {
-      "scope": "Paris, January1709; illustrative household",
+      "scope": "Paris, January 1709; illustrative household",
       "design": "Small plaster-walled room. Masonry hearth in left wall, narrow shuttered window at back-left, plain wooden table centre-left, earthen bowl. Continuous floor and clear right foreground. No identifying historical address."
     },
     "street": {
-      "scope": "Paris, January1709",
-      "design": "Narrow plastered masonry street, steep roofs, modest shutters, subdued grey winter daylight. Fixed doorway left, chimney centre background, open right foreground. A dusting of snow and patches of ice, not spectacular drifts."
+      "scope": "Paris, January 1709",
+      "design": "Narrow plastered masonry street, steep roofs, modest shutters. Fixed doorway left, chimney centre background, open right foreground. Season, snow and light exactly as each shot states; winter shots carry only a dusting of snow and patches of ice, never spectacular drifts."
     },
     "loaf": {
-      "scope": "Paris,1709; illustrative object study",
+      "scope": "Paris, 1709; illustrative object study",
       "design": "Round brown bread loaf on a worn wooden board, plain background. No baguette, exact weight, price label or luxurious table setting."
     },
     "wood": {
-      "scope": "Paris, January1709; illustrative object study",
+      "scope": "Paris, January 1709; illustrative object study",
       "design": "Small bundle of cut firewood beside stone hearth base, rough wood grain. No person, stove or modern tools."
     },
     "weather": {
-      "scope": "Paris,1709; modern explanatory graphic",
+      "scope": "Paris, 1709; modern explanatory graphic",
       "frame": "modern explanatory diagram",
       "design": "Channel parchment graphic with locally typeset dates and labels; never an apparent facsimile of Morin's notebook."
     },
     "desk": {
-      "scope": "Modern view of evidence about1709",
+      "scope": "Modern view of evidence about 1709",
       "frame": "modern evidence explanation",
       "design": "Neutral parchment field or blank closed bound volume and plain loose sheets. No pseudo-handwriting; citations composited by pipeline."
     },
     "river": {
-      "scope": "Paris, January1709; reconstructed Seine quay",
-      "design": "Stone river quay with frozen water, simple wooden cargo boat moored at left and a few tied bundles. Distant modest city roofline, no modern bridge or identifiable invented landmark. Ground clear at right."
+      "scope": "Paris, January 1709; reconstructed Seine quay",
+      "design": "Stone river quay, simple wooden cargo boat moored at left and a few tied bundles. Distant modest city roofline, no modern bridge or identifiable invented landmark. Ground clear at right. Ice or open water exactly as each shot states."
     },
     "market": {
-      "scope": "Paris,1709; illustrative bread market",
+      "scope": "Paris, 1709; illustrative bread market",
       "design": "Plain timber table at left under a modest fixed overhang, round loaves and covered grain sacks. Masonry wall behind, open ground at right. Recurrent seller: adult man with short brown hair, brown coat, pale waistcoat, knee breeches. No prices painted."
     },
     "field_winter": {
-      "scope": "Countryside supplying Paris, winter1709; illustrative field",
+      "scope": "Countryside supplying Paris, winter 1709; illustrative field",
       "design": "Low flat grain field, sparse dormant shoots and distant simple stone farm wall. No alpine mountains or northern conifers. Winter state specified by shot."
     },
     "field_spring": {
-      "scope": "Countryside supplying Paris, spring1709; illustrative field",
+      "scope": "Countryside supplying Paris, spring 1709; illustrative field",
       "design": "Same general flat rural terrain; soil in planting rows, plain seed sack and simple wooden-handled hoe. New season, no snow. Farmer wears brown waistcoat and breeches.",
       "anchor_reference_scene_id": "S034"
     },
     "soup": {
-      "scope": "Paris,1709; reconstruction of food relief, not a copied archival print",
+      "scope": "Paris, 1709; reconstruction of food relief, not a copied archival print",
       "design": "Plain masonry courtyard, one large cooking vessel safely at left, plain bowls and a modest serving table, no flags, writing or modern charitable branding. Server: adult woman in cream cap, olive bodice and brown apron. Clear right foreground."
     },
     "work": {
-      "scope": "Paris,August1709; illustrative boulevard earthworks near Saint-Denis and Saint-Martin gates",
+      "scope": "Paris, August 1709; illustrative boulevard earthworks near Saint-Denis and Saint-Martin gates",
       "design": "Earth mound at left, a wooden-handled spade and baskets, modest distant city wall/roofline. Dry summer ground, no snow, no exact unsupported reconstruction of gate architecture. Show work and food distribution without violence."
     },
     "palace": {
-      "scope": "Versailles,January1709; Saint-Simon's reported supper",
+      "scope": "Versailles, January 1709; Saint-Simon's reported supper",
       "design": "Small furnished elite room, not Hall of Mirrors. Fireplace left, mantel with one glass bottle and glass, warm fire but cold blue shadows. Schematic reconstruction of anecdote, no exact portrait likeness."
     }
   },
@@ -71,36 +71,36 @@
       "id": "SRC01",
       "title": "Louis de Rouvroy, duc de Saint-Simon, Memoirs, chapter XLIV",
       "url": "https://www.gutenberg.org/cache/epub/3875/pg3875-images.html#link2HCH0044",
-      "read": "ChapterXLIV: winter/thaw/refreeze, Versailles bottle anecdote, grain and barley, relief, summer unrest and August20 bread-for-work incident; read on2026-10-09.",
+      "read": "ChapterXLIV: winter/thaw/refreeze, Versailles bottle anecdote, grain and barley, relief, summer unrest and August20 bread-for-work incident; read on 2026-10-09.",
       "limit": "Public-domain memoir/translation. First-person court testimony and reported events, written retrospectively with political hostility. Treat sweeping all/every/nobody claims and conspiracy accusations as rhetoric, not established universal facts."
     },
     {
       "id": "SRC02",
-      "title": "Météo-France: Le grand hiver1709; interview with Emmanuel Le Roy Ladurie",
+      "title": "Météo-France: Le grand hiver 1709; interview with Emmanuel Le Roy Ladurie",
       "url": "https://meteofrance.com/meteo-a-z/le-grand-hiver-1709",
-      "read": "Temperature series/calibration, alternation of frost and thaw; response measures and summer consequences; sections read2026-10-09.",
-      "limit": "Historian interview,2020, synthesising Legrand/LeGoff and Lachiver. Avoid claiming a single uncontested death toll or that1709 was the coldest winter ever. Illustration attribution conflicts with museum date; do not reuse it as1709 evidence."
+      "read": "Temperature series/calibration, alternation of frost and thaw; response measures and summer consequences; sections read 2026-10-09.",
+      "limit": "Historian interview, 2020, synthesising Legrand/LeGoff and Lachiver. Avoid claiming a single uncontested death toll or that 1709 was the coldest winter ever. Illustration attribution conflicts with museum date; do not reuse it as 1709 evidence."
     },
     {
       "id": "SRC03",
       "title": "Pliemon, Foelsche, Rohr and Pfister: Subdaily meteorological measurements by Louis Morin in Paris",
       "url": "https://cp.copernicus.org/articles/18/1685/2022/index.html",
-      "read": "Original observation series provenance, homogenisation/measurement limits, extreme winter1708/09 and distinctions among cold seasons; relevant methods and discussion read2026-10-09.",
+      "read": "Original observation series provenance, homogenisation/measurement limits, extreme winter 1708/09 and distinctions among cold seasons; relevant methods and discussion read 2026-10-09.",
       "limit": "Modern analysis of early measurements; do not portray converted values as a modern Celsius reading recorded by Morin, or infer household behaviour from weather alone."
     },
     {
       "id": "SRC04",
-      "title": "Francis Assaf: L'Hiver de1709, Early Modern France",
+      "title": "Francis Assaf: L'Hiver de 1709, Early Modern France",
       "url": "https://earlymodernfrance.org/node/131",
-      "read": "Comparisons of Saint-Simon, Dangeau, Palatine letters and Gazette; passages on transport disruption, differing reports and geographic scope read2026-10-09.",
+      "read": "Comparisons of Saint-Simon, Dangeau, Palatine letters and Gazette; passages on transport disruption, differing reports and geographic scope read 2026-10-09.",
       "limit": "Scholarly comparison with quoted primary documents. Gazette omissions are not proof of normal weather. Do not transfer provincial stories or unsourced reported deaths to Paris."
     },
     {
       "id": "SRC05",
       "title": "Paris Musées, Le Secours du Potage, museum record G.16774",
       "url": "https://parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/le-secours-du-potage",
-      "read": "Catalogue creator, date1693 and CC0 attribution fields read2026-10-09.",
-      "limit": "Excluded from evidence for a specific1709 event. At most a separately dated1693 visual-context reference; no archival image required in final video.",
+      "read": "Catalogue creator, date 1693 and CC0 attribution fields read 2026-10-09.",
+      "limit": "Excluded from evidence for a specific 1709 event. At most a separately dated 1693 visual-context reference; no archival image required in final video.",
       "public": false
     }
   ],
@@ -111,18 +111,34 @@
       "type": "F",
       "sources": [],
       "locator": "Editorial framing; spoken reconstruction disclaimer in opening",
-      "limit": "Do not turn the hypothetical Visitor into an attested1709 person."
+      "limit": "Do not turn the hypothetical Visitor into an attested 1709 person.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "editorial framing; no factual content",
+        "evidence": "S004 states aloud that the household and cupboard are invented and that the weather, shortages and relief are real.",
+        "source_locators": "",
+        "refutation": "",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C1",
-      "claim": "The narrative begins in Paris in January1709 and follows the crisis into spring and August;1709's exceptional cold did not remain uninterrupted all winter.",
+      "claim": "The narrative begins in Paris in January 1709 and follows the crisis into spring and August; 1709's exceptional cold did not remain uninterrupted all winter.",
       "type": "E",
       "sources": [
         "SRC02",
         "SRC03"
       ],
       "locator": "Météo-France temperature/calibration section; Morin analysis discussion",
-      "limit": "Exact day-to-day timeline uses observations, not Saint-Simon's compressed rhetorical duration."
+      "limit": "Exact day-to-day timeline uses observations, not Saint-Simon's compressed rhetorical duration.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Météo-France (Le Roy Ladurie): the series 'mettent en évidence des alternances de périodes douces et de froid intense entre octobre 1708 et avril 1709'; thaw from 24 January, new cold 4–10 February, warm spell to 12 °C, cold again 21 Feb–3 March. Saint-Simon ch. XLIV: 'it completely thawed for seven or eight days, and then froze again as rudely as before.'",
+        "source_locators": "SRC02 section 'L'hiver 1708-1709 a-t-il vraiment été particulièrement rigoureux ?'; SRC01 ch. XLIV first paragraph",
+        "refutation": "Tried to refute 'not uninterrupted': both the measured series and the memoir describe a thaw between freezes; Lachiver counts seven cold waves. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C2",
@@ -133,7 +149,15 @@
         "SRC02"
       ],
       "locator": "Morin methods and historical measurements; Météo-France opening weather sections",
-      "limit": "No invented thermometer scale or unsupported numeric graph; use categorical sequence only."
+      "limit": "No invented thermometer scale or unsupported numeric graph; use categorical sequence only.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Météo-France: Louis Morin kept temperature readings 'trois ou quatre fois par jour, du 1er février 1665 au 13 juillet 1716'; the raw data 'doivent donc être retravaillées' because zero point, degree value and instrument were undefined. Pliemon et al. 2022 abstract: measurements digitised from copies of Morin's originals and subjected to quality analysis; 'apart from small inhomogeneities, reliable'; winter 1708/09 devastating in consecutive ice days though other winters colder on some measures.",
+        "source_locators": "SRC02 first interview answer; SRC03 abstract",
+        "refutation": "Checked that the script never gives a modern Celsius value as Morin's own reading and never calls 1709 the coldest ever; it does not. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C3",
@@ -143,7 +167,15 @@
         "SRC01"
       ],
       "locator": "ChapterXLIV, opening four paragraphs",
-      "limit": "Attribute the anecdote to Saint-Simon and label Versailles; not every home, all drinks or guaranteed literal conditions everywhere."
+      "limit": "Attribute the anecdote to Saint-Simon and label Versailles; not every home, all drinks or guaranteed literal conditions everywhere.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Saint-Simon ch. XLIV: 'In four days the Seine and all the other rivers were frozen'; 'As I myself was one evening supping with the Duc de Villeroy, in his little bedroom, I saw bottles that had come from a well-heated kitchen, and that had been put on the chimney-piece of this bed-room ... so frozen, that pieces of ice fell into our glasses as we poured out from them.' Assaf quotes the French original with the same detail.",
+        "source_locators": "SRC01 ch. XLIV, paragraph beginning 'One of the reasons Madame de Maintenon'; SRC04 Saint-Simon quotation (398–399)",
+        "refutation": "Attribution and Versailles location confirmed; the script frames it as his experience, not every home. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C4",
@@ -153,7 +185,15 @@
         "SRC04"
       ],
       "locator": "Van der Cruysse quotation on frozen watercourses and difficult roads",
-      "limit": "Disruption, not total halt of every route for every day. No invented cart journey or quantified fuel cost."
+      "limit": "Disruption, not total halt of every route for every day. No invented cart journey or quantified fuel cost.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Assaf quoting Van der Cruysse (457): 'Les cours d'eau gelés et les routes impraticables sous la glace rendaient quasi-impossibles les transports de vivres et de bois.' Saint-Simon: rivers frozen within four days; 'the sea froze all along the coasts'.",
+        "source_locators": "SRC04 Van der Cruysse section; SRC01 ch. XLIV opening",
+        "refutation": "The source is stronger ('quasi-impossibles') than the script's 'disrupted'; the script's caution ('not every road closes for the entire winter') is a fair hedge, not an overstatement. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C5",
@@ -163,7 +203,15 @@
         "SRC01"
       ],
       "locator": "ChapterXLIV, barley and grain paragraphs",
-      "limit": "Keep attribution; do not validate all his accusations, a universal fixed price or a shortage conspiracy."
+      "limit": "Keep attribution; do not validate all his accusations, a universal fixed price or a shortage conspiracy.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Saint-Simon ch. XLIV: 'Everybody held tight his old grain. The price of bread increased in proportion to the despair for the next harvest.' Also: commissioners fixed prices by force and 'often obliged the vendors to raise it'; government stores collected 'with the greatest possible secrecy'; financiers accused of seizing corn.",
+        "source_locators": "SRC01 ch. XLIV, paragraphs on grain, bread price and the finance gentlemen",
+        "refutation": "Checked that the script attributes the accusations to him and does not treat them as proven (S042–S043). Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C6",
@@ -174,7 +222,15 @@
         "SRC02"
       ],
       "locator": "Saint-Simon chXLIV resown barley; Météo-France government-response section",
-      "limit": "Barley helped; it did not erase famine or instantly feed everyone. No unsupported nationwide percentage."
+      "limit": "Barley helped; it did not erase famine or instantly feed everyone. No unsupported nationwide percentage.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Saint-Simon ch. XLIV: thaw then refreeze 'caused the complete destruction of all kinds of vegetation'; 'The most knowing resowed barley where there had been wheat, and were imitated by the majority. They were the most successful.' Météo-France lists among government measures 'autorisation de resemer de l'orge (avril 1709)' and says Saint-Simon recounts that sowing barley to replace destroyed winter wheat helped avert famine.",
+        "source_locators": "SRC01 ch. XLIV barley sentence; SRC02 'mesures' paragraph (Le Roy Ladurie)",
+        "refutation": "Note the memoir adds that the police first tried to prohibit the resowing and 'repented too late'; the script does not claim the opposite. No nationwide percentage is narrated. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C7",
@@ -185,17 +241,33 @@
         "SRC02"
       ],
       "locator": "ChXLIV charity paragraphs; Météo-France response",
-      "limit": "Availability/access varied; do not call it universal entitlement, copy1693 soup print as1709, or invent exact recipes/rations."
+      "limit": "Availability/access varied; do not call it universal entitlement, copy 1693 soup print as 1709, or invent exact recipes/rations.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Saint-Simon ch. XLIV: 'A great number of people who, in preceding years, used to relieve the poor, found themselves so reduced ... many of them received alms in secret'; 'how immense were the alms distributed'; the hillock levelled for bread. Météo-France: parish registers stress 'les distributions des potages par les dames les plus aisées'; measures included 'distribution de soupes, ouverture d'ateliers publics'.",
+        "source_locators": "SRC01 ch. XLIV charity paragraphs; SRC02 parish-register and measures paragraphs",
+        "refutation": "The 1693 print is excluded as 1709 evidence (SRC05 record: 'Datation: En 1693', graveur Leroux). Access varied; the script says so. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C8",
-      "claim": "Saint-Simon's account describes summer bread unrest and a20August bread shortage at boulevard earthworks paid with bread.",
+      "claim": "Saint-Simon's account describes summer bread unrest and a20 August bread shortage at boulevard earthworks paid with bread.",
       "type": "E",
       "sources": [
         "SRC01"
       ],
-      "locator": "ChXLIV Summer came and hillock between Portes SaintDenis/SaintMartin paragraphs",
-      "limit": "Reported event, not all work schemes; show summer. No invented speech or graphic violence."
+      "locator": "Ch. XLIV, 'Summer came' and 'hillock ... between the Portes Saint Denis and Saint Martin' paragraphs",
+      "limit": "Reported event, not all work schemes; show summer. No invented speech or graphic violence.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Saint-Simon ch. XLIV: 'Summer came. The dearness of all things, and of bread in particular, continued to cause frequent commotions'; 'the idle and the poor were employed to level a rather large hillock which remained upon the Boulevard, between the Portes Saint Denis and Saint Martin; and for all salary, bad bread in small quantities was distributed'; 'on Tuesday morning, the 20th of August, there was no bread for a large number of these people.' Météo-France independently names the August 1709 Paris riot over earthworks paid in bread.",
+        "source_locators": "SRC01 ch. XLIV 'Summer came' and hillock paragraphs; SRC02 émeutes paragraph",
+        "refutation": "Date, place and bread-for-work arrangement match; the script omits the pillory and pillaging and invents no dialogue. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C9",
@@ -206,7 +278,15 @@
         "SRC02"
       ],
       "locator": "ChXLIV exhausted finances and peace negotiations; Météo-France response/context",
-      "limit": "Avoid attributing the whole crisis to a single cause or presenting1709 as trigger of1789."
+      "limit": "Avoid attributing the whole crisis to a single cause or presenting 1709 as trigger of 1789.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Saint-Simon ch. XLIV: 'there was equal impotence to sustain the war and bring about peace'; envoys sent to Holland for peace; exhausted finances. Météo-France: 'En 1709, la France est en guerre depuis février 1701 pour la succession d'Espagne et la situation économique du pays est loin d'être florissante.'",
+        "source_locators": "SRC01 ch. XLIV 'But to return to the year 1709' paragraphs; SRC02 Le Roy Ladurie measures paragraph",
+        "refutation": "The script presents war as context, not sole cause, and makes no 1789 link. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C10",
@@ -217,7 +297,15 @@
         "SRC04"
       ],
       "locator": "Inference from price, transport and replacement-crop evidence above",
-      "limit": "Explanatory reasoning, not a quantified model or statement every household faced identical choices."
+      "limit": "Explanatory reasoning, not a quantified model or statement every household faced identical choices.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "inference checked against the evidence rows above",
+        "evidence": "Inference from C4 (transport), C5 (price and hoarding) and C6 (resowing takes a season). No quantified model is narrated.",
+        "source_locators": "C4–C6 passages",
+        "refutation": "Looked for any line implying every household faced identical choices; none found. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C11",
@@ -228,14 +316,22 @@
         "SRC02"
       ],
       "locator": "Saint-Simon ch. XLIV hunger/charity; Météo-France interview, quotation from La clef du cabinet, March 1709",
-      "limit": "No casualty number, survival odds or graphic deaths are given."
+      "limit": "No casualty number, survival odds or graphic deaths are given.",
+      "checked": {
+        "date": "2026-10-09",
+        "method": "source passages read, wording compared, refutation attempted",
+        "evidence": "Météo-France quotes La clef du cabinet, March 1709: 'Il est mort partout une infinité de personnes de tout sexe & tout âge, principalement des enfants & des vieillards, parmi ceux qui n'avaient pas les commodités de se garantir contre un froid si extraordinaire'. Lachiver (via Météo-France): the poorest, children and the oldest were most vulnerable. Saint-Simon describes families dying of want.",
+        "source_locators": "SRC02 'Que nous apprennent les récits' paragraph; SRC01 ch. XLIV hospitals paragraph",
+        "refutation": "Checked that no death total is narrated (Météo-France's ~600,000 is contested in scale and is not used). Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     }
   ],
-  "research": "Scope: a clearly imaginary Visitor household in Paris, January1709, followed through changing seasons. The historical claims come from weather observations, an attributed memoir and a historian's synthesis. The story tests access to warmth, food and help; it does not invent an exact poor family's menu, income, fuel price or diary. Cross-place detour to Versailles is named aloud and on screen. Do not use Saint-Simon's all-crops/all-trees language literally. His accusations against officials are contested political testimony; the script treats distrust as part of the situation, not proof of a centrally planned famine. An apparent1709 relief illustration led to the museum's1693 catalogue record; it is excluded as1709 evidence. No unsupported coldest-ever claim, fixed national death total, period Celsius instrument, modern baguette or winter snow in the August event. Audience appeal is an editorial hypothesis, not measured demand or a viral forecast. The owner commissioned development of this title; launch-time packaging checks remain separate.",
-  "description": "Paris,1709. Keeping warm is only the first problem. When cold disrupts deliveries and damages crops, a household must find food, fuel and help—and the crisis can continue after the ice melts.\n\nFollow the Visitor through the Great Winter using Louis Morin's weather evidence and Saint-Simon's account of the year. We separate a reconstructed household from documented events, and ask why a bowl of soup or a replacement crop could matter as much as a roaring fire.",
+  "research": "Scope: a clearly imaginary Visitor household in Paris, January 1709, followed through changing seasons. The historical claims come from weather observations, an attributed memoir and a historian's synthesis. The story tests access to warmth, food and help; it does not invent an exact poor family's menu, income, fuel price or diary. Cross-place detour to Versailles is named aloud and on screen. Do not use Saint-Simon's all-crops/all-trees language literally. His accusations against officials are contested political testimony; the script treats distrust as part of the situation, not proof of a centrally planned famine. An apparent 1709 relief illustration led to the museum's 1693 catalogue record; it is excluded as 1709 evidence. No unsupported coldest-ever claim, fixed national death total, period Celsius instrument, modern baguette or winter snow in the August event. Audience appeal is an editorial hypothesis, not measured demand or a viral forecast. The owner commissioned development of this title; launch-time packaging checks remain separate.",
+  "description": "Paris, 1709. Keeping warm is only the first problem. When cold disrupts deliveries and damages crops, a household must find food, fuel and help—and the crisis can continue after the ice melts. Follow the Visitor through the Great Winter using Louis Morin's weather evidence and Saint-Simon's account of the year. We separate a reconstructed household from documented events, and ask why a bowl of soup or a replacement crop could matter as much as a roaring fire.",
   "tags": [
-    "winter of1709",
-    "Great Frost1709",
+    "winter of 1709",
+    "Great Frost 1709",
     "Paris history",
     "Great Winter",
     "Louis XIV",
@@ -253,14 +349,15 @@
     "S031",
     "S034",
     "S060",
+    "S072",
     "TH-A"
   ],
   "thumbnails": [
     {
       "id": "A",
       "headline": "FIRE OR FOOD?",
-      "chip": "PARIS1709",
-      "scope": "Illustrative Paris household,January1709",
+      "chip": "PARIS 1709",
+      "scope": "Illustrative Paris household, January 1709",
       "pose": "closeup-worried",
       "background": "A small dim masonry hearth at far left, with a modest bundle of wood below it; one round brown loaf prominently on a plain board nearer centre-left. One coherent household scene, no split panels, no extra objects or people. Cold window light contrasts with a small warm hearth glow.",
       "rationale": "The title identifies the winter; the thumbnail translates survival into a visible household choice. It is a hypothetical framing, not a documented fixed-price trade. Keep the loaf and wood recognisable at small size.",
@@ -273,7 +370,7 @@
     {
       "id": "B",
       "headline": "STILL HUNGRY",
-      "chip": "PARIS1709",
+      "chip": "PARIS 1709",
       "scope": "Illustrative Paris household after the winter",
       "pose": "closeup-worried",
       "background": "One nearly empty earthen bowl large at centre-left on a plain wooden table. Soft spring daylight through a small open wooden window at far left, no snow. Sparse room, no people. A small fragment of bread beside the bowl.",
@@ -287,11 +384,11 @@
     {
       "id": "C",
       "headline": "ONE MORE BOWL",
-      "chip": "PARIS1709",
-      "scope": "Reconstructed food relief,Paris1709",
+      "chip": "PARIS 1709",
+      "scope": "Reconstructed food relief, Paris 1709",
       "pose": "closeup-thoughtful",
       "background": "One plain filled soup bowl prominent centre-left in front of a large plain cooking pot. A period server's hands support a ladle above the pot at far left, attached to one partially visible adult woman in cream cap and brown apron. Simple courtyard, calm right third; no crowds or writing.",
-      "rationale": "Makes the help tangible and rewards the relief chapter. A newly illustrated scene avoids misdating the1693 relief print.",
+      "rationale": "Makes the help tangible and rewards the relief chapter. A newly illustrated scene avoids misdating the 1693 relief print.",
       "payoff_scene_ids": [
         "S061",
         "S064",
@@ -305,21 +402,21 @@
       "from_scene": "S073",
       "to_scene": "S080",
       "hook": "It is August, but the bread crisis is still here.",
-      "description": "The1709 crisis continued beyond the freeze. An excerpt from our researched Paris episode."
+      "description": "The 1709 crisis continued beyond the freeze. An excerpt from our researched Paris episode."
     },
     {
       "title": "Even Versailles Could Not Keep the Cold Out",
       "from_scene": "S016",
       "to_scene": "S022",
       "hook": "A palace and a fireplace were not the whole answer.",
-      "description": "Saint-Simon describes an extraordinary supper during the winter of1709; this is his account, not a claim about every French home."
+      "description": "Saint-Simon describes an extraordinary supper during the winter of 1709; this is his account, not a claim about every French home."
     },
     {
       "title": "Why Plant Barley After a Disastrous Winter?",
       "from_scene": "S049",
       "to_scene": "S056",
       "hook": "The next meal may depend on a field you cannot see.",
-      "description": "Replacement sowing helped after the1709 frost damage. The recovery was neither immediate nor universal."
+      "description": "Replacement sowing helped after the 1709 frost damage. The recovery was neither immediate nor universal."
     }
   ],
   "chapters": [
@@ -355,7 +452,7 @@
           "reaction",
           "Same room and small fire; plain bowl at left, unoccupied floor at right.",
           "eyebrow-raise",
-          "Illustrative household • Paris1709"
+          "Illustrative household • Paris 1709"
         ],
         [
           "Can you keep warm when deliveries struggle? What happens when bread becomes harder to afford? And does the thaw rescue you?",
@@ -368,7 +465,7 @@
           "WARMTH • FOOD • THE THAW"
         ],
         [
-          "Keep that last question. The hardship does not politely disappear when the snow starts melting.",
+          "Keep that last question for the end. We will answer it in August, which is a suspicious month to be discussing snow.",
           "C8,C10",
           "loaf",
           "object insert",
@@ -395,7 +492,7 @@
           "C0,C10",
           "street",
           "wide",
-          "View from the street toward the established closed household doorway at left; no people."
+          "View from the winter street toward the established closed household doorway at left; dusting of snow on the ground; no people."
         ],
         [
           "Your warmth comes from somewhere. Your next loaf comes from somewhere. Winter is now interfering with the journeys between those places.",
@@ -434,17 +531,18 @@
           "medium",
           "Blank observation sheets on plain desk; no invented handwriting or modern computer.",
           "closeup-thoughtful",
-          "Louis Morin • Paris1709"
+          "Louis Morin • Paris 1709"
         ],
         [
           "The measurement conventions were not ours. Making old readings comparable takes historical detective work, not just copying numbers.",
           "C2",
-          "weather",
-          "graphic",
-          "Two labelled boxes joined by an arrow: early readings and modern interpretation; no drawn thermometer.",
+          "desk",
+          "reaction",
+          "Same plain desk with blank observation sheets at left; the floor at right is clear and continuous.",
+          "scratch-head",
           null,
           null,
-          "EARLY READINGS → MODERN INTERPRETATION"
+          {}
         ],
         [
           "The record shows severe cold interrupted by milder spells, not one unchanging freeze from beginning to end.",
@@ -457,13 +555,13 @@
           "COLD → THAW → COLD"
         ],
         [
-          "First, take a short trip out of Paris to Versailles, where you might expect resources to solve everything.",
+          "Take a short trip out of Paris to Versailles, where you might expect resources to solve everything.",
           "C0,C3",
           "palace",
           "establishing",
           "Small elite room with lit fireplace and bottle on mantel; no people.",
           "look-around",
-          "Versailles • January1709"
+          "Versailles • January 1709"
         ],
         [
           "The courtier Saint-Simon describes a supper there when pieces of ice fell from bottles into the guests' glasses, despite a nearby fire.",
@@ -479,7 +577,7 @@
           "reaction",
           "Bottle and glass on mantel at left, small fire below; no local guests.",
           "closeup-worried",
-          "Saint-Simon's account • Versailles1709"
+          "Saint-Simon's account • Versailles 1709"
         ],
         [
           "You have achieved the warmth of a royal residence. Unfortunately, that sentence does less work than you hoped.",
@@ -496,7 +594,7 @@
           "wide",
           "Return to the original modest room, short wood bundle left, small fire, no locals.",
           "watch-arms-crossed",
-          "Paris • January1709"
+          "Paris • January 1709"
         ],
         [
           "A hearth is a place to burn fuel. It is not a source of fuel. That distinction becomes annoyingly practical.",
@@ -518,7 +616,7 @@
           "C4,C10",
           "street",
           "wide",
-          "Two adults carry separate small bundles beside the same masonry street; ground remains clear at right."
+          "Two adults carry separate small bundles along the same masonry street in winter, patches of ice underfoot; ground remains clear at right."
         ],
         [
           "And one of those routes has become very bad at behaving like a river.",
@@ -540,7 +638,7 @@
           "wide",
           "Winter quay viewed from bank; moored wooden cargo boat immobilised by ice; one distant adult on quay.",
           "watch-arms-crossed",
-          "Accounts of the freeze •1709"
+          "Accounts of the freeze • 1709"
         ],
         [
           "Not every road closes for the entire winter. Disruption is enough when a household needs supplies every day.",
@@ -561,7 +659,7 @@
           "C0,C10",
           "room",
           "reaction",
-          "Hearth and bowl at left, Visitor area clear. Fire modest, not extinguished.",
+          "Hearth and bowl at left, open floor at right. Fire modest, not extinguished.",
           "scratch-head"
         ],
         [
@@ -601,7 +699,7 @@
           "C5,C10",
           "market",
           "reaction",
-          "Established seller and two round loaves at left table, no customer besides separately composited Visitor.",
+          "Established seller and two round loaves at the left table; no customer in the picture, open ground at right.",
           "clutch-stomach"
         ],
         [
@@ -640,7 +738,7 @@
           "wide",
           "One seller stands behind three loaves, two closed grain sacks behind; no exaggerated mountain of hoarded grain.",
           "look-around",
-          "Saint-Simon • account of1709"
+          "Saint-Simon • account of 1709"
         ],
         [
           "For our household, that means the same meal can become harder to obtain without growing any larger or more satisfying.",
@@ -716,7 +814,7 @@
           "C0,C10",
           "street",
           "reaction",
-          "One period passer-by in plain long coat at far left; empty right foreground.",
+          "One period passer-by in a plain long coat at far left on the winter street, light snow at the kerb; empty right foreground.",
           "eyebrow-raise"
         ],
         [
@@ -775,7 +873,7 @@
           "medium",
           "Brown spring field with sparse dead winter shoots, no ripe crop, no people.",
           "look-around",
-          "Spring1709 • illustrative field"
+          "Spring 1709 • illustrative field"
         ],
         [
           "Someone must grow something else. An inconvenient delay when you are hungry now.",
@@ -791,7 +889,7 @@
           "wide",
           "One farmer at left scatters seed close to ground from plain sack; spring soil, no snow.",
           "watch-arms-crossed",
-          "Saint-Simon • replacement barley in1709"
+          "Saint-Simon • replacement barley in 1709"
         ],
         [
           "The historian's account of the government's response includes permission to resow barley in April. Decisions about fields mattered far beyond them.",
@@ -800,7 +898,7 @@
           "object insert",
           "Blank administrative sheet beside a small locally illustrated barley seed motif; no fake seal or handwriting.",
           null,
-          "Barley resowing • April1709"
+          "Barley resowing • April 1709"
         ],
         [
           "Barley is not a magical crop that cancels a disaster. It is a practical response when the previous plan has failed.",
@@ -837,7 +935,7 @@
           null,
           null,
           {
-            "scope": "Paris, spring1709"
+            "scope": "Paris, spring 1709"
           }
         ],
         [
@@ -872,7 +970,7 @@
           "wide",
           "Server at left table, three adult recipients separated in a short queue at centre-left; clear right foreground.",
           "look-around",
-          "Food relief • Paris1709 reconstruction"
+          "Food relief • Paris 1709 reconstruction"
         ],
         [
           "A bowl handed across a table changes the household's immediate problem. It does not need to solve the entire kingdom to matter.",
@@ -896,7 +994,7 @@
           "medium",
           "Closed blank memoir beside two simple locally composited household icons; no wealthy villain scene.",
           null,
-          "Saint-Simon • charity and hardship in1709"
+          "Saint-Simon • charity and hardship in 1709"
         ],
         [
           "That changes the picture. The person you hope can assist you may be struggling with the same rising costs.",
@@ -908,7 +1006,7 @@
           null,
           null,
           {
-            "scope": "Paris, spring1709"
+            "scope": "Paris, spring 1709"
           }
         ],
         [
@@ -924,7 +1022,7 @@
           "C7",
           "street",
           "medium",
-          "Two plainly dressed adults speak near established doorway at left; spring street, calm gestures; clear right foreground.",
+          "Closer view of the same two adults by the established doorway at left; one passes a small cloth bundle to the other; spring street; clear right foreground.",
           "watch-arms-crossed",
           null,
           null,
@@ -949,14 +1047,14 @@
           "wide",
           "Return to same server, pot and three adult recipients; reconstruction scene with no archival texture or fake scan border.",
           null,
-          "Illustrative reconstruction • Paris1709"
+          "Illustrative reconstruction • Paris 1709"
         ],
         [
-          "For the Visitor, though, the immediate appeal is straightforward. After worrying about empty containers, a filled one makes an excellent change.",
+          "For you, though, the immediate appeal is straightforward. After worrying about empty containers, a filled one makes an excellent change.",
           "C0",
           "soup",
           "reaction",
-          "One full bowl prominent on left table; clear right ground beside table, no bowl in Visitor hands.",
+          "One full bowl prominent on the left table; clear right ground beside the table.",
           "thumbs-up"
         ],
         [
@@ -973,7 +1071,7 @@
           "establishing",
           "Summer earthworks beside modest distant Paris roofline; two adult labourers at left, no snow.",
           null,
-          "Paris • August1709"
+          "Paris • August 1709"
         ]
       ]
     },
@@ -1003,7 +1101,7 @@
           "object insert",
           "Near-empty bread board beside earth basket; one remaining small round piece, no exact ration or people.",
           null,
-          "Saint-Simon •20August1709"
+          "Saint-Simon • 20 August 1709"
         ],
         [
           "A protest grows into a disturbance. We do not need invented dialogue or a cinematic battle to understand the problem.",
@@ -1040,7 +1138,7 @@
           null,
           null,
           {
-            "scope": "Paris, summer1709"
+            "scope": "Paris, summer 1709"
           }
         ],
         [
@@ -1076,11 +1174,11 @@
           null,
           null,
           {
-            "scope": "Paris, summer1709"
+            "scope": "Paris, summer 1709"
           }
         ],
         [
-          "Our Visitor can leave the story. The people in these records could not choose to skip forward to an easier chapter.",
+          "You can leave this story whenever you like. The people in these records could not skip forward to an easier chapter.",
           "C0,C11",
           "street",
           "wide",
@@ -1089,7 +1187,7 @@
           null,
           null,
           {
-            "scope": "Paris, late summer1709"
+            "scope": "Paris, late summer 1709"
           }
         ],
         [
@@ -1189,7 +1287,7 @@
           "C0,C10",
           "room",
           "reaction",
-          "Small fire and filled bowl in original room; Visitor area clear, subdued expression.",
+          "Small fire and filled bowl in the original room; open floor at right.",
           "eyebrow-raise",
           null,
           null,
@@ -1208,7 +1306,7 @@
           null,
           null,
           {
-            "scope": "Paris, spring1709"
+            "scope": "Paris, spring 1709"
           }
         ],
         [
@@ -1219,7 +1317,7 @@
           "One round loaf and plain bowl on board, soft neutral light; no decorative bounty."
         ],
         [
-          "As for that first question—fire or food—our Visitor would now like to add a third request: somebody who can help with both.",
+          "As for that first question, fire or food: you would now like to add a third request, somebody who can help with both.",
           "C0,C7",
           "room",
           "reaction",
@@ -1233,7 +1331,7 @@
           }
         ],
         [
-          "The bowl is finally full. He plans to appreciate it before history introduces another complication.",
+          "The bowl is finally full. You plan to appreciate it before history introduces another complication.",
           "C0",
           "soup",
           "object insert",
@@ -1282,8 +1380,8 @@
     "rule": "Pronunciation guides are directions, not automatic replacements. Audition these exact phrases in the paid chapter pilot; preserve historical spelling in captions. Do not introduce global common-word replacements."
   },
   "sound_plan": {
-    "status": "director_specified_assets_unheard",
-    "music": "Existing music/life_previously_theme.mp3, ducked under narration; existing internal provenance retained.",
+    "status": "director_specified_assets_unheard; cue list re-checked against visible action 2026-10-09",
+    "music": "Existing music/life_previously_theme.mp 3, ducked under narration; existing internal provenance retained.",
     "new_assets": [
       {
         "id": "winter-1709-winter-fire",
@@ -1346,126 +1444,119 @@
         "scene_id": "S001",
         "asset": "winter-1709-winter-fire",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S002",
         "asset": "winter-1709-winter-wood",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S007",
         "asset": "winter-1709-winter-fire",
         "offset_seconds": 0.3,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S010",
         "asset": "winter-1709-winter-river",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S019",
         "asset": "winter-1709-winter-cloth",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S020",
         "asset": "winter-1709-winter-fire",
         "offset_seconds": 0.3,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S025",
         "asset": "winter-1709-winter-river",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S030",
         "asset": "winter-1709-winter-bowl",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
-        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
-      },
-      {
-        "scene_id": "S038",
-        "asset": "winter-1709-winter-cloth",
-        "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S046",
         "asset": "winter-1709-winter-cloth",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S056",
         "asset": "winter-1709-winter-earth",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S060",
         "asset": "winter-1709-winter-bowl",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S062",
         "asset": "winter-1709-winter-bowl",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S070",
         "asset": "winter-1709-winter-bowl",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S073",
         "asset": "winter-1709-winter-earth",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S074",
         "asset": "winter-1709-winter-earth",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S085",
         "asset": "winter-1709-winter-fire",
         "offset_seconds": 0.3,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S095",
         "asset": "winter-1709-winter-bowl",
         "offset_seconds": 0.4,
-        "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
         "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       }
     ],
@@ -1514,6 +1605,121 @@
         "fix": "Point to summer bread shortage and continuing hardship."
       }
     ],
-    "unresolved_director_issues": []
+    "unresolved_director_issues": [],
+    "recheck": {
+      "date": "2026-10-09",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "coverage": "All 96 scenes re-read against REVIEW_STANDARD.md (story, style, pictures, sound, packaging) after Astra's initial review; every claim re-verified against its source (see claims_verification).",
+      "findings": [
+        {
+          "id": "01-R01",
+          "issue": "S006 answered the held question ('does the thaw rescue you?') in the cold open",
+          "fix": "Line now keeps the question for August without answering it."
+        },
+        {
+          "id": "01-R02",
+          "issue": "Two graphics in a row (S014, S015) and no Visitor beat in the measurement passage",
+          "fix": "S014 is now a Visitor reaction at the desk (scratch-head); S015 keeps the cold→thaw→cold schematic."
+        },
+        {
+          "id": "01-R03",
+          "issue": "Four image instructions named the Visitor (S028, S033, S070, S091), which reaches the image prompt",
+          "fix": "Rewritten to describe the empty space instead."
+        },
+        {
+          "id": "01-R04",
+          "issue": "S067 repeated S065's picture word for word",
+          "fix": "S067 is now a closer view with one neighbour passing a small bundle to the other."
+        },
+        {
+          "id": "01-R05",
+          "issue": "Narration slipped into third person ('For the Visitor', 'Our Visitor') in S070, S083, S094; em-dashes in S094",
+          "fix": "Second person throughout; punctuation the voice can read."
+        },
+        {
+          "id": "01-R06",
+          "issue": "Sound cue 'cloth' on S038, an object insert of a loaf with no visible movement",
+          "fix": "Cue removed; 17 cues remain, all on visible action."
+        },
+        {
+          "id": "01-R07",
+          "issue": "Years glued to words in scopes, notes, chips, tags and description ('January1709', 'PARIS1709', tag 'winter of1709')",
+          "fix": "Spacing normalised in 71 strings; tags and chip now read correctly."
+        },
+        {
+          "id": "01-R08",
+          "issue": "Claims carried status 'verify' although the sources had been read",
+          "fix": "Each row re-verified against the fetched passage and marked checked 2026-10-09 with evidence, locator and refutation note."
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-09",
+    "checked": 12,
+    "open": 0,
+    "total": 12,
+    "method": "Every cited source fetched and read at the locator on 2026-10-09 (Gutenberg Saint-Simon ch. XLIV English text, Météo-France interview, Pliemon et al. 2022 abstract, Assaf's article with the Van der Cruysse quotation, Paris Musées record). Spoken wording compared with the passages; a refutation attempt recorded per row in claims.json.",
+    "summary": "All 12 rows supported. Saint-Simon's 'Everybody held tight his old grain' directly supports S037; the barley resowing is in the English chapter and in Le Roy Ladurie's list of April 1709 measures; the March 1709 quotation names children and the old without means of protection."
+  },
+  "slate_reviews": [
+    {
+      "pass": 1,
+      "status": "passed_with_fixes",
+      "date": "2026-10-09",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Package-level pass on the compiled script.txt, claims.md and package.md after the re-check; cross-slate checks (era variety, duplicate angles, publication spacing) are pending until all eighteen packages are developed.",
+      "findings": [
+        {
+          "id": "01-P1-01",
+          "issue": "S095 still said 'He plans' after the second-person fix",
+          "fix": "'You plan to appreciate it ...'"
+        },
+        {
+          "id": "01-P1-02",
+          "issue": "Short 2 opened on a dangling 'First,'",
+          "fix": "S016 now opens 'Take a short trip out of Paris to Versailles'."
+        },
+        {
+          "id": "01-P1-03",
+          "issue": "Street and quay location designs hard-coded winter daylight, snow and frozen water, which every spring and summer edit of those places would inherit in its prompt",
+          "fix": "Designs are season-neutral; the winter shots (S003, S009, S010, S023, S024, S025, S026, S046) state snow and ice themselves."
+        },
+        {
+          "id": "01-P1-04",
+          "issue": "Residual glued text in a note, the research boundary and the source titles ('hiver1709', 'museum's1693')",
+          "fix": "Spaced."
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "pass": 2,
+      "status": "passed_with_fixes",
+      "date": "2026-10-09",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Adversarial and execution dry run: compiled prompts for an anchor, an edit and the lead thumbnail read in full; parent chains, pose plan, pilot order, sound assets, pronunciations, Shorts boundaries, description and tags checked against the standard.",
+      "findings": [
+        {
+          "id": "01-P2-01",
+          "issue": "The pilot had no scene from the summer earthworks family, the setting most exposed to anachronism (labourers, tools, dry ground beside a city wall)",
+          "fix": "S072 added to the ordered pilot before TH-A."
+        },
+        {
+          "id": "01-P2-02",
+          "issue": "Looked for a factual sentence without a supporting checked claim, a modern-dated caption, a prop pose in the wrong place, or a prompt naming the Visitor; none remain",
+          "fix": "No change."
+        }
+      ],
+      "unresolved": []
+    }
+  ],
+  "release": {
+    "status": "ready",
+    "date": "2026-10-09",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial review (Astra) with re-check, source verification of all 12 claims, and two package review passes complete. Cross-slate ordering checks pending until the whole library is developed. Production still needs the owner's itemized spending approval; publication is a separate owner decision."
   }
 }

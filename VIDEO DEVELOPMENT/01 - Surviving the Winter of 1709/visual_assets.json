@@ -57,6 +57,11 @@
       "status": "not_generated"
     },
     {
+      "id": "S014",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
       "id": "S016",
       "parent": null,
       "status": "not_generated"
@@ -418,12 +423,6 @@
       "id": "S012",
       "text": "REPEATED OBSERVATIONS",
       "label": "Louis Morin • Paris weather observations",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S014",
-      "text": "EARLY READINGS → MODERN INTERPRETATION",
-      "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {

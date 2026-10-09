@@ -5,7 +5,15 @@
     "type": "F",
     "sources": [],
     "locator": "Editorial framing; spoken reconstruction disclaimer in opening",
-    "limit": "Do not turn the hypothetical Visitor into an attested1709 person.",
+    "limit": "Do not turn the hypothetical Visitor into an attested 1709 person.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "editorial framing; no factual content",
+      "evidence": "S004 states aloud that the household and cupboard are invented and that the weather, shortages and relief are real.",
+      "source_locators": "",
+      "refutation": "",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -45,12 +53,12 @@
       "S095",
       "S096"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; editorial framing; no factual content",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C1",
-    "claim": "The narrative begins in Paris in January1709 and follows the crisis into spring and August;1709's exceptional cold did not remain uninterrupted all winter.",
+    "claim": "The narrative begins in Paris in January 1709 and follows the crisis into spring and August; 1709's exceptional cold did not remain uninterrupted all winter.",
     "type": "E",
     "sources": [
       "SRC02",
@@ -58,6 +66,14 @@
     ],
     "locator": "Météo-France temperature/calibration section; Morin analysis discussion",
     "limit": "Exact day-to-day timeline uses observations, not Saint-Simon's compressed rhetorical duration.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Météo-France (Le Roy Ladurie): the series 'mettent en évidence des alternances de périodes douces et de froid intense entre octobre 1708 et avril 1709'; thaw from 24 January, new cold 4–10 February, warm spell to 12 °C, cold again 21 Feb–3 March. Saint-Simon ch. XLIV: 'it completely thawed for seven or eight days, and then froze again as rudely as before.'",
+      "source_locators": "SRC02 section 'L'hiver 1708-1709 a-t-il vraiment été particulièrement rigoureux ?'; SRC01 ch. XLIV first paragraph",
+      "refutation": "Tried to refute 'not uninterrupted': both the measured series and the memoir describe a thaw between freezes; Lachiver counts seven cold waves. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S003",
       "S004",
@@ -65,8 +81,8 @@
       "S047",
       "S049"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C2",
@@ -78,6 +94,14 @@
     ],
     "locator": "Morin methods and historical measurements; Météo-France opening weather sections",
     "limit": "No invented thermometer scale or unsupported numeric graph; use categorical sequence only.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Météo-France: Louis Morin kept temperature readings 'trois ou quatre fois par jour, du 1er février 1665 au 13 juillet 1716'; the raw data 'doivent donc être retravaillées' because zero point, degree value and instrument were undefined. Pliemon et al. 2022 abstract: measurements digitised from copies of Morin's originals and subjected to quality analysis; 'apart from small inhomogeneities, reliable'; winter 1708/09 devastating in consecutive ice days though other winters colder on some measures.",
+      "source_locators": "SRC02 first interview answer; SRC03 abstract",
+      "refutation": "Checked that the script never gives a modern Celsius value as Morin's own reading and never calls 1709 the coldest ever; it does not. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S011",
       "S012",
@@ -86,8 +110,8 @@
       "S015",
       "S050"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C3",
@@ -98,6 +122,14 @@
     ],
     "locator": "ChapterXLIV, opening four paragraphs",
     "limit": "Attribute the anecdote to Saint-Simon and label Versailles; not every home, all drinks or guaranteed literal conditions everywhere.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Saint-Simon ch. XLIV: 'In four days the Seine and all the other rivers were frozen'; 'As I myself was one evening supping with the Duc de Villeroy, in his little bedroom, I saw bottles that had come from a well-heated kitchen, and that had been put on the chimney-piece of this bed-room ... so frozen, that pieces of ice fell into our glasses as we poured out from them.' Assaf quotes the French original with the same detail.",
+      "source_locators": "SRC01 ch. XLIV, paragraph beginning 'One of the reasons Madame de Maintenon'; SRC04 Saint-Simon quotation (398–399)",
+      "refutation": "Attribution and Versailles location confirmed; the script frames it as his experience, not every home. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S016",
       "S017",
@@ -105,8 +137,8 @@
       "S024",
       "S025"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C4",
@@ -117,6 +149,14 @@
     ],
     "locator": "Van der Cruysse quotation on frozen watercourses and difficult roads",
     "limit": "Disruption, not total halt of every route for every day. No invented cart journey or quantified fuel cost.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Assaf quoting Van der Cruysse (457): 'Les cours d'eau gelés et les routes impraticables sous la glace rendaient quasi-impossibles les transports de vivres et de bois.' Saint-Simon: rivers frozen within four days; 'the sea froze all along the coasts'.",
+      "source_locators": "SRC04 Van der Cruysse section; SRC01 ch. XLIV opening",
+      "refutation": "The source is stronger ('quasi-impossibles') than the script's 'disrupted'; the script's caution ('not every road closes for the entire winter') is a fair hedge, not an overstatement. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S005",
       "S010",
@@ -130,8 +170,8 @@
       "S086",
       "S090"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C5",
@@ -142,6 +182,14 @@
     ],
     "locator": "ChapterXLIV, barley and grain paragraphs",
     "limit": "Keep attribution; do not validate all his accusations, a universal fixed price or a shortage conspiracy.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Saint-Simon ch. XLIV: 'Everybody held tight his old grain. The price of bread increased in proportion to the despair for the next harvest.' Also: commissioners fixed prices by force and 'often obliged the vendors to raise it'; government stores collected 'with the greatest possible secrecy'; financiers accused of seizing corn.",
+      "source_locators": "SRC01 ch. XLIV, paragraphs on grain, bread price and the finance gentlemen",
+      "refutation": "Checked that the script attributes the accusations to him and does not treat them as proven (S042–S043). Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S005",
       "S033",
@@ -154,8 +202,8 @@
       "S079",
       "S087"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C6",
@@ -167,6 +215,14 @@
     ],
     "locator": "Saint-Simon chXLIV resown barley; Météo-France government-response section",
     "limit": "Barley helped; it did not erase famine or instantly feed everyone. No unsupported nationwide percentage.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Saint-Simon ch. XLIV: thaw then refreeze 'caused the complete destruction of all kinds of vegetation'; 'The most knowing resowed barley where there had been wheat, and were imitated by the majority. They were the most successful.' Météo-France lists among government measures 'autorisation de resemer de l'orge (avril 1709)' and says Saint-Simon recounts that sowing barley to replace destroyed winter wheat helped avert famine.",
+      "source_locators": "SRC01 ch. XLIV barley sentence; SRC02 'mesures' paragraph (Le Roy Ladurie)",
+      "refutation": "Note the memoir adds that the police first tried to prohibit the resowing and 'repented too late'; the script does not claim the opposite. No nationwide percentage is narrated. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S034",
       "S035",
@@ -183,8 +239,8 @@
       "S088",
       "S090"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C7",
@@ -195,7 +251,15 @@
       "SRC02"
     ],
     "locator": "ChXLIV charity paragraphs; Météo-France response",
-    "limit": "Availability/access varied; do not call it universal entitlement, copy1693 soup print as1709, or invent exact recipes/rations.",
+    "limit": "Availability/access varied; do not call it universal entitlement, copy 1693 soup print as 1709, or invent exact recipes/rations.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Saint-Simon ch. XLIV: 'A great number of people who, in preceding years, used to relieve the poor, found themselves so reduced ... many of them received alms in secret'; 'how immense were the alms distributed'; the hillock levelled for bread. Météo-France: parish registers stress 'les distributions des potages par les dames les plus aisées'; measures included 'distribution de soupes, ouverture d'ateliers publics'.",
+      "source_locators": "SRC01 ch. XLIV charity paragraphs; SRC02 parish-register and measures paragraphs",
+      "refutation": "The 1693 print is excluded as 1709 evidence (SRC05 record: 'Datation: En 1693', graveur Leroux). Access varied; the script says so. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S004",
       "S058",
@@ -216,18 +280,26 @@
       "S090",
       "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C8",
-    "claim": "Saint-Simon's account describes summer bread unrest and a20August bread shortage at boulevard earthworks paid with bread.",
+    "claim": "Saint-Simon's account describes summer bread unrest and a20 August bread shortage at boulevard earthworks paid with bread.",
     "type": "E",
     "sources": [
       "SRC01"
     ],
-    "locator": "ChXLIV Summer came and hillock between Portes SaintDenis/SaintMartin paragraphs",
+    "locator": "Ch. XLIV, 'Summer came' and 'hillock ... between the Portes Saint Denis and Saint Martin' paragraphs",
     "limit": "Reported event, not all work schemes; show summer. No invented speech or graphic violence.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Saint-Simon ch. XLIV: 'Summer came. The dearness of all things, and of bread in particular, continued to cause frequent commotions'; 'the idle and the poor were employed to level a rather large hillock which remained upon the Boulevard, between the Portes Saint Denis and Saint Martin; and for all salary, bad bread in small quantities was distributed'; 'on Tuesday morning, the 20th of August, there was no bread for a large number of these people.' Météo-France independently names the August 1709 Paris riot over earthworks paid in bread.",
+      "source_locators": "SRC01 ch. XLIV 'Summer came' and hillock paragraphs; SRC02 émeutes paragraph",
+      "refutation": "Date, place and bread-for-work arrangement match; the script omits the pillory and pillaging and invents no dialogue. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S006",
       "S071",
@@ -241,8 +313,8 @@
       "S080",
       "S081"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C9",
@@ -253,13 +325,21 @@
       "SRC02"
     ],
     "locator": "ChXLIV exhausted finances and peace negotiations; Météo-France response/context",
-    "limit": "Avoid attributing the whole crisis to a single cause or presenting1709 as trigger of1789.",
+    "limit": "Avoid attributing the whole crisis to a single cause or presenting 1709 as trigger of 1789.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Saint-Simon ch. XLIV: 'there was equal impotence to sustain the war and bring about peace'; envoys sent to Holland for peace; exhausted finances. Météo-France: 'En 1709, la France est en guerre depuis février 1701 pour la succession d'Espagne et la situation économique du pays est loin d'être florissante.'",
+      "source_locators": "SRC01 ch. XLIV 'But to return to the year 1709' paragraphs; SRC02 Le Roy Ladurie measures paragraph",
+      "refutation": "The script presents war as context, not sole cause, and makes no 1789 link. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S045",
       "S080"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C10",
@@ -271,6 +351,14 @@
     ],
     "locator": "Inference from price, transport and replacement-crop evidence above",
     "limit": "Explanatory reasoning, not a quantified model or statement every household faced identical choices.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "inference checked against the evidence rows above",
+      "evidence": "Inference from C4 (transport), C5 (price and hoarding) and C6 (resowing takes a season). No quantified model is narrated.",
+      "source_locators": "C4–C6 passages",
+      "refutation": "Looked for any line implying every household faced identical choices; none found. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S005",
       "S006",
@@ -306,8 +394,8 @@
       "S092",
       "S093"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; inference checked against the evidence rows above",
+    "checked_date": "2026-10-09"
   },
   {
     "id": "C11",
@@ -319,6 +407,14 @@
     ],
     "locator": "Saint-Simon ch. XLIV hunger/charity; Météo-France interview, quotation from La clef du cabinet, March 1709",
     "limit": "No casualty number, survival odds or graphic deaths are given.",
+    "checked": {
+      "date": "2026-10-09",
+      "method": "source passages read, wording compared, refutation attempted",
+      "evidence": "Météo-France quotes La clef du cabinet, March 1709: 'Il est mort partout une infinité de personnes de tout sexe & tout âge, principalement des enfants & des vieillards, parmi ceux qui n'avaient pas les commodités de se garantir contre un froid si extraordinaire'. Lachiver (via Météo-France): the poorest, children and the oldest were most vulnerable. Saint-Simon describes families dying of want.",
+      "source_locators": "SRC02 'Que nous apprennent les récits' paragraph; SRC01 ch. XLIV hospitals paragraph",
+      "refutation": "Checked that no death total is narrated (Météo-France's ~600,000 is contested in scale and is not used). Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S066",
       "S068",
@@ -329,7 +425,7 @@
       "S084",
       "S089"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-09; source passages read, wording compared, refutation attempted",
+    "checked_date": "2026-10-09"
   }
 ]

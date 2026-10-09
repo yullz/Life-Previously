@@ -1,4 +1,15 @@
-# Director work checkpoint —9 October2026
+# Director work checkpoint — 9 October 2026 (continuation by Claude)
+
+The owner asked Claude to complete Astra's development work, **one package at a time, without subagents**, pausing after each for the owner's look. The bar is `REVIEW_STANDARD.md`. Per package: text normalisation (hundreds of strings had years glued to words, e.g. "January1709", tag "winter of1709"), initial review or re-check, source verification of every claim (each cited source fetched and read; checked rows carry evidence and a refutation note in claims.json; inaccessible or unsupported rows stay open), two package review passes, then release with `package_manifest.json`. The compiler now writes checked claim statuses, review evidence and the release state from `episode.json`.
+
+| Package | State (2026-10-09) |
+|---|---|
+| 01 Winter of 1709 | **Released.** 12/12 claims checked; 96 shots, 82 illustrations, 14 graphics, Visitor in 43%; 17 sound cues; pilot S001, S003, S010, S016, S031, S034, S060, S072, TH-A. |
+| 02–18 | Draft as left by Astra (01–03 had Astra's initial review). Next in order. |
+
+Cross-slate checks (publication spacing, era variety, duplicate angles) wait until all eighteen are developed.
+
+# Astra's checkpoint — 9 October 2026 (before the continuation)
 
 Scope:18 complete packages, plus two additional complete review passes after development. Goal remains active. No paid media generated and no publication changes. Active Episode003 remains separate.
 

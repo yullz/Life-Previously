@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "commissioned": "2026-10-09",
   "goal": "Complete all eighteen director packages and two additional full review passes",
-  "state": "in_progress",
+  "state": "in_progress: one package at a time (owner instruction 2026-10-09); 01 released",
   "paid_generation": false,
   "publication_authorized": false,
   "packages": [
@@ -11,11 +11,15 @@
       "folder": "01 - Surviving the Winter of 1709",
       "title": "How Did People Survive the Winter of 1709?",
       "production_slug": "winter-1709",
-      "stage": "initial_content_review_passed_generated_refresh_pending",
-      "director_review": "content_passed_with_fixes_execution_validation_pending",
-      "additional_review_1": "pending",
-      "additional_review_2": "pending",
-      "claude_ready": false
+      "stage": "released_director_package",
+      "director_review": "initial review (Astra) passed with fixes; re-check by Claude 2026-10-09",
+      "additional_review_1": "passed_with_fixes (package pass, 2026-10-09)",
+      "additional_review_2": "passed_with_fixes (package pass, 2026-10-09)",
+      "claude_ready": true,
+      "claims_verification": "complete: 12 of 12 checked against sources 2026-10-09",
+      "cross_slate_check": "pending until all eighteen are developed (ordering, era variety, duplicate angles)",
+      "released": "2026-10-09",
+      "manifest": "package_manifest.json"
     },
     {
       "id": 2,
@@ -205,5 +209,6 @@
       "claude_ready": false
     }
   ],
-  "review_policy": "Only record reviews actually performed against identified file versions. No media approval before media exist."
+  "review_policy": "Only record reviews actually performed against identified file versions. No media approval before media exist.",
+  "work_method": "From 2026-10-09 the owner delegated completion of the director work to Claude, one package at a time, no subagents. Each package gets: spacing/text normalisation, initial review or re-check against REVIEW_STANDARD.md, source verification of every claim, two package review passes, release with manifest."
 }

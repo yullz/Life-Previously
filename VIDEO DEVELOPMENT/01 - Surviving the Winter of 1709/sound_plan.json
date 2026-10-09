@@ -1,6 +1,6 @@
 {
-  "status": "director_specified_assets_unheard",
-  "music": "Existing music/life_previously_theme.mp3, ducked under narration; existing internal provenance retained.",
+  "status": "director_specified_assets_unheard; cue list re-checked against visible action 2026-10-09",
+  "music": "Existing music/life_previously_theme.mp 3, ducked under narration; existing internal provenance retained.",
   "new_assets": [
     {
       "id": "winter-1709-winter-fire",
@@ -63,129 +63,121 @@
       "scene_id": "S001",
       "asset": "winter-1709-winter-fire",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S002",
       "asset": "winter-1709-winter-wood",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S007",
       "asset": "winter-1709-winter-fire",
       "offset_seconds": 0.3,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S010",
       "asset": "winter-1709-winter-river",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S019",
       "asset": "winter-1709-winter-cloth",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S020",
       "asset": "winter-1709-winter-fire",
       "offset_seconds": 0.3,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S025",
       "asset": "winter-1709-winter-river",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S030",
       "asset": "winter-1709-winter-bowl",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
-      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
-    },
-    {
-      "scene_id": "S038",
-      "asset": "winter-1709-winter-cloth",
-      "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S046",
       "asset": "winter-1709-winter-cloth",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S056",
       "asset": "winter-1709-winter-earth",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S060",
       "asset": "winter-1709-winter-bowl",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S062",
       "asset": "winter-1709-winter-bowl",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S070",
       "asset": "winter-1709-winter-bowl",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S073",
       "asset": "winter-1709-winter-earth",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S074",
       "asset": "winter-1709-winter-earth",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S085",
       "asset": "winter-1709-winter-fire",
       "offset_seconds": 0.3,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S095",
       "asset": "winter-1709-winter-bowl",
       "offset_seconds": 0.4,
-      "level": "Use native kind normalization, begin gain0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
       "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     }
   ],
   "inspection": "Listen to each asset at production. Reject electronic chimes, modern ambience or an effect that does not match the requested action. Insert tags only after assets pass; do not claim eighteen cues are all required if the exact pictured action makes one unsuitable."
 }
-

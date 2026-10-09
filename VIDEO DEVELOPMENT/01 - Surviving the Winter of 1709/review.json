@@ -1,10 +1,156 @@
 {
-  "state": "draft_built",
+  "state": "released_director_package",
   "source_passages_read": true,
-  "exact_script_critical_review": "pending",
-  "additional_slate_review_1": "pending",
-  "additional_slate_review_2": "pending",
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-09",
+    "coverage": "All 96 narration lines, claim-to-source mapping, visual instructions, chronology, thumbnail promises and contiguous Shorts read. Relevant primary passages rechecked; structural and final slate reviews remain separate.",
+    "refutation": "Compared Saint-Simon's sweeping uninterrupted-freeze/total-crop-loss rhetoric with Morin analysis and historian synthesis. Kept interruption of cold, attribution, local scope and no casualty/price/efficiency numbers. Rechecked August bread-work event and contemporary age-vulnerability quotation.",
+    "findings": [
+      {
+        "id": "01-I01",
+        "issue": "Unsupported superlative 'most dangerous part' in S006",
+        "fix": "Changed to hardship continuing beyond thaw."
+      },
+      {
+        "id": "01-I02",
+        "issue": "S068 represented a contemporary quoted age-vulnerability claim as general historians' finding",
+        "fix": "Attributed the contemporary account and lack of protection; updated C11."
+      },
+      {
+        "id": "01-I03",
+        "issue": "Versailles Short began with dangling 'That matters later'",
+        "fix": "Removed dangling opening; source attribution remains."
+      },
+      {
+        "id": "01-I04",
+        "issue": "Spring field regenerated independently and callback date implicit",
+        "fix": "Bind spring edit to winter field; explicit January callback and August scene labels."
+      },
+      {
+        "id": "01-I05",
+        "issue": "Thumbnail B payoff listed full-bowl scenes",
+        "fix": "Point to summer bread shortage and continuing hardship."
+      }
+    ],
+    "unresolved_director_issues": [],
+    "recheck": {
+      "date": "2026-10-09",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "coverage": "All 96 scenes re-read against REVIEW_STANDARD.md (story, style, pictures, sound, packaging) after Astra's initial review; every claim re-verified against its source (see claims_verification).",
+      "findings": [
+        {
+          "id": "01-R01",
+          "issue": "S006 answered the held question ('does the thaw rescue you?') in the cold open",
+          "fix": "Line now keeps the question for August without answering it."
+        },
+        {
+          "id": "01-R02",
+          "issue": "Two graphics in a row (S014, S015) and no Visitor beat in the measurement passage",
+          "fix": "S014 is now a Visitor reaction at the desk (scratch-head); S015 keeps the cold→thaw→cold schematic."
+        },
+        {
+          "id": "01-R03",
+          "issue": "Four image instructions named the Visitor (S028, S033, S070, S091), which reaches the image prompt",
+          "fix": "Rewritten to describe the empty space instead."
+        },
+        {
+          "id": "01-R04",
+          "issue": "S067 repeated S065's picture word for word",
+          "fix": "S067 is now a closer view with one neighbour passing a small bundle to the other."
+        },
+        {
+          "id": "01-R05",
+          "issue": "Narration slipped into third person ('For the Visitor', 'Our Visitor') in S070, S083, S094; em-dashes in S094",
+          "fix": "Second person throughout; punctuation the voice can read."
+        },
+        {
+          "id": "01-R06",
+          "issue": "Sound cue 'cloth' on S038, an object insert of a loaf with no visible movement",
+          "fix": "Cue removed; 17 cues remain, all on visible action."
+        },
+        {
+          "id": "01-R07",
+          "issue": "Years glued to words in scopes, notes, chips, tags and description ('January1709', 'PARIS1709', tag 'winter of1709')",
+          "fix": "Spacing normalised in 71 strings; tags and chip now read correctly."
+        },
+        {
+          "id": "01-R08",
+          "issue": "Claims carried status 'verify' although the sources had been read",
+          "fix": "Each row re-verified against the fetched passage and marked checked 2026-10-09 with evidence, locator and refutation note."
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-09",
+    "checked": 12,
+    "open": 0,
+    "total": 12,
+    "method": "Every cited source fetched and read at the locator on 2026-10-09 (Gutenberg Saint-Simon ch. XLIV English text, Météo-France interview, Pliemon et al. 2022 abstract, Assaf's article with the Van der Cruysse quotation, Paris Musées record). Spoken wording compared with the passages; a refutation attempt recorded per row in claims.json.",
+    "summary": "All 12 rows supported. Saint-Simon's 'Everybody held tight his old grain' directly supports S037; the barley resowing is in the English chapter and in Le Roy Ladurie's list of April 1709 measures; the March 1709 quotation names children and the old without means of protection."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed_with_fixes",
+    "date": "2026-10-09",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script.txt, claims.md and package.md after the re-check; cross-slate checks (era variety, duplicate angles, publication spacing) are pending until all eighteen packages are developed.",
+    "findings": [
+      {
+        "id": "01-P1-01",
+        "issue": "S095 still said 'He plans' after the second-person fix",
+        "fix": "'You plan to appreciate it ...'"
+      },
+      {
+        "id": "01-P1-02",
+        "issue": "Short 2 opened on a dangling 'First,'",
+        "fix": "S016 now opens 'Take a short trip out of Paris to Versailles'."
+      },
+      {
+        "id": "01-P1-03",
+        "issue": "Street and quay location designs hard-coded winter daylight, snow and frozen water, which every spring and summer edit of those places would inherit in its prompt",
+        "fix": "Designs are season-neutral; the winter shots (S003, S009, S010, S023, S024, S025, S026, S046) state snow and ice themselves."
+      },
+      {
+        "id": "01-P1-04",
+        "issue": "Residual glued text in a note, the research boundary and the source titles ('hiver1709', 'museum's1693')",
+        "fix": "Spaced."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed_with_fixes",
+    "date": "2026-10-09",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Adversarial and execution dry run: compiled prompts for an anchor, an edit and the lead thumbnail read in full; parent chains, pose plan, pilot order, sound assets, pronunciations, Shorts boundaries, description and tags checked against the standard.",
+    "findings": [
+      {
+        "id": "01-P2-01",
+        "issue": "The pilot had no scene from the summer earthworks family, the setting most exposed to anachronism (labourers, tools, dry ground beside a city wall)",
+        "fix": "S072 added to the ordered pilot before TH-A."
+      },
+      {
+        "id": "01-P2-02",
+        "issue": "Looked for a factual sentence without a supporting checked claim, a modern-dated caption, a prop pose in the wrong place, or a prompt naming the Visitor; none remain",
+        "fix": "No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-09",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial review (Astra) with re-check, source verification of all 12 claims, and two package review passes complete. Cross-slate ordering checks pending until the whole library is developed. Production still needs the owner's itemized spending approval; publication is a separate owner decision."
+  },
   "media_reviews": "not_applicable_yet_no_media_generated",
-  "known_research_boundaries": "Scope: a clearly imaginary Visitor household in Paris, January1709, followed through changing seasons. The historical claims come from weather observations, an attributed memoir and a historian's synthesis. The story tests access to warmth, food and help; it does not invent an exact poor family's menu, income, fuel price or diary. Cross-place detour to Versailles is named aloud and on screen. Do not use Saint-Simon's all-crops/all-trees language literally. His accusations against officials are contested political testimony; the script treats distrust as part of the situation, not proof of a centrally planned famine. An apparent1709 relief illustration led to the museum's1693 catalogue record; it is excluded as1709 evidence. No unsupported coldest-ever claim, fixed national death total, period Celsius instrument, modern baguette or winter snow in the August event. Audience appeal is an editorial hypothesis, not measured demand or a viral forecast. The owner commissioned development of this title; launch-time packaging checks remain separate."
+  "known_research_boundaries": "Scope: a clearly imaginary Visitor household in Paris, January 1709, followed through changing seasons. The historical claims come from weather observations, an attributed memoir and a historian's synthesis. The story tests access to warmth, food and help; it does not invent an exact poor family's menu, income, fuel price or diary. Cross-place detour to Versailles is named aloud and on screen. Do not use Saint-Simon's all-crops/all-trees language literally. His accusations against officials are contested political testimony; the script treats distrust as part of the situation, not proof of a centrally planned famine. An apparent 1709 relief illustration led to the museum's 1693 catalogue record; it is excluded as 1709 evidence. No unsupported coldest-ever claim, fixed national death total, period Celsius instrument, modern baguette or winter snow in the August event. Audience appeal is an editorial hypothesis, not measured demand or a viral forecast. The owner commissioned development of this title; launch-time packaging checks remain separate."
 }
-

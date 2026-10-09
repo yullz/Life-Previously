@@ -21,4 +21,3 @@ All media gates start open. Mark only performed checks, with date, reviewer, met
 - [ ] One clear owner review folder with all deliverables, exact hashes and honest open issues
 - [ ] Owner approves publication separately; no automatic upload or scheduling
 - [ ] Lessons and measured acceptance/repair costs recorded; no assumed improvement
-
