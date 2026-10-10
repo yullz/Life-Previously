@@ -1,0 +1,2053 @@
+{
+  "id": 19,
+  "slug": "how-humans-survived",
+  "title": "Could You Survive One Night With Early Humans?",
+  "pirate_hat": false,
+  "alternate_titles": [
+    "How Ancient Humans Survived Until Now (owner's working title, 10 October 2026)",
+    "Six Camps That Kept Humans Alive, One Million Years Ago to the Ice Age"
+  ],
+  "period": "A clearly labelled journey through six excavated camps, oldest first: Wonderwerk Cave, South Africa, about 1,000,000 years ago; Schöningen, Germany, about 300,000 years ago; Shanidar Cave, Iraq, about 50,000 years ago; Canyars near Barcelona, about 39,600 years ago; Ohalo II on the Sea of Galilee, about 23,000 years ago; Mezhyrich, Ukraine, about 18,000 years ago. The night-time frame is the Mezhyrich steppe. Never merge the stops into one place or one people. People are shown respectfully as skilled adults and children of their time: dark-skinned lean early humans at Wonderwerk (hide wraps are an illustrative modesty choice, not a claim), robust Neanderthals with large noses and hide clothing at Shanidar, Homo sapiens in sewn hide clothing at the later stops. Tools are wood, stone, bone, antler and ivory only: no metal, no pottery, no bows, no domestic animals, no fields. Fire is small and tended. Every date on screen is the site's own, not a modern publication year.",
+  "avoid": "cartoon cavemen with clubs; fur bikinis or loincloth-only costumes; dinosaurs; sabre-tooth attacks; Flintstones props; wheels; pottery; metal blades or cooking pots; bows and arrows; domestic dogs or horses with harness; fields or fences; painted cave art at Wonderwerk; modern tents, zips, buttons or boots on locals; snow goggles; igloos; Viking-style furs; mammoth hunts with dozens of hunters; mammoth-bone house drawn with a tidy hide roof as fact; readable text or numbers on anything; identical faces; ethnic caricature; skulls arranged as decoration; graphic injury detail on Shanidar One; modern skyline or roads",
+  "locations": {
+    "steppe_night": {
+      "scope": "Dnieper basin, Ukraine, about 18,000 years ago; cold forest-steppe at night; reconstruction",
+      "design": "Flat frozen grassland under a clear moonlit sky, thin snow in patches, a few distant stunted trees at the horizon, firm frosted ground with a clear right foreground. No buildings in the opening night views unless the scene says so; later night views show one low round mammoth-bone structure at middle distance with a faint fire glow at a gap in its wall. One moon, one horizon, no aurora."
+    },
+    "wonderwerk": {
+      "scope": "Wonderwerk Cave, Northern Cape, South Africa, about 1,000,000 years ago; cave interior about 30 metres from the entrance; reconstruction",
+      "design": "Wide low cave passage, dolomite walls and a dusty flat floor; the entrance is a small bright patch far behind, barely lighting the space. A small tended fire on the floor at left with two lean dark-skinned adult early humans beside it, one feeding it with a branch, simple hide wraps; a few chipped stone tools on the ground. No wall paintings, no stalactite fantasy, no torches on walls. Clear right floor."
+    },
+    "schoningen_lake": {
+      "scope": "Schöningen, Lower Saxony, Germany, about 300,000 years ago; interglacial lakeshore in open woodland; reconstruction",
+      "design": "Shallow lake edge with reeds at left, alder, birch and willow scattered behind, low hills with pine on the skyline, a small group of wild horses grazing at middle distance. Three adult early humans (robust, dark to medium skin, hide clothing) with long wooden spears near the shore. Overcast soft daylight, firm muddy ground with a clear right foreground."
+    },
+    "schoningen_work": {
+      "scope": "Schöningen lakeshore, about 300,000 years ago; wood-working and butchery area; reconstruction",
+      "design": "Close view of the shore with split spruce and pine pieces, a half-shaped wooden spear on the ground, a stone flake and a scraped hide pegged with sticks; one adult crouched working wood with a stone tool at left. No metal, no rope coils, no tent."
+    },
+    "shanidar": {
+      "scope": "Shanidar Cave, Zagros foothills, northern Iraq, about 50,000 years ago; cave mouth; reconstruction",
+      "design": "Large cave mouth seen from inside, rocky ledge and daylight on dry hills beyond; a hearth at left with an older Neanderthal man seated on a hide, wrapped in a hide cloak whose right side hangs empty below the elbow, a scar across the left brow, calm face; a younger Neanderthal woman or man kneels beside him with food. Robust builds, large noses, hide clothing, no fur-bikini costumes, no gore. Clear right floor."
+    },
+    "canyars": {
+      "scope": "Canyars, near Gavà, Catalonia, Spain, about 39,600 years ago; open-air coastal camp; reconstruction",
+      "design": "Open-air camp on a low terrace with the Mediterranean a grey line at the horizon, pine scrub, a small fire; two Homo sapiens adults in sewn hide clothing working hides: one presses a pointed stone tool through a hide laid over a flat bone, another stretches a hide on pegs. Soft daylight, clear right foreground."
+    },
+    "ohalo_camp": {
+      "scope": "Ohalo II, south-western shore of the Sea of Galilee, Israel, about 23,000 years ago; fisher-hunter-gatherer camp; reconstruction",
+      "design": "Lakeshore with several low oval brush huts of tamarisk, willow and oak branches covered with smaller branches, leaves and grass, open-air hearths, drying fish on sticks, a few adults in hide and plant-fibre clothing; low hills behind, calm water at left. No pottery, no boats, no fields. Clear right foreground."
+    },
+    "ohalo_hut": {
+      "scope": "Ohalo II, Brush Hut 1, about 23,000 years ago; interior about 4.5 by 3 metres, floor dug below ground; reconstruction",
+      "design": "Dim interior of a brush hut, walls of bundled branches, floor below outside ground level, a small central hearth, grass bedding laid in an overlapping pattern over much of the floor, a flat grinding stone with a handful of wild grain at left where a woman kneels grinding; a bone point and a few flint flakes on the floor. Warm firelight, clear right floor strip."
+    },
+    "mezhyrich": {
+      "scope": "Mezhyrich, Cherkasy region, Ukraine, about 18,000 years ago; round mammoth-bone structure about 6 metres across; reconstruction",
+      "design": "Daylight on cold forest-steppe; a low round wall of stacked mammoth bones (long bones, skulls, a few tusks) about six metres across at left, a dark gap as entrance, smoke rising from inside, shallow pits with bone debris nearby; two adults in sewn hide clothing carrying a long bone. The roof is shown as a low vague covering of unspecified material and the shot avoids making it a clear statement. Clear right foreground."
+    },
+    "mezhyrich_int": {
+      "scope": "Mezhyrich structure interior, about 18,000 years ago; reconstruction",
+      "design": "Dim circular interior, bone wall visible behind, a hearth at left with a small group of adults and one child in hide clothing, ivory and bone ornaments on a hide, firelight only. No visible roof structure in detail. Clear right floor."
+    },
+    "objects": {
+      "scope": "Explanatory object detail; period given in the scene",
+      "frame": "modern historical object explanation",
+      "design": "Neutral parchment field with one specified object: charred bone, chipped stone tool, wooden spear point, throwing stick, punched bone fragment, ivory beads, grinding stone with wild grain, mammoth bone. No text."
+    },
+    "diagram": {
+      "scope": "Modern explanatory graphic about early human survival",
+      "frame": "modern explanatory diagram",
+      "design": "Parchment canvas, brown, ochre and slate shapes, every date labelled 'years ago' locally typeset; at most four labelled elements; no faux cave art, no skulls as decoration."
+    }
+  },
+  "sources": [
+    {
+      "id": "SRC01",
+      "title": "Marin-Monfort et al. — New evidence for Early Pleistocene use of fire at Wonderwerk Cave (South Africa), PLOS ONE 2026",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13225425/fullTextXML",
+      "read": "2026-10-10: introduction and discussion: 'The most robust dataset supporting early fire use currently derives from the Acheulean of Wonderwerk Cave (South Africa), Excavation 1, Stratum 10 … dated to ~1.0 Ma. This is based on finds of burnt bone, stone, sediment, and in situ ash together in the same layer'; Excavation 1 'would have been situated ~30 m from the cave entrance … too deep inside the cave to be affected by natural wildfires'; burnt small-mammal bones in Strata 10 and 11 show 'repeated, spatially patterned combustion events deep within the cave'; 'intentional fire introduction and use by early Acheulean hominins, most likely Homo erectus'; 'it seems likely that early Homo was only able to acquire fire from natural, mostly seasonal wildfire resources, bring it to their occupation sites, and maintain it until it was extinguished. The ability to make and control fire only developed much later'.",
+      "limit": "Fire use and maintenance, not fire-making, is what the evidence shows; the hominin identity is the authors' 'most likely'. No cooking menu, no hearth design and no cave art belong to this layer."
+    },
+    {
+      "id": "SRC02",
+      "title": "Smithsonian National Museum of Natural History, Human Origins — Homo erectus",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus",
+      "read": "2026-10-10: 'When Lived: Between about 1.89 million and 110,000 years ago'; 'The earliest evidence of hearths (campfires) occur during the time range of Homo erectus'; hearths 'used for cooking (and probably sharing) food … places for social interaction, and also used for warmth and to keep away large predators'.",
+      "limit": "General species page; it does not name Wonderwerk. Use for what fire was for, not for the Wonderwerk dating."
+    },
+    {
+      "id": "SRC03",
+      "title": "Leder et al. — The wooden artifacts from Schöningen's Spear Horizon and their place in human evolution, PNAS 2024 (open access)",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11009636/fullTextXML",
+      "read": "2026-10-10: significance, abstract and results: 'With 187 wooden artifacts, Schöningen 13 II-4 provides the largest assemblage worldwide'; 'at least 10 spears and seven throwing sticks used in hunting next to 35 newly recognized pointed and rounded split woods likely used in domestic activities'; 'this 300,000-y-old site (MIS 9)'; 'located at a former interglacial lakeshore'; 'open woodland landscape with alder, birch, and willow near riverine and lacustrine locations'; artifacts 'exclusively made from spruce (n = 124), spruce/larch (n = 18), and pine (n = 45)'; 'the raw material was not available at the lakeshore but must have been transported from the nearby Elm Mountain some 3 to 5 km away'; '20 to 25 butchered animal carcases, mostly horse'; 'skinning was one of the major features of the butchery sequence'; throwing sticks 'could be used by various members of the group including children'; the site 'functioned not only as a hunting/butchering site by a lakeshore … but equally as a site for domestic activities'; Schöningen sits 'in the midst of the transitional phase from H. heidelbergensis/H. erectus to Neanderthals in Eurasia'.",
+      "limit": "Counts are minimums from a reinterpreted assemblage. The makers' species is not settled; say 'earlier humans, not our species'. No single hunt is reconstructed."
+    },
+    {
+      "id": "SRC04",
+      "title": "Trinkaus and Villotte — External auditory exostoses and hearing loss in the Shanidar 1 Neandertal, PLOS ONE 2017",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186684",
+      "read": "2026-10-10: abstract, materials and discussion: 'The ≈50 ka BP Shanidar 1 Neandertal'; 'an adult (40–50 years old …) male'; 'crushing fracture of his left orbit with a probable reduction in vision, the loss of his right forearm and hand, and evidence of an abnormal gait'; the arm 'was most likely amputated above the elbow, possibly after a non-union fracture and associated atrophy'; 'at least unilateral conductive hearing loss, a serious sensory deprivation for a Pleistocene hunter-gatherer'; the condition 'reinforces the paleobiological and archeological evidence for supporting social matrices among these Pleistocene foraging peoples'; predators 'ubiquitous … in the Zagros Mountains and at Shanidar Cave'.",
+      "limit": "The paper infers social support from survival with disabilities; it does not describe who cared for him or how. Keep the injuries as listed and the age as a range."
+    },
+    {
+      "id": "SRC05",
+      "title": "Smithsonian National Museum of Natural History, Human Origins — Homo neanderthalensis",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis",
+      "read": "2026-10-10: 'When Lived: About 400,000 - 40,000 years ago'; 'Neanderthals … are our closest extinct human relative'; 'short, stocky bodies … adapted to winter climates'; 'made and used a diverse set of sophisticated tools, controlled fire, lived in shelters, made and wore clothing, were skilled hunters of large animals and also ate plant foods … deliberately buried their dead'.",
+      "limit": "Species overview; it does not discuss interbreeding in the passage read, so the script says only that their line did not continue as a separate people."
+    },
+    {
+      "id": "SRC06",
+      "title": "Doyon et al. — A 39,600-year-old leather punch board from Canyars, Gavà, Spain, Science Advances 2023 (open access)",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10096582/fullTextXML",
+      "read": "2026-10-10: abstract, site description and discussion: 'an open-air site located near Gavà, 20 km south of Barcelona'; dates '37,405 to 40,916 cal BP (2σ)', 'consistent with the Early Aurignacian occupation'; 'the earliest-known leather work punch board recording six episodes of hide pricking, one of which was to produce a linear seam'; 'Aurignacian hunters-gatherers used this technology to produce leather works and probably tailored clothes well before the introduction of bone eyed needles in Europe 15,000 years later'; 'bone eyed needles are undocumented in Western Europe before the Solutrean [c. 26 to 23 ka]'; 'Eyed needles are not required for the manufacture of fitted clothes'.",
+      "limit": "'Probably tailored clothes' is the authors' inference from a seam; no garment survives. The hole count is not spoken."
+    },
+    {
+      "id": "SRC07",
+      "title": "The Origins of Fashion — Evolutionary Anthropology 2026 (open access review)",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13321133/fullTextXML",
+      "read": "2026-10-10: thresholds and clothing sections: 'proto-clothing for protection against cold and windchill was already in place by 700 ka, and likely earlier' (from use-wear, hide-removal cutmarks, bone skin-working tools and the divergence of body and head lice); 'The earliest bone-eyed needles … emerge in East Asia around 40 ka, only reaching Europe circa 26 ka'; 'the double and triple burials of Sungir (Russia, ~34 ka), where two subadults were buried with tens of thousands of beads, mammoth ivory spears, and lavish regalia far exceeding the grave goods of nearby adults'.",
+      "limit": "A review article; its dates summarise other studies. The 700,000-year figure is an inference from indirect evidence and is spoken with 'suggest'. Sungir's beads are described as grave goods; the script does not claim how they were worn."
+    },
+    {
+      "id": "SRC08",
+      "title": "Nalawade-Chavan, McCullagh and Hedges — New hydroxyproline radiocarbon dates from Sungir, Russia, PLOS ONE 2014",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0076896",
+      "read": "2026-10-10: abstract and introduction: site 'about 197 km east of Moscow near the modern city of Vladimir'; 'up to 8 human individuals, some of whom were interred with a rich material culture, including spears made of mammoth ivory, ivory beads and perforated fox teeth'; hydroxyproline dates of about 30,000 radiocarbon years BP for the burials, statistically indistinguishable.",
+      "limit": "Radiocarbon ages of about 30,000 BP calibrate to roughly 34,000 calendar years; the script says 'about thirty-four thousand years ago' following SRC07."
+    },
+    {
+      "id": "SRC09",
+      "title": "Snir et al. — The Origin of Cultivation and Proto-Weeds, Long Before Neolithic Farming, PLOS ONE 2015",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131422",
+      "read": "2026-10-10: abstract and site description: 'Ohalo II, a 23,000-year-old hunter-gatherers' sedentary camp on the shore of the Sea of Galilee, Israel'; 'inhabited during the Last Glacial Maximum (LGM) at ~23,000 years ago and then inundated'; 'The remains of six brush huts were identified … All of the huts had a bowl-like cross section, with the floor dug below ground level'; Brush Hut 1 'built with thick branches of Tamarix (tamarisk), Salix (willow) and Quercus ithaburensis (Mt. Tabor oak), covered by smaller branches … as well as by leaves and grasses'; 'ca. 150,000 seeds and fruits'; 'extensive human gathering of over 140 plant species and food preparation by grinding wild wheat and barley'; '13 well-known current weeds'; 'at least 11 millennia before the onset of agriculture'; 'we suggest that their presence indicates the earliest, small-scale attempt to cultivate wild cereals'; floors also held 'flint and ground stone tools, faunal remains (fish, mammals, birds, rodents, reptiles, and mollusks), beads, bone, and wood objects'.",
+      "limit": "Trial cultivation is the authors' suggestion, spoken as such. No farming, no domesticated plants."
+    },
+    {
+      "id": "SRC10",
+      "title": "Steiner et al. — Abundance or stress? Faunal exploitation patterns … Brush Hut 1 at Ohalo II, PLOS ONE 2022 (open access)",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8791512/fullTextXML",
+      "read": "2026-10-10: introduction and site description: 'occupied during the Last Glacial Maximum (LGM), between 23,500–22,500 cal BP'; 'The site covers ca. 2000 m2 and includes the remains of six oval-shaped brush huts, open-air hearths, a grave of an adult male'; 'Brush Hut 1 is the largest of the six brush huts … measuring 4.5 × 3.0 m'; 'Floor III was covered, except for a hearth in the middle, with grass bedding laid in an overlapping pattern over ca. 7 m2 of the floor'; Floor III read as 'a winter occupation based on the plant assemblage, the grass bedding, and the presence of an indoor hearth'; fauna: gazelle dominant over fallow deer, with fish, birds, hares and tortoises exploited concurrently.",
+      "limit": "Seasonality is an interpretation. The bedding is Floor III of one hut, not every floor."
+    },
+    {
+      "id": "SRC11",
+      "title": "Chu et al. — A revised radiocarbon chronology for the mammoth bone structures and associated features at Mezhyrich, Ukraine, Open Research Europe 2025 (open access, with open peer review)",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12639289/fullTextXML",
+      "read": "2026-10-10: abstract, background and reviews: 'Mezhyrich … situated in the Middle Dnieper Basin of Ukraine known for its exceptional preservation of four Mammoth Bone Structures (MBSs) between 12–24 m' apart; earlier excavations found 'three discrete MBSs, each c. 6 m in diameter'; 'The mammoth bones used in the construction of MBS 4 were sourced from a minimum of 37 individuals' (a reviewer disputes the authors' 'predominantly from natural accumulations', noting the cited excavators said only that some bones came from long-dead animals); MBS 4 dated 'c. 18,248–17,764 years cal BP with a site duration lasting between 0–429 years'; 'at least three internal cultural layers and the presence of butchered remains of juvenile and adolescent mammoths within the surrounding pits'; features include 'artefact-filled pits, hunting weapons, ivory, and bone ornaments'; the debate whether such structures were 'dwellings or … bone beds, food caches, burials, religious traditions, or ritualised middens'; environment 'a cold mesophilic forest-steppe'; herbivore niches of the mammoth steppe 'collapsed during the Last Glacial Maximum'.",
+      "limit": "The dwelling interpretation and the bone-sourcing are debated in the article's own open reviews; the script says so. The roof is unknown. No hunt of 37 mammoths is claimed."
+    },
+    {
+      "id": "SRC12",
+      "title": "Smithsonian National Museum of Natural History, Human Origins — Homo sapiens",
+      "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens",
+      "read": "2026-10-10: 'When Lived: About 300,000 years ago to present'; 'During a time of dramatic climate change 300,000 years ago, Homo sapiens evolved in Africa'.",
+      "limit": "Rounded species date; no population figures are spoken."
+    }
+  ],
+  "claims": [
+    {
+      "id": "C0",
+      "claim": "The Visitor's night, his journey between six camps and his reactions are fictional viewer framing; the camps, dates and finds are real.",
+      "type": "F",
+      "sources": [],
+      "locator": "Opening says the traveller is invented and the camps are not.",
+      "limit": "No invented individuals beyond the Visitor; no claim that any camp received a visitor or that the stops connect historically.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Framing row; S008 says the traveller is invented and the camps are not; S081 marks the roof as a guess.",
+        "source_locators": "—",
+        "refutation": "Looked for any line presenting the Visitor's night as a documented event; none.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C1",
+      "claim": "Wonderwerk Cave, South Africa: burnt bone, stone, sediment and in-place ash in Stratum 10, about 1,000,000 years ago, about 30 metres inside the cave, show fire repeatedly carried in and used by early Acheulean people, most likely Homo erectus.",
+      "type": "E",
+      "sources": [
+        "SRC01"
+      ],
+      "locator": "Introduction (Stratum 10, ~1.0 Ma, burnt bone/stone/sediment/ash); discussion (~30 m from entrance; repeated combustion; most likely Homo erectus).",
+      "limit": "Fire use, not fire-making. 'Most likely Homo erectus' is the authors' judgement.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01: 'Wonderwerk Cave (South Africa), Excavation 1, Stratum 10 … dated to ~1.0 Ma … burnt bone, stone, sediment, and in situ ash together in the same layer'; '~30 m from the cave entrance … too deep inside the cave to be affected by natural wildfires'; 'repeated, spatially patterned combustion events deep within the cave'; 'most likely Homo erectus'.",
+        "source_locators": "SRC01 introduction and discussion",
+        "refutation": "S013–S016 speak the layer, the distance, the repetition and 'probably Homo erectus'; no fire-making is claimed. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C2",
+      "claim": "Early humans of that age most likely obtained fire from natural wildfires, carried it to their sites and kept it alive; making fire came much later. Hearths gave warmth, light, cooked food and protection from predators.",
+      "type": "E",
+      "sources": [
+        "SRC01",
+        "SRC02"
+      ],
+      "locator": "SRC01 introduction ('it seems likely that early Homo was only able to acquire fire from natural … wildfire resources, bring it to their occupation sites, and maintain it'); SRC02 hearth paragraph.",
+      "limit": "Spoken with 'probably'/'almost certainly could not' as the sources hedge; no date for the first fire-making.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01: 'early Homo was only able to acquire fire from natural, mostly seasonal wildfire resources, bring it to their occupation sites, and maintain it until it was extinguished. The ability to make and control fire only developed much later'. SRC02: hearths 'used for cooking (and probably sharing) food … social interaction … warmth and to keep away large predators'.",
+        "source_locators": "SRC01 introduction; SRC02 hearth paragraph",
+        "refutation": "S016 says 'almost certainly could not make fire' and S017 'the likely routine'; S019 lists only the uses the Smithsonian names. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C3",
+      "claim": "Schöningen, Germany, about 300,000 years ago: a lakeshore site preserved 187 wooden artefacts, at least 10 spears and 7 throwing sticks plus 35 split-wood domestic tools, made of spruce, pine and larch carried from hills 3–5 km away; 20–25 butchered carcasses, mostly horse; skinning was a major part of the butchery; throwing sticks could be used by most of the group including children; the makers were earlier humans, not Homo sapiens.",
+      "type": "E",
+      "sources": [
+        "SRC03",
+        "SRC12"
+      ],
+      "locator": "SRC03 significance, abstract, results ('Importance of Schöningen', wood species, raw material transport, butchered carcasses, throwing sticks); SRC12 for sapiens emerging in Africa about 300,000 years ago.",
+      "limit": "Minimum counts; the species of the makers is unsettled. No single hunt is narrated as fact.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC03: '187 wooden artifacts'; 'at least 10 spears and seven throwing sticks … 35 newly recognized … split woods likely used in domestic activities'; '300,000-y-old site (MIS 9)'; 'former interglacial lakeshore'; 'alder, birch, and willow'; 'exclusively made from spruce …, spruce/larch …, and pine'; 'transported from the nearby Elm Mountain some 3 to 5 km away'; '20 to 25 butchered animal carcases, mostly horse'; 'skinning was one of the major features of the butchery sequence'; throwing sticks usable 'by various members of the group including children'; 'transitional phase from H. heidelbergensis/H. erectus to Neanderthals'. SRC12: sapiens 'evolved in Africa' about 300,000 years ago.",
+        "source_locators": "SRC03 significance, abstract, results; SRC12 overview",
+        "refutation": "S027 says 'twenty-odd' for 20–25; S035 says 'not our species' without naming one. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C4",
+      "claim": "Shanidar 1, a Neanderthal man of 40–50 who died about 50,000 years ago in Shanidar Cave, Iraq, had lost his right arm above the elbow, had a crushed left eye socket, an abnormal gait and hearing loss, yet lived to old age; the authors read this as evidence of supporting social groups.",
+      "type": "E",
+      "sources": [
+        "SRC04"
+      ],
+      "locator": "Abstract; materials (≈50 ka BP; 40–50 years old; male); discussion (amputation, orbit, gait, hearing; 'supporting social matrices').",
+      "limit": "How he was cared for is not recorded; the script says 'someone fed him' as the plain reading of survival, and marks the confidence level aloud.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC04: '≈50 ka BP Shanidar 1'; 'adult (40–50 years old …) male'; 'most likely amputated above the elbow'; 'crushing fracture of the left orbit (probably altering and/or reducing vision)'; 'abnormal gait'; 'at least unilateral conductive hearing loss'; 'supporting social matrices among these Pleistocene foraging peoples'; predators 'ubiquitous … in the Zagros Mountains and at Shanidar Cave'.",
+        "source_locators": "SRC04 abstract, materials, discussion",
+        "refutation": "S039 lists exactly the four conditions; S041 'someone fed him' is the plain reading of long survival and is marked in S042 as confident, not certain. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C5",
+      "claim": "Neanderthals lived from about 400,000 to 40,000 years ago, were our closest extinct relatives, cold-adapted, and used fire, shelters and clothing and buried their dead.",
+      "type": "E",
+      "sources": [
+        "SRC05"
+      ],
+      "locator": "'When Lived'; overview paragraphs.",
+      "limit": "No interbreeding discussion; the script says their line did not continue as a separate people.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC05: 'About 400,000 - 40,000 years ago'; 'our closest extinct human relative'; 'adapted to winter climates'; 'controlled fire, lived in shelters, made and wore clothing … deliberately buried their dead'.",
+        "source_locators": "SRC05 'When Lived' and overview",
+        "refutation": "S044 and S047 speak only these points; no interbreeding figure. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C6",
+      "claim": "Canyars, near Barcelona, about 39,600 years ago: a bone fragment served as a leather punch board in six separate hide-pricking sessions, one producing a straight seam; the makers probably made tailored clothes some 15,000 years before eyed needles appear in Europe.",
+      "type": "E",
+      "sources": [
+        "SRC06"
+      ],
+      "locator": "Abstract; dating (37,405–40,916 cal BP); discussion on seams, tailored clothes and eyed needles.",
+      "limit": "'Probably tailored' is the authors' inference; no garment survives.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC06: 'near Gavà, 20 km south of Barcelona'; '37,405 to 40,916 cal BP'; 'six episodes of hide pricking, one of which was to produce a linear seam'; 'probably tailored clothes well before the introduction of bone eyed needles in Europe 15,000 years later'; 'Eyed needles are not required for the manufacture of fitted clothes'.",
+        "source_locators": "SRC06 abstract, dating, discussion",
+        "refutation": "S050–S052 keep 'probably' implicit in 'means'; the title figure 39,600 is the paper's own. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C7",
+      "claim": "Indirect evidence suggests cold-weather clothing by about 700,000 years ago; bone eyed needles appear in East Asia around 40,000 years ago and in Europe around 26,000; at Sungir, Russia, about 34,000 years ago, two children were buried with tens of thousands of ivory beads and mammoth-ivory spears.",
+      "type": "E",
+      "sources": [
+        "SRC07",
+        "SRC08"
+      ],
+      "locator": "SRC07 proto-clothing and needle paragraphs; Sungir paragraph. SRC08 abstract and introduction (ivory beads, ivory spears, dates).",
+      "limit": "700,000 is an inference from tools and lice genetics, spoken with 'suggest'. Beads are grave goods; how they were worn is not claimed.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC07: 'proto-clothing for protection against cold and windchill was already in place by 700 ka, and likely earlier' from hide tools and 'genetic divergence between body and head lice'; 'earliest bone-eyed needles … emerge in East Asia around 40 ka, only reaching Europe circa 26 ka'; 'Sungir (Russia, ~34 ka), where two subadults were buried with tens of thousands of beads, mammoth ivory spears'. SRC08: 'spears made of mammoth ivory, ivory beads and perforated fox teeth'; dates about 30,000 radiocarbon years BP.",
+        "source_locators": "SRC07 clothing and Sungir paragraphs; SRC08 abstract and introduction",
+        "refutation": "S054 says 'suggest'; S055 says 'buried with', not 'wore'. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C8",
+      "claim": "Ohalo II, on the shore of the Sea of Galilee, about 23,000 years ago during the Last Glacial Maximum: a camp of six brush huts of tamarisk, willow and oak branches with floors dug below ground, about 150,000 seeds and fruits from over 140 plant species, grinding of wild wheat and barley, 13 weed species read by the excavators as small-scale trial cultivation 11,000 years before farming; hut floors also held flint and bone tools, beads and wooden objects.",
+      "type": "E",
+      "sources": [
+        "SRC09"
+      ],
+      "locator": "Abstract; site description (huts, construction species, floors); results (plants, weeds, cultivation suggestion).",
+      "limit": "Trial cultivation is a suggestion; nobody here is a farmer.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC09: '23,000-year-old hunter-gatherers' sedentary camp on the shore of the Sea of Galilee'; 'during the Last Glacial Maximum'; 'six brush huts … floor dug below ground level'; Brush Hut 1 of 'Tamarix (tamarisk), Salix (willow) and Quercus ithaburensis (Mt. Tabor oak), covered by smaller branches … leaves and grasses'; 'ca. 150,000 seeds and fruits'; 'over 140 plant species and food preparation by grinding wild wheat and barley'; '13 well-known current weeds'; 'at least 11 millennia before the onset of agriculture'; 'we suggest … small-scale attempt to cultivate wild cereals'; floors held 'flint and ground stone tools, faunal remains …, beads, bone, and wood objects'.",
+        "source_locators": "SRC09 abstract, site description, results",
+        "refutation": "S066 says 'the team reads that as'; S067 says nobody farms. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C9",
+      "claim": "Brush Hut 1 at Ohalo II measured about 4.5 by 3 metres; its Floor III was laid with grass bedding in an overlapping pattern over about 7 square metres around a central hearth and is read as a winter stay; the camp's animal bones show gazelle over fallow deer, with fish, birds, hares and tortoises.",
+      "type": "E",
+      "sources": [
+        "SRC10"
+      ],
+      "locator": "Site and hut description; Floor III bedding and seasonality; faunal results.",
+      "limit": "Winter occupation is an interpretation; one hut, one floor.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC10: 'Brush Hut 1 is the largest … measuring 4.5 × 3.0 m'; 'Floor III was covered, except for a hearth in the middle, with grass bedding laid in an overlapping pattern over ca. 7 m2'; Floor III 'a winter occupation' interpretation; gazelle dominant over fallow deer; fish, birds, hares, tortoises exploited concurrently.",
+        "source_locators": "SRC10 site description, Floor III, faunal results",
+        "refutation": "S068 says 'one floor of this hut'; S069 'the excavators read it as a winter stay'. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C10",
+      "claim": "Mezhyrich, Ukraine: four round mammoth-bone structures 12–24 metres apart, about 6 metres across; Structure 4 used bones from at least 37 mammoths and is dated to about 18,250–17,750 years ago with use of up to about four centuries; it had a hearth and three floor layers, with pits holding butchered young mammoths, hunting weapons and ivory and bone ornaments; the environment was cold forest-steppe at the end of the mammoth steppe; whether it was a dwelling, and how many bones were collected from long-dead animals, is debated.",
+      "type": "E",
+      "sources": [
+        "SRC11"
+      ],
+      "locator": "Abstract; background (four MBSs, 6 m diameter, 37 individuals, pits and ornaments); environment and isotope paragraphs; open peer reviews.",
+      "limit": "The script leans on the authors' reading (a reused dwelling) and says the alternatives aloud. No roof is asserted.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC11: 'four Mammoth Bone Structures (MBSs) between 12–24 m'; 'each c. 6 m in diameter'; 'sourced from a minimum of 37 individuals' (sourcing disputed in the open review); 'c. 18,248–17,764 years cal BP with a site duration lasting between 0–429 years'; 'at least three internal cultural layers and … butchered remains of juvenile and adolescent mammoths within the surrounding pits'; 'artefact-filled pits, hunting weapons, ivory, and bone ornaments'; debate 'dwellings or … bone beds, food caches, burials, religious traditions, or ritualised middens'; 'a cold mesophilic forest-steppe'; niches 'collapsed during the Last Glacial Maximum'.",
+        "source_locators": "SRC11 abstract, background, environment, peer reviews",
+        "refutation": "S076 and S079 say the sourcing and the dwelling reading are disputed; S081 marks the roof as a guess. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C11",
+      "claim": "Homo sapiens evolved in Africa about 300,000 years ago and is the one human species still present.",
+      "type": "E",
+      "sources": [
+        "SRC12",
+        "SRC05"
+      ],
+      "locator": "SRC12 'When Lived' and overview; SRC05 'closest extinct human relative'.",
+      "limit": "Rounded date; no population numbers.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC12: 'About 300,000 years ago to present'; 'Homo sapiens evolved in Africa'. SRC05: Neanderthals 'our closest extinct human relative'.",
+        "source_locators": "SRC12 'When Lived'; SRC05 overview",
+        "refutation": "S091 speaks the rounded date only; no population claim. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    },
+    {
+      "id": "C12",
+      "claim": "Across these camps the means of survival were kept alive by groups rather than individuals: tended fire, cooperative hunting, care for the injured, sewn clothing, built shelters; today's shops, heating and medicine are likewise other people's stored work.",
+      "type": "I",
+      "sources": [
+        "SRC01",
+        "SRC03",
+        "SRC04",
+        "SRC09",
+        "SRC11"
+      ],
+      "locator": "Synthesis of the six stops.",
+      "limit": "Explicit interpretation; no claim about group sizes, kinship or motives.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Interpretation drawn from the checked rows: tended fire (C1–C2), group hunting (C3), care (C4), sewing and beads (C6–C7), huts and bone structures (C8–C10).",
+        "source_locators": "Synthesis",
+        "refutation": "S086–S095 present it as the episode's reading; the modern comparison in S090 is one sentence without a lecture. Holds as interpretation.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
+    }
+  ],
+  "research": "A list episode in the channel's labelled-stops format: six excavated camps, oldest first, each with its own place-and-date chip, framed by an invented night on the Mezhyrich steppe. The owner's working title was 'How ancient human survived until now?' (10 October 2026); the channel's own title rules avoid openers of the 'How did ancient humans …' kind, so the lead title is a question with the era and the owner's wording is kept as the first alternate for the upload decision. Every stop rests on an open-access paper or an institutional page read on 10 October 2026 (Europe PMC full texts, PLOS, Smithsonian Human Origins). Hedges travel with the claims: fire use not fire-making at Wonderwerk; 'most likely Homo erectus'; Schöningen counts are minimums and the makers' species is unsettled; Shanidar's care is inferred from survival; Canyars' tailoring is 'probably'; 700,000 years of clothing is 'suggested'; Ohalo's trial cultivation is the excavators' suggestion; Mezhyrich's dwelling reading and bone sourcing are debated in the article's open reviews. 'Until now' is answered with the Smithsonian's species date and an interpretation row (C12), not with population genetics. Nothing is drawn from another channel's video.",
+  "description": "You are standing on a frozen plain 18,000 years ago with a hoodie and no plan. How did people get through a million years of nights like this? Six real camps, oldest first: a fire carried into Wonderwerk Cave a million years ago, wooden spears by a lake in Germany 300,000 years ago, a Neanderthal who lived for years with one arm and one good eye, a 39,600-year-old leather seam, the oldest bed of grass by the Sea of Galilee, and a house built from the bones of 37 mammoths. The answer at the end is not muscles.",
+  "tags": [
+    "early humans",
+    "how did early humans survive",
+    "ice age survival",
+    "Homo erectus fire",
+    "Wonderwerk Cave",
+    "Schöningen spears",
+    "Neanderthal Shanidar",
+    "Ohalo II",
+    "mammoth bone house Mezhyrich",
+    "prehistory documentary",
+    "Stone Age life",
+    "human evolution for beginners",
+    "Life Previously"
+  ],
+  "pinned_comment": "Which camp would you rather spend the night in: the cave with the carried fire, the brush hut with the grass bed, or the house of mammoth bones? And what would you bring, if you could bring one thing?",
+  "pilot": [
+    "S001",
+    "S013",
+    "S025",
+    "S037",
+    "S062",
+    "S073",
+    "S078",
+    "TH-A"
+  ],
+  "lead_thumbnail": "A",
+  "thumbnails": [
+    {
+      "id": "A",
+      "headline": "ONE NIGHT. NO FIRE.",
+      "chip": "ICE AGE • 18,000 YEARS AGO",
+      "scope": "Mezhyrich steppe at night, about 18,000 years ago; fictional frame",
+      "pose": "closeup-worried",
+      "background": "Moonlit frozen steppe with thin snow, a low round mammoth-bone structure at middle distance with a faint orange glow at the gap in its wall, cold blue sky with one moon. No people, no skyline, no mammoth herd.",
+      "rationale": "The problem is personal and visible: cold, dark, no fire, one strange shelter. The question survives at phone size and is paid off when the Visitor knocks on the bones.",
+      "payoff_scene_ids": [
+        "S001",
+        "S085",
+        "S096"
+      ]
+    },
+    {
+      "id": "B",
+      "headline": "NOT THE STRONGEST",
+      "chip": "SHANIDAR CAVE • 50,000 YEARS AGO",
+      "scope": "Shanidar Cave, Iraq, about 50,000 years ago; reconstruction",
+      "pose": "closeup-thoughtful",
+      "background": "Cave mouth from inside with daylight on dry hills, a small hearth, an older Neanderthal man seated wrapped in a hide cloak whose right side hangs empty below the elbow, a second Neanderthal kneeling and offering food. Calm faces, no gore, no text.",
+      "rationale": "Challenges the 'only the strong survived' assumption with one real man whose survival the script explains.",
+      "payoff_scene_ids": [
+        "S038",
+        "S041",
+        "S043"
+      ]
+    },
+    {
+      "id": "C",
+      "headline": "THE OLDEST BED",
+      "chip": "SEA OF GALILEE • 23,000 YEARS AGO",
+      "scope": "Ohalo II, Brush Hut 1 interior, about 23,000 years ago; reconstruction",
+      "pose": "closeup-listening",
+      "background": "Dim brush hut interior, walls of bundled branches, a small central hearth, grass bedding laid in an overlapping pattern across the floor, a flat grinding stone with a handful of wild grain. Warm firelight, no people, no text.",
+      "rationale": "A concrete, surprising object (a grass mattress) promised and delivered by the Ohalo chapter.",
+      "payoff_scene_ids": [
+        "S061",
+        "S068",
+        "S069"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "A Fire They Could Not Make: Wonderwerk Cave, 1,000,000 Years Ago",
+      "from_scene": "S013",
+      "to_scene": "S019",
+      "hook": "The fire was carried in, not lit",
+      "description": "Burnt bone and ash about 30 metres inside Wonderwerk Cave, South Africa, dated to about a million years ago: fire carried in and kept alive, most likely by Homo erectus, long before anyone could make it."
+    },
+    {
+      "title": "The Neanderthal Who Should Not Have Survived",
+      "from_scene": "S037",
+      "to_scene": "S043",
+      "hook": "One arm, one good eye, and he grew old",
+      "description": "Shanidar 1, a Neanderthal man of 40–50 who died about 50,000 years ago in Iraq, had lost his right arm, his left eye socket was crushed, he limped and was partly deaf. His survival is read by researchers as evidence that his group supported him."
+    },
+    {
+      "title": "A House Built From 37 Mammoths",
+      "from_scene": "S073",
+      "to_scene": "S079",
+      "hook": "Not a hunting spree",
+      "description": "At Mezhyrich, Ukraine, about 18,000 years ago, people built round structures of mammoth bones; one used bones from at least 37 animals and may have been a dwelling for centuries. Whether the bones were hunted or collected is debated."
+    }
+  ],
+  "wardrobe": {
+    "status": "director_selected_normal_outfit",
+    "mode": "normal",
+    "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+    "reason": "The orange hoodie is the running joke of this episode: a modern traveller hopelessly underdressed for a million years of cold nights. No period outfit; the locals wear researched hide clothing in the background designs.",
+    "references": [
+      "channel/assets/visitor_sheet.png"
+    ],
+    "production_review": "Check the Visitor's scale beside robust Neanderthals and lean early humans; he must stand on the same ground and never overlap a seated local."
+  },
+  "pronunciations": {
+    "status": "director_specified_not_voiced",
+    "entries": [
+      {
+        "term": "Wonderwerk",
+        "say": "VON-der-verk",
+        "note": "Afrikaans; 'wonder work'."
+      },
+      {
+        "term": "Schöningen",
+        "say": "SHUR-ning-en",
+        "note": "German ö as in 'fur'."
+      },
+      {
+        "term": "Shanidar",
+        "say": "SHAH-ni-dar",
+        "note": "Stress on the first syllable."
+      },
+      {
+        "term": "Neanderthal",
+        "say": "nee-AN-der-tal",
+        "note": "The 'th' is a t."
+      },
+      {
+        "term": "Canyars",
+        "say": "kan-YARS",
+        "note": "Catalan; the full site name (Terrasses de la Riera dels Canyars) is caption only."
+      },
+      {
+        "term": "Gavà",
+        "say": "ga-VAH",
+        "note": "Caption only."
+      },
+      {
+        "term": "Sungir",
+        "say": "soon-GEER",
+        "note": "Also spelled Sunghir; captions use Sungir."
+      },
+      {
+        "term": "Ohalo",
+        "say": "o-HAH-lo",
+        "note": "Say 'Ohalo Two'."
+      },
+      {
+        "term": "Mezhyrich",
+        "say": "meh-ZHIH-rich",
+        "note": "Ukrainian; soft zh as in 'measure'."
+      },
+      {
+        "term": "Acheulean",
+        "say": "uh-SHOO-lee-un",
+        "note": "Say once with the words 'stone tools'."
+      },
+      {
+        "term": "Homo erectus",
+        "say": "HOH-moh ee-REK-tus",
+        "note": "Plain Latin reading."
+      },
+      {
+        "term": "Dnieper",
+        "say": "NEE-per",
+        "note": "Caption also Dnipro; narration uses Dnieper."
+      },
+      {
+        "term": "Zagros",
+        "say": "ZAG-ross",
+        "note": "Mountains in Iraq and Iran."
+      },
+      {
+        "term": "Sea of Galilee",
+        "say": "GAL-ih-lee",
+        "note": "Three syllables."
+      }
+    ],
+    "rule": "Say every date as 'about … years ago' in words; never read a BP figure. Keep 'thirty-seven mammoths' and 'one hundred and eighty-seven wooden artefacts' in full."
+  },
+  "sound_plan": {
+    "status": "director_specified_assets_unheard",
+    "music": "Existing theme, sparse and low; let the fires and the wind carry the quiet. No tribal-drum cliché, no horror stings on the Shanidar chapter.",
+    "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
+    "new_assets": [
+      {
+        "id": "steppe_wind",
+        "prompt": "Thin steady wind over frozen open grassland at night, dry grass hiss, no howling or whistling, no animals.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/how-humans-survived-steppe_wind.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "small_fire",
+        "prompt": "A small wood fire crackling gently in a quiet enclosed space, occasional soft pop. No roaring blaze.",
+        "seconds": 5,
+        "kind": "ambience",
+        "path": "channel/sfx/how-humans-survived-small_fire.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "branch_on_fire",
+        "prompt": "One dry branch laid onto embers, a brief crackle and settle. No whoosh.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-branch_on_fire.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "stone_knap",
+        "prompt": "Two light taps of stone on stone, dry and close. No metallic ring.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-stone_knap.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "lake_shore",
+        "prompt": "Calm lake edge, very small waves on mud, reeds moving, a distant horse snort. No gulls, no motor.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/how-humans-survived-lake_shore.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "wood_scrape",
+        "prompt": "A stone tool scraping along a wooden shaft, three slow strokes. No saw or sandpaper.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-wood_scrape.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "hide_scrape",
+        "prompt": "A stone scraper drawn across a stretched hide, two slow strokes, dull and soft. No fabric tear.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-hide_scrape.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "cave_mouth",
+        "prompt": "Quiet cave mouth: faint dry wind at the opening, a drip somewhere behind, distant birds outside. No echoey music.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/how-humans-survived-cave_mouth.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "hide_prick",
+        "prompt": "A pointed stone tool pressed through hide onto bone, four small sharp taps in rhythm. No hammering.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-hide_prick.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "beads_pour",
+        "prompt": "A small handful of small ivory beads poured onto hide, soft dry rattle. No glass or coins.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-beads_pour.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "grinding_stone",
+        "prompt": "Grain ground on a flat stone with a handstone, slow rhythmic rasp. No mill or metal.",
+        "seconds": 4,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-grinding_stone.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "grass_laid",
+        "prompt": "Dry grass bundles laid down and pressed by hand, two soft rustles. No wind.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-grass_laid.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "water_fish",
+        "prompt": "Shallow lake water disturbed once, a small splash and drip, as a fish is lifted. No swimmer.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-water_fish.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "bone_set",
+        "prompt": "A heavy bone set down against other bones, one dull knock. No wooden clack.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-bone_set.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "steps_frost",
+        "prompt": "Three slow footsteps on frozen grass and thin snow, crisp crunch. No boots on gravel.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/how-humans-survived-steps_frost.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "hut_interior",
+        "prompt": "Inside a brush hut: a tiny fire ticking, branches creaking slightly, wind muffled outside. No voices.",
+        "seconds": 5,
+        "kind": "ambience",
+        "path": "channel/sfx/how-humans-survived-hut_interior.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      }
+    ],
+    "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance; nothing is generated during development.",
+    "cues": [
+      {
+        "scene_id": "S001",
+        "asset": "steppe_wind",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S010",
+        "asset": "steppe_wind",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S013",
+        "asset": "small_fire",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S018",
+        "asset": "branch_on_fire",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S020",
+        "asset": "stone_knap",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S025",
+        "asset": "lake_shore",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S030",
+        "asset": "wood_scrape",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S034",
+        "asset": "hide_scrape",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S037",
+        "asset": "cave_mouth",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S043",
+        "asset": "small_fire",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S049",
+        "asset": "hide_prick",
+        "offset_seconds": 0.8,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S054",
+        "asset": "hide_scrape",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S055",
+        "asset": "beads_pour",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S061",
+        "asset": "lake_shore",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S062",
+        "asset": "grinding_stone",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S065",
+        "asset": "water_fish",
+        "offset_seconds": 0.7,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S068",
+        "asset": "grass_laid",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S069",
+        "asset": "hut_interior",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S074",
+        "asset": "bone_set",
+        "offset_seconds": 0.9,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S078",
+        "asset": "small_fire",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S085",
+        "asset": "steppe_wind",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S088",
+        "asset": "small_fire",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S090",
+        "asset": "steps_frost",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S096",
+        "asset": "steps_frost",
+        "offset_seconds": 0.8,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      }
+    ],
+    "intentional_silence": [
+      "No invented speech or chanting in any camp.",
+      "Graphics and object inserts are silent except where a cue names them.",
+      "The Shanidar chapter carries only the cave ambience and fire; no emotional underscore."
+    ],
+    "no_sting": "Do not use the medieval bell sound logo in this episode."
+  },
+  "extra_specs": [],
+  "chapters": [
+    {
+      "title": "One night, no tent, no shop",
+      "scenes": [
+        [
+          "You are standing on a frozen plain in what will one day be Ukraine. Eighteen thousand years ago. Night.",
+          "C0",
+          "steppe_night",
+          "establishing",
+          "Moonlit frozen grassland, thin snow in patches, distant stunted trees on the horizon, no buildings; clear frosted ground at right.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Your survival kit is a hoodie. No shop, no tent, nobody to call, and the nearest tree is a rumour.",
+          "C0",
+          "steppe_night",
+          "reaction",
+          "Same plain, closer on the frosted grass at left, moon low; nobody present; clear right foreground.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "Nothing here is for sale. Everything you need tonight must be found, made, carried or borrowed.",
+          "C0,C12",
+          "objects",
+          "object insert",
+          "A single sharp flint flake and one dry twig on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "So how did people get through a million years of nights like this, with no metal, no farms, no doctors?",
+          "C12",
+          "diagram",
+          "graphic",
+          "Timeline bar from one million years ago to eighteen thousand years ago with six small camp marks; labels local; at most four typeset labels.",
+          null,
+          null,
+          "ONE MILLION YEARS • SIX CAMPS"
+        ],
+        [
+          "And what did every camp have that you lack right now? Hold that one. It is the answer at the end.",
+          "C12",
+          "steppe_night",
+          "medium",
+          "Frosted plain with a low rise at left and a faint track in the snow; nobody present; clear right ground.",
+          "count-fingers",
+          null,
+          null
+        ],
+        [
+          "Six real camps tonight, oldest first, each excavated and dated. Every stop gets a label, because they are very far apart.",
+          "C0",
+          "steppe_night",
+          "wide",
+          "Wide plain under the moon, a few distant trees at left, long shadows; clear right foreground.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "A fire in a cave, spears by a lake, an injured man, a seam, a bed of grass, a house of bones.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Six small icons in a row: flame, spear, seated figure, needle and seam, grass bundle, bone wall; only the headline is typeset.",
+          null,
+          null,
+          "A MILLION YEARS → 18,000 YEARS AGO"
+        ],
+        [
+          "Our traveller is invented; the camps are not. Where we only have a reasonable guess, you will hear it said.",
+          "C0",
+          "steppe_night",
+          "medium",
+          "Snowy ground close at left with a single human footprint, moonlight; clear right ground.",
+          "closeup-thoughtful",
+          "Reconstruction • the traveller is a device; the camps are excavated sites",
+          null
+        ],
+        [
+          "First problem: you are cold, and your body will not negotiate. Warmth before food, friends or philosophy.",
+          "C0",
+          "objects",
+          "object insert",
+          "Frost crystals on dry grass blades, close, on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "The modern reflex is to make a fire. Rub two sticks, wait for the movie moment. The first stop complicates that.",
+          "C2",
+          "steppe_night",
+          "wide",
+          "Plain at night with two dry sticks lying crossed on the frozen ground at left; clear right foreground.",
+          "look-up-worried",
+          null,
+          null
+        ],
+        [
+          "Because for most of the human story, nobody knew how to start one.",
+          "C2",
+          "steppe_night",
+          "reaction",
+          "Same plain, the crossed sticks at left untouched; nobody present.",
+          "scratch-head",
+          null,
+          null
+        ],
+        [
+          "Stop one. South Africa, about one million years ago. Into the dark.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Stop card: a small map outline of southern Africa with one dot; headline typeset locally.",
+          null,
+          null,
+          "STOP 1 • WONDERWERK CAVE • 1,000,000 YEARS AGO"
+        ]
+      ]
+    },
+    {
+      "title": "Stop 1: a fire you cannot make",
+      "scenes": [
+        [
+          "Wonderwerk Cave. Thirty metres inside, where daylight gives up. On the floor, a small fire that somebody is tending.",
+          "C1",
+          "wonderwerk",
+          "establishing",
+          "Low wide cave passage, faint bright entrance far behind, small fire at left with two early humans beside it; clear right floor.",
+          "look-around",
+          "Wonderwerk Cave, Stratum 10 • about 1,000,000 years ago",
+          null
+        ],
+        [
+          "The evidence is in the ash: burnt bone, stone and sediment in one layer, dated to about a million years ago.",
+          "C1",
+          "wonderwerk",
+          "medium",
+          "Close on the small fire and the ashy floor at left, one early human's hands feeding it; no faces in frame; nobody at right.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Thirty metres from the entrance matters. A wildfire outside cannot reach this far. Someone carried fire here, on purpose, more than once.",
+          "C1",
+          "objects",
+          "object insert",
+          "A charred fragment of small-animal bone on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "Here is the awkward part. These people, probably Homo erectus, almost certainly could not make fire.",
+          "C1,C2",
+          "wonderwerk",
+          "reaction",
+          "Cave passage with the fire at left and the two early humans seated beyond it; clear right floor.",
+          "eyebrow-raise",
+          null,
+          null
+        ],
+        [
+          "The likely routine: find a grass fire, carry a burning branch home, keep it fed. Lose it, and you wait for the next one.",
+          "C2",
+          "diagram",
+          "graphic",
+          "Three-step schematic: grass fire, carried branch, tended hearth; says schematic.",
+          null,
+          null,
+          "FOUND IT • CARRIED IT • KEPT IT ALIVE"
+        ],
+        [
+          "That makes fire a chore shared across days. Somebody feeds it while others sleep. The first thing on this trip that nobody owns alone.",
+          "C2,C12",
+          "wonderwerk",
+          "medium",
+          "One early human laying a branch on the fire at left while another sleeps against the wall behind; clear right floor.",
+          "count-fingers",
+          null,
+          null
+        ],
+        [
+          "Fire bought warmth, light after dark, cooked food, and a reason for a large cat to stay outside.",
+          "C2",
+          "wonderwerk",
+          "wide",
+          "Wider cave view: the fire's glow on the walls, the two early humans, the distant entrance; a hint of the night outside; nobody at right.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Acheulean stone tools lie in the same layers. The fire-keepers were toolmakers too.",
+          "C1",
+          "objects",
+          "object insert",
+          "A chipped stone handaxe, worked on both faces, on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "You try rubbing two sticks anyway. The locals watch with professional interest, then return to the fire that exists.",
+          "C0",
+          "wonderwerk",
+          "reaction",
+          "Cave floor with the fire at left and one early human glancing toward the right side; clear right floor.",
+          "shrug-smirk",
+          null,
+          null
+        ],
+        [
+          "The lesson is not toughness. It is maintenance: a fragile thing kept alive by many hands, longer than anyone stays awake.",
+          "C2,C12",
+          "wonderwerk",
+          "medium",
+          "The fire alone at left, a fresh branch just laid on it, embers bright; clear right floor.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "The fire keeps you warm tonight. It will not feed you. For that, we jump forward seven hundred thousand years.",
+          "C0",
+          "wonderwerk",
+          "wide",
+          "Cave passage looking toward the bright entrance, fire glow at left edge; clear right floor.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "Stop two. A lakeshore in what is now Germany, about three hundred thousand years ago.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Stop card: small map outline of central Europe with one dot; headline typeset locally.",
+          null,
+          null,
+          "STOP 2 • SCHÖNINGEN • 300,000 YEARS AGO"
+        ]
+      ]
+    },
+    {
+      "title": "Stop 2: the stone age was mostly wood",
+      "scenes": [
+        [
+          "A warm spell between ice ages. A lake, open woodland, alder and willow by the water, wild horses grazing in the open.",
+          "C3",
+          "schoningen_lake",
+          "establishing",
+          "Lake edge with reeds at left, scattered alder and willow, pine on far hills, a small group of wild horses at middle distance; clear right foreground.",
+          "look-around",
+          "Schöningen 13 II-4 • about 300,000 years ago",
+          null
+        ],
+        [
+          "The mud here kept what almost never survives: one hundred and eighty-seven wooden artefacts.",
+          "C3",
+          "schoningen_work",
+          "medium",
+          "Close shore view: split spruce pieces, a half-shaped wooden spear, a stone flake, one adult crouched working wood at left; nobody at right.",
+          null,
+          null,
+          null
+        ],
+        [
+          "At least ten spears and seven throwing sticks, beside the bones of twenty-odd butchered animals. Mostly horse.",
+          "C3",
+          "objects",
+          "object insert",
+          "A fire-hardened wooden spear tip, smooth and pointed, on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "You expected a stone age made of stone. Most of what these people held all day was wood.",
+          "C3,C0",
+          "schoningen_lake",
+          "reaction",
+          "Shore with the three spear-carriers at left, horses far behind; clear right foreground.",
+          "eyebrow-raise",
+          null,
+          null
+        ],
+        [
+          "Spruce, pine and larch. None grew at the lake. Someone carried the wood from hills three to five kilometres away.",
+          "C3",
+          "diagram",
+          "graphic",
+          "Simple map: lake at centre, hills to one side, an arrow with a distance label; three tree icons labelled; says schematic.",
+          null,
+          null,
+          "SPRUCE • PINE • LARCH • CARRIED 3–5 KM"
+        ],
+        [
+          "Thirty-five more tools were split from wood, probably for domestic jobs. A workshop by the water, not only a kill site.",
+          "C3",
+          "schoningen_work",
+          "medium",
+          "Two adults at left, one splitting a log with a wedge, one scraping a hide pegged out on the ground; clear right foreground.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Taking a wild horse with wooden spears is a group job, and group jobs need trust. The horse is unimpressed by you.",
+          "C3,C12",
+          "schoningen_lake",
+          "wide",
+          "Lakeshore wide: spear-carriers in a loose line at left, horses alert at a distance, reeds and water; clear right foreground.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "The throwing sticks were long-range weapons for smaller prey. Nearly everyone in the group could use one, children included.",
+          "C3",
+          "objects",
+          "object insert",
+          "A curved wooden throwing stick, about arm length, on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "You are handed a sharpened stick. The joke writes itself, until you see what the sticks have done.",
+          "C0",
+          "schoningen_lake",
+          "reaction",
+          "Shore at left with a spear leaning on a willow; nobody near it; clear right foreground.",
+          "shrug-smirk",
+          null,
+          null
+        ],
+        [
+          "Skinning was a major part of the butchery here. Hides left this shore as well as meat. Hides mean warmth later.",
+          "C3",
+          "schoningen_work",
+          "wide",
+          "Butchery area by the shore: a horse hide pegged out at left, two adults working, the lake beyond; clear right foreground.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Who were they? Not our species. Earlier humans, in a Europe our own kind had not reached; we were only emerging in Africa.",
+          "C3,C11",
+          "schoningen_lake",
+          "medium",
+          "One adult early human standing by the water at left holding a spear upright, calm; clear right foreground.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Hunting big animals with sticks gets people hurt. What happened to the hurt? Stop three: a cave in the Zagros mountains, fifty thousand years ago.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Stop card: small map outline of the Middle East with one dot in the Zagros; headline typeset locally.",
+          null,
+          null,
+          "STOP 3 • SHANIDAR CAVE • 50,000 YEARS AGO"
+        ]
+      ]
+    },
+    {
+      "title": "Stop 3: the man who should not have survived",
+      "scenes": [
+        [
+          "Shanidar Cave, in what is now northern Iraq. Neanderthals live here: our closest extinct relatives, short, strong and built for cold.",
+          "C5",
+          "shanidar",
+          "establishing",
+          "Cave mouth from inside, daylight on dry hills, hearth at left with the older man seated and a younger Neanderthal kneeling beside him; clear right floor.",
+          "look-around",
+          "Shanidar Cave • about 50,000 years ago",
+          null
+        ],
+        [
+          "Meet Shanidar One. A man of forty to fifty, which here is old. His body tells a long story.",
+          "C4",
+          "shanidar",
+          "medium",
+          "Closer on the older man seated on a hide at left, cloak hanging empty below the right elbow, calm scarred face; nobody at right.",
+          null,
+          null,
+          null
+        ],
+        [
+          "His right arm ended above the elbow, probably amputated. His left eye socket was crushed. He limped. He was deaf on one side.",
+          "C4",
+          "diagram",
+          "graphic",
+          "Simple outline figure with four labelled points: right arm, left eye, right leg, ear; neutral, no gore.",
+          null,
+          null,
+          "RIGHT ARM LOST • LEFT EYE CRUSHED • LIMP • DEAF ON ONE SIDE"
+        ],
+        [
+          "A one-armed, half-blind, half-deaf hunter-gatherer in a land of leopards and cliffs. And he grew old.",
+          "C4",
+          "shanidar",
+          "reaction",
+          "Cave mouth with the two Neanderthals by the hearth at left; clear right floor.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "The bones had healed long before he died. Someone fed him, kept him warm and safe, for years.",
+          "C4",
+          "objects",
+          "object insert",
+          "A healed upper-arm bone shown as a clean study object on a neutral field; no text, no gore.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "Myth check. 'Survival of the fittest' gets read as 'only the strong survived'. This man is strong evidence against that. We are confident.",
+          "C4,C12",
+          "shanidar",
+          "medium",
+          "The younger Neanderthal handing the older man a piece of food at left; clear right floor.",
+          "count-fingers",
+          null,
+          null
+        ],
+        [
+          "The researchers' phrase is 'supporting social matrices'. In plain words: he had people. His survival is their work too.",
+          "C4",
+          "shanidar",
+          "wide",
+          "Wider cave mouth: a small group of Neanderthals around the hearth at left, the old man among them; hills outside; nobody at right.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Neanderthals used fire, built shelters, made clothing and buried their dead, from about four hundred thousand to forty thousand years ago.",
+          "C5",
+          "diagram",
+          "graphic",
+          "Timeline strip with two end labels and three icons: flame, shelter, hide garment; typeset locally.",
+          null,
+          null,
+          "NEANDERTHALS • 400,000–40,000 YEARS AGO"
+        ],
+        [
+          "You, meanwhile, have a hoodie and a blister. Nobody here finds you impressive, but somebody hands you food.",
+          "C0",
+          "shanidar",
+          "reaction",
+          "Hearth at left with a flat stone holding roasted meat, one Neanderthal's hand reaching toward the right; clear right floor.",
+          "eyebrow-raise",
+          null,
+          null
+        ],
+        [
+          "Caring for the injured costs food and time. These groups paid it, and that choice helped humans last.",
+          "C4,C12",
+          "shanidar",
+          "medium",
+          "Cave interior at left: the old man resting, a child beside him, the hearth low; clear right floor.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "Their line did not continue as a separate people. Ours did. The care was never the weakness.",
+          "C5,C12",
+          "shanidar",
+          "wide",
+          "Cave mouth looking out at the hills in late light, the hearth's glow at left edge; nobody at right.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Fire, food and friends sorted, you still need to stop shivering. Stop four: the coast of Spain, forty thousand years ago.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Stop card: small map outline of Iberia with one dot near Barcelona; headline typeset locally.",
+          null,
+          null,
+          "STOP 4 • CANYARS • 39,600 YEARS AGO"
+        ]
+      ]
+    },
+    {
+      "title": "Stop 4: clothes with seams",
+      "scenes": [
+        [
+          "Canyars, near today's Barcelona. People of our own species now, working hides in the open. One holds a bone.",
+          "C6",
+          "canyars",
+          "establishing",
+          "Open-air terrace camp, sea a grey line at the horizon, small fire, two adults in sewn hide clothing working hides at left; clear right foreground.",
+          "look-around",
+          "Canyars • about 39,600 years ago",
+          null
+        ],
+        [
+          "That bone is a punch board, a backing for pricking holes through hide. Six separate sessions; one made a straight seam.",
+          "C6",
+          "objects",
+          "object insert",
+          "A bone fragment with a line of small punctures on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "A seam means pieces joined. Joined pieces mean a garment shaped to a body, not a hide thrown over the shoulders.",
+          "C6",
+          "canyars",
+          "medium",
+          "One adult pressing a pointed stone tool through hide laid over a flat bone at left, hands and hide in focus; clear right foreground.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Tailoring, fifteen thousand years before the first eyed needles reach Europe. Your hoodie's zip is looking less clever.",
+          "C6",
+          "canyars",
+          "reaction",
+          "Camp with hides stretched on pegs at left, the sea beyond; nobody near the right side.",
+          "eyebrow-raise",
+          null,
+          null
+        ],
+        [
+          "Bone needles with eyes appear in East Asia around forty thousand years ago, and in Europe around twenty-six thousand.",
+          "C7",
+          "diagram",
+          "graphic",
+          "Two-point map schematic: East Asia and Europe with dates; one needle icon; typeset locally.",
+          null,
+          null,
+          "EYED NEEDLES • EAST ASIA ~40,000 • EUROPE ~26,000 YEARS AGO"
+        ],
+        [
+          "Clothing is far older. Hide-working tools, and even the genetics of lice, suggest cold-weather clothing by seven hundred thousand years ago.",
+          "C7",
+          "canyars",
+          "wide",
+          "Camp wide: hides drying on pegs at left, two adults working, pine scrub and sea; clear right foreground.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "Then Sungir, Russia, about thirty-four thousand years ago: two children buried with tens of thousands of ivory beads and ivory spears.",
+          "C7",
+          "objects",
+          "object insert",
+          "A scatter of small drilled mammoth-ivory beads and one ivory spear tip on a neutral field; no text.",
+          null,
+          "Sungir burials • about 34,000 years ago",
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "Ten thousand beads are not quick work. They mean time, skill, and people who thought a child was worth it.",
+          "C7,C12",
+          "canyars",
+          "medium",
+          "Close on an adult's hands drilling a small bead with a stone point at left; clear right foreground.",
+          "count-fingers",
+          null,
+          null
+        ],
+        [
+          "You are offered a hide tunic with actual seams. It smells like its previous owner. You accept immediately.",
+          "C0",
+          "canyars",
+          "reaction",
+          "A finished hide tunic laid over a low branch at left, fire behind; nobody near the right side.",
+          "shrug-smirk",
+          null,
+          null
+        ],
+        [
+          "Warm is not fed. The next camp solves dinner, and it is not what the cartoons promised.",
+          "C0",
+          "canyars",
+          "wide",
+          "Terrace camp at dusk, fire bright at left, sea dark beyond; clear right foreground.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Stop five. The shore of the Sea of Galilee, twenty-three thousand years ago, in the coldest stretch of the ice age.",
+          "C8",
+          "diagram",
+          "graphic",
+          "Stop card: small map outline of the eastern Mediterranean with one dot at the Sea of Galilee; headline typeset locally.",
+          null,
+          null,
+          "STOP 5 • OHALO II • 23,000 YEARS AGO"
+        ],
+        [
+          "Camp rule tonight: dinner is whatever the lake, the reeds and the hills will give. Bring a grinding stone.",
+          "C8",
+          "objects",
+          "object insert",
+          "A flat grinding stone with a handstone and a few wild barley grains on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Stop 5: the oldest bed",
+      "scenes": [
+        [
+          "Six brush huts by the water: tamarisk, willow and oak branches, covered with smaller branches, leaves and grass. Floors dug below ground.",
+          "C8",
+          "ohalo_camp",
+          "establishing",
+          "Lakeshore with low oval brush huts at left and middle distance, open hearths, fish drying on sticks, calm water at left; clear right foreground.",
+          "look-around",
+          "Ohalo II • about 23,000 years ago",
+          null
+        ],
+        [
+          "Inside the largest hut, four and a half metres by three, someone grinds wild barley and wheat on a flat stone.",
+          "C8,C9",
+          "ohalo_hut",
+          "medium",
+          "Dim hut interior: a woman kneeling at a grinding stone at left, central hearth, branch walls; clear right floor strip.",
+          null,
+          null,
+          null
+        ],
+        [
+          "About one hundred and fifty thousand seeds and fruits were recovered, from over one hundred and forty plant species.",
+          "C8",
+          "diagram",
+          "graphic",
+          "Four labelled icons: seed pile, plant leaf, wheat ear, barley ear; typeset locally.",
+          null,
+          null,
+          "150,000 SEEDS • 140+ SPECIES • WILD WHEAT • WILD BARLEY"
+        ],
+        [
+          "You wanted a mammoth steak. You are getting porridge, lake fish, and gazelle if the hunters did well.",
+          "C9,C0",
+          "ohalo_hut",
+          "reaction",
+          "Hut interior with a bowl-shaped stone of ground grain and a cooked fish on a flat stone at left; clear right floor.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "The bones agree: gazelle over fallow deer, plus fish, birds, hares and tortoises. A wide menu, not one big animal.",
+          "C9",
+          "ohalo_camp",
+          "wide",
+          "Shore wide: an adult lifting a fish from shallow water at left, huts behind, hills beyond; clear right foreground.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Thirteen of those plants are weeds, the kind that thrive on trampled ground. The team reads that as small-scale trial cultivation.",
+          "C8",
+          "objects",
+          "object insert",
+          "A small heap of mixed wild grain and weed seeds on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "That is eleven thousand years before farming. Nobody here farms. They are gatherers who noticed what grows where people walk.",
+          "C8",
+          "ohalo_hut",
+          "medium",
+          "Hut interior: handful of grain on the grinding stone at left, firelight; nobody at right.",
+          "count-fingers",
+          null,
+          null
+        ],
+        [
+          "Now the bed. One floor of this hut was laid with grass in an overlapping pattern, about seven square metres, around a central hearth.",
+          "C9",
+          "ohalo_hut",
+          "wide",
+          "Hut interior wide: grass bedding covering the floor around the central hearth, branch walls, a hide folded at left; clear right strip.",
+          null,
+          "Ohalo II, Brush Hut 1, Floor III • about 23,000 years ago",
+          null
+        ],
+        [
+          "A grass mattress, an indoor fire, walls of branches. The excavators read it as a winter stay. You read it as a hotel.",
+          "C9,C0",
+          "ohalo_hut",
+          "reaction",
+          "Grass-covered floor and small fire at left, warm light; clear right floor strip.",
+          "eyebrow-raise",
+          null,
+          null
+        ],
+        [
+          "The floors also held flint tools, bone tools, beads and wooden objects. People lived here.",
+          "C8",
+          "objects",
+          "object insert",
+          "A bone point, two flint blades and three small shell beads on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "A hut of branches works where trees grow. Our last stop is a cold steppe where the best building material has four legs.",
+          "C10",
+          "ohalo_camp",
+          "medium",
+          "Shore with a brush hut at left in evening light, water calm; clear right foreground.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Stop six. Back where you started: the Dnieper basin, eighteen thousand years ago, in daylight this time.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Stop card: small map outline of eastern Europe with one dot on the Dnieper; headline typeset locally.",
+          null,
+          null,
+          "STOP 6 • MEZHYRICH • 18,000 YEARS AGO"
+        ]
+      ]
+    },
+    {
+      "title": "Stop 6: a house of thirty-seven mammoths",
+      "scenes": [
+        [
+          "Mezhyrich. Four round structures, twelve to twenty-four metres apart, each about six metres across, each built of mammoth bones.",
+          "C10",
+          "mezhyrich",
+          "establishing",
+          "Daylight steppe: a low round bone wall about six metres across at left with a dark entrance gap and smoke, pits nearby, two adults carrying a long bone; clear right foreground.",
+          "look-around",
+          "Mezhyrich • about 18,000 years ago",
+          null
+        ],
+        [
+          "Structure Four alone used bones from at least thirty-seven mammoths, stacked into a wall taller than you.",
+          "C10",
+          "mezhyrich",
+          "medium",
+          "Close on the bone wall at left: long bones, skulls and a tusk stacked, two adults setting a bone in place; clear right foreground.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Thirty-seven mammoths. Your first thought is a hunting spree. The evidence is more interesting, and more argued over.",
+          "C10",
+          "mezhyrich",
+          "reaction",
+          "Bone wall at left, smoke rising, steppe beyond; nobody near the right side.",
+          "closeup-worried",
+          null,
+          null
+        ],
+        [
+          "The pits hold butchered young mammoths, so some were hunted. Many bones were probably gathered from long-dead animals. How many is disputed.",
+          "C10",
+          "diagram",
+          "graphic",
+          "Two-column schematic: hunted (young mammoth icon) and collected (weathered bone icon), with a question mark between; says schematic.",
+          null,
+          null,
+          "HUNTED • COLLECTED • HOW MANY OF EACH?"
+        ],
+        [
+          "The pits also hold hunting weapons, and ornaments of ivory and bone. Rubbish, tools and treasures, all within a few steps.",
+          "C10",
+          "objects",
+          "object insert",
+          "A small ivory pendant and a bone point on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "Inside: a hearth, and at least three floor layers. New dates put the use around eighteen thousand years ago, for up to four centuries.",
+          "C10",
+          "mezhyrich_int",
+          "medium",
+          "Dim interior: hearth at left with a small group of adults and a child, bone wall behind; clear right floor.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Four centuries is debated, and so is the word 'house'. Dwelling, store, monument, or all three. The latest study says: a dwelling, reused.",
+          "C10",
+          "mezhyrich",
+          "wide",
+          "Steppe wide: the bone structure at left, a second one farther off, pits between, cold daylight; clear right foreground.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "You look for the door. There is a gap in the bones. The estate agent in your head says 'characterful'.",
+          "C0",
+          "mezhyrich",
+          "reaction",
+          "The entrance gap in the bone wall at left, dark inside; nobody near the right side.",
+          "shrug-smirk",
+          null,
+          null
+        ],
+        [
+          "The roof is gone. Whatever covered it did not survive; the top of this picture is a guess, and we say so.",
+          "C10,C0",
+          "mezhyrich_int",
+          "wide",
+          "Interior wide: firelight on the bone wall, the covering above left vague and dark, people seated at left; clear right floor.",
+          "closeup-listening",
+          null,
+          null
+        ],
+        [
+          "Around them, cold forest-steppe, and the age of the mammoth was ending. These were among the last people to build with it.",
+          "C10",
+          "mezhyrich",
+          "medium",
+          "Bone structure at left in flat cold light, a few stunted trees far off, no mammoths alive in frame; clear right foreground.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "Hunting weapons, hearths, ornaments, bone walls. None of it is one person's work. Back to your night.",
+          "C12",
+          "objects",
+          "object insert",
+          "A single mammoth rib bone lying on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "Night falls on the steppe again, and this time you know where to knock.",
+          "C0",
+          "diagram",
+          "graphic",
+          "Card: a small flame icon inside a round bone outline; headline typeset locally.",
+          null,
+          null,
+          "BACK TO TONIGHT • 18,000 YEARS AGO"
+        ]
+      ]
+    },
+    {
+      "title": "Until now",
+      "scenes": [
+        [
+          "Same plain, same cold. But now there is a low round shape with smoke rising, and a gap where a door should be.",
+          "C0",
+          "steppe_night",
+          "establishing",
+          "Moonlit steppe with the bone structure at middle distance, faint orange glow at its gap, smoke; clear frosted ground at right.",
+          "look-around",
+          null,
+          null,
+          {
+            "scope": "Mezhyrich steppe at night, about 18,000 years ago; the structure now in view"
+          }
+        ],
+        [
+          "Time for the held question. What did every one of those camps have that you did not? Not muscles. Not a trick.",
+          "C12",
+          "steppe_night",
+          "reaction",
+          "Night plain with the glowing structure small at left; clear right ground.",
+          "closeup-thoughtful",
+          null,
+          null
+        ],
+        [
+          "Other people. A fire fed in shifts, a horse hunted together, a wounded man fed for years. Seams sewn, grass laid, bones stacked.",
+          "C12",
+          "diagram",
+          "graphic",
+          "Four icons: flame with two hands, two spears, a seated figure with a bowl, a bone wall; typeset locally.",
+          null,
+          null,
+          "OTHER PEOPLE • WHO KEPT THINGS ALIVE"
+        ],
+        [
+          "Each camp kept alive what no single person could: a flame, a skill, an injured friend, a store of seeds, a house.",
+          "C12",
+          "mezhyrich_int",
+          "medium",
+          "Interior: a small group by the hearth at left, one adult passing food to a child; clear right floor.",
+          null,
+          null,
+          null
+        ],
+        [
+          "Survival was a group subscription, paid in food and time. Everyone was both a cost and a carrier of something vital.",
+          "C12",
+          "objects",
+          "object insert",
+          "A handful of wild grain beside a small glowing ember on a neutral field; no text.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "Your own kit today is the same thing in disguise: shops, heating and medicine are other people's stored-up work. You never meet them.",
+          "C12",
+          "steppe_night",
+          "wide",
+          "Night plain, the structure's glow at middle distance left, a frosted path leading toward it; clear right foreground.",
+          "step-forward",
+          null,
+          null
+        ],
+        [
+          "Our species appeared in Africa about three hundred thousand years ago. Everyone alive descends from people who got through nights like this.",
+          "C11",
+          "diagram",
+          "graphic",
+          "Simple schematic: Africa outline with a date, an arrow forward to 'now'; typeset locally.",
+          null,
+          null,
+          "HOMO SAPIENS • AFRICA • 300,000 YEARS AGO → NOW"
+        ],
+        [
+          "That includes you. 'Until now' is not a slogan. It is a chain of winters; you are its latest link.",
+          "C11,C12",
+          "mezhyrich_int",
+          "reaction",
+          "Interior by the hearth at left, bone wall warm in firelight; clear right floor.",
+          "closeup-smile",
+          null,
+          null
+        ],
+        [
+          "So: you, a hoodie, and a frozen plain. Honestly, alone, you would not last the week.",
+          "C0",
+          "steppe_night",
+          "medium",
+          "Frosted plain close at left, the two crossed sticks from earlier still lying there; clear right ground.",
+          "look-around",
+          null,
+          null
+        ],
+        [
+          "With them, you might. That was the whole trick, from the first carried flame to the last mammoth-bone wall.",
+          "C12",
+          "mezhyrich_int",
+          "wide",
+          "Interior wide: group around the hearth at left, the entrance gap showing the night beyond; clear right floor.",
+          "watch-arms-crossed",
+          null,
+          null
+        ],
+        [
+          "Humans did not survive by being the toughest thing on the steppe. They survived by never facing the problem alone.",
+          "C12",
+          "objects",
+          "object insert",
+          "A burning branch held upright, flame small and steady, on a neutral field; no text, no hand.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
+        ],
+        [
+          "Now go and knock on the bones. Then choose the next Life, Previously episode on screen. The hoodie stays, for some reason.",
+          "C0",
+          "steppe_night",
+          "reaction",
+          "The bone structure's entrance gap close at left, glow inside, frost on the ground; clear right foreground.",
+          "shrug-smirk",
+          null,
+          null
+        ]
+      ]
+    }
+  ],
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 13,
+    "open": 0,
+    "total": 13,
+    "method": "Every source fetched and read at the locator on 2026-10-10: six open-access papers through Europe PMC full text (Wonderwerk 2026, Schöningen 2024, Canyars 2023, Origins of Fashion 2026, Ohalo II 2022, Mezhyrich 2025), three PLOS ONE articles (Shanidar 1, Sungir dates, Ohalo II plants) and three Smithsonian Human Origins species pages. No source refused access.",
+    "summary": "All 13 rows supported on passages read today; every hedge in the sources (most likely, probably, suggest, debated) travels into the narration."
+  },
+  "initial_review": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "New package written on the owner's request of 2026-10-10 ('How ancient human survived until now?'). All 96 scenes, claims, sources, locations, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md after drafting; every claim verified on sources read today (see claims_verification).",
+    "refutation": "Tried to break each stop: Wonderwerk is fire use, not fire-making, and 'probably Homo erectus'; Schöningen counts are minimums and the makers are 'not our species' without a name; Shanidar's care is inferred from long survival and the confidence is said aloud; Canyars' tailoring is the authors' 'probably'; clothing by 700,000 years is 'suggested'; Ohalo's trial cultivation is the excavators' suggestion; Mezhyrich's dwelling reading, bone sourcing and roof are marked debated or unknown. No population genetics, no 'first ever' claims, no mammoth hunt drawn.",
+    "findings": [
+      {
+        "id": "19-R01",
+        "issue": "First draft ran 2,068 narration words",
+        "fix": "Trimmed 82 lines to 1,898 words without dropping a claim; chapters 83–95 seconds."
+      },
+      {
+        "id": "19-R02",
+        "issue": "Title: the owner's working title opens with 'How ancient humans …', a shape the channel's own title rules avoid",
+        "fix": "Lead title is a question with the era ('Could You Survive One Night With Early Humans?'); the owner's wording is kept as the first alternate for the upload decision."
+      },
+      {
+        "id": "19-R03",
+        "issue": "The period text ended with a sentence naming the Visitor, which the compiler would have put in every prompt",
+        "fix": "Sentence removed; no prompt, design or thumbnail background names him."
+      },
+      {
+        "id": "19-R04",
+        "issue": "'Sea of Galilee' had no pronunciation entry",
+        "fix": "Added."
+      },
+      {
+        "id": "19-R05",
+        "issue": "Chapter 1 runs 83 seconds, longer than the 60–65 second cold-open norm, because the list format needs the itinerary",
+        "fix": "Accepted: the drop-in, the stake, two questions and the held question all land inside the first forty seconds; the itinerary card follows."
+      },
+      {
+        "id": "19-R06",
+        "issue": "Shanidar 1's injuries risk a gory or mocking picture",
+        "fix": "Design shows an empty cloak sleeve and a calm face; the graphic is an outline figure; the avoid list bans injury detail; the narration treats him with respect."
+      },
+      {
+        "id": "19-R07",
+        "issue": "Mezhyrich roof and bone sourcing are unknown or disputed",
+        "fix": "S076 and S079 say so; S081 calls the roof a guess; the design keeps the covering vague."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "slate_reviews": [
+    {
+      "pass": 1,
+      "status": "passed",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Package-level pass on the compiled script (script.txt read in full), claims and packaging, plus the slate content check against all other packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (a dry, cold, affectionate tour).",
+      "findings": [
+        {
+          "id": "19-P1-01",
+          "issue": "Looked for identical shot types in a row, long graphic runs, a chapter without a Visitor reaction, a caption with a modern year, or a joke at the expense of the people shown; none found",
+          "fix": "No change."
+        },
+        {
+          "id": "19-P1-02",
+          "issue": "Slate check: the only prehistoric package; the labelled-stops format is shared with 05 (a countdown of Roman-era conveniences), but the era, question, promise and thumbnails are different",
+          "fix": "Distinct. No change."
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "pass": 2,
+      "status": "passed",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Execution dry run: compiled prompts for the cave anchor (S013), its close edit (S014), the Shanidar anchor (S037), the Sungir object insert with caption (S055) and the night steppe edit with the structure in view (S085) read in full; thumbnail brief, handoff counts (96 shots, 78 illustrations, 18 graphics, 3 thumbnails), pilot order, 16 sound assets and 24 cues, 14 pronunciations, Shorts windows (144, 139, 144 words) and packaging copy checked.",
+      "findings": [
+        {
+          "id": "19-P2-01",
+          "issue": "Every prompt carries the long period paragraph by design of the compiler",
+          "fix": "Acceptable: it is the period and avoid guidance; the Visitor sentence that would have been repeated in it was removed in 19-R03."
+        }
+      ],
+      "unresolved": []
+    }
+  ],
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "New package commissioned by the owner on 10 October 2026. Initial content review, source verification of all 13 claims (every source open access and read), two package review passes and the slate content check complete. The owner decides the final title at upload (lead title versus the working title kept as alternate 1). Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  }
+}

@@ -1,0 +1,99 @@
+# Research and boundaries
+
+A list episode in the channel's labelled-stops format: six excavated camps, oldest first, each with its own place-and-date chip, framed by an invented night on the Mezhyrich steppe. The owner's working title was 'How ancient human survived until now?' (10 October 2026); the channel's own title rules avoid openers of the 'How did ancient humans …' kind, so the lead title is a question with the era and the owner's wording is kept as the first alternate for the upload decision. Every stop rests on an open-access paper or an institutional page read on 10 October 2026 (Europe PMC full texts, PLOS, Smithsonian Human Origins). Hedges travel with the claims: fire use not fire-making at Wonderwerk; 'most likely Homo erectus'; Schöningen counts are minimums and the makers' species is unsettled; Shanidar's care is inferred from survival; Canyars' tailoring is 'probably'; 700,000 years of clothing is 'suggested'; Ohalo's trial cultivation is the excavators' suggestion; Mezhyrich's dwelling reading and bone sourcing are debated in the article's open reviews. 'Until now' is answered with the Smithsonian's species date and an interpretation row (C12), not with population genetics. Nothing is drawn from another channel's video.
+
+## SRC01 — Marin-Monfort et al. — New evidence for Early Pleistocene use of fire at Wonderwerk Cave (South Africa), PLOS ONE 2026
+
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13225425/fullTextXML
+
+Read: 2026-10-10: introduction and discussion: 'The most robust dataset supporting early fire use currently derives from the Acheulean of Wonderwerk Cave (South Africa), Excavation 1, Stratum 10 … dated to ~1.0 Ma. This is based on finds of burnt bone, stone, sediment, and in situ ash together in the same layer'; Excavation 1 'would have been situated ~30 m from the cave entrance … too deep inside the cave to be affected by natural wildfires'; burnt small-mammal bones in Strata 10 and 11 show 'repeated, spatially patterned combustion events deep within the cave'; 'intentional fire introduction and use by early Acheulean hominins, most likely Homo erectus'; 'it seems likely that early Homo was only able to acquire fire from natural, mostly seasonal wildfire resources, bring it to their occupation sites, and maintain it until it was extinguished. The ability to make and control fire only developed much later'.
+
+Use/limits: Fire use and maintenance, not fire-making, is what the evidence shows; the hominin identity is the authors' 'most likely'. No cooking menu, no hearth design and no cave art belong to this layer.
+
+## SRC02 — Smithsonian National Museum of Natural History, Human Origins — Homo erectus
+
+https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus
+
+Read: 2026-10-10: 'When Lived: Between about 1.89 million and 110,000 years ago'; 'The earliest evidence of hearths (campfires) occur during the time range of Homo erectus'; hearths 'used for cooking (and probably sharing) food … places for social interaction, and also used for warmth and to keep away large predators'.
+
+Use/limits: General species page; it does not name Wonderwerk. Use for what fire was for, not for the Wonderwerk dating.
+
+## SRC03 — Leder et al. — The wooden artifacts from Schöningen's Spear Horizon and their place in human evolution, PNAS 2024 (open access)
+
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11009636/fullTextXML
+
+Read: 2026-10-10: significance, abstract and results: 'With 187 wooden artifacts, Schöningen 13 II-4 provides the largest assemblage worldwide'; 'at least 10 spears and seven throwing sticks used in hunting next to 35 newly recognized pointed and rounded split woods likely used in domestic activities'; 'this 300,000-y-old site (MIS 9)'; 'located at a former interglacial lakeshore'; 'open woodland landscape with alder, birch, and willow near riverine and lacustrine locations'; artifacts 'exclusively made from spruce (n = 124), spruce/larch (n = 18), and pine (n = 45)'; 'the raw material was not available at the lakeshore but must have been transported from the nearby Elm Mountain some 3 to 5 km away'; '20 to 25 butchered animal carcases, mostly horse'; 'skinning was one of the major features of the butchery sequence'; throwing sticks 'could be used by various members of the group including children'; the site 'functioned not only as a hunting/butchering site by a lakeshore … but equally as a site for domestic activities'; Schöningen sits 'in the midst of the transitional phase from H. heidelbergensis/H. erectus to Neanderthals in Eurasia'.
+
+Use/limits: Counts are minimums from a reinterpreted assemblage. The makers' species is not settled; say 'earlier humans, not our species'. No single hunt is reconstructed.
+
+## SRC04 — Trinkaus and Villotte — External auditory exostoses and hearing loss in the Shanidar 1 Neandertal, PLOS ONE 2017
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0186684
+
+Read: 2026-10-10: abstract, materials and discussion: 'The ≈50 ka BP Shanidar 1 Neandertal'; 'an adult (40–50 years old …) male'; 'crushing fracture of his left orbit with a probable reduction in vision, the loss of his right forearm and hand, and evidence of an abnormal gait'; the arm 'was most likely amputated above the elbow, possibly after a non-union fracture and associated atrophy'; 'at least unilateral conductive hearing loss, a serious sensory deprivation for a Pleistocene hunter-gatherer'; the condition 'reinforces the paleobiological and archeological evidence for supporting social matrices among these Pleistocene foraging peoples'; predators 'ubiquitous … in the Zagros Mountains and at Shanidar Cave'.
+
+Use/limits: The paper infers social support from survival with disabilities; it does not describe who cared for him or how. Keep the injuries as listed and the age as a range.
+
+## SRC05 — Smithsonian National Museum of Natural History, Human Origins — Homo neanderthalensis
+
+https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis
+
+Read: 2026-10-10: 'When Lived: About 400,000 - 40,000 years ago'; 'Neanderthals … are our closest extinct human relative'; 'short, stocky bodies … adapted to winter climates'; 'made and used a diverse set of sophisticated tools, controlled fire, lived in shelters, made and wore clothing, were skilled hunters of large animals and also ate plant foods … deliberately buried their dead'.
+
+Use/limits: Species overview; it does not discuss interbreeding in the passage read, so the script says only that their line did not continue as a separate people.
+
+## SRC06 — Doyon et al. — A 39,600-year-old leather punch board from Canyars, Gavà, Spain, Science Advances 2023 (open access)
+
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC10096582/fullTextXML
+
+Read: 2026-10-10: abstract, site description and discussion: 'an open-air site located near Gavà, 20 km south of Barcelona'; dates '37,405 to 40,916 cal BP (2σ)', 'consistent with the Early Aurignacian occupation'; 'the earliest-known leather work punch board recording six episodes of hide pricking, one of which was to produce a linear seam'; 'Aurignacian hunters-gatherers used this technology to produce leather works and probably tailored clothes well before the introduction of bone eyed needles in Europe 15,000 years later'; 'bone eyed needles are undocumented in Western Europe before the Solutrean [c. 26 to 23 ka]'; 'Eyed needles are not required for the manufacture of fitted clothes'.
+
+Use/limits: 'Probably tailored clothes' is the authors' inference from a seam; no garment survives. The hole count is not spoken.
+
+## SRC07 — The Origins of Fashion — Evolutionary Anthropology 2026 (open access review)
+
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13321133/fullTextXML
+
+Read: 2026-10-10: thresholds and clothing sections: 'proto-clothing for protection against cold and windchill was already in place by 700 ka, and likely earlier' (from use-wear, hide-removal cutmarks, bone skin-working tools and the divergence of body and head lice); 'The earliest bone-eyed needles … emerge in East Asia around 40 ka, only reaching Europe circa 26 ka'; 'the double and triple burials of Sungir (Russia, ~34 ka), where two subadults were buried with tens of thousands of beads, mammoth ivory spears, and lavish regalia far exceeding the grave goods of nearby adults'.
+
+Use/limits: A review article; its dates summarise other studies. The 700,000-year figure is an inference from indirect evidence and is spoken with 'suggest'. Sungir's beads are described as grave goods; the script does not claim how they were worn.
+
+## SRC08 — Nalawade-Chavan, McCullagh and Hedges — New hydroxyproline radiocarbon dates from Sungir, Russia, PLOS ONE 2014
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0076896
+
+Read: 2026-10-10: abstract and introduction: site 'about 197 km east of Moscow near the modern city of Vladimir'; 'up to 8 human individuals, some of whom were interred with a rich material culture, including spears made of mammoth ivory, ivory beads and perforated fox teeth'; hydroxyproline dates of about 30,000 radiocarbon years BP for the burials, statistically indistinguishable.
+
+Use/limits: Radiocarbon ages of about 30,000 BP calibrate to roughly 34,000 calendar years; the script says 'about thirty-four thousand years ago' following SRC07.
+
+## SRC09 — Snir et al. — The Origin of Cultivation and Proto-Weeds, Long Before Neolithic Farming, PLOS ONE 2015
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131422
+
+Read: 2026-10-10: abstract and site description: 'Ohalo II, a 23,000-year-old hunter-gatherers' sedentary camp on the shore of the Sea of Galilee, Israel'; 'inhabited during the Last Glacial Maximum (LGM) at ~23,000 years ago and then inundated'; 'The remains of six brush huts were identified … All of the huts had a bowl-like cross section, with the floor dug below ground level'; Brush Hut 1 'built with thick branches of Tamarix (tamarisk), Salix (willow) and Quercus ithaburensis (Mt. Tabor oak), covered by smaller branches … as well as by leaves and grasses'; 'ca. 150,000 seeds and fruits'; 'extensive human gathering of over 140 plant species and food preparation by grinding wild wheat and barley'; '13 well-known current weeds'; 'at least 11 millennia before the onset of agriculture'; 'we suggest that their presence indicates the earliest, small-scale attempt to cultivate wild cereals'; floors also held 'flint and ground stone tools, faunal remains (fish, mammals, birds, rodents, reptiles, and mollusks), beads, bone, and wood objects'.
+
+Use/limits: Trial cultivation is the authors' suggestion, spoken as such. No farming, no domesticated plants.
+
+## SRC10 — Steiner et al. — Abundance or stress? Faunal exploitation patterns … Brush Hut 1 at Ohalo II, PLOS ONE 2022 (open access)
+
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8791512/fullTextXML
+
+Read: 2026-10-10: introduction and site description: 'occupied during the Last Glacial Maximum (LGM), between 23,500–22,500 cal BP'; 'The site covers ca. 2000 m2 and includes the remains of six oval-shaped brush huts, open-air hearths, a grave of an adult male'; 'Brush Hut 1 is the largest of the six brush huts … measuring 4.5 × 3.0 m'; 'Floor III was covered, except for a hearth in the middle, with grass bedding laid in an overlapping pattern over ca. 7 m2 of the floor'; Floor III read as 'a winter occupation based on the plant assemblage, the grass bedding, and the presence of an indoor hearth'; fauna: gazelle dominant over fallow deer, with fish, birds, hares and tortoises exploited concurrently.
+
+Use/limits: Seasonality is an interpretation. The bedding is Floor III of one hut, not every floor.
+
+## SRC11 — Chu et al. — A revised radiocarbon chronology for the mammoth bone structures and associated features at Mezhyrich, Ukraine, Open Research Europe 2025 (open access, with open peer review)
+
+https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12639289/fullTextXML
+
+Read: 2026-10-10: abstract, background and reviews: 'Mezhyrich … situated in the Middle Dnieper Basin of Ukraine known for its exceptional preservation of four Mammoth Bone Structures (MBSs) between 12–24 m' apart; earlier excavations found 'three discrete MBSs, each c. 6 m in diameter'; 'The mammoth bones used in the construction of MBS 4 were sourced from a minimum of 37 individuals' (a reviewer disputes the authors' 'predominantly from natural accumulations', noting the cited excavators said only that some bones came from long-dead animals); MBS 4 dated 'c. 18,248–17,764 years cal BP with a site duration lasting between 0–429 years'; 'at least three internal cultural layers and the presence of butchered remains of juvenile and adolescent mammoths within the surrounding pits'; features include 'artefact-filled pits, hunting weapons, ivory, and bone ornaments'; the debate whether such structures were 'dwellings or … bone beds, food caches, burials, religious traditions, or ritualised middens'; environment 'a cold mesophilic forest-steppe'; herbivore niches of the mammoth steppe 'collapsed during the Last Glacial Maximum'.
+
+Use/limits: The dwelling interpretation and the bone-sourcing are debated in the article's own open reviews; the script says so. The roof is unknown. No hunt of 37 mammoths is claimed.
+
+## SRC12 — Smithsonian National Museum of Natural History, Human Origins — Homo sapiens
+
+https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens
+
+Read: 2026-10-10: 'When Lived: About 300,000 years ago to present'; 'During a time of dramatic climate change 300,000 years ago, Homo sapiens evolved in Africa'.
+
+Use/limits: Rounded species date; no population figures are spoken.

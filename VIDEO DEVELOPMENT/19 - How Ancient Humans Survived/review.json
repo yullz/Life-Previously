@@ -1,0 +1,104 @@
+{
+  "state": "released_director_package",
+  "source_passages_read": true,
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "New package written on the owner's request of 2026-10-10 ('How ancient human survived until now?'). All 96 scenes, claims, sources, locations, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md after drafting; every claim verified on sources read today (see claims_verification).",
+    "refutation": "Tried to break each stop: Wonderwerk is fire use, not fire-making, and 'probably Homo erectus'; Schöningen counts are minimums and the makers are 'not our species' without a name; Shanidar's care is inferred from long survival and the confidence is said aloud; Canyars' tailoring is the authors' 'probably'; clothing by 700,000 years is 'suggested'; Ohalo's trial cultivation is the excavators' suggestion; Mezhyrich's dwelling reading, bone sourcing and roof are marked debated or unknown. No population genetics, no 'first ever' claims, no mammoth hunt drawn.",
+    "findings": [
+      {
+        "id": "19-R01",
+        "issue": "First draft ran 2,068 narration words",
+        "fix": "Trimmed 82 lines to 1,898 words without dropping a claim; chapters 83–95 seconds."
+      },
+      {
+        "id": "19-R02",
+        "issue": "Title: the owner's working title opens with 'How ancient humans …', a shape the channel's own title rules avoid",
+        "fix": "Lead title is a question with the era ('Could You Survive One Night With Early Humans?'); the owner's wording is kept as the first alternate for the upload decision."
+      },
+      {
+        "id": "19-R03",
+        "issue": "The period text ended with a sentence naming the Visitor, which the compiler would have put in every prompt",
+        "fix": "Sentence removed; no prompt, design or thumbnail background names him."
+      },
+      {
+        "id": "19-R04",
+        "issue": "'Sea of Galilee' had no pronunciation entry",
+        "fix": "Added."
+      },
+      {
+        "id": "19-R05",
+        "issue": "Chapter 1 runs 83 seconds, longer than the 60–65 second cold-open norm, because the list format needs the itinerary",
+        "fix": "Accepted: the drop-in, the stake, two questions and the held question all land inside the first forty seconds; the itinerary card follows."
+      },
+      {
+        "id": "19-R06",
+        "issue": "Shanidar 1's injuries risk a gory or mocking picture",
+        "fix": "Design shows an empty cloak sleeve and a calm face; the graphic is an outline figure; the avoid list bans injury detail; the narration treats him with respect."
+      },
+      {
+        "id": "19-R07",
+        "issue": "Mezhyrich roof and bone sourcing are unknown or disputed",
+        "fix": "S076 and S079 say so; S081 calls the roof a guess; the design keeps the covering vague."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 13,
+    "open": 0,
+    "total": 13,
+    "method": "Every source fetched and read at the locator on 2026-10-10: six open-access papers through Europe PMC full text (Wonderwerk 2026, Schöningen 2024, Canyars 2023, Origins of Fashion 2026, Ohalo II 2022, Mezhyrich 2025), three PLOS ONE articles (Shanidar 1, Sungir dates, Ohalo II plants) and three Smithsonian Human Origins species pages. No source refused access.",
+    "summary": "All 13 rows supported on passages read today; every hedge in the sources (most likely, probably, suggest, debated) travels into the narration."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script (script.txt read in full), claims and packaging, plus the slate content check against all other packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (a dry, cold, affectionate tour).",
+    "findings": [
+      {
+        "id": "19-P1-01",
+        "issue": "Looked for identical shot types in a row, long graphic runs, a chapter without a Visitor reaction, a caption with a modern year, or a joke at the expense of the people shown; none found",
+        "fix": "No change."
+      },
+      {
+        "id": "19-P1-02",
+        "issue": "Slate check: the only prehistoric package; the labelled-stops format is shared with 05 (a countdown of Roman-era conveniences), but the era, question, promise and thumbnails are different",
+        "fix": "Distinct. No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Execution dry run: compiled prompts for the cave anchor (S013), its close edit (S014), the Shanidar anchor (S037), the Sungir object insert with caption (S055) and the night steppe edit with the structure in view (S085) read in full; thumbnail brief, handoff counts (96 shots, 78 illustrations, 18 graphics, 3 thumbnails), pilot order, 16 sound assets and 24 cues, 14 pronunciations, Shorts windows (144, 139, 144 words) and packaging copy checked.",
+    "findings": [
+      {
+        "id": "19-P2-01",
+        "issue": "Every prompt carries the long period paragraph by design of the compiler",
+        "fix": "Acceptable: it is the period and avoid guidance; the Visitor sentence that would have been repeated in it was removed in 19-R03."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "New package commissioned by the owner on 10 October 2026. Initial content review, source verification of all 13 claims (every source open access and read), two package review passes and the slate content check complete. The owner decides the final title at upload (lead title versus the working title kept as alternate 1). Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
+  "media_reviews": "not_applicable_yet_no_media_generated",
+  "known_research_boundaries": "A list episode in the channel's labelled-stops format: six excavated camps, oldest first, each with its own place-and-date chip, framed by an invented night on the Mezhyrich steppe. The owner's working title was 'How ancient human survived until now?' (10 October 2026); the channel's own title rules avoid openers of the 'How did ancient humans …' kind, so the lead title is a question with the era and the owner's wording is kept as the first alternate for the upload decision. Every stop rests on an open-access paper or an institutional page read on 10 October 2026 (Europe PMC full texts, PLOS, Smithsonian Human Origins). Hedges travel with the claims: fire use not fire-making at Wonderwerk; 'most likely Homo erectus'; Schöningen counts are minimums and the makers' species is unsettled; Shanidar's care is inferred from survival; Canyars' tailoring is 'probably'; 700,000 years of clothing is 'suggested'; Ohalo's trial cultivation is the excavators' suggestion; Mezhyrich's dwelling reading and bone sourcing are debated in the article's open reviews. 'Until now' is answered with the Smithsonian's species date and an interpretation row (C12), not with population genetics. Nothing is drawn from another channel's video."
+}

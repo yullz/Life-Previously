@@ -1,0 +1,298 @@
+// Astra director development package. Read START_HERE.md and director_to_claude.json.
+TITLE: Could You Survive One Night With Early Humans?
+
+## One night, no tent, no shop
+::: S001 | Moonlit frozen grassland, thin snow in patches, distant stunted trees on the horizon, no buildings; clear frosted ground at right. [pose: look-around 0.8,0.94 0.6] [zoom-in]
+You are standing on a frozen plain in what will one day be Ukraine. Eighteen thousand years ago. Night.
+
+::: S002 | Same plain, closer on the frosted grass at left, moon low; nobody present; clear right foreground. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S001] [still]
+Your survival kit is a hoodie. No shop, no tent, nobody to call, and the nearest tree is a rumour.
+
+::: S003 | A single sharp flint flake and one dry twig on a neutral field; no text. [zoom-out]
+Nothing here is for sale. Everything you need tonight must be found, made, carried or borrowed.
+
+::: S004 | Timeline bar from one million years ago to eighteen thousand years ago with six small camp marks; labels local; at most four typeset labels. [still]
+So how did people get through a million years of nights like this, with no metal, no farms, no doctors?
+
+::: S005 | Frosted plain with a low rise at left and a faint track in the snow; nobody present; clear right ground. [pose: count-fingers 0.8,0.94 0.6] [same-as: S001] [zoom-in]
+And what did every camp have that you lack right now? Hold that one. It is the answer at the end.
+
+::: S006 | Wide plain under the moon, a few distant trees at left, long shadows; clear right foreground. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S001] [pan-left]
+Six real camps tonight, oldest first, each excavated and dated. Every stop gets a label, because they are very far apart.
+
+::: S007 | Six small icons in a row: flame, spear, seated figure, needle and seam, grass bundle, bone wall; only the headline is typeset. [still]
+A fire in a cave, spears by a lake, an injured man, a seam, a bed of grass, a house of bones.
+
+::: S008 | Snowy ground close at left with a single human footprint, moonlight; clear right ground. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Reconstruction • the traveller is a device; the camps are excavated sites] [same-as: S001] [pan-right]
+Our traveller is invented; the camps are not. Where we only have a reasonable guess, you will hear it said.
+
+::: S009 | Frost crystals on dry grass blades, close, on a neutral field; no text. [zoom-in]
+First problem: you are cold, and your body will not negotiate. Warmth before food, friends or philosophy.
+
+::: S010 | Plain at night with two dry sticks lying crossed on the frozen ground at left; clear right foreground. [pose: look-up-worried 0.8,0.94 0.6] [same-as: S001] [pan-left]
+The modern reflex is to make a fire. Rub two sticks, wait for the movie moment. The first stop complicates that.
+
+::: S011 | Same plain, the crossed sticks at left untouched; nobody present. [pose: scratch-head 0.8,0.94 0.6] [same-as: S001] [still]
+Because for most of the human story, nobody knew how to start one.
+
+::: S012 | Stop card: a small map outline of southern Africa with one dot; headline typeset locally. [still]
+Stop one. South Africa, about one million years ago. Into the dark.
+
+## Stop 1: a fire you cannot make
+::: S013 | Low wide cave passage, faint bright entrance far behind, small fire at left with two early humans beside it; clear right floor. [pose: look-around 0.8,0.94 0.6] [note: Wonderwerk Cave, Stratum 10 • about 1,000,000 years ago] [zoom-in]
+Wonderwerk Cave. Thirty metres inside, where daylight gives up. On the floor, a small fire that somebody is tending.
+
+::: S014 | Close on the small fire and the ashy floor at left, one early human's hands feeding it; no faces in frame; nobody at right. [same-as: S013] [pan-left]
+The evidence is in the ash: burnt bone, stone and sediment in one layer, dated to about a million years ago.
+
+::: S015 | A charred fragment of small-animal bone on a neutral field; no text. [zoom-out]
+Thirty metres from the entrance matters. A wildfire outside cannot reach this far. Someone carried fire here, on purpose, more than once.
+
+::: S016 | Cave passage with the fire at left and the two early humans seated beyond it; clear right floor. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S013] [still]
+Here is the awkward part. These people, probably Homo erectus, almost certainly could not make fire.
+
+::: S017 | Three-step schematic: grass fire, carried branch, tended hearth; says schematic. [still]
+The likely routine: find a grass fire, carry a burning branch home, keep it fed. Lose it, and you wait for the next one.
+
+::: S018 | One early human laying a branch on the fire at left while another sleeps against the wall behind; clear right floor. [pose: count-fingers 0.8,0.94 0.6] [same-as: S013] [pan-left]
+That makes fire a chore shared across days. Somebody feeds it while others sleep. The first thing on this trip that nobody owns alone.
+
+::: S019 | Wider cave view: the fire's glow on the walls, the two early humans, the distant entrance; a hint of the night outside; nobody at right. [same-as: S013] [zoom-out]
+Fire bought warmth, light after dark, cooked food, and a reason for a large cat to stay outside.
+
+::: S020 | A chipped stone handaxe, worked on both faces, on a neutral field; no text. [pan-right]
+Acheulean stone tools lie in the same layers. The fire-keepers were toolmakers too.
+
+::: S021 | Cave floor with the fire at left and one early human glancing toward the right side; clear right floor. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S013] [still]
+You try rubbing two sticks anyway. The locals watch with professional interest, then return to the fire that exists.
+
+::: S022 | The fire alone at left, a fresh branch just laid on it, embers bright; clear right floor. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S013] [pan-left]
+The lesson is not toughness. It is maintenance: a fragile thing kept alive by many hands, longer than anyone stays awake.
+
+::: S023 | Cave passage looking toward the bright entrance, fire glow at left edge; clear right floor. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S013] [zoom-out]
+The fire keeps you warm tonight. It will not feed you. For that, we jump forward seven hundred thousand years.
+
+::: S024 | Stop card: small map outline of central Europe with one dot; headline typeset locally. [still]
+Stop two. A lakeshore in what is now Germany, about three hundred thousand years ago.
+
+## Stop 2: the stone age was mostly wood
+::: S025 | Lake edge with reeds at left, scattered alder and willow, pine on far hills, a small group of wild horses at middle distance; clear right foreground. [pose: look-around 0.8,0.94 0.6] [note: Schöningen 13 II-4 • about 300,000 years ago] [zoom-in]
+A warm spell between ice ages. A lake, open woodland, alder and willow by the water, wild horses grazing in the open.
+
+::: S026 | Close shore view: split spruce pieces, a half-shaped wooden spear, a stone flake, one adult crouched working wood at left; nobody at right. [pan-left]
+The mud here kept what almost never survives: one hundred and eighty-seven wooden artefacts.
+
+::: S027 | A fire-hardened wooden spear tip, smooth and pointed, on a neutral field; no text. [zoom-out]
+At least ten spears and seven throwing sticks, beside the bones of twenty-odd butchered animals. Mostly horse.
+
+::: S028 | Shore with the three spear-carriers at left, horses far behind; clear right foreground. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S025] [still]
+You expected a stone age made of stone. Most of what these people held all day was wood.
+
+::: S029 | Simple map: lake at centre, hills to one side, an arrow with a distance label; three tree icons labelled; says schematic. [still]
+Spruce, pine and larch. None grew at the lake. Someone carried the wood from hills three to five kilometres away.
+
+::: S030 | Two adults at left, one splitting a log with a wedge, one scraping a hide pegged out on the ground; clear right foreground. [same-as: S026] [pan-left]
+Thirty-five more tools were split from wood, probably for domestic jobs. A workshop by the water, not only a kill site.
+
+::: S031 | Lakeshore wide: spear-carriers in a loose line at left, horses alert at a distance, reeds and water; clear right foreground. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S025] [zoom-out]
+Taking a wild horse with wooden spears is a group job, and group jobs need trust. The horse is unimpressed by you.
+
+::: S032 | A curved wooden throwing stick, about arm length, on a neutral field; no text. [pan-right]
+The throwing sticks were long-range weapons for smaller prey. Nearly everyone in the group could use one, children included.
+
+::: S033 | Shore at left with a spear leaning on a willow; nobody near it; clear right foreground. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S025] [still]
+You are handed a sharpened stick. The joke writes itself, until you see what the sticks have done.
+
+::: S034 | Butchery area by the shore: a horse hide pegged out at left, two adults working, the lake beyond; clear right foreground. [same-as: S026] [pan-left]
+Skinning was a major part of the butchery here. Hides left this shore as well as meat. Hides mean warmth later.
+
+::: S035 | One adult early human standing by the water at left holding a spear upright, calm; clear right foreground. [pose: look-around 0.8,0.94 0.6] [same-as: S025] [zoom-out]
+Who were they? Not our species. Earlier humans, in a Europe our own kind had not reached; we were only emerging in Africa.
+
+::: S036 | Stop card: small map outline of the Middle East with one dot in the Zagros; headline typeset locally. [still]
+Hunting big animals with sticks gets people hurt. What happened to the hurt? Stop three: a cave in the Zagros mountains, fifty thousand years ago.
+
+## Stop 3: the man who should not have survived
+::: S037 | Cave mouth from inside, daylight on dry hills, hearth at left with the older man seated and a younger Neanderthal kneeling beside him; clear right floor. [pose: look-around 0.8,0.94 0.6] [note: Shanidar Cave • about 50,000 years ago] [zoom-in]
+Shanidar Cave, in what is now northern Iraq. Neanderthals live here: our closest extinct relatives, short, strong and built for cold.
+
+::: S038 | Closer on the older man seated on a hide at left, cloak hanging empty below the right elbow, calm scarred face; nobody at right. [same-as: S037] [pan-left]
+Meet Shanidar One. A man of forty to fifty, which here is old. His body tells a long story.
+
+::: S039 | Simple outline figure with four labelled points: right arm, left eye, right leg, ear; neutral, no gore. [still]
+His right arm ended above the elbow, probably amputated. His left eye socket was crushed. He limped. He was deaf on one side.
+
+::: S040 | Cave mouth with the two Neanderthals by the hearth at left; clear right floor. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S037] [still]
+A one-armed, half-blind, half-deaf hunter-gatherer in a land of leopards and cliffs. And he grew old.
+
+::: S041 | A healed upper-arm bone shown as a clean study object on a neutral field; no text, no gore. [zoom-in]
+The bones had healed long before he died. Someone fed him, kept him warm and safe, for years.
+
+::: S042 | The younger Neanderthal handing the older man a piece of food at left; clear right floor. [pose: count-fingers 0.8,0.94 0.6] [same-as: S037] [pan-left]
+Myth check. 'Survival of the fittest' gets read as 'only the strong survived'. This man is strong evidence against that. We are confident.
+
+::: S043 | Wider cave mouth: a small group of Neanderthals around the hearth at left, the old man among them; hills outside; nobody at right. [same-as: S037] [zoom-out]
+The researchers' phrase is 'supporting social matrices'. In plain words: he had people. His survival is their work too.
+
+::: S044 | Timeline strip with two end labels and three icons: flame, shelter, hide garment; typeset locally. [still]
+Neanderthals used fire, built shelters, made clothing and buried their dead, from about four hundred thousand to forty thousand years ago.
+
+::: S045 | Hearth at left with a flat stone holding roasted meat, one Neanderthal's hand reaching toward the right; clear right floor. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S037] [still]
+You, meanwhile, have a hoodie and a blister. Nobody here finds you impressive, but somebody hands you food.
+
+::: S046 | Cave interior at left: the old man resting, a child beside him, the hearth low; clear right floor. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S037] [pan-left]
+Caring for the injured costs food and time. These groups paid it, and that choice helped humans last.
+
+::: S047 | Cave mouth looking out at the hills in late light, the hearth's glow at left edge; nobody at right. [pose: look-around 0.8,0.94 0.6] [same-as: S037] [zoom-out]
+Their line did not continue as a separate people. Ours did. The care was never the weakness.
+
+::: S048 | Stop card: small map outline of Iberia with one dot near Barcelona; headline typeset locally. [still]
+Fire, food and friends sorted, you still need to stop shivering. Stop four: the coast of Spain, forty thousand years ago.
+
+## Stop 4: clothes with seams
+::: S049 | Open-air terrace camp, sea a grey line at the horizon, small fire, two adults in sewn hide clothing working hides at left; clear right foreground. [pose: look-around 0.8,0.94 0.6] [note: Canyars • about 39,600 years ago] [zoom-in]
+Canyars, near today's Barcelona. People of our own species now, working hides in the open. One holds a bone.
+
+::: S050 | A bone fragment with a line of small punctures on a neutral field; no text. [pan-left]
+That bone is a punch board, a backing for pricking holes through hide. Six separate sessions; one made a straight seam.
+
+::: S051 | One adult pressing a pointed stone tool through hide laid over a flat bone at left, hands and hide in focus; clear right foreground. [same-as: S049] [zoom-out]
+A seam means pieces joined. Joined pieces mean a garment shaped to a body, not a hide thrown over the shoulders.
+
+::: S052 | Camp with hides stretched on pegs at left, the sea beyond; nobody near the right side. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S049] [still]
+Tailoring, fifteen thousand years before the first eyed needles reach Europe. Your hoodie's zip is looking less clever.
+
+::: S053 | Two-point map schematic: East Asia and Europe with dates; one needle icon; typeset locally. [still]
+Bone needles with eyes appear in East Asia around forty thousand years ago, and in Europe around twenty-six thousand.
+
+::: S054 | Camp wide: hides drying on pegs at left, two adults working, pine scrub and sea; clear right foreground. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S049] [pan-left]
+Clothing is far older. Hide-working tools, and even the genetics of lice, suggest cold-weather clothing by seven hundred thousand years ago.
+
+::: S055 | A scatter of small drilled mammoth-ivory beads and one ivory spear tip on a neutral field; no text. [note: Sungir burials • about 34,000 years ago] [zoom-out]
+Then Sungir, Russia, about thirty-four thousand years ago: two children buried with tens of thousands of ivory beads and ivory spears.
+
+::: S056 | Close on an adult's hands drilling a small bead with a stone point at left; clear right foreground. [pose: count-fingers 0.8,0.94 0.6] [same-as: S049] [pan-right]
+Ten thousand beads are not quick work. They mean time, skill, and people who thought a child was worth it.
+
+::: S057 | A finished hide tunic laid over a low branch at left, fire behind; nobody near the right side. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S049] [still]
+You are offered a hide tunic with actual seams. It smells like its previous owner. You accept immediately.
+
+::: S058 | Terrace camp at dusk, fire bright at left, sea dark beyond; clear right foreground. [pose: look-around 0.8,0.94 0.6] [same-as: S049] [pan-left]
+Warm is not fed. The next camp solves dinner, and it is not what the cartoons promised.
+
+::: S059 | Stop card: small map outline of the eastern Mediterranean with one dot at the Sea of Galilee; headline typeset locally. [still]
+Stop five. The shore of the Sea of Galilee, twenty-three thousand years ago, in the coldest stretch of the ice age.
+
+::: S060 | A flat grinding stone with a handstone and a few wild barley grains on a neutral field; no text. [pan-right]
+Camp rule tonight: dinner is whatever the lake, the reeds and the hills will give. Bring a grinding stone.
+
+## Stop 5: the oldest bed
+::: S061 | Lakeshore with low oval brush huts at left and middle distance, open hearths, fish drying on sticks, calm water at left; clear right foreground. [pose: look-around 0.8,0.94 0.6] [note: Ohalo II • about 23,000 years ago] [zoom-in]
+Six brush huts by the water: tamarisk, willow and oak branches, covered with smaller branches, leaves and grass. Floors dug below ground.
+
+::: S062 | Dim hut interior: a woman kneeling at a grinding stone at left, central hearth, branch walls; clear right floor strip. [pan-left]
+Inside the largest hut, four and a half metres by three, someone grinds wild barley and wheat on a flat stone.
+
+::: S063 | Four labelled icons: seed pile, plant leaf, wheat ear, barley ear; typeset locally. [still]
+About one hundred and fifty thousand seeds and fruits were recovered, from over one hundred and forty plant species.
+
+::: S064 | Hut interior with a bowl-shaped stone of ground grain and a cooked fish on a flat stone at left; clear right floor. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S062] [still]
+You wanted a mammoth steak. You are getting porridge, lake fish, and gazelle if the hunters did well.
+
+::: S065 | Shore wide: an adult lifting a fish from shallow water at left, huts behind, hills beyond; clear right foreground. [same-as: S061] [zoom-in]
+The bones agree: gazelle over fallow deer, plus fish, birds, hares and tortoises. A wide menu, not one big animal.
+
+::: S066 | A small heap of mixed wild grain and weed seeds on a neutral field; no text. [pan-left]
+Thirteen of those plants are weeds, the kind that thrive on trampled ground. The team reads that as small-scale trial cultivation.
+
+::: S067 | Hut interior: handful of grain on the grinding stone at left, firelight; nobody at right. [pose: count-fingers 0.8,0.94 0.6] [same-as: S062] [zoom-out]
+That is eleven thousand years before farming. Nobody here farms. They are gatherers who noticed what grows where people walk.
+
+::: S068 | Hut interior wide: grass bedding covering the floor around the central hearth, branch walls, a hide folded at left; clear right strip. [note: Ohalo II, Brush Hut 1, Floor III • about 23,000 years ago] [same-as: S062] [pan-right]
+Now the bed. One floor of this hut was laid with grass in an overlapping pattern, about seven square metres, around a central hearth.
+
+::: S069 | Grass-covered floor and small fire at left, warm light; clear right floor strip. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S062] [still]
+A grass mattress, an indoor fire, walls of branches. The excavators read it as a winter stay. You read it as a hotel.
+
+::: S070 | A bone point, two flint blades and three small shell beads on a neutral field; no text. [pan-left]
+The floors also held flint tools, bone tools, beads and wooden objects. People lived here.
+
+::: S071 | Shore with a brush hut at left in evening light, water calm; clear right foreground. [pose: look-around 0.8,0.94 0.6] [same-as: S061] [zoom-out]
+A hut of branches works where trees grow. Our last stop is a cold steppe where the best building material has four legs.
+
+::: S072 | Stop card: small map outline of eastern Europe with one dot on the Dnieper; headline typeset locally. [still]
+Stop six. Back where you started: the Dnieper basin, eighteen thousand years ago, in daylight this time.
+
+## Stop 6: a house of thirty-seven mammoths
+::: S073 | Daylight steppe: a low round bone wall about six metres across at left with a dark entrance gap and smoke, pits nearby, two adults carrying a long bone; clear right foreground. [pose: look-around 0.8,0.94 0.6] [note: Mezhyrich • about 18,000 years ago] [zoom-in]
+Mezhyrich. Four round structures, twelve to twenty-four metres apart, each about six metres across, each built of mammoth bones.
+
+::: S074 | Close on the bone wall at left: long bones, skulls and a tusk stacked, two adults setting a bone in place; clear right foreground. [same-as: S073] [pan-left]
+Structure Four alone used bones from at least thirty-seven mammoths, stacked into a wall taller than you.
+
+::: S075 | Bone wall at left, smoke rising, steppe beyond; nobody near the right side. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S073] [still]
+Thirty-seven mammoths. Your first thought is a hunting spree. The evidence is more interesting, and more argued over.
+
+::: S076 | Two-column schematic: hunted (young mammoth icon) and collected (weathered bone icon), with a question mark between; says schematic. [still]
+The pits hold butchered young mammoths, so some were hunted. Many bones were probably gathered from long-dead animals. How many is disputed.
+
+::: S077 | A small ivory pendant and a bone point on a neutral field; no text. [zoom-in]
+The pits also hold hunting weapons, and ornaments of ivory and bone. Rubbish, tools and treasures, all within a few steps.
+
+::: S078 | Dim interior: hearth at left with a small group of adults and a child, bone wall behind; clear right floor. [pan-left]
+Inside: a hearth, and at least three floor layers. New dates put the use around eighteen thousand years ago, for up to four centuries.
+
+::: S079 | Steppe wide: the bone structure at left, a second one farther off, pits between, cold daylight; clear right foreground. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S073] [zoom-out]
+Four centuries is debated, and so is the word 'house'. Dwelling, store, monument, or all three. The latest study says: a dwelling, reused.
+
+::: S080 | The entrance gap in the bone wall at left, dark inside; nobody near the right side. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S073] [still]
+You look for the door. There is a gap in the bones. The estate agent in your head says 'characterful'.
+
+::: S081 | Interior wide: firelight on the bone wall, the covering above left vague and dark, people seated at left; clear right floor. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S078] [zoom-in]
+The roof is gone. Whatever covered it did not survive; the top of this picture is a guess, and we say so.
+
+::: S082 | Bone structure at left in flat cold light, a few stunted trees far off, no mammoths alive in frame; clear right foreground. [pose: look-around 0.8,0.94 0.6] [same-as: S073] [pan-left]
+Around them, cold forest-steppe, and the age of the mammoth was ending. These were among the last people to build with it.
+
+::: S083 | A single mammoth rib bone lying on a neutral field; no text. [zoom-out]
+Hunting weapons, hearths, ornaments, bone walls. None of it is one person's work. Back to your night.
+
+::: S084 | Card: a small flame icon inside a round bone outline; headline typeset locally. [still]
+Night falls on the steppe again, and this time you know where to knock.
+
+## Until now
+::: S085 | Moonlit steppe with the bone structure at middle distance, faint orange glow at its gap, smoke; clear frosted ground at right. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [zoom-in]
+Same plain, same cold. But now there is a low round shape with smoke rising, and a gap where a door should be.
+
+::: S086 | Night plain with the glowing structure small at left; clear right ground. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [still]
+Time for the held question. What did every one of those camps have that you did not? Not muscles. Not a trick.
+
+::: S087 | Four icons: flame with two hands, two spears, a seated figure with a bowl, a bone wall; typeset locally. [still]
+Other people. A fire fed in shifts, a horse hunted together, a wounded man fed for years. Seams sewn, grass laid, bones stacked.
+
+::: S088 | Interior: a small group by the hearth at left, one adult passing food to a child; clear right floor. [same-as: S078] [pan-right]
+Each camp kept alive what no single person could: a flame, a skill, an injured friend, a store of seeds, a house.
+
+::: S089 | A handful of wild grain beside a small glowing ember on a neutral field; no text. [zoom-in]
+Survival was a group subscription, paid in food and time. Everyone was both a cost and a carrier of something vital.
+
+::: S090 | Night plain, the structure's glow at middle distance left, a frosted path leading toward it; clear right foreground. [pose: step-forward 0.8,0.94 0.6] [same-as: S001] [pan-left]
+Your own kit today is the same thing in disguise: shops, heating and medicine are other people's stored-up work. You never meet them.
+
+::: S091 | Simple schematic: Africa outline with a date, an arrow forward to 'now'; typeset locally. [still]
+Our species appeared in Africa about three hundred thousand years ago. Everyone alive descends from people who got through nights like this.
+
+::: S092 | Interior by the hearth at left, bone wall warm in firelight; clear right floor. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S078] [still]
+That includes you. 'Until now' is not a slogan. It is a chain of winters; you are its latest link.
+
+::: S093 | Frosted plain close at left, the two crossed sticks from earlier still lying there; clear right ground. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [zoom-in]
+So: you, a hoodie, and a frozen plain. Honestly, alone, you would not last the week.
+
+::: S094 | Interior wide: group around the hearth at left, the entrance gap showing the night beyond; clear right floor. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S078] [pan-left]
+With them, you might. That was the whole trick, from the first carried flame to the last mammoth-bone wall.
+
+::: S095 | A burning branch held upright, flame small and steady, on a neutral field; no text, no hand. [zoom-out]
+Humans did not survive by being the toughest thing on the steppe. They survived by never facing the problem alone.
+
+::: S096 | The bone structure's entrance gap close at left, glow inside, frost on the ground; clear right foreground. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S001] [still]
+Now go and knock on the bones. Then choose the next Life, Previously episode on screen. The hoodie stays, for some reason.

@@ -31,6 +31,7 @@ What is assessed, per package against all eighteen and the published episodes: s
 | 16 | Kaifeng, c. 1120 | night out | what an evening in the city was like | STILL OPEN? |
 | 17 | Edo, 1867 | trade story | why household waste had buyers | WORTH MONEY? |
 | 18 | Seoul, c. 1900 | evening at home | how a floor was heated | FIRE UNDER HERE? |
+| 19 (new, 10 Oct) | six camps, 1,000,000–18,000 years ago | labelled stops, oldest first | how early humans got through the night | ONE NIGHT. NO FIRE. |
 
 ## Neighbouring subjects (none is a duplicate; each episode keeps its own full explanation)
 
@@ -41,6 +42,7 @@ What is assessed, per package against all eighteen and the published episodes: s
 - **01 and 12 (a household in a crisis):** frost and access versus wartime quantities. Different centuries, causes and formats.
 - **09 and 14 (what money buys):** 1849 gold and cash versus 1733 beaver units. Different continents and tones.
 - **16, 17, 18 (East Asia):** distinct countries, centuries and subjects; each has its own researched outfit, buildings and food (WARDROBE_POLICY.md).
+- **05 and 19 (labelled stops):** a countdown of Roman-era conveniences and a chronological tour of six prehistoric camps. Same device, different era, question and promise; each keeps its own stops and voice.
 - **Title shapes:** "How Did People …" in 01, 03 and 18; "You …" in 04, 09 and 13; "Why …" in 15 and 17. Fine across eighteen; only relevant to adjacency when the owner schedules.
 
 ## Per-package checks
@@ -70,4 +72,12 @@ What is assessed, per package against all eighteen and the published episodes: s
 - Angle (one newcomer's first night: a nightly room, a boarder's place and a monthly apartment, with what each cost and left out) appears nowhere else; 09 is the only other arrival story and is about money in 1849 California.
 - Thumbnail promises (WHERE'S MY BED?, 20¢ A NIGHT?, THREE ROOMS. EVERYTHING.) repeat no other headline family.
 - No shared sources with another package; Riis, the 1900 census and the Tenement House Commission appear only here.
+- Verdict: distinct. No change needed.
+
+### 19 — Could You Survive One Night With Early Humans? (checked 2026-10-10)
+- Setting unique on the slate: the only package before 1240 BC; six prehistoric camps on three continents.
+- Angle (how early humans got through cold nights: carried fire, wooden weapons, care for the injured, sewn clothing, a grass bed, a bone house, and the shared answer at the end) appears nowhere else.
+- Format (labelled stops) is shared with 05 only; 05 counts down Roman-era conveniences, 19 walks forward through time.
+- Thumbnail promises (ONE NIGHT. NO FIRE., NOT THE STRONGEST, THE OLDEST BED) repeat no other headline family.
+- No shared sources with another package.
 - Verdict: distinct. No change needed.

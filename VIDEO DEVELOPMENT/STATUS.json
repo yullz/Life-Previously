@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
   "commissioned": "2026-10-09",
-  "goal": "Complete all eighteen director packages and two additional full review passes",
-  "state": "in_progress: one package at a time (owner instruction 2026-10-09); 01–04 released",
+  "goal": "Complete all eighteen director packages plus the owner's new package 19, and two additional full review passes",
+  "state": "in_progress: one package at a time (owner instruction 2026-10-09); 01–04 and the new 19 released",
   "paid_generation": false,
   "publication_authorized": false,
   "packages": [
@@ -219,6 +219,22 @@
       "additional_review_1": "pending",
       "additional_review_2": "pending",
       "claude_ready": false
+    },
+    {
+      "id": 19,
+      "folder": "19 - How Ancient Humans Survived",
+      "title": "Could You Survive One Night With Early Humans?",
+      "production_slug": "how-humans-survived",
+      "stage": "released_director_package",
+      "director_review": "initial review by Claude 2026-10-10 (passed with fixes)",
+      "additional_review_1": "passed (package pass, 2026-10-10)",
+      "additional_review_2": "passed (package pass, 2026-10-10)",
+      "claude_ready": true,
+      "claims_verification": "complete: 13 of 13 checked 2026-10-10 (open-access papers via Europe PMC and PLOS; Smithsonian Human Origins pages)",
+      "cross_slate_check": "done 2026-10-10: only prehistoric package; distinct (see SLATE_CHECK.md)",
+      "released": "2026-10-10",
+      "manifest": "package_manifest.json",
+      "note": "New package added at the owner's request on 2026-10-10 (working title 'How ancient human survived until now?'); the owner confirms the title at upload."
     }
   ],
   "review_policy": "Only record reviews actually performed against identified file versions. No media approval before media exist.",

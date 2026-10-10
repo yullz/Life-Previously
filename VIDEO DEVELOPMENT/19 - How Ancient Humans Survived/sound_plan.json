@@ -1,0 +1,328 @@
+{
+  "status": "director_specified_assets_unheard",
+  "music": "Existing theme, sparse and low; let the fires and the wind carry the quiet. No tribal-drum cliché, no horror stings on the Shanidar chapter.",
+  "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
+  "new_assets": [
+    {
+      "id": "steppe_wind",
+      "prompt": "Thin steady wind over frozen open grassland at night, dry grass hiss, no howling or whistling, no animals.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/how-humans-survived-steppe_wind.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "small_fire",
+      "prompt": "A small wood fire crackling gently in a quiet enclosed space, occasional soft pop. No roaring blaze.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/how-humans-survived-small_fire.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "branch_on_fire",
+      "prompt": "One dry branch laid onto embers, a brief crackle and settle. No whoosh.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-branch_on_fire.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "stone_knap",
+      "prompt": "Two light taps of stone on stone, dry and close. No metallic ring.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-stone_knap.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "lake_shore",
+      "prompt": "Calm lake edge, very small waves on mud, reeds moving, a distant horse snort. No gulls, no motor.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/how-humans-survived-lake_shore.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "wood_scrape",
+      "prompt": "A stone tool scraping along a wooden shaft, three slow strokes. No saw or sandpaper.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-wood_scrape.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "hide_scrape",
+      "prompt": "A stone scraper drawn across a stretched hide, two slow strokes, dull and soft. No fabric tear.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-hide_scrape.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "cave_mouth",
+      "prompt": "Quiet cave mouth: faint dry wind at the opening, a drip somewhere behind, distant birds outside. No echoey music.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/how-humans-survived-cave_mouth.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "hide_prick",
+      "prompt": "A pointed stone tool pressed through hide onto bone, four small sharp taps in rhythm. No hammering.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-hide_prick.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "beads_pour",
+      "prompt": "A small handful of small ivory beads poured onto hide, soft dry rattle. No glass or coins.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-beads_pour.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "grinding_stone",
+      "prompt": "Grain ground on a flat stone with a handstone, slow rhythmic rasp. No mill or metal.",
+      "seconds": 4,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-grinding_stone.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "grass_laid",
+      "prompt": "Dry grass bundles laid down and pressed by hand, two soft rustles. No wind.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-grass_laid.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "water_fish",
+      "prompt": "Shallow lake water disturbed once, a small splash and drip, as a fish is lifted. No swimmer.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-water_fish.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "bone_set",
+      "prompt": "A heavy bone set down against other bones, one dull knock. No wooden clack.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-bone_set.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "steps_frost",
+      "prompt": "Three slow footsteps on frozen grass and thin snow, crisp crunch. No boots on gravel.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/how-humans-survived-steps_frost.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "hut_interior",
+      "prompt": "Inside a brush hut: a tiny fire ticking, branches creaking slightly, wind muffled outside. No voices.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/how-humans-survived-hut_interior.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    }
+  ],
+  "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance; nothing is generated during development.",
+  "cues": [
+    {
+      "scene_id": "S001",
+      "asset": "steppe_wind",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S010",
+      "asset": "steppe_wind",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S013",
+      "asset": "small_fire",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S018",
+      "asset": "branch_on_fire",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S020",
+      "asset": "stone_knap",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S025",
+      "asset": "lake_shore",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S030",
+      "asset": "wood_scrape",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S034",
+      "asset": "hide_scrape",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S037",
+      "asset": "cave_mouth",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S043",
+      "asset": "small_fire",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S049",
+      "asset": "hide_prick",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S054",
+      "asset": "hide_scrape",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S055",
+      "asset": "beads_pour",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S061",
+      "asset": "lake_shore",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S062",
+      "asset": "grinding_stone",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S065",
+      "asset": "water_fish",
+      "offset_seconds": 0.7,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S068",
+      "asset": "grass_laid",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S069",
+      "asset": "hut_interior",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S074",
+      "asset": "bone_set",
+      "offset_seconds": 0.9,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S078",
+      "asset": "small_fire",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S085",
+      "asset": "steppe_wind",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S088",
+      "asset": "small_fire",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S090",
+      "asset": "steps_frost",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S096",
+      "asset": "steps_frost",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    }
+  ],
+  "intentional_silence": [
+    "No invented speech or chanting in any camp.",
+    "Graphics and object inserts are silent except where a cue names them.",
+    "The Shanidar chapter carries only the cave ambience and fire; no emotional underscore."
+  ],
+  "no_sting": "Do not use the medieval bell sound logo in this episode."
+}

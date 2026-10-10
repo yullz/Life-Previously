@@ -1,0 +1,76 @@
+{
+  "status": "director_specified_not_voiced",
+  "entries": [
+    {
+      "term": "Wonderwerk",
+      "say": "VON-der-verk",
+      "note": "Afrikaans; 'wonder work'."
+    },
+    {
+      "term": "Schöningen",
+      "say": "SHUR-ning-en",
+      "note": "German ö as in 'fur'."
+    },
+    {
+      "term": "Shanidar",
+      "say": "SHAH-ni-dar",
+      "note": "Stress on the first syllable."
+    },
+    {
+      "term": "Neanderthal",
+      "say": "nee-AN-der-tal",
+      "note": "The 'th' is a t."
+    },
+    {
+      "term": "Canyars",
+      "say": "kan-YARS",
+      "note": "Catalan; the full site name (Terrasses de la Riera dels Canyars) is caption only."
+    },
+    {
+      "term": "Gavà",
+      "say": "ga-VAH",
+      "note": "Caption only."
+    },
+    {
+      "term": "Sungir",
+      "say": "soon-GEER",
+      "note": "Also spelled Sunghir; captions use Sungir."
+    },
+    {
+      "term": "Ohalo",
+      "say": "o-HAH-lo",
+      "note": "Say 'Ohalo Two'."
+    },
+    {
+      "term": "Mezhyrich",
+      "say": "meh-ZHIH-rich",
+      "note": "Ukrainian; soft zh as in 'measure'."
+    },
+    {
+      "term": "Acheulean",
+      "say": "uh-SHOO-lee-un",
+      "note": "Say once with the words 'stone tools'."
+    },
+    {
+      "term": "Homo erectus",
+      "say": "HOH-moh ee-REK-tus",
+      "note": "Plain Latin reading."
+    },
+    {
+      "term": "Dnieper",
+      "say": "NEE-per",
+      "note": "Caption also Dnipro; narration uses Dnieper."
+    },
+    {
+      "term": "Zagros",
+      "say": "ZAG-ross",
+      "note": "Mountains in Iraq and Iran."
+    },
+    {
+      "term": "Sea of Galilee",
+      "say": "GAL-ih-lee",
+      "note": "Three syllables."
+    }
+  ],
+  "rule": "Say every date as 'about … years ago' in words; never read a BP figure. Keep 'thirty-seven mammoths' and 'one hundred and eighty-seven wooden artefacts' in full."
+}

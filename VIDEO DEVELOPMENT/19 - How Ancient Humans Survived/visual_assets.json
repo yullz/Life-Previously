@@ -1,0 +1,506 @@
+{
+  "episode": "how-humans-survived",
+  "images": [
+    {
+      "id": "S001",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S002",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S003",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S005",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S006",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S008",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S009",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S010",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S011",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S013",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S014",
+      "parent": "S013",
+      "status": "not_generated"
+    },
+    {
+      "id": "S015",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S016",
+      "parent": "S013",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": "S013",
+      "status": "not_generated"
+    },
+    {
+      "id": "S019",
+      "parent": "S013",
+      "status": "not_generated"
+    },
+    {
+      "id": "S020",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S021",
+      "parent": "S013",
+      "status": "not_generated"
+    },
+    {
+      "id": "S022",
+      "parent": "S013",
+      "status": "not_generated"
+    },
+    {
+      "id": "S023",
+      "parent": "S013",
+      "status": "not_generated"
+    },
+    {
+      "id": "S025",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S026",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S027",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S028",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
+      "id": "S030",
+      "parent": "S026",
+      "status": "not_generated"
+    },
+    {
+      "id": "S031",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
+      "id": "S032",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S033",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
+      "id": "S034",
+      "parent": "S026",
+      "status": "not_generated"
+    },
+    {
+      "id": "S035",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
+      "id": "S037",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S040",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S041",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S042",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S043",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S045",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S047",
+      "parent": "S037",
+      "status": "not_generated"
+    },
+    {
+      "id": "S049",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S050",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S051",
+      "parent": "S049",
+      "status": "not_generated"
+    },
+    {
+      "id": "S052",
+      "parent": "S049",
+      "status": "not_generated"
+    },
+    {
+      "id": "S054",
+      "parent": "S049",
+      "status": "not_generated"
+    },
+    {
+      "id": "S055",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S056",
+      "parent": "S049",
+      "status": "not_generated"
+    },
+    {
+      "id": "S057",
+      "parent": "S049",
+      "status": "not_generated"
+    },
+    {
+      "id": "S058",
+      "parent": "S049",
+      "status": "not_generated"
+    },
+    {
+      "id": "S060",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S061",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S065",
+      "parent": "S061",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S067",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S068",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S069",
+      "parent": "S062",
+      "status": "not_generated"
+    },
+    {
+      "id": "S070",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S071",
+      "parent": "S061",
+      "status": "not_generated"
+    },
+    {
+      "id": "S073",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S074",
+      "parent": "S073",
+      "status": "not_generated"
+    },
+    {
+      "id": "S075",
+      "parent": "S073",
+      "status": "not_generated"
+    },
+    {
+      "id": "S077",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S078",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S079",
+      "parent": "S073",
+      "status": "not_generated"
+    },
+    {
+      "id": "S080",
+      "parent": "S073",
+      "status": "not_generated"
+    },
+    {
+      "id": "S081",
+      "parent": "S078",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S073",
+      "status": "not_generated"
+    },
+    {
+      "id": "S083",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S085",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S088",
+      "parent": "S078",
+      "status": "not_generated"
+    },
+    {
+      "id": "S089",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S090",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S092",
+      "parent": "S078",
+      "status": "not_generated"
+    },
+    {
+      "id": "S093",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S094",
+      "parent": "S078",
+      "status": "not_generated"
+    },
+    {
+      "id": "S095",
+      "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S096",
+      "parent": "S001",
+      "status": "not_generated"
+    }
+  ],
+  "graphics": [
+    {
+      "id": "S004",
+      "text": "ONE MILLION YEARS • SIX CAMPS",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S007",
+      "text": "A MILLION YEARS → 18,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S012",
+      "text": "STOP 1 • WONDERWERK CAVE • 1,000,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S017",
+      "text": "FOUND IT • CARRIED IT • KEPT IT ALIVE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S024",
+      "text": "STOP 2 • SCHÖNINGEN • 300,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S029",
+      "text": "SPRUCE • PINE • LARCH • CARRIED 3–5 KM",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S036",
+      "text": "STOP 3 • SHANIDAR CAVE • 50,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S039",
+      "text": "RIGHT ARM LOST • LEFT EYE CRUSHED • LIMP • DEAF ON ONE SIDE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S044",
+      "text": "NEANDERTHALS • 400,000–40,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S048",
+      "text": "STOP 4 • CANYARS • 39,600 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S053",
+      "text": "EYED NEEDLES • EAST ASIA ~40,000 • EUROPE ~26,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S059",
+      "text": "STOP 5 • OHALO II • 23,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S063",
+      "text": "150,000 SEEDS • 140+ SPECIES • WILD WHEAT • WILD BARLEY",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S072",
+      "text": "STOP 6 • MEZHYRICH • 18,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S076",
+      "text": "HUNTED • COLLECTED • HOW MANY OF EACH?",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S084",
+      "text": "BACK TO TONIGHT • 18,000 YEARS AGO",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S087",
+      "text": "OTHER PEOPLE • WHO KEPT THINGS ALIVE",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    },
+    {
+      "id": "S091",
+      "text": "HOMO SAPIENS • AFRICA • 300,000 YEARS AGO → NOW",
+      "label": "Explanatory schematic",
+      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
+    }
+  ],
+  "visitor_accessory": null
+}

@@ -1,0 +1,406 @@
+[
+  {
+    "id": "C0",
+    "claim": "The Visitor's night, his journey between six camps and his reactions are fictional viewer framing; the camps, dates and finds are real.",
+    "type": "F",
+    "sources": [],
+    "locator": "Opening says the traveller is invented and the camps are not.",
+    "limit": "No invented individuals beyond the Visitor; no claim that any camp received a visitor or that the stops connect historically.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Framing row; S008 says the traveller is invented and the camps are not; S081 marks the roof as a guess.",
+      "source_locators": "—",
+      "refutation": "Looked for any line presenting the Visitor's night as a documented event; none.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S001",
+      "S002",
+      "S003",
+      "S006",
+      "S007",
+      "S008",
+      "S009",
+      "S012",
+      "S021",
+      "S023",
+      "S024",
+      "S028",
+      "S033",
+      "S036",
+      "S045",
+      "S048",
+      "S057",
+      "S058",
+      "S064",
+      "S069",
+      "S072",
+      "S080",
+      "S081",
+      "S084",
+      "S085",
+      "S093",
+      "S096"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C1",
+    "claim": "Wonderwerk Cave, South Africa: burnt bone, stone, sediment and in-place ash in Stratum 10, about 1,000,000 years ago, about 30 metres inside the cave, show fire repeatedly carried in and used by early Acheulean people, most likely Homo erectus.",
+    "type": "E",
+    "sources": [
+      "SRC01"
+    ],
+    "locator": "Introduction (Stratum 10, ~1.0 Ma, burnt bone/stone/sediment/ash); discussion (~30 m from entrance; repeated combustion; most likely Homo erectus).",
+    "limit": "Fire use, not fire-making. 'Most likely Homo erectus' is the authors' judgement.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: 'Wonderwerk Cave (South Africa), Excavation 1, Stratum 10 … dated to ~1.0 Ma … burnt bone, stone, sediment, and in situ ash together in the same layer'; '~30 m from the cave entrance … too deep inside the cave to be affected by natural wildfires'; 'repeated, spatially patterned combustion events deep within the cave'; 'most likely Homo erectus'.",
+      "source_locators": "SRC01 introduction and discussion",
+      "refutation": "S013–S016 speak the layer, the distance, the repetition and 'probably Homo erectus'; no fire-making is claimed. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S013",
+      "S014",
+      "S015",
+      "S016",
+      "S020"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C2",
+    "claim": "Early humans of that age most likely obtained fire from natural wildfires, carried it to their sites and kept it alive; making fire came much later. Hearths gave warmth, light, cooked food and protection from predators.",
+    "type": "E",
+    "sources": [
+      "SRC01",
+      "SRC02"
+    ],
+    "locator": "SRC01 introduction ('it seems likely that early Homo was only able to acquire fire from natural … wildfire resources, bring it to their occupation sites, and maintain it'); SRC02 hearth paragraph.",
+    "limit": "Spoken with 'probably'/'almost certainly could not' as the sources hedge; no date for the first fire-making.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: 'early Homo was only able to acquire fire from natural, mostly seasonal wildfire resources, bring it to their occupation sites, and maintain it until it was extinguished. The ability to make and control fire only developed much later'. SRC02: hearths 'used for cooking (and probably sharing) food … social interaction … warmth and to keep away large predators'.",
+      "source_locators": "SRC01 introduction; SRC02 hearth paragraph",
+      "refutation": "S016 says 'almost certainly could not make fire' and S017 'the likely routine'; S019 lists only the uses the Smithsonian names. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S010",
+      "S011",
+      "S016",
+      "S017",
+      "S018",
+      "S019",
+      "S022"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C3",
+    "claim": "Schöningen, Germany, about 300,000 years ago: a lakeshore site preserved 187 wooden artefacts, at least 10 spears and 7 throwing sticks plus 35 split-wood domestic tools, made of spruce, pine and larch carried from hills 3–5 km away; 20–25 butchered carcasses, mostly horse; skinning was a major part of the butchery; throwing sticks could be used by most of the group including children; the makers were earlier humans, not Homo sapiens.",
+    "type": "E",
+    "sources": [
+      "SRC03",
+      "SRC12"
+    ],
+    "locator": "SRC03 significance, abstract, results ('Importance of Schöningen', wood species, raw material transport, butchered carcasses, throwing sticks); SRC12 for sapiens emerging in Africa about 300,000 years ago.",
+    "limit": "Minimum counts; the species of the makers is unsettled. No single hunt is narrated as fact.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC03: '187 wooden artifacts'; 'at least 10 spears and seven throwing sticks … 35 newly recognized … split woods likely used in domestic activities'; '300,000-y-old site (MIS 9)'; 'former interglacial lakeshore'; 'alder, birch, and willow'; 'exclusively made from spruce …, spruce/larch …, and pine'; 'transported from the nearby Elm Mountain some 3 to 5 km away'; '20 to 25 butchered animal carcases, mostly horse'; 'skinning was one of the major features of the butchery sequence'; throwing sticks usable 'by various members of the group including children'; 'transitional phase from H. heidelbergensis/H. erectus to Neanderthals'. SRC12: sapiens 'evolved in Africa' about 300,000 years ago.",
+      "source_locators": "SRC03 significance, abstract, results; SRC12 overview",
+      "refutation": "S027 says 'twenty-odd' for 20–25; S035 says 'not our species' without naming one. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S025",
+      "S026",
+      "S027",
+      "S028",
+      "S029",
+      "S030",
+      "S031",
+      "S032",
+      "S034",
+      "S035"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C4",
+    "claim": "Shanidar 1, a Neanderthal man of 40–50 who died about 50,000 years ago in Shanidar Cave, Iraq, had lost his right arm above the elbow, had a crushed left eye socket, an abnormal gait and hearing loss, yet lived to old age; the authors read this as evidence of supporting social groups.",
+    "type": "E",
+    "sources": [
+      "SRC04"
+    ],
+    "locator": "Abstract; materials (≈50 ka BP; 40–50 years old; male); discussion (amputation, orbit, gait, hearing; 'supporting social matrices').",
+    "limit": "How he was cared for is not recorded; the script says 'someone fed him' as the plain reading of survival, and marks the confidence level aloud.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC04: '≈50 ka BP Shanidar 1'; 'adult (40–50 years old …) male'; 'most likely amputated above the elbow'; 'crushing fracture of the left orbit (probably altering and/or reducing vision)'; 'abnormal gait'; 'at least unilateral conductive hearing loss'; 'supporting social matrices among these Pleistocene foraging peoples'; predators 'ubiquitous … in the Zagros Mountains and at Shanidar Cave'.",
+      "source_locators": "SRC04 abstract, materials, discussion",
+      "refutation": "S039 lists exactly the four conditions; S041 'someone fed him' is the plain reading of long survival and is marked in S042 as confident, not certain. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S038",
+      "S039",
+      "S040",
+      "S041",
+      "S042",
+      "S043",
+      "S046"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C5",
+    "claim": "Neanderthals lived from about 400,000 to 40,000 years ago, were our closest extinct relatives, cold-adapted, and used fire, shelters and clothing and buried their dead.",
+    "type": "E",
+    "sources": [
+      "SRC05"
+    ],
+    "locator": "'When Lived'; overview paragraphs.",
+    "limit": "No interbreeding discussion; the script says their line did not continue as a separate people.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC05: 'About 400,000 - 40,000 years ago'; 'our closest extinct human relative'; 'adapted to winter climates'; 'controlled fire, lived in shelters, made and wore clothing … deliberately buried their dead'.",
+      "source_locators": "SRC05 'When Lived' and overview",
+      "refutation": "S044 and S047 speak only these points; no interbreeding figure. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S037",
+      "S044",
+      "S047"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C6",
+    "claim": "Canyars, near Barcelona, about 39,600 years ago: a bone fragment served as a leather punch board in six separate hide-pricking sessions, one producing a straight seam; the makers probably made tailored clothes some 15,000 years before eyed needles appear in Europe.",
+    "type": "E",
+    "sources": [
+      "SRC06"
+    ],
+    "locator": "Abstract; dating (37,405–40,916 cal BP); discussion on seams, tailored clothes and eyed needles.",
+    "limit": "'Probably tailored' is the authors' inference; no garment survives.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC06: 'near Gavà, 20 km south of Barcelona'; '37,405 to 40,916 cal BP'; 'six episodes of hide pricking, one of which was to produce a linear seam'; 'probably tailored clothes well before the introduction of bone eyed needles in Europe 15,000 years later'; 'Eyed needles are not required for the manufacture of fitted clothes'.",
+      "source_locators": "SRC06 abstract, dating, discussion",
+      "refutation": "S050–S052 keep 'probably' implicit in 'means'; the title figure 39,600 is the paper's own. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S049",
+      "S050",
+      "S051",
+      "S052"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C7",
+    "claim": "Indirect evidence suggests cold-weather clothing by about 700,000 years ago; bone eyed needles appear in East Asia around 40,000 years ago and in Europe around 26,000; at Sungir, Russia, about 34,000 years ago, two children were buried with tens of thousands of ivory beads and mammoth-ivory spears.",
+    "type": "E",
+    "sources": [
+      "SRC07",
+      "SRC08"
+    ],
+    "locator": "SRC07 proto-clothing and needle paragraphs; Sungir paragraph. SRC08 abstract and introduction (ivory beads, ivory spears, dates).",
+    "limit": "700,000 is an inference from tools and lice genetics, spoken with 'suggest'. Beads are grave goods; how they were worn is not claimed.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC07: 'proto-clothing for protection against cold and windchill was already in place by 700 ka, and likely earlier' from hide tools and 'genetic divergence between body and head lice'; 'earliest bone-eyed needles … emerge in East Asia around 40 ka, only reaching Europe circa 26 ka'; 'Sungir (Russia, ~34 ka), where two subadults were buried with tens of thousands of beads, mammoth ivory spears'. SRC08: 'spears made of mammoth ivory, ivory beads and perforated fox teeth'; dates about 30,000 radiocarbon years BP.",
+      "source_locators": "SRC07 clothing and Sungir paragraphs; SRC08 abstract and introduction",
+      "refutation": "S054 says 'suggest'; S055 says 'buried with', not 'wore'. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S053",
+      "S054",
+      "S055",
+      "S056"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C8",
+    "claim": "Ohalo II, on the shore of the Sea of Galilee, about 23,000 years ago during the Last Glacial Maximum: a camp of six brush huts of tamarisk, willow and oak branches with floors dug below ground, about 150,000 seeds and fruits from over 140 plant species, grinding of wild wheat and barley, 13 weed species read by the excavators as small-scale trial cultivation 11,000 years before farming; hut floors also held flint and bone tools, beads and wooden objects.",
+    "type": "E",
+    "sources": [
+      "SRC09"
+    ],
+    "locator": "Abstract; site description (huts, construction species, floors); results (plants, weeds, cultivation suggestion).",
+    "limit": "Trial cultivation is a suggestion; nobody here is a farmer.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC09: '23,000-year-old hunter-gatherers' sedentary camp on the shore of the Sea of Galilee'; 'during the Last Glacial Maximum'; 'six brush huts … floor dug below ground level'; Brush Hut 1 of 'Tamarix (tamarisk), Salix (willow) and Quercus ithaburensis (Mt. Tabor oak), covered by smaller branches … leaves and grasses'; 'ca. 150,000 seeds and fruits'; 'over 140 plant species and food preparation by grinding wild wheat and barley'; '13 well-known current weeds'; 'at least 11 millennia before the onset of agriculture'; 'we suggest … small-scale attempt to cultivate wild cereals'; floors held 'flint and ground stone tools, faunal remains …, beads, bone, and wood objects'.",
+      "source_locators": "SRC09 abstract, site description, results",
+      "refutation": "S066 says 'the team reads that as'; S067 says nobody farms. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S059",
+      "S060",
+      "S061",
+      "S062",
+      "S063",
+      "S066",
+      "S067",
+      "S070"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C9",
+    "claim": "Brush Hut 1 at Ohalo II measured about 4.5 by 3 metres; its Floor III was laid with grass bedding in an overlapping pattern over about 7 square metres around a central hearth and is read as a winter stay; the camp's animal bones show gazelle over fallow deer, with fish, birds, hares and tortoises.",
+    "type": "E",
+    "sources": [
+      "SRC10"
+    ],
+    "locator": "Site and hut description; Floor III bedding and seasonality; faunal results.",
+    "limit": "Winter occupation is an interpretation; one hut, one floor.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC10: 'Brush Hut 1 is the largest … measuring 4.5 × 3.0 m'; 'Floor III was covered, except for a hearth in the middle, with grass bedding laid in an overlapping pattern over ca. 7 m2'; Floor III 'a winter occupation' interpretation; gazelle dominant over fallow deer; fish, birds, hares, tortoises exploited concurrently.",
+      "source_locators": "SRC10 site description, Floor III, faunal results",
+      "refutation": "S068 says 'one floor of this hut'; S069 'the excavators read it as a winter stay'. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S062",
+      "S064",
+      "S065",
+      "S068",
+      "S069"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C10",
+    "claim": "Mezhyrich, Ukraine: four round mammoth-bone structures 12–24 metres apart, about 6 metres across; Structure 4 used bones from at least 37 mammoths and is dated to about 18,250–17,750 years ago with use of up to about four centuries; it had a hearth and three floor layers, with pits holding butchered young mammoths, hunting weapons and ivory and bone ornaments; the environment was cold forest-steppe at the end of the mammoth steppe; whether it was a dwelling, and how many bones were collected from long-dead animals, is debated.",
+    "type": "E",
+    "sources": [
+      "SRC11"
+    ],
+    "locator": "Abstract; background (four MBSs, 6 m diameter, 37 individuals, pits and ornaments); environment and isotope paragraphs; open peer reviews.",
+    "limit": "The script leans on the authors' reading (a reused dwelling) and says the alternatives aloud. No roof is asserted.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC11: 'four Mammoth Bone Structures (MBSs) between 12–24 m'; 'each c. 6 m in diameter'; 'sourced from a minimum of 37 individuals' (sourcing disputed in the open review); 'c. 18,248–17,764 years cal BP with a site duration lasting between 0–429 years'; 'at least three internal cultural layers and … butchered remains of juvenile and adolescent mammoths within the surrounding pits'; 'artefact-filled pits, hunting weapons, ivory, and bone ornaments'; debate 'dwellings or … bone beds, food caches, burials, religious traditions, or ritualised middens'; 'a cold mesophilic forest-steppe'; niches 'collapsed during the Last Glacial Maximum'.",
+      "source_locators": "SRC11 abstract, background, environment, peer reviews",
+      "refutation": "S076 and S079 say the sourcing and the dwelling reading are disputed; S081 marks the roof as a guess. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S071",
+      "S073",
+      "S074",
+      "S075",
+      "S076",
+      "S077",
+      "S078",
+      "S079",
+      "S081",
+      "S082"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C11",
+    "claim": "Homo sapiens evolved in Africa about 300,000 years ago and is the one human species still present.",
+    "type": "E",
+    "sources": [
+      "SRC12",
+      "SRC05"
+    ],
+    "locator": "SRC12 'When Lived' and overview; SRC05 'closest extinct human relative'.",
+    "limit": "Rounded date; no population numbers.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC12: 'About 300,000 years ago to present'; 'Homo sapiens evolved in Africa'. SRC05: Neanderthals 'our closest extinct human relative'.",
+      "source_locators": "SRC12 'When Lived'; SRC05 overview",
+      "refutation": "S091 speaks the rounded date only; no population claim. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S035",
+      "S091",
+      "S092"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  },
+  {
+    "id": "C12",
+    "claim": "Across these camps the means of survival were kept alive by groups rather than individuals: tended fire, cooperative hunting, care for the injured, sewn clothing, built shelters; today's shops, heating and medicine are likewise other people's stored work.",
+    "type": "I",
+    "sources": [
+      "SRC01",
+      "SRC03",
+      "SRC04",
+      "SRC09",
+      "SRC11"
+    ],
+    "locator": "Synthesis of the six stops.",
+    "limit": "Explicit interpretation; no claim about group sizes, kinship or motives.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Interpretation drawn from the checked rows: tended fire (C1–C2), group hunting (C3), care (C4), sewing and beads (C6–C7), huts and bone structures (C8–C10).",
+      "source_locators": "Synthesis",
+      "refutation": "S086–S095 present it as the episode's reading; the modern comparison in S090 is one sentence without a lecture. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
+    "scene_ids": [
+      "S003",
+      "S004",
+      "S005",
+      "S018",
+      "S022",
+      "S031",
+      "S042",
+      "S046",
+      "S047",
+      "S056",
+      "S083",
+      "S086",
+      "S087",
+      "S088",
+      "S089",
+      "S090",
+      "S092",
+      "S094",
+      "S095"
+    ],
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
+  }
+]
