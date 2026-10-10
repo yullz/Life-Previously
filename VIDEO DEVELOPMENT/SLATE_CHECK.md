@@ -89,3 +89,11 @@ What is assessed, per package against all eighteen and the published episodes: s
 - Thumbnail promises (ANCIENT VENDING?, OPEN BY FIRE?, WARM FLOORS?) repeat no other headline family.
 - Shared material: Vitruvius appears only here; no other package cites Hero, the Pompeii park or Ostia.
 - Verdict: distinct. No change needed.
+
+### 06 — Could You Get Through Medieval London Without a Fine? (checked 2026-10-10)
+- Setting shared only with published 001 (London, 1390, a regulated day); 06 is c. 1364 and a rules challenge with a court record. The only other English package is 11 (northern England, 1860s–70s).
+- Angle (three temptations against the peace ordinances, then a real 1365 case) appears nowhere else; 10 is the only other law story and is Salem documents in 1692.
+- Thumbnail promises (JUST WALKING?, NO BLOW. 15 DAYS?, WHO KNOWS YOU?) repeat no other headline family.
+- Title shape 'Could You …' recurs in 09 and 19; fine across the slate, only relevant to adjacency when the owner schedules.
+- No shared sources with another package.
+- Verdict: distinct. No change needed.

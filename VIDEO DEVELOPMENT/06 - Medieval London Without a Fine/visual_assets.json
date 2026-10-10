@@ -28,7 +28,7 @@
     },
     {
       "id": "S006",
-      "parent": "S005",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -127,6 +127,11 @@
       "status": "not_generated"
     },
     {
+      "id": "S029",
+      "parent": "S025",
+      "status": "not_generated"
+    },
+    {
       "id": "S031",
       "parent": "S025",
       "status": "not_generated"
@@ -138,7 +143,7 @@
     },
     {
       "id": "S034",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
@@ -148,12 +153,12 @@
     },
     {
       "id": "S036",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
       "id": "S037",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
@@ -218,7 +223,7 @@
     },
     {
       "id": "S050",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
@@ -283,7 +288,7 @@
     },
     {
       "id": "S065",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
@@ -298,12 +303,12 @@
     },
     {
       "id": "S068",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
       "id": "S069",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
@@ -323,7 +328,7 @@
     },
     {
       "id": "S073",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
@@ -333,7 +338,7 @@
     },
     {
       "id": "S075",
-      "parent": "S005",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -358,7 +363,7 @@
     },
     {
       "id": "S081",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
@@ -378,7 +383,7 @@
     },
     {
       "id": "S087",
-      "parent": "S005",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -398,7 +403,7 @@
     },
     {
       "id": "S091",
-      "parent": "S005",
+      "parent": "S006",
       "status": "not_generated"
     },
     {
@@ -443,12 +448,6 @@
     {
       "id": "S028",
       "text": "6s 8d OR 15 DAYS",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S029",
-      "text": "OR • NOT AUTOMATICALLY BOTH",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },

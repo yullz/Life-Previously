@@ -1,9 +1,134 @@
 {
-  "state": "draft_built",
+  "state": "released_director_package",
   "source_passages_read": true,
-  "exact_script_critical_review": "pending",
-  "additional_slate_review_1": "pending",
-  "additional_slate_review_2": "pending",
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "All 96 scenes, claims, sources, locations, ordinance_spec.json, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md; every claim verified on sources read today (see claims_verification).",
+    "refutation": "Tried to break the challenge: no fixed curfew hour, no curfew fine amount, no 1364 enactment claim, no merged penalty scale (the p.408 variant stays out), 'or' never becomes 'and', the lantern is never a permit on its own, the host's fine stays discretionary, and the 1365 case keeps its charges, committal and same-day mainprise without a verdict or fine.",
+    "findings": [
+      {
+        "id": "06-R01",
+        "issue": "Cold open asked two questions and held none; the payoff ran 60 seconds without an end-screen cue or a return to the opening image",
+        "fix": "S003 holds 'what does this city want from a stranger?'; S088 opens the payoff (chapter 8 now 73 seconds); S093 answers it, S094 returns to the watchman from the opening, S096 cues the next episode."
+      },
+      {
+        "id": "06-R02",
+        "issue": "Repeated lines: S022/S023 both said the Visitor leaves the sword; S018/S019 both said the host must warn guests; S086/S087 both said the entry cannot recover the conversation",
+        "fix": "S018 speaks the confiscation clause; S023 is the joke about the uncinematic victory; S086 gives the trades and ward the record names."
+      },
+      {
+        "id": "06-R03",
+        "issue": "Nine third-person lines about the Visitor",
+        "fix": "Second person in S003, S022, S023, S038, S051, S059, S064, S088 and S093."
+      },
+      {
+        "id": "06-R04",
+        "issue": "Seven runs of identical shot types, including three penalty graphics in a row",
+        "fix": "S025 and S044 wides, S029 a reaction that says 'or', S041 an establishing shot, S070 a wide."
+      },
+      {
+        "id": "06-R05",
+        "issue": "Twenty-six image instructions and the period text named the Visitor",
+        "fix": "Instructions describe the clear space; the period sentence is removed."
+      },
+      {
+        "id": "06-R06",
+        "issue": "The 'office' location was anchored by an object insert of a closed book (S005), so every civic-room scene would have inherited a book picture",
+        "fix": "Book inserts (S005, S075, S087) move to a new 'book' object location; the civic room is anchored by S006."
+      },
+      {
+        "id": "06-R07",
+        "issue": "Two sound cues",
+        "fix": "18 cues on visible action (lanes by day and night, cupboard, shutter, the Bow bell distant then close, footsteps, parchment, door latch) with 8 specified assets; the rejected notification-like bell is banned in the plan."
+      },
+      {
+        "id": "06-R08",
+        "issue": "Pilot skipped the street, inn, gate and hearing-room anchors",
+        "fix": "Pilot: S001, S004, S011, S025, S043, S048, S076, TH-A."
+      },
+      {
+        "id": "06-R09",
+        "issue": "Thumbnail chips B and C were qualifiers, not place-and-year",
+        "fix": "LONDON • c. 1364 on all three; B's headline carries the qualifier (NO BLOW. 15 DAYS?)."
+      },
+      {
+        "id": "06-R10",
+        "issue": "Captions lacked the ordinance's own date",
+        "fix": "S013 names the writ of 12 June 1363; S042 names the ordinance of the 1360s; S086 names the roll and 6 March 1365."
+      },
+      {
+        "id": "06-R11",
+        "issue": "Pronunciations lacked Candlewick and hackneymen",
+        "fix": "Added."
+      },
+      {
+        "id": "06-R12",
+        "issue": "18 collapsed-space strings",
+        "fix": "Spacing normaliser applied."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 14,
+    "open": 0,
+    "total": 14,
+    "method": "All four sources fetched and read at the locators on 2026-10-10: the Liber Albus OCR text on archive.org (Riley pp.334–336), Alsford's Florilegium translation, the Plea and Memoranda Rolls calendar on British History Online (6 March 1365) and the 1329 proclamation on Gutenberg. No source refused access.",
+    "summary": "All 14 rows supported on passages read today; C12 extended with the trades and ward the record gives (a brewer and two hackneymen, Candlewick Street Ward)."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all other packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (a dry, slightly nervous challenge with rules read closely).",
+    "findings": [
+      {
+        "id": "06-P1-01",
+        "issue": "One instruction (S037) still named the Visitor; the two later book inserts would have inherited the Liber Albus picture",
+        "fix": "S037 describes the clear space; S075 and S087 are independent anchors."
+      },
+      {
+        "id": "06-P1-02",
+        "issue": "Chapter 3 runs 109 seconds",
+        "fix": "Inside the band; no change."
+      },
+      {
+        "id": "06-P1-03",
+        "issue": "Slate check: London is also the setting of published episode 001 (1390, a regulated day) and the title shape 'Could You …' recurs in 09 and 19",
+        "fix": "Distinct: 06 is a rules challenge with a court record, 001 a day story; different century, question and promise. No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Execution dry run: compiled prompts for the civic-room anchor (S006), the 'or' reaction in the courtyard (S029), the belfry detail (S043), the hearing-room anchor (S076) and the payoff opener (S088) read in full; ordinance_spec.json checked against the penalty lines; handoff counts, pilot order, 8 sound assets and 18 cues, 9 pronunciations, Shorts windows (153, 118, 135 words), thumbnail brief and packaging copy checked against the standard.",
+    "findings": [
+      {
+        "id": "06-P2-01",
+        "issue": "Looked for a penalty line where 'or' became 'and', a fixed curfew hour, a fine amount for the 1365 case, a prompt naming the Visitor, a weapon in the Visitor's hands, or a modern-dated caption; none found",
+        "fix": "No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification of all 14 claims (Liber Albus pp.334–336 on archive.org, Alsford, the Plea and Memoranda Rolls on British History Online and the 1329 proclamation on Gutenberg all read), two package review passes and the slate content check complete. ordinance_spec.json governs the penalty graphics and the 1365 case captions. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "media_reviews": "not_applicable_yet_no_media_generated",
-  "known_research_boundaries": "A personal challenge rather than another general day-in-London tour. Three escalating temptations—carry a sword, win an argument, keep walking after dusk—reveal how peacekeeping touched ordinary movement and relationships. Date scenario c.1364. Critical chronology finding: Alsford's metadata says c.1364, but Riley's translated prefatory writ reads12June37EdwardIII (1363); do not declare1364 the law's exact enactment. The story's chosen penalty scale is pp.335–336, where a non-bloody fist strike is3s. Riley p.408 prints2s in a different ordinance, so do not merge scales. Curfew exception requires reputation/service, good cause AND light, not a universal night ban or lantern permit. Read a real1365case as a separate evidence layer: combined charges and same-day release on mainprise, no fine stated. The scenario succeeds only inside the fictional challenge; no guarantee these choices eliminated every legal risk. No universalizing of elite rhetoric about inns or poverty. Avoid money conversion to modern dollars. Distinguish city fine from victim recovery. All narrative and image violence remains mild and non-graphic. Bell cue must be an actual low church bell, not the notification-like cue rejected in episode001."
+  "known_research_boundaries": "A personal challenge rather than another general day-in-London tour. Three escalating temptations—carry a sword, win an argument, keep walking after dusk—reveal how peacekeeping touched ordinary movement and relationships. Date scenario c.1364. Critical chronology finding: Alsford's metadata says c.1364, but Riley's translated prefatory writ reads 12 June 37 EdwardIII (1363); do not declare 1364 the law's exact enactment. The story's chosen penalty scale is pp.335–336, where a non-bloody fist strike is3s. Riley p.408 prints2s in a different ordinance, so do not merge scales. Curfew exception requires reputation/service, good cause AND light, not a universal night ban or lantern permit. Read a real 1365 case as a separate evidence layer: combined charges and same-day release on mainprise, no fine stated. The scenario succeeds only inside the fictional challenge; no guarantee these choices eliminated every legal risk. No universalizing of elite rhetoric about inns or poverty. Avoid money conversion to modern dollars. Distinguish city fine from victim recovery. All narrative and image violence remains mild and non-graphic. Bell cue must be an actual low church bell, not the notification-like cue rejected in episode 001."
 }

@@ -1,8 +1,8 @@
 {
   "status": "director_selected_normal_outfit",
   "mode": "normal",
-  "policy": "../WARDROBE_POLICY.md",
-  "reason": "Retain the recognizable modern Visitor from episode001 for the fictional law challenge. No distinctive ceremonial/traditional outfit improves the story; understated period clothing is used for locals.",
+  "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
+  "reason": "Retain the recognizable modern Visitor from episode 001 for the fictional law challenge. No distinctive ceremonial/traditional outfit improves the story; understated period clothing is used for locals.",
   "references": [
     "channel/assets/visitor_sheet.png"
   ],

@@ -1,37 +1,215 @@
 {
-  "status": "director_specified_not_generated_or_heard",
-  "music": "Existing theme low; lighten only at Visitor reactions, never use slapstick cues for imprisonment or assault.",
-  "mix": "Near -14 LUFS and true peak <= -1 dBTP; effects remain below voice at cue.",
+  "status": "director_specified_assets_unheard",
+  "music": "Existing theme low; lighten only at the Visitor's reactions; never a slapstick cue for imprisonment or assault.",
+  "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
   "new_assets": [
     {
+      "id": "street_day",
+      "prompt": "Quiet medieval lane by day: a few footsteps on packed earth, a wooden shutter somewhere, low distant voices without words. No carts, no market shouting.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/london-without-a-fine-street_day.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "night_lane",
+      "prompt": "Very quiet medieval lane at night: faint wind, a distant dog once, nothing else. No owls chorus, no crowd.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/london-without-a-fine-night_lane.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "cupboard_close",
+      "prompt": "A plain wooden cupboard door closed firmly and latched once. No slam.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/london-without-a-fine-cupboard_close.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "shutter_wood",
+      "prompt": "A wooden shop shutter swung closed and barred, modest and dry. No metal.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/london-without-a-fine-shutter_wood.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
       "id": "bow_bell",
-      "description": "Single low resonant medieval-compatible church bell, no electronic ping; illustrative, not authentic recording of1364bell."
+      "prompt": "A single low church bell struck twice, slow, resonant, medieval-compatible; no electronic ping and no change-ringing peal.",
+      "seconds": 4,
+      "kind": "spot",
+      "path": "channel/sfx/london-without-a-fine-bow_bell.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
-      "id": "wood_latch",
-      "description": "Subtle wooden door latch."
+      "id": "steps_lane",
+      "prompt": "Three slow footsteps on packed earth and stone, soft leather soles. No heel click.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/london-without-a-fine-steps_lane.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
-      "id": "quiet_steps",
-      "description": "Two soft steps on firm rough ground, no modern heel click."
+      "id": "parchment",
+      "prompt": "A sheet of parchment turned once on a wooden table, dry rustle. No paper snap.",
+      "seconds": 1,
+      "kind": "accent",
+      "path": "channel/sfx/london-without-a-fine-parchment.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "door_latch",
+      "prompt": "A plain wooden door closed and its latch dropped, quiet. No bolt or chain.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/london-without-a-fine-door_latch.mp3",
+      "paid": true,
+      "quote_at_launch": true
     }
   ],
-  "acquisition": "Review existing library first, particularly rejected bell problem; itemize only missing cues in production allowance.",
+  "acquisition": "Use suitable licensed existing assets only after listening; the notification-like bell rejected on episode 001 must not return. Quote any missing asset within the future episode allowance; nothing is generated during development.",
   "cues": [
+    {
+      "scene_id": "S001",
+      "asset": "night_lane",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S004",
+      "asset": "street_day",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S008",
+      "asset": "street_day",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S022",
+      "asset": "cupboard_close",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S024",
+      "asset": "street_day",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S040",
+      "asset": "shutter_wood",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S041",
+      "asset": "street_day",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S042",
+      "asset": "bow_bell",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
     {
       "scene_id": "S043",
       "asset": "bow_bell",
-      "timing": "One low bell at cut to belfry, duck beneath narration; do not loop."
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S045",
+      "asset": "night_lane",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S060",
+      "asset": "street_day",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S066",
+      "asset": "night_lane",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S069",
+      "asset": "parchment",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S071",
+      "asset": "steps_lane",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S080",
+      "asset": "parchment",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S083",
+      "asset": "steps_lane",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S092",
+      "asset": "steps_lane",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S093",
-      "asset": "wood_latch",
-      "timing": "Brief cue on the return-to-inn door cut, matching visible door state."
+      "asset": "door_latch",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     }
   ],
   "intentional_silence": [
-    "No impact sounds for the described penalty diagram.",
+    "No impact sounds for the penalty diagrams.",
     "No modern siren, police radio, gavel or handcuff click.",
-    "No invented shouted accusations in the1365case."
-  ]
+    "No invented shouted accusations in the 1365 case; the hearing room is quiet.",
+    "The bell is heard distantly at S042 (church roof in view) and close at S043 (belfry in view), nowhere else."
+  ],
+  "no_sting": "The medieval bell sound logo may be used only if it is the channel's own low bell; never the rejected notification-like cue."
 }

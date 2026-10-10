@@ -19,7 +19,7 @@
       "from_scene": "S027",
       "to_scene": "S032",
       "hook": "You do not have to land a blow.",
-      "description": "One London ordinance prescribed half a mark or15days for drawing a weapon without striking. This is a selected historical rule, not every medieval sentence.",
+      "description": "One London ordinance prescribed half a mark or 15 days for drawing a weapon without striking. This is a selected historical rule, not every medieval sentence.",
       "id": "short-2",
       "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
       "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
@@ -29,7 +29,7 @@
       "from_scene": "S077",
       "to_scene": "S083",
       "hook": "The record gives a more complicated ending.",
-      "description": "A6March1365London court entry records combined night-affray and curfew charges, imprisonment and release on mainprise. It gives no fine amount.",
+      "description": "A6 March 1365 London court entry records combined night-affray and curfew charges, imprisonment and release on mainprise. It gives no fine amount.",
       "id": "short-3",
       "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
       "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."

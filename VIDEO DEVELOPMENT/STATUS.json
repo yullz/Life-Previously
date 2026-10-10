@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "commissioned": "2026-10-09",
   "goal": "Complete all eighteen director packages plus the owner's new package 19, and two additional full review passes",
-  "state": "in_progress: one package at a time (owner instruction 2026-10-09); 01–05 and the new 19 released",
+  "state": "in_progress: one package at a time (owner instruction 2026-10-09); 01–06 and the new 19 released; paused for the owner after 06 (owner instruction 2026-10-10)",
   "paid_generation": false,
   "publication_authorized": false,
   "packages": [
@@ -86,11 +86,15 @@
       "folder": "06 - Medieval London Without a Fine",
       "title": "Could You Get Through Medieval London Without a Fine?",
       "production_slug": "london-without-a-fine",
-      "stage": "draft_built_initial_review_pending",
-      "director_review": "pending",
-      "additional_review_1": "pending",
-      "additional_review_2": "pending",
-      "claude_ready": false
+      "stage": "released_director_package",
+      "director_review": "initial review by Claude 2026-10-10 (passed with fixes)",
+      "additional_review_1": "passed_with_fixes (package pass, 2026-10-10)",
+      "additional_review_2": "passed (package pass, 2026-10-10)",
+      "claude_ready": true,
+      "claims_verification": "complete: 14 of 14 checked 2026-10-10 (Liber Albus pp.334–336 on archive.org, Alsford, Plea and Memoranda Rolls on BHO, 1329 proclamation on Gutenberg)",
+      "cross_slate_check": "done 2026-10-10: distinct question and format (see SLATE_CHECK.md)",
+      "released": "2026-10-10",
+      "manifest": "package_manifest.json"
     },
     {
       "id": 7,

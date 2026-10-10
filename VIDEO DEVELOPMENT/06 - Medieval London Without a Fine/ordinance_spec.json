@@ -44,9 +44,9 @@
   "court_case": {
     "date": "6March1365",
     "people": [
-      "William Moot",
-      "John de Henham",
-      "Thomas Fraunceys"
+      "William Moot, brewer",
+      "John de Henham, hackneyman",
+      "Thomas Fraunceys, hackneyman"
     ],
     "charges": [
       "affray by night",
@@ -59,8 +59,10 @@
       "exact dialogue",
       "acquittal declaration",
       "a universal same-day-release rule"
-    ]
+    ],
+    "ward": "Candlewick Street Ward (as the calendar spells it, Candlewickstreet)"
   },
   "visual_rule": "Use local typography for rules and date labels; no photographed/painted fake documents. No gory injuries. Historical scenes are illustrative, never staged as recovered footage.",
-  "continuity": "The opening is a flash-forward to the hypothetical night encounter. S004 returns to earlier daylight. S059–S064 offer a labelled alternative rather than silently claiming an actual arrest and escape. S076–S086 are a separate1365record; S088returns to the fictional1364challenge."
+  "continuity": "The opening is a flash-forward to the hypothetical night encounter. S004 returns to earlier daylight. S059–S064 offer a labelled alternative rather than silently claiming an actual arrest and escape. S076–S086 are a separate1365record; S088 (now the opening of the last chapter) returns to the fictional1364challenge.",
+  "revision_2026_10_10": "Trades and ward added from the calendar entry; book inserts moved to the 'book' object location; S029 is a reaction stating the OR rule."
 }

@@ -7,7 +7,7 @@
     "Medieval London: Can You Stay Out of Trouble?",
     "A Walk Through London Could Cost You—Even Without a Fight"
   ],
-  "period": "London c. 1364, an explicitly fictional walk testing mid-fourteenth-century peace ordinances; one clearly labelled court-record comparison moves to 6 March 1365. Everyday timber-framed and plastered shops with modest upper projections, weathered stone civic/church buildings and clay tiled roofs; not exaggerated Tudor decorative grids. Plain wool tunics/gowns, hoods and hose on locals, muted browns, olives, slate and ochre. City officers and watchmen are reconstructed civilians with simple staves and lights, not a modern uniformed police force or an army of plate-armoured knights. Newgate is a medieval gate/prison reconstruction, not the later Georgian prison. St Mary-le-Bow is represented by a bell detail and plain medieval masonry, never Wren's later tower. Visitor remains separately composited. Day moves through dusk to night; change the same locations by editing accepted anchors.",
+  "period": "London c. 1364, an explicitly fictional walk testing mid-fourteenth-century peace ordinances; one clearly labelled court-record comparison moves to 6 March 1365. Everyday timber-framed and plastered shops with modest upper projections, weathered stone civic/church buildings and clay tiled roofs; not exaggerated Tudor decorative grids. Plain wool tunics/gowns, hoods and hose on locals, muted browns, olives, slate and ochre. City officers and watchmen are reconstructed civilians with simple staves and lights, not a modern uniformed police force or an army of plate-armoured knights. Newgate is a medieval gate/prison reconstruction, not the later Georgian prison. St Mary-le-Bow is represented by a bell detail and plain medieval masonry, never Wren's later tower. Day moves through dusk to night; change the same locations by editing accepted anchors.",
   "avoid": "modern police helmets, badges, handcuffs, electric lamps, watches, phone notification bells, modern fine tickets, Tudor palaces, Wren's St Mary-le-Bow tower, St Paul's dome, Georgian Newgate, fantasy guards, every local carrying a sword, graphic blood, a punch shown as comedy slapstick, invented words on manuscripts, fixed nine-o'clock curfew, blending 1285/1329/1363 ordinances",
   "locations": {
     "street": {
@@ -51,6 +51,11 @@
       "scope": "Modern explanatory graphic",
       "frame": "editorial schematic",
       "design": "Channel parchment with brown type, simple restrained symbols, no faux medieval writing. Conditional penalties always retain OR, not AND."
+    },
+    "book": {
+      "scope": "Modern explanatory object: the Liber Albus and the court calendar shown as closed plain bound volumes",
+      "frame": "modern historical object explanation",
+      "design": "Closed plain bound book on a wooden table, parchment-coloured page edges, no title, lettering or clasp decoration; neutral background. Any title is composited locally."
     }
   },
   "sources": [
@@ -58,29 +63,29 @@
       "id": "SRC01",
       "title": "Liber Albus, translated by H. T. Riley (1861), pp. 334–336",
       "url": "https://archive.org/details/liberalbuswhite00carpgoog",
-      "read": "2026-10-09: complete text of writ and peace/arms/innkeeper/arrest/assault/watch articles, using public-domain OCR download; cross-checked modern scholarly translation.",
-      "limit": "The writ is dated 12 June, regnal year37 of Edward III (1363), whereas later editorial dating is c.1364. Set fictional day c.1364 without claiming enactment then. Do not mix p.408's different two-shilling fist penalty with p.336's three shillings.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read on the archive.org OCR text, pp.334–336: the writ 'Witness myself, at Westminster, this twelfth day of June, in the year of our reign thirty-seven'; 'Of keeping the peace': 'that no one be so daring as to go wandering about within the said city, or in the suburbs, after the hour of curfew rung out at the church of Our Lady at Bow, unless he be a man known to be of good repute, or his servant, for some good cause, and that with a light; the which curfew shall be rung at the said church between the day and the night … taken and sent unto the prison of Newgate, there to remain until he shall have paid a fine unto the City for such contempt, and have found good surety for his good behaviour'; 'That no one go armed': 'no one, of whatever condition he be, go armed in the said city or in the suburbs, or carry arms, by day or by night, except the vadlets of the great lords of the land, carrying the swords of their masters in their presence, and the serjeants-at-arms of … the King … and the officers of the City, and such persons as shall come in their company in aid of them, at their command … under the penalty aforesaid, and the loss of their arms and armour'; 'Of Hostelers': 'every hosteler and herbergeour cause warning to be given unto his guests that they leave their arms in their hostels … through default of warning by his host, such host is to be punished by imprisonment and by fine, at the discretion of the Mayor and Aldermen'; arrest by 'every man of standing in the said city, Alderman and commoner, who is of good repute … in the absence of the officers … unto the houses of the Sheriffs'; 'That no one draw sword or knife': 'provided he do not strike, he is to pay unto the City half a mark, or remain in the prison of Newgate fifteen days. And if he draw blood of any one … twenty shillings, or remain in prison forty days … with the fist, but have not drawn blood … three shillings, or be imprisoned eight days … draw blood with the fist … forty pence, or be imprisoned twelve days. And let such offenders find good surety, before their release, for their good behaviour. And nevertheless, let him upon whom such offence has been committed, have his recovery by process of law; and let such offences, as to blood shed … be pleaded before the Sheriffs from day to day, without any essoin or other delay'; 'Of good Watches': 'each Alderman cause to be set in his Ward good and proper watches … if evil happen through default of the watches, the Alderman and all the commons of the Ward may be answerable … each Alderman have the names of all those who are inhabitants, and dwellers with the inhabitants, of his Ward; as well of those who are put in retired places to work as of others'.",
+      "limit": "The writ is dated 12 June, regnal year 37 of Edward III (1363), whereas later editorial dating is c.1364. Set fictional day c.1364 without claiming enactment then. Do not mix p.408's different two-shilling fist penalty with p.336's three shillings.",
       "text_url": "https://archive.org/download/liberalbuswhite00carpgoog/liberalbuswhite00carpgoog_djvu.txt"
     },
     {
       "id": "SRC02",
       "title": "Stephen Alsford, Florilegium Urbanum — Ordinances for preserving law and order",
       "url": "https://the-orb.arlima.net/encyclop/culture/towns/florilegium/government/gvjust09.html",
-      "read": "2026-10-09: full translation, discussion and notes; original cited as Liber Albus ff.223–224.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: same clauses in Alsford's translation ('a man of known and good reputation, or his servant, [going about] for a good cause, and with a light'; 'No-one is to go about armed'; host 'punished by imprisonment and a fine to be determined by the mayor and aldermen'; '6s.8d or being imprisoned at Newgate for 15 days'; '20s. to the city or be imprisoned for 40 days'; '3s. … or be imprisoned for 8 days'; '3s.4d … or be imprisoned for 12 days'; 'offenders are to find reliable guarantors for their good behaviour'; 'Each alderman is to have the names of all those who are inhabitants'); notes on the Bow bells and the citizen's arrest.",
       "limit": "Independent translation check, not independent evidence of actual enforcement. Its c.1364 dating differs from the explicit regnal date in the writ. Do not adopt the commentary's generalized criminalizing descriptions of inn guests."
     },
     {
       "id": "SRC03",
-      "title": "A. H. Thomas, Calendar of Plea and Memoranda Rolls, volume2, Roll A10 (1364–5)",
+      "title": "A. H. Thomas, Calendar of Plea and Memoranda Rolls, volume 2, Roll A10 (1364–5)",
       "url": "https://www.british-history.ac.uk/plea-memoranda-rolls/vol2/pp1-28",
-      "read": "2026-10-09: entry under6 March1365 for William Moot, John de Henham and Thomas Fraunceys, with surrounding entries to confirm context; direct HTML fetch successful.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: under 6 March 1365: 'William Moot, brewer, John de Henham and Thomas Fraunceys, hakeneymen, were attached to answer charges of being concerned in an affray by night in Candlewickstreet Ward, of keeping their doors open after curfew and of being nightwalkers against the peace. They were committed to prison, but the same day were mainprised to keep the peace and released.' The entry follows the Curteys detinue case.",
       "limit": "Multiple charges together: affray at night, doors open after curfew and nightwalking. Imprisoned and released same day on mainprise to keep peace. No fine amount specified; no claim the release erased charges or all defendants had this outcome."
     },
     {
       "id": "SRC04",
-      "title": "Source Book of London History — proclamation of1329",
+      "title": "Source Book of London History — proclamation of 1329",
       "url": "https://www.gutenberg.org/cache/epub/51175/pg51175-images.html",
-      "read": "2026-10-09: proclamation pp.42–44 checked as a chronology challenge.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: the 1329 proclamation: curfew 'rung at the same [hour] … St Martin's le Grand', taverns 'for wine or for ale' to close, no one 'to go wandering about the City, after the hour of curfew'. Used only to keep the earlier curfew church and tavern rules out of the 1360s ordinance.",
       "limit": "Excluded from the story: earlier curfew at St Martin's le Grand and tavern fine scale cannot silently replace Bow provisions in the selected ordinance.",
       "public": false
     }
@@ -92,18 +97,34 @@
       "claim": "Visitor's walk, lodging, argument temptation and escape from a fine are fictional viewer framing, not recorded events or guaranteed historical advice.",
       "sources": [],
       "locator": "Original challenge structure.",
-      "limit": "Do not give a claimed real starting budget or guaranteed method of escaping arrest."
+      "limit": "Do not give a claimed real starting budget or guaranteed method of escaping arrest.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Framing row; S004 labels the day a fictional challenge, S060 labels the early return an alternative, S088 returns to it.",
+        "source_locators": "—",
+        "refutation": "Looked for any line presenting the Visitor's walk, arrest or escape as recorded; none.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C1",
       "type": "E",
-      "claim": "Mid-fourteenth-century London peace ordinances survive in Liber Albus; the selected writ is dated12June regnal year37 of EdwardIII, while Alsford labels the text c.1364.",
+      "claim": "Mid-fourteenth-century London peace ordinances survive in Liber Albus; the selected writ is dated 12 June regnal year 37 of EdwardIII, while Alsford labels the text c.1364.",
       "sources": [
         "SRC01",
         "SRC02"
       ],
       "locator": "Riley pp.334–336; Alsford metadata and discussion.",
-      "limit": "Use c.1364 as scenario, not a claim of first enactment or a single timeless medieval code."
+      "limit": "Use c.1364 as scenario, not a claim of first enactment or a single timeless medieval code.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 writ: 'Witness myself, at Westminster, this twelfth day of June, in the year of our reign thirty-seven' (37 Edward III = 1363); SRC02 labels the text c.1364.",
+        "source_locators": "SRC01 p.334; SRC02 header",
+        "refutation": "S004 says 'around the year thirteen sixty-four' and no line claims enactment in 1364; S013's caption gives the writ date. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C2",
@@ -113,7 +134,15 @@
         "SRC01"
       ],
       "locator": "p.335, That no one go armed.",
-      "limit": "No claim every form of working knife was always prosecuted identically; focus on obvious sword/weapon carrying, no knight exemption."
+      "limit": "No claim every form of working knife was always prosecuted identically; focus on obvious sword/weapon carrying, no knight exemption.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.335: 'no one, of whatever condition he be, go armed in the said city or in the suburbs, or carry arms, by day or by night … under the penalty aforesaid, and the loss of their arms and armour'.",
+        "source_locators": "SRC01 p.335",
+        "refutation": "S013 and S018 speak the ban and the confiscation; no knight exemption. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C3",
@@ -123,7 +152,15 @@
         "SRC01"
       ],
       "locator": "p.335, arms exceptions.",
-      "limit": "Do not turn rich clothing, a title or carrying somebody else's sword alone into permission."
+      "limit": "Do not turn rich clothing, a title or carrying somebody else's sword alone into permission.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.335 exceptions: 'the vadlets of the great lords of the land, carrying the swords of their masters in their presence, and the serjeants-at-arms of … the King … and the officers of the City, and such persons as shall come in their company in aid of them, at their command'.",
+        "source_locators": "SRC01 p.335",
+        "refutation": "S014–S017 name only these exceptions and say wealth is not one. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C4",
@@ -133,29 +170,53 @@
         "SRC01"
       ],
       "locator": "p.335, Of Hostelers.",
-      "limit": "No fixed host fine; do not say every guest offence automatically punishes host."
+      "limit": "No fixed host fine; do not say every guest offence automatically punishes host.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.335 'Of Hostelers': warning to guests to leave arms in their hostels; 'through default of warning by his host, such host is to be punished by imprisonment and by fine, at the discretion of the Mayor and Aldermen'. SRC02 agrees.",
+        "source_locators": "SRC01 p.335; SRC02 host clause",
+        "refutation": "S019–S021 keep the fine discretionary and conditional on failure to warn. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C5",
       "type": "E",
-      "claim": "Drawing sword/knife/weapon without striking carries half a mark (6s8d) or15days at Newgate; shedding blood with the weapon carries20s or40days.",
+      "claim": "Drawing sword/knife/weapon without striking carries half a mark (6s8d) or 15 days at Newgate; shedding blood with the weapon carries20s or 40 days.",
       "sources": [
         "SRC01",
         "SRC02"
       ],
       "locator": "pp.335–336; same clause in Alsford.",
-      "limit": "OR, not both automatically. Selected ordinance, not all medieval courts or complete sentence outcomes."
+      "limit": "OR, not both automatically. Selected ordinance, not all medieval courts or complete sentence outcomes.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 pp.335–336: 'provided he do not strike, he is to pay unto the City half a mark, or remain in the prison of Newgate fifteen days. And if he draw blood of any one … twenty shillings, or remain in prison forty days'. SRC02: '6s.8d or … 15 days'; '20s. … or … 40 days'.",
+        "source_locators": "SRC01 pp.335–336; SRC02",
+        "refutation": "S027–S030 speak 'or' every time; S029 is now a reaction that says so. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C6",
       "type": "E",
-      "claim": "A fist blow without blood carries3s or8days; with blood40d (3s4d) or12days; good-behaviour sureties required before release.",
+      "claim": "A fist blow without blood carries3s or 8 days; with blood40d (3s4d) or 12 days; good-behaviour sureties required before release.",
       "sources": [
         "SRC01",
         "SRC02"
       ],
       "locator": "p.336; Alsford assault clause.",
-      "limit": "Keep p.408's2s variant out of selected code. No gore or claim victim compensated by the city's fine."
+      "limit": "Keep p.408's2s variant out of selected code. No gore or claim victim compensated by the city's fine.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.336: 'with the fist, but have not drawn blood … three shillings, or be imprisoned eight days … draw blood with the fist … forty pence, or be imprisoned twelve days. And let such offenders find good surety, before their release, for their good behaviour'. SRC02 agrees.",
+        "source_locators": "SRC01 p.336; SRC02",
+        "refutation": "S031–S032 and S036 match; the p.408 two-shilling variant is not used. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C7",
@@ -165,7 +226,15 @@
         "SRC01"
       ],
       "locator": "p.336 following assault scale.",
-      "limit": "Only separate recovery is narrated; no claim swift trial always occurred."
+      "limit": "Only separate recovery is narrated; no claim swift trial always occurred.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.336: 'let him upon whom such offence has been committed, have his recovery by process of law; and let such offences, as to blood shed … be pleaded before the Sheriffs from day to day, without any essoin or other delay'.",
+        "source_locators": "SRC01 p.336",
+        "refutation": "S034–S035 narrate only the separate recovery. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C8",
@@ -175,7 +244,15 @@
         "SRC01"
       ],
       "locator": "p.334, Of keeping the peace.",
-      "limit": "No universal fixed hour, no curfew fine amount supplied, and no assertion all night travel forbidden."
+      "limit": "No universal fixed hour, no curfew fine amount supplied, and no assertion all night travel forbidden.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.334: wandering 'after the hour of curfew rung out at the church of Our Lady at Bow … the which curfew shall be rung at the said church between the day and the night … sent unto the prison of Newgate, there to remain until he shall have paid a fine unto the City for such contempt, and have found good surety for his good behaviour'.",
+        "source_locators": "SRC01 p.334",
+        "refutation": "S042–S050 speak no hour and no fine amount. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C9",
@@ -186,7 +263,15 @@
         "SRC02"
       ],
       "locator": "p.334; Alsford opening clause.",
-      "limit": "Requirements work together. A lantern alone is not a permit; text's social category is not a modern ID system."
+      "limit": "Requirements work together. A lantern alone is not a permit; text's social category is not a modern ID system.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.334: 'unless he be a man known to be of good repute, or his servant, for some good cause, and that with a light'. SRC02: 'a man of known and good reputation, or his servant, [going about] for a good cause, and with a light'.",
+        "source_locators": "SRC01 p.334; SRC02",
+        "refutation": "S053–S058 and S090 keep the three conditions together. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C10",
@@ -196,7 +281,15 @@
         "SRC01"
       ],
       "locator": "p.336, Of good Watches.",
-      "limit": "Prescribed organization, not complete surviving roster, surveillance performance or exact watch size."
+      "limit": "Prescribed organization, not complete surviving roster, surveillance performance or exact watch size.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.336: 'each Alderman cause to be set in his Ward good and proper watches … if evil happen through default of the watches, the Alderman and all the commons of the Ward may be answerable … each Alderman have the names of all those who are inhabitants, and dwellers with the inhabitants, of his Ward; as well of those who are put in retired places to work'.",
+        "source_locators": "SRC01 p.336",
+        "refutation": "S065–S070 say prescribed, not proven complete. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C11",
@@ -206,17 +299,33 @@
         "SRC01"
       ],
       "locator": "p.335, power of arrest.",
-      "limit": "No general license for anyone to attack strangers; no modern police equivalence."
+      "limit": "No general license for anyone to attack strangers; no modern police equivalence.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01 p.335: 'every man of standing in the said city, Alderman and commoner, who is of good repute, have power, in the absence of the officers, to arrest felons and misdoers, and to bring them unto the houses of the Sheriffs'.",
+        "source_locators": "SRC01 p.335",
+        "refutation": "S071–S072 keep 'reputable men of standing' and 'officers absent'. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C12",
       "type": "E",
-      "claim": "On6March1365 William Moot, John de Henham and Thomas Fraunceys faced combined night-affray, open-door-after-curfew and nightwalking charges; committed then released same day on mainprise to keep peace.",
+      "claim": "On 6 March 1365 William Moot, a brewer, and John de Henham and Thomas Fraunceys, hackneymen, were attached on combined charges of an affray by night in Candlewick Street Ward, keeping their doors open after curfew and nightwalking against the peace; they were committed to prison and the same day mainprised to keep the peace and released.",
       "sources": [
         "SRC03"
       ],
-      "locator": "Roll A10, entry under6March1365, following Curteys detinue case.",
-      "limit": "Present as charges and recorded disposition. No invented dialogue, verdict, fine or blows; label date jump."
+      "locator": "Roll A10, entry under 6 March 1365, following Curteys detinue case.",
+      "limit": "Present as charges and recorded disposition. No invented dialogue, verdict, fine or blows; label date jump.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC03, 6 March 1365: 'William Moot, brewer, John de Henham and Thomas Fraunceys, hakeneymen, were attached to answer charges of being concerned in an affray by night in Candlewickstreet Ward, of keeping their doors open after curfew and of being nightwalkers against the peace. They were committed to prison, but the same day were mainprised to keep the peace and released.'",
+        "source_locators": "SRC03 Roll A10, 6 March 1365",
+        "refutation": "S077–S087 speak the charges, the committal, the same-day mainprise, the trades and the ward; no fine, verdict or dialogue. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C13",
@@ -226,16 +335,24 @@
         "SRC01",
         "SRC03"
       ],
-      "locator": "Curfew/surety/watch provisions and1365mainprise entry.",
-      "limit": "Social interpretation bounded to sources, not certainty about every encounter or a ranking against modern policing."
+      "locator": "Curfew/surety/watch provisions and 1365 mainprise entry.",
+      "limit": "Social interpretation bounded to sources, not certainty about every encounter or a ranking against modern policing.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Interpretation from SRC01 (surety, repute, names, watches) and SRC03 (mainprise).",
+        "source_locators": "SRC01 pp.334–336; SRC03",
+        "refutation": "S093 answers the held question as the episode's reading; no ranking against modern policing. Holds as interpretation.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     }
   ],
-  "research": "A personal challenge rather than another general day-in-London tour. Three escalating temptations—carry a sword, win an argument, keep walking after dusk—reveal how peacekeeping touched ordinary movement and relationships. Date scenario c.1364. Critical chronology finding: Alsford's metadata says c.1364, but Riley's translated prefatory writ reads12June37EdwardIII (1363); do not declare1364 the law's exact enactment. The story's chosen penalty scale is pp.335–336, where a non-bloody fist strike is3s. Riley p.408 prints2s in a different ordinance, so do not merge scales. Curfew exception requires reputation/service, good cause AND light, not a universal night ban or lantern permit. Read a real1365case as a separate evidence layer: combined charges and same-day release on mainprise, no fine stated. The scenario succeeds only inside the fictional challenge; no guarantee these choices eliminated every legal risk. No universalizing of elite rhetoric about inns or poverty. Avoid money conversion to modern dollars. Distinguish city fine from victim recovery. All narrative and image violence remains mild and non-graphic. Bell cue must be an actual low church bell, not the notification-like cue rejected in episode001.",
-  "description": "You have a room for the night and a simple plan: walk through medieval London without losing your money—or your freedom.\n\nA sword, an argument and a stroll after curfew complicate that plan. We follow peace ordinances from the1360s, preserve their exceptions, and compare them with a real court record. The Visitor's challenge is fictional; the rules and the case are sourced.",
+  "research": "A personal challenge rather than another general day-in-London tour. Three escalating temptations—carry a sword, win an argument, keep walking after dusk—reveal how peacekeeping touched ordinary movement and relationships. Date scenario c.1364. Critical chronology finding: Alsford's metadata says c.1364, but Riley's translated prefatory writ reads 12 June 37 EdwardIII (1363); do not declare 1364 the law's exact enactment. The story's chosen penalty scale is pp.335–336, where a non-bloody fist strike is3s. Riley p.408 prints2s in a different ordinance, so do not merge scales. Curfew exception requires reputation/service, good cause AND light, not a universal night ban or lantern permit. Read a real 1365 case as a separate evidence layer: combined charges and same-day release on mainprise, no fine stated. The scenario succeeds only inside the fictional challenge; no guarantee these choices eliminated every legal risk. No universalizing of elite rhetoric about inns or poverty. Avoid money conversion to modern dollars. Distinguish city fine from victim recovery. All narrative and image violence remains mild and non-graphic. Bell cue must be an actual low church bell, not the notification-like cue rejected in episode 001.",
+  "description": "You have a room for the night and a simple plan: walk through medieval London without losing your money—or your freedom. A sword, an argument and a stroll after curfew complicate that plan. We follow peace ordinances from the1360s, preserve their exceptions, and compare them with a real court record. The Visitor's challenge is fictional; the rules and the case are sourced.",
   "tags": [
     "medieval London",
     "medieval laws",
-    "London1364",
+    "London 1364",
     "medieval curfew",
     "Liber Albus",
     "ordinary medieval life",
@@ -247,9 +364,12 @@
   "pinned_comment": "Which caught you out: the host's responsibility, the weapon penalties, or why a lantern alone was not enough?",
   "pilot": [
     "S001",
-    "S010",
+    "S004",
+    "S011",
     "S025",
     "S043",
+    "S048",
+    "S076",
     "TH-A"
   ],
   "thumbnails": [
@@ -259,7 +379,7 @@
       "chip": "LONDON • c. 1364",
       "scope": "Fictional curfew encounter in London c.1364",
       "pose": "closeup-worried",
-      "background": "Dusk medieval lane, one soberly dressed watchman on far left holding a small enclosed candle lantern and raising an open hand to stop passage. Heavy plain wooden gate behind. Face visible, no attack, chains or modern uniform. Leave right side for Visitor and headline area clear.",
+      "background": "Dusk medieval lane, one soberly dressed watchman on far left holding a small enclosed candle lantern and raising an open hand to stop passage. Heavy plain wooden gate behind. Face visible, no attack, chains or modern uniform. Leave the right side and the headline area clear.",
       "rationale": "A harmless-looking action meets a visible obstacle. The question earns curiosity while the episode explains the rule's real exceptions.",
       "payoff_scene_ids": [
         "S041",
@@ -269,8 +389,8 @@
     },
     {
       "id": "B",
-      "headline": "15 DAYS?",
-      "chip": "DRAWN. NO BLOW.",
+      "headline": "NO BLOW. 15 DAYS?",
+      "chip": "LONDON • c. 1364",
       "scope": "Selected mid-fourteenth-century weapon ordinance",
       "pose": "closeup-horrified-contract",
       "background": "A plain medieval sword partly withdrawn from its scabbard on a left-side wooden table, no hand or attack. Shadow of simple barred opening on rear stone wall. Exact headline and qualifying chip drawn locally.",
@@ -284,10 +404,10 @@
     {
       "id": "C",
       "headline": "WHO KNOWS YOU?",
-      "chip": "AFTER CURFEW",
+      "chip": "LONDON • c. 1364",
       "scope": "Fictional London c.1364 reputation check",
       "pose": "closeup-listening",
-      "background": "At left, two ordinary townsmen confer beside a small lantern in a dark medieval doorway. One gestures calmly toward empty right side reserved for Visitor; no speech bubbles or written identity documents.",
+      "background": "At left, two ordinary townsmen confer beside a small lantern in a dark medieval doorway. One gestures calmly toward the empty right side; no speech bubbles or written identity documents.",
       "rationale": "Reputation becomes the visual problem, setting this apart from a generic medieval crime thumbnail.",
       "payoff_scene_ids": [
         "S054",
@@ -309,14 +429,14 @@
       "from_scene": "S027",
       "to_scene": "S032",
       "hook": "You do not have to land a blow.",
-      "description": "One London ordinance prescribed half a mark or15days for drawing a weapon without striking. This is a selected historical rule, not every medieval sentence."
+      "description": "One London ordinance prescribed half a mark or 15 days for drawing a weapon without striking. This is a selected historical rule, not every medieval sentence."
     },
     {
       "title": "A Medieval Night in Court—With a Same-Day Release",
       "from_scene": "S077",
       "to_scene": "S083",
       "hook": "The record gives a more complicated ending.",
-      "description": "A6March1365London court entry records combined night-affray and curfew charges, imprisonment and release on mainprise. It gives no fine amount."
+      "description": "A6 March 1365 London court entry records combined night-affray and curfew charges, imprisonment and release on mainprise. It gives no fine amount."
     }
   ],
   "chapters": [
@@ -328,9 +448,11 @@
           "C0",
           "watch",
           "establishing",
-          "Night lane, one watchman at left raises open palm, second behind with enclosed lantern. Clear right for Visitor.",
+          "Night lane, one watchman at left raises an open palm, a second behind with an enclosed lantern; clear right.",
           "freeze-embarrassed",
-          "Imagined encounter • London c. 1364"
+          "Imagined encounter • London c. 1364",
+          null,
+          {}
         ],
         [
           "Your problem is the hour. Or your explanation. Or the awkward fact that nobody here seems to know who you are.",
@@ -341,12 +463,15 @@
           "closeup-worried"
         ],
         [
-          "Could you cross medieval London without a fine? Our Visitor's simple afternoon is becoming complicated.",
+          "Could you cross medieval London without a fine? And what does this city want from a stranger like you? Hold that second question.",
           "C0",
           "watch",
           "medium",
-          "Watchman and closed doorway left, Visitor at right with clear ground; scene still night.",
-          "eyebrow-raise"
+          "Watchman and closed doorway at left; clear level ground at right; still night.",
+          "eyebrow-raise",
+          null,
+          null,
+          {}
         ],
         [
           "We begin earlier, around the year thirteen sixty-four. You have somewhere to sleep and would prefer not to replace it with Newgate.",
@@ -360,18 +485,24 @@
         [
           "Our rules survive in the Liber Albus, a collection of London's laws and customs.",
           "C1",
-          "office",
+          "book",
           "object insert",
-          "Closed plain bound book on table; title and source composed locally, never generated on cover.",
+          "Closed plain bound book on a table; title composited locally, never generated on the cover.",
           null,
-          "Liber Albus • selected ordinances of the 1360s"
+          "Liber Albus • selected ordinances of the 1360s",
+          null,
+          {}
         ],
         [
           "They tell us what authorities prescribed. Later, a court entry supplies an actual outcome.",
           "C1,C13",
           "office",
           "medium",
-          "Civic table with blank parchment, official and visitor local standing separately; no invented trial scene."
+          "Civic table with blank parchment and a seated official at left, one townsperson standing; clear right.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "For now, your challenge has three temptations: carry something impressive, win an argument, and stay out a little longer.",
@@ -388,16 +519,22 @@
           "C0",
           "street",
           "reaction",
-          "Plain daytime shopfront and empty right ground; Visitor relaxed.",
-          "shrug-smirk"
+          "Plain daytime shopfront at left; clear right.",
+          "shrug-smirk",
+          null,
+          null,
+          {}
         ],
         [
           "That should be easy. You can hear the confidence that makes this an excellent afternoon for somebody else.",
           "C0",
           "street",
           "medium",
-          "Two pedestrians pass in background; Visitor distinct right, no mocking crowd.",
-          "closeup-smile"
+          "Two pedestrians pass in the background at left; clear right; no mocking crowd.",
+          "closeup-smile",
+          null,
+          null,
+          {}
         ],
         [
           "At your lodging, a sword lies on a bench. Our imagined prop makes a poor suggestion.",
@@ -419,8 +556,11 @@
           "C0",
           "inn",
           "reaction",
-          "Host and closed cupboard at left, Visitor close-up right; weapon remains safely on bench.",
-          "closeup-thoughtful"
+          "Host and closed cupboard at left; clear right; weapon remains on the bench.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {}
         ]
       ]
     },
@@ -434,7 +574,9 @@
           "detail",
           "Sheathed sword lies unused on bench; locally added small DAY AND NIGHT caption.",
           null,
-          "Liber Albus • arms provision"
+          "Liber Albus • peace ordinance, writ of 12 June 1363",
+          null,
+          {}
         ],
         [
           "The rule has exceptions, but they describe particular duties. Looking expensive is not one of the duties listed.",
@@ -465,15 +607,22 @@
           "C2,C3",
           "street",
           "reaction",
-          "Official group farther away left; Visitor observes at right without carrying weapon.",
-          "watch-arms-crossed"
+          "Official group farther away at left; clear right.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {}
         ],
         [
-          "Your host must also warn guests to leave their weapons where they are lodging.",
+          "Break the rule and the ordinance adds confiscation: besides the penalty, you lose the arms you were carrying.",
           "C0,C2",
           "weapon",
           "object insert",
-          "Sheathed sword on bench with simple local confiscation icon; no exact invented value."
+          "Sheathed sword and belt on the bench with a simple local confiscation icon; no invented value.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "And your host has obligations too. Guests are supposed to be warned to leave their arms where they are lodging.",
@@ -503,28 +652,37 @@
           "HOST’S FINE: DISCRETIONARY"
         ],
         [
-          "The Visitor leaves the sword. No heroic flourish, and no portrait needed to commemorate the achievement.",
+          "You leave the sword. Your host closes the cupboard with the air of a man who has had this conversation before.",
           "C0,C4",
           "inn",
           "reaction",
           "Host firmly closes cupboard, plain wood, no locking mechanism detail invented.",
-          "shrug-smirk"
+          "shrug-smirk",
+          null,
+          null,
+          {}
         ],
         [
-          "The Visitor leaves the sword behind. No heroic pose, no flourish, and no need to commission a portrait of this achievement.",
+          "No heroic flourish, no portrait commissioned. Leaving a weapon on a bench is the least cinematic victory in medieval London.",
           "C0",
           "inn",
           "wide",
-          "Bench now empty, cupboard closed, Visitor standing by clear exit.",
-          "thumbs-up"
+          "Bench now empty, cupboard closed, open exit at left; clear right.",
+          "thumbs-up",
+          null,
+          null,
+          {}
         ],
         [
           "One temptation avoided. You step into London with empty hands, which will shortly become relevant to the next bad idea.",
           "C0",
           "street",
           "establishing",
-          "Daytime lane slightly later light, market shutters unchanged, no Visitor props.",
-          "step-forward"
+          "Daytime lane in slightly later light, market shutters unchanged; clear right.",
+          "step-forward",
+          null,
+          null,
+          {}
         ]
       ]
     },
@@ -535,17 +693,23 @@
           "Two people are arguing in our invented courtyard. You are certain you could explain who is being unreasonable.",
           "C0",
           "argument",
-          "establishing",
+          "wide",
           "Two adults in brick/slate tunics stand apart, raised brows and open hands only.",
-          "look-around"
+          "look-around",
+          null,
+          null,
+          {}
         ],
         [
           "Unhelpful confidence again. The ordinance distinguishes drawing a weapon, using it, and striking with a fist.",
           "C5,C6",
           "argument",
           "reaction",
-          "Same disagreement closer; clear right for Visitor's cautious reaction.",
-          "closeup-worried"
+          "Same disagreement closer at left; clear right.",
+          "closeup-worried",
+          null,
+          null,
+          {}
         ],
         [
           "Under this particular London ordinance, drawing a sword or knife can be punishable even if you never land a blow.",
@@ -567,14 +731,15 @@
           "6s 8d OR 15 DAYS"
         ],
         [
-          "The word 'or' matters. We are not automatically adding both punishments together.",
+          "The word 'or' matters. We are not adding both punishments together; the ordinance offers one or the other.",
           "C5",
-          "editorial",
-          "graphic",
-          "Same two options; emphasize OR, no addition sign.",
+          "argument",
+          "reaction",
+          "Courtyard disputants held at distance at left; clear right.",
+          "count-fingers",
           null,
           null,
-          "OR • NOT AUTOMATICALLY BOTH"
+          {}
         ],
         [
           "If the weapon draws blood, that rises to twenty shillings or forty days. No injury illustration required.",
@@ -609,8 +774,11 @@
           "C5,C6",
           "argument",
           "reaction",
-          "Courtyard disagreement held at distance, Visitor listens rather than acts.",
-          "closeup-thoughtful"
+          "Courtyard disagreement held at a distance at left; clear right.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {}
         ],
         [
           "More awkwardly, paying the city does not erase the injured person's separate claim. The text preserves their ability to seek legal recovery.",
@@ -641,16 +809,19 @@
           "C13",
           "office",
           "reaction",
-          "Empty space beside Visitor contrasted with two locals together at left; no accusatory pointing.",
+          "Two locals together at left; empty space at right; no accusatory pointing.",
           "closeup-worried"
         ],
         [
-          "The best outcome is uneventful. Our Visitor does not join the quarrel.",
+          "The best outcome is uneventful. You do not join the quarrel, however well you could have settled it.",
           "C0",
           "argument",
           "wide",
-          "Disputants remain separated; Visitor at right turned toward exit, no physical contact.",
-          "awkward-stand"
+          "Disputants remain separated at left; clear right path toward the exit; no physical contact.",
+          "awkward-stand",
+          null,
+          null,
+          {}
         ],
         [
           "Nobody gets punched, no blade leaves its sheath, and your money remains available for things that are actually pleasant.",
@@ -676,7 +847,7 @@
           "Light is fading. You are causing no disturbance, and your lodging is an imagined short walk away.",
           "C0",
           "street",
-          "wide",
+          "establishing",
           "Dusk at same street junction, few remaining pedestrians; no visible exact distance marker.",
           "look-around",
           null,
@@ -692,7 +863,9 @@
           "reaction",
           "Dusk lane with tiny indistinct church roof in distance, no Wren tower.",
           "look-up-worried",
-          "Curfew at St Mary-le-Bow"
+          "Curfew at Our Lady at Bow • peace ordinance of the 1360s",
+          null,
+          {}
         ],
         [
           "The bell is to ring between day and night. Our source does not turn that into a universal nine o'clock.",
@@ -707,8 +880,12 @@
           "Changing light matters. The rule does not wait for your watch to display a convenient number.",
           "C0,C8",
           "street",
-          "detail",
-          "Dusk shadows lengthen across familiar lane, no sundial or clock inserted."
+          "wide",
+          "Dusk shadows lengthen across familiar lane, no sundial or clock inserted.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "It forbids wandering after curfew, unless you fit an exception. That last part is where a simple explanation often goes wrong.",
@@ -723,7 +900,11 @@
           "C9",
           "watch",
           "wide",
-          "One lantern-bearing local messenger approaches watchmen at left, no Visitor overlap."
+          "One lantern-bearing local messenger approaches the watchmen at left; clear right.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "But ignoring the rule can have more serious consequences than an embarrassed conversation about why you lost track of time.",
@@ -758,19 +939,26 @@
           "closeup-thoughtful"
         ],
         [
-          "For our newcomer, your excellent opinion of yourself is not somebody else's guarantee.",
+          "For a newcomer, your excellent opinion of yourself is not somebody else's guarantee.",
           "C0",
           "watch",
           "reaction",
-          "Empty space beside Visitor; watchmen left remain unchanged.",
-          "shrug-smirk"
+          "Watchmen at left unchanged; empty lane at right.",
+          "shrug-smirk",
+          null,
+          null,
+          {}
         ],
         [
           "You have a better idea: get a lantern. Useful—but it is only one part of the exception.",
           "C0,C9",
           "inn",
           "object insert",
-          "Enclosed candle lantern on original inn table, night illumination; no Visitor hand added."
+          "Enclosed candle lantern on the inn table, night illumination; no hand.",
+          null,
+          null,
+          null,
+          {}
         ]
       ]
     },
@@ -792,8 +980,11 @@
           "C0,C9",
           "inn",
           "reaction",
-          "Lantern sits left on table, Visitor thoughtful right; no change to fixed pose hands.",
-          "eyebrow-raise"
+          "Lantern on the table at left; clear right.",
+          "eyebrow-raise",
+          null,
+          null,
+          {}
         ],
         [
           "Nor does simply claiming you have an errand settle the question. The wording also cares who you are connected to.",
@@ -803,20 +994,26 @@
           "Messenger and watchman converse silently, messenger lantern visible and correct candle source."
         ],
         [
-          "Imagine a known household's servant on a legitimate errand, and our unexplained stranger, walking the same lane.",
+          "Imagine a known household's servant on a legitimate errand, and an unexplained stranger, walking the same lane.",
           "C0,C9",
           "watch",
           "wide",
-          "Period messenger left with lantern; Visitor separate on right; do not merge into same body.",
-          "awkward-stand"
+          "Period messenger at left with lantern, watchman beyond; clear right.",
+          "awkward-stand",
+          null,
+          null,
+          {}
         ],
         [
           "They may look equally harmless to you. The ordinance gives the first a relationship that the second cannot simply borrow.",
           "C9,C13",
           "watch",
           "reaction",
-          "Watchman faces messenger calmly, Visitor watches; no arrest or verdict shown.",
-          "closeup-thoughtful"
+          "Watchman faces the messenger calmly at left; clear right; no arrest or verdict shown.",
+          "closeup-thoughtful",
+          null,
+          null,
+          {}
         ],
         [
           "That does not tell us the result of every encounter. It tells us why reputation and purpose belong in the picture.",
@@ -826,12 +1023,15 @@
           "Messenger's plain lantern and watchman's open hand, no identity document or invented spoken quote."
         ],
         [
-          "Our Visitor has no local reputation. That friendly smile is doing a lot of work, without references.",
+          "You have no local reputation. That friendly smile is doing a lot of work, without references.",
           "C0",
           "watch",
           "reaction",
-          "Same lane, Visitor smiles uncertainly, watchman expression neutral.",
-          "closeup-smile"
+          "Same lane, watchman at left with a neutral expression; clear right.",
+          "closeup-smile",
+          null,
+          null,
+          {}
         ],
         [
           "The practical lesson for this fictional challenge is to return earlier. You cannot count on a lantern to answer every question.",
@@ -847,8 +1047,11 @@
           "C0",
           "inn",
           "medium",
-          "Visitor beside open lodging door at dusk, host inside left; no new weapon.",
-          "look-around"
+          "Open lodging door at dusk with the host inside at left; clear right; no new weapon.",
+          "look-around",
+          null,
+          null,
+          {}
         ],
         [
           "Notice how different this feels from waving a modern card at a scanner. The important connections are between people.",
@@ -868,12 +1071,15 @@
           "A SPECIFIC EXCEPTION • NOT OPEN ACCESS"
         ],
         [
-          "For our visitor, arriving indoors early is losing a little evening freedom in order to keep control of where the night ends.",
+          "For you, arriving indoors early means losing a little evening freedom in order to keep control of where the night ends.",
           "C0",
           "inn",
           "reaction",
           "Calm interior before night, no court or prison props.",
-          "closeup-thoughtful"
+          "closeup-thoughtful",
+          null,
+          null,
+          {}
         ]
       ]
     },
@@ -924,9 +1130,12 @@
           "Authorities wanted to know who belonged in the ward and who was staying with whom. Your lodging connects you to that system.",
           "C10,C13",
           "inn",
-          "medium",
+          "wide",
           "Host and ordinary guest at table, lantern to side; calm scene.",
-          "closeup-listening"
+          "closeup-listening",
+          null,
+          null,
+          {}
         ],
         [
           "There is also an arrest provision for reputable men of standing when officers are absent. They can bring offenders to the sheriffs.",
@@ -942,8 +1151,11 @@
           "C11",
           "street",
           "reaction",
-          "Visitor observing ordinary townsmen, no fight, calm hands.",
-          "eyebrow-raise"
+          "Ordinary townsmen at left, calm hands, no fight; clear right.",
+          "eyebrow-raise",
+          null,
+          null,
+          {}
         ],
         [
           "The repeated concern is peace, but the means include neighbours, hosts, civic officers and people willing to answer for others.",
@@ -957,15 +1169,24 @@
           "C0,C13",
           "street",
           "reaction",
-          "Visitor right, two familiar local characters greet each other left without invented speech.",
-          "closeup-worried"
+          "Two familiar local characters greet each other at left without invented speech; clear right.",
+          "closeup-worried",
+          null,
+          null,
+          {}
         ],
         [
           "Yet a rulebook cannot show us exactly how an evening ended. For that, we need a record of an actual case.",
           "C13",
-          "office",
+          "book",
           "object insert",
-          "Plain modern source-book representation added locally beside blank historical register; distinguish archive source from period prop."
+          "Closed plain modern bound volume beside a blank historical register, composited labels only; distinguish archive source from period prop.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
           "Move forward to March thirteen sixty-five. Three named men appear in the city's records, and the ending deserves a closer look.",
@@ -1056,33 +1277,35 @@
           "C13",
           "case",
           "reaction",
-          "Civic room emptier after encounter; Visitor listens thoughtfully.",
-          "closeup-listening"
+          "Civic room emptier after the hearing at left; clear right.",
+          "closeup-listening",
+          null,
+          null,
+          {}
         ],
         [
-          "This brief entry cannot recover their conversation. It can tell us about that same-day release.",
+          "The entry also gives trades and a ward: a brewer and two hackneymen, horse-hirers, in Candlewick Street Ward.",
           "C12",
           "case",
           "detail",
-          "Three plain hats/hoods on bench beside men, no symbolic criminal labels or invented personal possessions claim.",
+          "Three men in modest dress beside a bench with plain hoods; a simple local label for the ward composited later; no criminal symbols.",
           null,
-          "Illustrative reconstruction"
+          "Plea and Memoranda Rolls • 6 March 1365",
+          null,
+          {}
         ],
         [
-          "We cannot recover their conversation from this short entry. We can preserve what it actually records, including that same-day release.",
+          "We cannot recover their conversation. We can keep what it records: charges, prison, and release the same day, with guarantees.",
           "C12",
-          "office",
+          "book",
           "object insert",
-          "Locally typeset brief modern summary with exact date and mainprise outcome, no fake old handwriting."
-        ],
-        [
-          "Now return to our fictional Visitor, who would prefer to learn from the documents without becoming an entry in them.",
-          "C0",
-          "inn",
-          "establishing",
-          "Same lodging interior at dusk, host by rear door and lantern on table.",
-          "look-around",
-          "Back to our fictional c. 1364 challenge"
+          "Locally typeset brief modern summary with exact date and mainprise outcome, no fake old handwriting.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ]
       ]
     },
@@ -1090,52 +1313,81 @@
       "title": "An uneventful victory",
       "scenes": [
         [
-          "Your best route through our challenge has been remarkably unheroic: leave the sword, leave the argument, and return before curfew.",
+          "Back to your own evening, in thirteen sixty-four. You would rather learn from the documents than become an entry in them.",
+          "C0",
+          "inn",
+          "establishing",
+          "Same lodging interior at dusk, host by rear door and lantern on table.",
+          "look-around",
+          "Back to our fictional c. 1364 challenge",
+          null,
+          {}
+        ],
+        [
+          "Your best route through the challenge has been remarkably unheroic: leave the sword, leave the argument, and be indoors before the bell.",
           "C0",
           "inn",
           "wide",
-          "Closed weapon cupboard, calm common room and open door at dusk; Visitor grounded right.",
-          "watch-arms-crossed"
+          "Closed weapon cupboard, calm common room and open door at dusk at left; clear right.",
+          "watch-arms-crossed",
+          null,
+          null,
+          {}
         ],
         [
-          "If you do need to travel later, the ordinance's exception involves more than a light. Reputation, service and purpose matter too.",
+          "If you must travel later, the exception asks for more than a light: a known name, or a known master, and a reason.",
           "C9",
           "inn",
           "detail",
-          "Lantern on table beside doorway, no permit scroll or implied standalone authorization."
+          "Lantern on table beside doorway, no permit scroll or implied standalone authorization.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
-          "If trouble does happen, the rules distinguish different acts. They also ask who will guarantee your behaviour afterwards.",
+          "If trouble does happen, the rules distinguish different acts, and they ask the same thing afterwards: who will stand surety for you?",
           "C5,C6,C8",
           "office",
           "medium",
           "Calm civic table with two townspeople beside unnamed subject, no automatic penalty scoreboard.",
-          "closeup-thoughtful"
+          "closeup-thoughtful",
+          null,
+          null,
+          {}
         ],
         [
-          "And actual records can give a more complicated outcome than a dramatic headline. Our three defendants were released the same day.",
+          "The real case ends more quietly than a headline: three men committed, then released the same day, with people answering for them.",
           "C12,C13",
           "case",
           "wide",
           "Simple civic-room doorway, men outside in daylight; exact 1365 date label remains.",
           null,
-          "6 March 1365 • recorded outcome"
+          "6 March 1365 • recorded outcome",
+          null,
+          {}
         ],
         [
-          "For the Visitor, the nicest sound tonight is the lodging door. You have somewhere to be, and no reason to test Newgate.",
-          "C0",
+          "Now the held question: what does this city want from a stranger? Not your money first. It wants to know who you are.",
+          "C13",
           "inn",
           "medium",
-          "Rear lodging door now closed, warm candle lantern left; no visible motion needed beyond cut.",
-          "closeup-smile"
+          "Rear lodging door now closed, warm candle lantern at left; clear right.",
+          "closeup-smile",
+          null,
+          null,
+          {}
         ],
         [
-          "A modest victory: we avoided the problems in our story, not every difficulty of living here.",
-          "C0",
+          "Remember the watchman from the start? With a host who knows you and a lantern, that conversation ends differently. Probably.",
+          "C9,C13",
           "inn",
           "reaction",
-          "Visitor relaxed by table, host elsewhere in background, no triumphant money pile.",
-          "shrug-smirk"
+          "Table and lantern at left, host in the background; clear right.",
+          "shrug-smirk",
+          null,
+          null,
+          {}
         ],
         [
           "Which would have caught you first: carrying the sword, stepping into the argument, or assuming your lantern settled the matter?",
@@ -1145,12 +1397,15 @@
           "Bench, closed cupboard and lantern in one coherent modest composition; objects remain in established places."
         ],
         [
-          "This is Life, Previously. Sometimes the surprising part of history is how much effort it takes to have an uneventful evening.",
+          "Sometimes the surprising part of history is how much effort an uneventful evening takes. Choose the next Life, Previously episode on screen.",
           "C0",
           "inn",
           "wide",
-          "Calm final room with right/top area available for end-screen; no painted text.",
-          "closeup-smile"
+          "Calm final room at left; right and top area available for the end screen; no painted text.",
+          "closeup-smile",
+          null,
+          null,
+          {}
         ]
       ]
     }
@@ -1159,7 +1414,7 @@
     "status": "director_selected_normal_outfit",
     "mode": "normal",
     "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
-    "reason": "Retain the recognizable modern Visitor from episode001 for the fictional law challenge. No distinctive ceremonial/traditional outfit improves the story; understated period clothing is used for locals.",
+    "reason": "Retain the recognizable modern Visitor from episode 001 for the fictional law challenge. No distinctive ceremonial/traditional outfit improves the story; understated period clothing is used for locals.",
     "references": [
       "channel/assets/visitor_sheet.png"
     ],
@@ -1202,48 +1457,364 @@
         "term": "Fraunceys",
         "say": "FRAN-sis",
         "note": "Caption retains source spelling."
+      },
+      {
+        "term": "Candlewick",
+        "say": "KAN-dl-wick",
+        "note": "The ward named in the 1365 entry."
+      },
+      {
+        "term": "hackneymen",
+        "say": "HAK-nee-men",
+        "note": "Horse-hirers; say with the gloss."
       }
     ],
     "rule": "Read6s8d as six shillings and eight pence; distinguish or from and in every penalty. Fifteen and fifty must not be confused."
   },
   "sound_plan": {
-    "status": "director_specified_not_generated_or_heard",
-    "music": "Existing theme low; lighten only at Visitor reactions, never use slapstick cues for imprisonment or assault.",
-    "mix": "Near -14 LUFS and true peak <= -1 dBTP; effects remain below voice at cue.",
+    "status": "director_specified_assets_unheard",
+    "music": "Existing theme low; lighten only at the Visitor's reactions; never a slapstick cue for imprisonment or assault.",
+    "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
     "new_assets": [
       {
+        "id": "street_day",
+        "prompt": "Quiet medieval lane by day: a few footsteps on packed earth, a wooden shutter somewhere, low distant voices without words. No carts, no market shouting.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/london-without-a-fine-street_day.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "night_lane",
+        "prompt": "Very quiet medieval lane at night: faint wind, a distant dog once, nothing else. No owls chorus, no crowd.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/london-without-a-fine-night_lane.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "cupboard_close",
+        "prompt": "A plain wooden cupboard door closed firmly and latched once. No slam.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/london-without-a-fine-cupboard_close.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "shutter_wood",
+        "prompt": "A wooden shop shutter swung closed and barred, modest and dry. No metal.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/london-without-a-fine-shutter_wood.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
         "id": "bow_bell",
-        "description": "Single low resonant medieval-compatible church bell, no electronic ping; illustrative, not authentic recording of1364bell."
+        "prompt": "A single low church bell struck twice, slow, resonant, medieval-compatible; no electronic ping and no change-ringing peal.",
+        "seconds": 4,
+        "kind": "spot",
+        "path": "channel/sfx/london-without-a-fine-bow_bell.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
-        "id": "wood_latch",
-        "description": "Subtle wooden door latch."
+        "id": "steps_lane",
+        "prompt": "Three slow footsteps on packed earth and stone, soft leather soles. No heel click.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/london-without-a-fine-steps_lane.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
-        "id": "quiet_steps",
-        "description": "Two soft steps on firm rough ground, no modern heel click."
+        "id": "parchment",
+        "prompt": "A sheet of parchment turned once on a wooden table, dry rustle. No paper snap.",
+        "seconds": 1,
+        "kind": "accent",
+        "path": "channel/sfx/london-without-a-fine-parchment.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "door_latch",
+        "prompt": "A plain wooden door closed and its latch dropped, quiet. No bolt or chain.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/london-without-a-fine-door_latch.mp3",
+        "paid": true,
+        "quote_at_launch": true
       }
     ],
-    "acquisition": "Review existing library first, particularly rejected bell problem; itemize only missing cues in production allowance.",
+    "acquisition": "Use suitable licensed existing assets only after listening; the notification-like bell rejected on episode 001 must not return. Quote any missing asset within the future episode allowance; nothing is generated during development.",
     "cues": [
+      {
+        "scene_id": "S001",
+        "asset": "night_lane",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S004",
+        "asset": "street_day",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S008",
+        "asset": "street_day",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S022",
+        "asset": "cupboard_close",
+        "offset_seconds": 0.8,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S024",
+        "asset": "street_day",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S040",
+        "asset": "shutter_wood",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S041",
+        "asset": "street_day",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S042",
+        "asset": "bow_bell",
+        "offset_seconds": 0.8,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
       {
         "scene_id": "S043",
         "asset": "bow_bell",
-        "timing": "One low bell at cut to belfry, duck beneath narration; do not loop."
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S045",
+        "asset": "night_lane",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S060",
+        "asset": "street_day",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S066",
+        "asset": "night_lane",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S069",
+        "asset": "parchment",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S071",
+        "asset": "steps_lane",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S080",
+        "asset": "parchment",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S083",
+        "asset": "steps_lane",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S092",
+        "asset": "steps_lane",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S093",
-        "asset": "wood_latch",
-        "timing": "Brief cue on the return-to-inn door cut, matching visible door state."
+        "asset": "door_latch",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       }
     ],
     "intentional_silence": [
-      "No impact sounds for the described penalty diagram.",
+      "No impact sounds for the penalty diagrams.",
       "No modern siren, police radio, gavel or handcuff click.",
-      "No invented shouted accusations in the1365case."
-    ]
+      "No invented shouted accusations in the 1365 case; the hearing room is quiet.",
+      "The bell is heard distantly at S042 (church roof in view) and close at S043 (belfry in view), nowhere else."
+    ],
+    "no_sting": "The medieval bell sound logo may be used only if it is the channel's own low bell; never the rejected notification-like cue."
   },
   "extra_specs": [
     "ordinance_spec.json"
-  ]
+  ],
+  "lead_thumbnail": "A",
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 14,
+    "open": 0,
+    "total": 14,
+    "method": "All four sources fetched and read at the locators on 2026-10-10: the Liber Albus OCR text on archive.org (Riley pp.334–336), Alsford's Florilegium translation, the Plea and Memoranda Rolls calendar on British History Online (6 March 1365) and the 1329 proclamation on Gutenberg. No source refused access.",
+    "summary": "All 14 rows supported on passages read today; C12 extended with the trades and ward the record gives (a brewer and two hackneymen, Candlewick Street Ward)."
+  },
+  "initial_review": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "All 96 scenes, claims, sources, locations, ordinance_spec.json, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md; every claim verified on sources read today (see claims_verification).",
+    "refutation": "Tried to break the challenge: no fixed curfew hour, no curfew fine amount, no 1364 enactment claim, no merged penalty scale (the p.408 variant stays out), 'or' never becomes 'and', the lantern is never a permit on its own, the host's fine stays discretionary, and the 1365 case keeps its charges, committal and same-day mainprise without a verdict or fine.",
+    "findings": [
+      {
+        "id": "06-R01",
+        "issue": "Cold open asked two questions and held none; the payoff ran 60 seconds without an end-screen cue or a return to the opening image",
+        "fix": "S003 holds 'what does this city want from a stranger?'; S088 opens the payoff (chapter 8 now 73 seconds); S093 answers it, S094 returns to the watchman from the opening, S096 cues the next episode."
+      },
+      {
+        "id": "06-R02",
+        "issue": "Repeated lines: S022/S023 both said the Visitor leaves the sword; S018/S019 both said the host must warn guests; S086/S087 both said the entry cannot recover the conversation",
+        "fix": "S018 speaks the confiscation clause; S023 is the joke about the uncinematic victory; S086 gives the trades and ward the record names."
+      },
+      {
+        "id": "06-R03",
+        "issue": "Nine third-person lines about the Visitor",
+        "fix": "Second person in S003, S022, S023, S038, S051, S059, S064, S088 and S093."
+      },
+      {
+        "id": "06-R04",
+        "issue": "Seven runs of identical shot types, including three penalty graphics in a row",
+        "fix": "S025 and S044 wides, S029 a reaction that says 'or', S041 an establishing shot, S070 a wide."
+      },
+      {
+        "id": "06-R05",
+        "issue": "Twenty-six image instructions and the period text named the Visitor",
+        "fix": "Instructions describe the clear space; the period sentence is removed."
+      },
+      {
+        "id": "06-R06",
+        "issue": "The 'office' location was anchored by an object insert of a closed book (S005), so every civic-room scene would have inherited a book picture",
+        "fix": "Book inserts (S005, S075, S087) move to a new 'book' object location; the civic room is anchored by S006."
+      },
+      {
+        "id": "06-R07",
+        "issue": "Two sound cues",
+        "fix": "18 cues on visible action (lanes by day and night, cupboard, shutter, the Bow bell distant then close, footsteps, parchment, door latch) with 8 specified assets; the rejected notification-like bell is banned in the plan."
+      },
+      {
+        "id": "06-R08",
+        "issue": "Pilot skipped the street, inn, gate and hearing-room anchors",
+        "fix": "Pilot: S001, S004, S011, S025, S043, S048, S076, TH-A."
+      },
+      {
+        "id": "06-R09",
+        "issue": "Thumbnail chips B and C were qualifiers, not place-and-year",
+        "fix": "LONDON • c. 1364 on all three; B's headline carries the qualifier (NO BLOW. 15 DAYS?)."
+      },
+      {
+        "id": "06-R10",
+        "issue": "Captions lacked the ordinance's own date",
+        "fix": "S013 names the writ of 12 June 1363; S042 names the ordinance of the 1360s; S086 names the roll and 6 March 1365."
+      },
+      {
+        "id": "06-R11",
+        "issue": "Pronunciations lacked Candlewick and hackneymen",
+        "fix": "Added."
+      },
+      {
+        "id": "06-R12",
+        "issue": "18 collapsed-space strings",
+        "fix": "Spacing normaliser applied."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "slate_reviews": [
+    {
+      "pass": 1,
+      "status": "passed_with_fixes",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all other packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (a dry, slightly nervous challenge with rules read closely).",
+      "findings": [
+        {
+          "id": "06-P1-01",
+          "issue": "One instruction (S037) still named the Visitor; the two later book inserts would have inherited the Liber Albus picture",
+          "fix": "S037 describes the clear space; S075 and S087 are independent anchors."
+        },
+        {
+          "id": "06-P1-02",
+          "issue": "Chapter 3 runs 109 seconds",
+          "fix": "Inside the band; no change."
+        },
+        {
+          "id": "06-P1-03",
+          "issue": "Slate check: London is also the setting of published episode 001 (1390, a regulated day) and the title shape 'Could You …' recurs in 09 and 19",
+          "fix": "Distinct: 06 is a rules challenge with a court record, 001 a day story; different century, question and promise. No change."
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "pass": 2,
+      "status": "passed",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Execution dry run: compiled prompts for the civic-room anchor (S006), the 'or' reaction in the courtyard (S029), the belfry detail (S043), the hearing-room anchor (S076) and the payoff opener (S088) read in full; ordinance_spec.json checked against the penalty lines; handoff counts, pilot order, 8 sound assets and 18 cues, 9 pronunciations, Shorts windows (153, 118, 135 words), thumbnail brief and packaging copy checked against the standard.",
+      "findings": [
+        {
+          "id": "06-P2-01",
+          "issue": "Looked for a penalty line where 'or' became 'and', a fixed curfew hour, a fine amount for the 1365 case, a prompt naming the Visitor, a weapon in the Visitor's hands, or a modern-dated caption; none found",
+          "fix": "No change."
+        }
+      ],
+      "unresolved": []
+    }
+  ],
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification of all 14 claims (Liber Albus pp.334–336 on archive.org, Alsford, the Plea and Memoranda Rolls on British History Online and the 1329 proclamation on Gutenberg all read), two package review passes and the slate content check complete. ordinance_spec.json governs the penalty graphics and the 1365 case captions. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  }
 }

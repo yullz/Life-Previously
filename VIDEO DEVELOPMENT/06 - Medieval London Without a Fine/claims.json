@@ -6,6 +6,14 @@
     "sources": [],
     "locator": "Original challenge structure.",
     "limit": "Do not give a claimed real starting budget or guaranteed method of escaping arrest.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Framing row; S004 labels the day a fictional challenge, S060 labels the early return an alternative, S088 returns to it.",
+      "source_locators": "—",
+      "refutation": "Looked for any line presenting the Visitor's walk, arrest or escape as recorded; none.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -40,30 +48,36 @@
       "S074",
       "S088",
       "S089",
-      "S093",
-      "S094",
       "S095",
       "S096"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C1",
     "type": "E",
-    "claim": "Mid-fourteenth-century London peace ordinances survive in Liber Albus; the selected writ is dated12June regnal year37 of EdwardIII, while Alsford labels the text c.1364.",
+    "claim": "Mid-fourteenth-century London peace ordinances survive in Liber Albus; the selected writ is dated 12 June regnal year 37 of EdwardIII, while Alsford labels the text c.1364.",
     "sources": [
       "SRC01",
       "SRC02"
     ],
     "locator": "Riley pp.334–336; Alsford metadata and discussion.",
     "limit": "Use c.1364 as scenario, not a claim of first enactment or a single timeless medieval code.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 writ: 'Witness myself, at Westminster, this twelfth day of June, in the year of our reign thirty-seven' (37 Edward III = 1363); SRC02 labels the text c.1364.",
+      "source_locators": "SRC01 p.334; SRC02 header",
+      "refutation": "S004 says 'around the year thirteen sixty-four' and no line claims enactment in 1364; S013's caption gives the writ date. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S005",
       "S006"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C2",
@@ -74,13 +88,21 @@
     ],
     "locator": "p.335, That no one go armed.",
     "limit": "No claim every form of working knife was always prosecuted identically; focus on obvious sword/weapon carrying, no knight exemption.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.335: 'no one, of whatever condition he be, go armed in the said city or in the suburbs, or carry arms, by day or by night … under the penalty aforesaid, and the loss of their arms and armour'.",
+      "source_locators": "SRC01 p.335",
+      "refutation": "S013 and S018 speak the ban and the confiscation; no knight exemption. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S013",
       "S017",
       "S018"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C3",
@@ -91,14 +113,22 @@
     ],
     "locator": "p.335, arms exceptions.",
     "limit": "Do not turn rich clothing, a title or carrying somebody else's sword alone into permission.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.335 exceptions: 'the vadlets of the great lords of the land, carrying the swords of their masters in their presence, and the serjeants-at-arms of … the King … and the officers of the City, and such persons as shall come in their company in aid of them, at their command'.",
+      "source_locators": "SRC01 p.335",
+      "refutation": "S014–S017 name only these exceptions and say wealth is not one. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S014",
       "S015",
       "S016",
       "S017"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C4",
@@ -109,6 +139,14 @@
     ],
     "locator": "p.335, Of Hostelers.",
     "limit": "No fixed host fine; do not say every guest offence automatically punishes host.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.335 'Of Hostelers': warning to guests to leave arms in their hostels; 'through default of warning by his host, such host is to be punished by imprisonment and by fine, at the discretion of the Mayor and Aldermen'. SRC02 agrees.",
+      "source_locators": "SRC01 p.335; SRC02 host clause",
+      "refutation": "S019–S021 keep the fine discretionary and conditional on failure to warn. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S011",
       "S019",
@@ -116,19 +154,27 @@
       "S021",
       "S022"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C5",
     "type": "E",
-    "claim": "Drawing sword/knife/weapon without striking carries half a mark (6s8d) or15days at Newgate; shedding blood with the weapon carries20s or40days.",
+    "claim": "Drawing sword/knife/weapon without striking carries half a mark (6s8d) or 15 days at Newgate; shedding blood with the weapon carries20s or 40 days.",
     "sources": [
       "SRC01",
       "SRC02"
     ],
     "locator": "pp.335–336; same clause in Alsford.",
     "limit": "OR, not both automatically. Selected ordinance, not all medieval courts or complete sentence outcomes.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 pp.335–336: 'provided he do not strike, he is to pay unto the City half a mark, or remain in the prison of Newgate fifteen days. And if he draw blood of any one … twenty shillings, or remain in prison forty days'. SRC02: '6s.8d or … 15 days'; '20s. … or … 40 days'.",
+      "source_locators": "SRC01 pp.335–336; SRC02",
+      "refutation": "S027–S030 speak 'or' every time; S029 is now a reaction that says so. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S026",
       "S027",
@@ -138,19 +184,27 @@
       "S033",
       "S091"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C6",
     "type": "E",
-    "claim": "A fist blow without blood carries3s or8days; with blood40d (3s4d) or12days; good-behaviour sureties required before release.",
+    "claim": "A fist blow without blood carries3s or 8 days; with blood40d (3s4d) or 12 days; good-behaviour sureties required before release.",
     "sources": [
       "SRC01",
       "SRC02"
     ],
     "locator": "p.336; Alsford assault clause.",
     "limit": "Keep p.408's2s variant out of selected code. No gore or claim victim compensated by the city's fine.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.336: 'with the fist, but have not drawn blood … three shillings, or be imprisoned eight days … draw blood with the fist … forty pence, or be imprisoned twelve days. And let such offenders find good surety, before their release, for their good behaviour'. SRC02 agrees.",
+      "source_locators": "SRC01 p.336; SRC02",
+      "refutation": "S031–S032 and S036 match; the p.408 two-shilling variant is not used. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S026",
       "S031",
@@ -159,8 +213,8 @@
       "S036",
       "S091"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C7",
@@ -171,12 +225,20 @@
     ],
     "locator": "p.336 following assault scale.",
     "limit": "Only separate recovery is narrated; no claim swift trial always occurred.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.336: 'let him upon whom such offence has been committed, have his recovery by process of law; and let such offences, as to blood shed … be pleaded before the Sheriffs from day to day, without any essoin or other delay'.",
+      "source_locators": "SRC01 p.336",
+      "refutation": "S034–S035 narrate only the separate recovery. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S034",
       "S035"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C8",
@@ -187,6 +249,14 @@
     ],
     "locator": "p.334, Of keeping the peace.",
     "limit": "No universal fixed hour, no curfew fine amount supplied, and no assertion all night travel forbidden.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.334: wandering 'after the hour of curfew rung out at the church of Our Lady at Bow … the which curfew shall be rung at the said church between the day and the night … sent unto the prison of Newgate, there to remain until he shall have paid a fine unto the City for such contempt, and have found good surety for his good behaviour'.",
+      "source_locators": "SRC01 p.334",
+      "refutation": "S042–S050 speak no hour and no fine amount. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S040",
       "S042",
@@ -199,8 +269,8 @@
       "S050",
       "S091"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C9",
@@ -212,6 +282,14 @@
     ],
     "locator": "p.334; Alsford opening clause.",
     "limit": "Requirements work together. A lantern alone is not a permit; text's social category is not a modern ID system.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.334: 'unless he be a man known to be of good repute, or his servant, for some good cause, and that with a light'. SRC02: 'a man of known and good reputation, or his servant, [going about] for a good cause, and with a light'.",
+      "source_locators": "SRC01 p.334; SRC02",
+      "refutation": "S053–S058 and S090 keep the three conditions together. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S002",
       "S045",
@@ -224,10 +302,11 @@
       "S057",
       "S060",
       "S063",
-      "S090"
+      "S090",
+      "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C10",
@@ -238,6 +317,14 @@
     ],
     "locator": "p.336, Of good Watches.",
     "limit": "Prescribed organization, not complete surviving roster, surveillance performance or exact watch size.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.336: 'each Alderman cause to be set in his Ward good and proper watches … if evil happen through default of the watches, the Alderman and all the commons of the Ward may be answerable … each Alderman have the names of all those who are inhabitants, and dwellers with the inhabitants, of his Ward; as well of those who are put in retired places to work'.",
+      "source_locators": "SRC01 p.336",
+      "refutation": "S065–S070 say prescribed, not proven complete. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S065",
       "S066",
@@ -246,8 +333,8 @@
       "S069",
       "S070"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C11",
@@ -258,22 +345,38 @@
     ],
     "locator": "p.335, power of arrest.",
     "limit": "No general license for anyone to attack strangers; no modern police equivalence.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01 p.335: 'every man of standing in the said city, Alderman and commoner, who is of good repute, have power, in the absence of the officers, to arrest felons and misdoers, and to bring them unto the houses of the Sheriffs'.",
+      "source_locators": "SRC01 p.335",
+      "refutation": "S071–S072 keep 'reputable men of standing' and 'officers absent'. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S071",
       "S072"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C12",
     "type": "E",
-    "claim": "On6March1365 William Moot, John de Henham and Thomas Fraunceys faced combined night-affray, open-door-after-curfew and nightwalking charges; committed then released same day on mainprise to keep peace.",
+    "claim": "On 6 March 1365 William Moot, a brewer, and John de Henham and Thomas Fraunceys, hackneymen, were attached on combined charges of an affray by night in Candlewick Street Ward, keeping their doors open after curfew and nightwalking against the peace; they were committed to prison and the same day mainprised to keep the peace and released.",
     "sources": [
       "SRC03"
     ],
-    "locator": "Roll A10, entry under6March1365, following Curteys detinue case.",
+    "locator": "Roll A10, entry under 6 March 1365, following Curteys detinue case.",
     "limit": "Present as charges and recorded disposition. No invented dialogue, verdict, fine or blows; label date jump.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC03, 6 March 1365: 'William Moot, brewer, John de Henham and Thomas Fraunceys, hakeneymen, were attached to answer charges of being concerned in an affray by night in Candlewickstreet Ward, of keeping their doors open after curfew and of being nightwalkers against the peace. They were committed to prison, but the same day were mainprised to keep the peace and released.'",
+      "source_locators": "SRC03 Roll A10, 6 March 1365",
+      "refutation": "S077–S087 speak the charges, the committal, the same-day mainprise, the trades and the ward; no fine, verdict or dialogue. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S076",
       "S077",
@@ -287,8 +390,8 @@
       "S087",
       "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C13",
@@ -298,8 +401,16 @@
       "SRC01",
       "SRC03"
     ],
-    "locator": "Curfew/surety/watch provisions and1365mainprise entry.",
+    "locator": "Curfew/surety/watch provisions and 1365 mainprise entry.",
     "limit": "Social interpretation bounded to sources, not certainty about every encounter or a ranking against modern policing.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Interpretation from SRC01 (surety, repute, names, watches) and SRC03 (mainprise).",
+      "source_locators": "SRC01 pp.334–336; SRC03",
+      "refutation": "S093 answers the held question as the episode's reading; no ranking against modern policing. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S006",
       "S037",
@@ -314,9 +425,11 @@
       "S083",
       "S084",
       "S085",
-      "S092"
+      "S092",
+      "S093",
+      "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   }
 ]

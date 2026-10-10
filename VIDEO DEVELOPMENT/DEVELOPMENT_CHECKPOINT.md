@@ -10,9 +10,10 @@ The owner asked Claude to complete Astra's development work, **one package at a 
 | 04 New York 1900 | **Released.** 12/12 claims checked (Riis 1900, the 1900 census transcription, the Levine family-story PDF, NYC LGBT Historic Sites, the 1903 Tenement House Problem volume, the 97 Orchard National Register form; three Tenement Museum web pages blocked automated access, so the rent chapter was rebuilt on the 1900 Commission volume); 96 shots, 82 illustrations, 14 graphics, Visitor in 55%; 23 sound cues; pilot S001, S006, S008, S012, S034, S058, S062, TH-A. |
 | 19 How Ancient Humans Survived (new, owner request 10 Oct) | **Released.** 13/13 claims checked (open-access papers on Wonderwerk, Schöningen, Shanidar 1, Canyars, Sungir, Ohalo II and Mezhyrich; Smithsonian species pages); 96 shots, 78 illustrations, 18 graphics, Visitor in 50%; 24 sound cues; pilot S001, S013, S025, S037, S062, S073, S078, TH-A. Owner confirms the title at upload. |
 | 05 Five Modern Ideas That Are Ancient | **Released.** 14/14 claims checked (all eight sources read); 100 shots, 82 illustrations, 15 graphics, Visitor in 58%; 21 sound cues; diagram runs interleaved with illustrated exteriors; pilot S001, S008, S024, S029, S040, S047, S056, TH-A. |
-| 06–18 | Draft as left by Astra. Next in order. |
+| 06 Medieval London Without a Fine | **Released.** 14/14 claims checked (Liber Albus text, Alsford, BHO calendar, 1329 proclamation); 96 shots, 80 illustrations, 16 graphics, Visitor in 53%; 18 sound cues; pilot S001, S004, S011, S025, S043, S048, S076, TH-A. |
+| 07–18 | Draft as left by Astra. Next in order; paused for the owner's look after 06 (owner instruction 10 October 2026). |
 
-Era variety, duplicate angles and shared material are checked per package against the whole slate in `SLATE_CHECK.md` (01–04 done: distinct). Publishing order and scheduling are the owner's later decision.
+Era variety, duplicate angles and shared material are checked per package against the whole slate in `SLATE_CHECK.md` (01–06 and 19 done: distinct). Publishing order and scheduling are the owner's later decision.
 
 # Astra's checkpoint — 9 October 2026 (before the continuation)
 

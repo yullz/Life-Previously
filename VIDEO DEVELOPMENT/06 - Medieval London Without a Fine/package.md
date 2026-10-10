@@ -11,16 +11,14 @@ Could You Get Through Medieval London Without a Fine?
 
 ## Description
 
-You have a room for the night and a simple plan: walk through medieval London without losing your money—or your freedom.
-
-A sword, an argument and a stroll after curfew complicate that plan. We follow peace ordinances from the1360s, preserve their exceptions, and compare them with a real court record. The Visitor's challenge is fictional; the rules and the case are sourced.
+You have a room for the night and a simple plan: walk through medieval London without losing your money—or your freedom. A sword, an argument and a stroll after curfew complicate that plan. We follow peace ordinances from the1360s, preserve their exceptions, and compare them with a real court record. The Visitor's challenge is fictional; the rules and the case are sourced.
 
 Life, Previously explores how ordinary people actually lived. Historical scenes are illustrated reconstructions; specific limits and evidence are explained in the episode.
 
 Sources:
 - Liber Albus, translated by H. T. Riley (1861), pp. 334–336: https://archive.org/details/liberalbuswhite00carpgoog
 - Stephen Alsford, Florilegium Urbanum — Ordinances for preserving law and order: https://the-orb.arlima.net/encyclop/culture/towns/florilegium/government/gvjust09.html
-- A. H. Thomas, Calendar of Plea and Memoranda Rolls, volume2, Roll A10 (1364–5): https://www.british-history.ac.uk/plea-memoranda-rolls/vol2/pp1-28
+- A. H. Thomas, Calendar of Plea and Memoranda Rolls, volume 2, Roll A10 (1364–5): https://www.british-history.ac.uk/plea-memoranda-rolls/vol2/pp1-28
 
 ## Chapters
 
@@ -35,7 +33,7 @@ Sources:
 
 ## Tags
 
-medieval London, medieval laws, London1364, medieval curfew, Liber Albus, ordinary medieval life, Newgate, London history, history challenge, Life Previously
+medieval London, medieval laws, London 1364, medieval curfew, Liber Albus, ordinary medieval life, Newgate, London history, history challenge, Life Previously
 
 ## Hashtags
 
