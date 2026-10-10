@@ -51,12 +51,12 @@
       "design": "Neutral parchment display field with accurate single-type kit. Secutor: plain rounded enclosed helmet with two eye openings, large shield, short sword, weapon-arm protection. Retiarius: no helmet, net/trident/dagger, left arm and shoulder guard. Never combine their kit."
     },
     "lamp": {
-      "scope": "Cypriot Roman lamp, c. AD 50–100, Met74.51.2030",
+      "scope": "Cypriot Roman lamp, c. AD 50–100, Met 74.51.2030",
       "frame": "earlier comparative artefact, not a Carnuntum find",
       "design": "Local graphic based on public-domain object photograph; label provenance and date. Never generate a fake museum object photograph."
     },
     "seneca": {
-      "scope": "Seneca, Moral Letters37, first century AD",
+      "scope": "Seneca, Moral Letters 37, first century AD",
       "frame": "earlier literary evidence, not a Carnuntum contract",
       "design": "Modern source card with concise paraphrase, no fake signed gladiator form or invented contract text."
     },
@@ -64,67 +64,113 @@
       "scope": "Modern explanatory graphic",
       "frame": "editorial schematic",
       "design": "Channel parchment with minimal plan symbols and short checked labels; colour interpreted room use separately from detected structural plan."
+    },
+    "vegetius": {
+      "scope": "Vegetius, Epitoma rei militaris I.11, fourth century AD",
+      "frame": "later military handbook, not a Carnuntum record",
+      "design": "Modern source card with a concise paraphrase and the book and chapter; no fake manuscript, no Latin facsimile."
+    },
+    "colchester": {
+      "scope": "The Colchester Vase, Roman Colchester, Britain; a comparison, not a Carnuntum find",
+      "frame": "comparative object, locally drawn card",
+      "design": "Modern source card naming the vessel and the two fighters' names as captions; a simple outline of a pot, no generated counterfeit inscription or copied photograph."
     }
   },
   "sources": [
     {
       "id": "SRC01",
-      "title": "Neubauer et al. — The discovery of the school of gladiators at Carnuntum, Austria (Antiquity88,2014,173–190)",
+      "title": "Neubauer et al. — The discovery of the school of gladiators at Carnuntum, Austria (Antiquity 88,2014,173–190)",
       "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4ACC29C5CC928A88A8A4F5ADC3E989CB/S0003598X00050298a.pdf/div-class-title-the-discovery-of-the-school-of-gladiators-at-carnuntum-austria-div.pdf",
-      "read": "2026-10-09: archaeological interpretation pp181–188 read with survey context and figures9–12 captions.",
-      "limit": "Non-invasive interpretation; room functions and capacities have different confidence. Do not use an exact75 residents, daily massage, definite punishment cell, normal winter -25C, or inferred medical room as established local facts. Later2014 excavation report exists but accessible content was paywalled; not used."
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read in full (PDF downloaded and parsed): main complex 2800 m² within a walled plot of about 11,000 m² west of the municipal amphitheatre; 'A single and easily controlled entrance into the complex can be seen on its eastern side, facing the amphitheatre … 2.4m-wide gate'; walk of about 80 m to the amphitheatre's north gate; 'a free-standing circular structure 19m in diameter, which could be interpreted as the training arena … surrounded by wooden spectator stands set on stone foundations'; 'Evidence for a feature resembling a post-hole … in the centre of the arena. This might be the foundation of the palus'; 'The division of the gladiators by the use of pali facilitated training and instruction specific to the type of armament'; instructors 'probably were drawn from the ranks of senior and ex-gladiators'; 'the administrative block and living quarters of the school's owner, the lanista … head of his familia gladiatoria with complete legal power over the life and death of the gladiators—unless they were Roman citizens'; 'a central row of small cells 3–7m² in area'; 'an estimated total of 75 gladiators could have been housed' (an assumption-based estimate); a sunken cell 'probably used for disciplinary measures'; hypocaust and 6.5 m² praefurnium: 'we interpret this building either as a heated training room or an assembly hall'; bath complex with pool, heated floor, apse, well, water line from the aqueduct, sewers and latrines; pottery 'generally date to the second and third centuries AD'.",
+      "limit": "Non-invasive interpretation; room functions and capacities have different confidence. Do not use an exact 75 residents, daily massage, definite punishment cell, normal winter -25C, or inferred medical room as established local facts. Later 2014 excavation report exists but accessible content was paywalled; not used."
     },
     {
       "id": "SRC02",
       "title": "Römerstadt Carnuntum — Gladiatur",
       "url": "https://www.carnuntum.at/de/gladiatur",
-      "read": "2026-10-09: full official account of amphitheatres and possible school.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: three amphitheatres now known; 'Westlich des Amphitheaters II befand sich möglicherweise eine Gladiatorenschule'; 'eine kreisrunde Trainingsarena mit 19 Meter Durchmesser'; training hall, administration and living cells 'angenommen' (assumed).",
       "limit": "Site explicitly qualifies school and room interpretations; now recognizes three amphitheatres. Do not repeat outdated two-amphitheatre total."
     },
     {
       "id": "SRC03",
       "title": "University of Vienna VIAS — Archaeological Interpretation of the GPR Survey",
       "url": "https://vias.univie.ac.at/forschung/geopysikalische-prospektion/projects/school-of-gladiators/archaeological-interpretation/",
-      "read": "2026-10-09: full interpretation text.",
-      "limit": "Same research team, corroboration of stated interpretation not independent discovery. Early web summary and2014 paper differ in precise room sizes/orientation wording; use detailed paper for plan, avoid precise cell area."
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: 'a circular training arena, 19 m in diameter, enclosed by a wooden stand for spectators'; '100 m² heated training hall, an extended bath complex, the 300 m² administration and living complex of the owner'; 'cells that were as little as 5 m² in size'; water pipes, sewers and floor heating visible.",
+      "limit": "Same research team, corroboration of stated interpretation not independent discovery. Early web summary and 2014 paper differ in precise room sizes/orientation wording; use detailed paper for plan, avoid precise cell area."
     },
     {
       "id": "SRC04",
       "title": "Marlee Miller — Gladiators: Types and Training, Metropolitan Museum (2023)",
       "url": "https://www.metmuseum.org/essays/gladiators-types-and-training",
-      "read": "2026-10-09: full Armament Types, Training and Arena sections.",
-      "limit": "Wider Roman evidence, not a local daily roster. Do not repeat broad legal claim that every gladiator had no personhood or exact mortality/rental price. Lamp2030 linked separately because essay gallery link24 goes to1845."
+      "read": "2026-10-09 (Astra): full essay. 2026-10-10: the Met's essay pages are rendered by script and the fetcher was rate-limited (HTTP 429), so the essay could not be re-read; its claims are now carried by SRC08–SRC11 and no row relies on it. Entry kept for the owner's reference.",
+      "limit": "Wider Roman evidence, not a local daily roster. Do not repeat broad legal claim that every gladiator had no personhood or exact mortality/rental price. Lamp 2030 linked separately because essay gallery link 24 goes to 1845."
     },
     {
       "id": "SRC05",
-      "title": "The Metropolitan Museum — Terracotta oil lamp74.51.2030",
+      "title": "The Metropolitan Museum — Terracotta oil lamp 74.51.2030",
       "url": "https://www.metmuseum.org/art/collection/search/241583",
-      "read": "2026-10-09: full object record, date, material and relief description.",
-      "limit": "Roman Cypriot c.AD50–100; earlier comparative image of post practice, not excavated Carnuntum equipment. Photograph public domain per object page."
+      "read": "2026-10-09 (Astra): object page. 2026-10-10: the object page could not be rendered; the Met's open collection API confirms 74.51.2030, 'Terracotta oil lamp', ca. 50–100 CE, Roman, Cypriot, public domain, tagged Gladiators, Shields, Men, but the description of the scene (a fighter at a post) could not be re-read, so the lamp is no longer used in the script; the post training is carried by Vegetius (SRC10) and the Carnuntum post foundation (SRC01). The image may be added at production only if the museum page confirms the scene.",
+      "limit": "Roman Cypriot c.AD 50–100; earlier comparative image of post practice, not excavated Carnuntum equipment. Photograph public domain per object page."
     },
     {
       "id": "SRC06",
-      "title": "Seneca — Moral Letters to Lucilius37, Gummere translation",
+      "title": "Seneca — Moral Letters to Lucilius 37, Gummere translation",
       "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_37",
-      "read": "2026-10-09: full letter and notes.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: the oath 'Through burning, imprisonment, or death by the sword'; 'From the men who hire out their strength for the arena, who eat and drink what they must pay for with their blood, security is taken that they will endure such trials even though they be unwilling'; 'The gladiator may lower his weapon and test the pity of the people'.",
       "limit": "First-century moral analogy references hired fighters' obligation and possible appeal for mercy. Not a surviving signed school contract; omit translator's speculative thumbs-up/down gloss."
     },
     {
       "id": "SRC07",
       "title": "British Museum — Gladiators, in Essex! (Colchester Vase discussion)",
       "url": "https://www.britishmuseum.org/blog/gladiators-essex",
-      "read": "2026-10-09: Valentinus/Memnon, status, specialist training and fame paragraphs read in full.",
-      "limit": "Colchester c.AD175 comparison; do not put Valentinus in Carnuntum or treat hypothetical porridge as its menu. Career and status interpretations remain qualified."
+      "read": "2026-10-09 (Astra): full post. 2026-10-10: the British Museum blog refused automated access (HTTP 403); the Colchester Vase evidence now comes from the Britannia article (SRC11). Entry kept for the owner's reference.",
+      "limit": "Colchester c.AD 175 comparison; do not put Valentinus in Carnuntum or treat hypothetical porridge as its menu. Career and status interpretations remain qualified."
+    },
+    {
+      "id": "SRC08",
+      "title": "Archaeology Magazine — Weapons of the Ancient World: Gladiator Weapons (May/June 2020)",
+      "url": "https://archaeology.org/issues/may-june-2020/collection/gladiator-weapons/weapons-of-the-ancient-world/",
+      "read": "2026-10-10: 'the Romans boosted their entertainment value by pitting gladiators who specialized in different sets of weapons, armor, and fighting style against each other. For example, a secutor carried a short sword and a large shield and wore a rounded helmet that covered his entire head, except for two small eyeholes. A secutor often opposed a retiarius, who was equipped with a net in one hand and a long trident in the other.'",
+      "limit": "A magazine overview of wider Roman evidence, not Carnuntum's inventory."
+    },
+    {
+      "id": "SRC09",
+      "title": "Archaeology Magazine — Gladiators: the language of the arena (glossary)",
+      "url": "https://archive.archaeology.org/gladiators/glossary.html",
+      "read": "2026-10-10: 'Criminals and prisoners could be damned to fight in the arena'; 'There were also volunteer gladiators, ones who either enlisted voluntarily as free or freed men, or who reenlisted after winning their freedom'; the oath by which recruits 'handed themselves over as slaves to their master and trainer, agreeing to submit to beating, burning, and death by the sword'; missio and the kneeling of a refused loser; retiarius: 'a net to ensnare his opponent and a long trident', the galerus shoulder-guard, the pugio dagger, 'The helmet worn by all gladiators except the retiarius'; the secutor 'paired with a retiarius', 'helmet with small eyeholes'; a familia 'lived and trained under one lanista'.",
+      "limit": "Glossary definitions across the Imperial period; no local roster or figures."
+    },
+    {
+      "id": "SRC10",
+      "title": "Vegetius — Epitoma rei militaris, Book I chapter 11 (Latin text, The Latin Library)",
+      "url": "https://www.thelatinlibrary.com/vegetius1.html",
+      "read": "2026-10-10: 'Quemadmodum ad scuta uiminea uel ad palos antiqui exercebant tirones'; wicker shields and 'clauas ligneas dupli aeque ponderis pro gladiis'; recruits exercised at the post morning and afternoon, attacking it 'tamquam contra aduersarium'; 'Palorum enim usus non solum militibus sed etiam gladiatoribus plurimum prodest'.",
+      "limit": "A fourth-century military handbook describing an old practice; it confirms post training with wooden weapons for gladiators in general, not a Carnuntum timetable."
+    },
+    {
+      "id": "SRC11",
+      "title": "Davis, Pearce, Carroll, Moore, Nowell and Montgomery — Gladiators at Roman Colchester: re-interpreting the Colchester Vase, Britannia 55 (2024)",
+      "url": "https://doi.org/10.1017/S0068113X24000187",
+      "read": "2026-10-10: abstract and inscription section: 'The locally made colour-coated ware vessel known as the Colchester Vase is argued to be a commissioned piece recording a performance in the town'; captions 'MEMNON SAC VIIII VALENTINV LEGIONIS XXX' labelling 'the secutor and retiarius'; 'One name, Memnon, is argued to be a stage name'; 'The connection of another combatant, Valentinus, to the 30th legion is re-considered'; the single names 'raise the question as to whether they precisely identify the status of the performers, for example as slaves or peregrini … or simply supply the stage names'; keyword 'souvenir'; the vessel's final use as a cremation urn.",
+      "limit": "Roman Britain, not Carnuntum; the fighters' legal status is left open by the authors, and the script does so too."
     }
   ],
   "claims": [
     {
       "id": "C0",
       "type": "F",
-      "claim": "The Visitor's first-day tour, unnamed trainee and imagined reactions are original illustrative framing at Carnuntum c.AD200, not a recovered individual's schedule.",
+      "claim": "The Visitor's first-day tour, unnamed trainee and imagined reactions are original illustrative framing at Carnuntum c.AD 200, not a recovered individual's schedule.",
       "sources": [],
       "locator": "Editorial scenario.",
-      "limit": "No invented dialogue presented as a quotation; no exact local daily timetable."
+      "limit": "No invented dialogue presented as a quotation; no exact local daily timetable.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Framing row; S004 and S006 say the day is imagined and no timetable survives.",
+        "source_locators": "—",
+        "refutation": "Looked for any invented quotation or exact schedule; none.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C1",
@@ -135,7 +181,15 @@
         "SRC02"
       ],
       "locator": "Antiquity pp181–185; official Gladiatur school paragraph.",
-      "limit": "Retain interpreted/reconstructed framing. School identification is strong interpretation rather than every room's function proven."
+      "limit": "Retain interpreted/reconstructed framing. School identification is strong interpretation rather than every room's function proven.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01: complex west of the municipal amphitheatre, 'remains interpreted as a gladiatorial school'; 'A single and easily controlled entrance … 2.4m-wide gate'; circular structure 19 m. SRC02: 'möglicherweise eine Gladiatorenschule'.",
+        "source_locators": "SRC01 interpretation section; SRC02",
+        "refutation": "S004–S005 and S011 keep 'interpreted'; the site's own 'possibly' is respected. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C2",
@@ -146,19 +200,36 @@
         "SRC03"
       ],
       "locator": "Antiquity p184 and VIAS opening paragraph.",
-      "limit": "Post-hole interpretation is possible, not surviving wooden post. Do not exact-reconstruct tiers or post carving."
+      "limit": "Post-hole interpretation is possible, not surviving wooden post. Do not exact-reconstruct tiers or post carving.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01: 'a free-standing circular structure 19m in diameter … surrounded by wooden spectator stands set on stone foundations'; 'a feature resembling a post-hole … might be the foundation of the palus'. SRC03: '19 m in diameter, enclosed by a wooden stand'.",
+        "source_locators": "SRC01; SRC03",
+        "refutation": "S037 says 'might have held a post'. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C3",
       "type": "E",
       "claim": "Gladiators included enslaved people, war prisoners and voluntary recruits; joining voluntarily did not preserve ordinary freedom of action.",
       "sources": [
-        "SRC04",
+        "SRC09",
         "SRC06",
-        "SRC07"
+        "SRC01",
+        "SRC11"
       ],
-      "locator": "Met Training; Seneca37.1–2; BM Valentinus discussion.",
-      "limit": "Different legal situations; do not call all enslaved or all willing. No universal contractual rights claim."
+      "locator": "SRC09 recruitment and oath entries; SRC06 37.1–2; SRC01 lanista paragraph (citizens excepted); SRC11 status discussion.",
+      "limit": "Different legal situations; do not call all enslaved or all willing. No universal contractual rights claim.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC09: 'Criminals and prisoners could be damned to fight in the arena'; 'volunteer gladiators … enlisted voluntarily as free or freed men'; the oath 'handed themselves over as slaves to their master and trainer'. SRC06: 'men who hire out their strength for the arena … security is taken that they will endure such trials even though they be unwilling'. SRC01: the lanista's 'complete legal power … unless they were Roman citizens'. SRC11: names that may be 'slaves or peregrini … or simply … stage names'.",
+        "source_locators": "SRC09; SRC06; SRC01; SRC11",
+        "refutation": "S013 now says 'condemned prisoners' and 'free or freed men' as the glossary does; no shares claimed. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C4",
@@ -167,8 +238,16 @@
       "sources": [
         "SRC06"
       ],
-      "locator": "Letter37.1–2.",
-      "limit": "Paraphrase attributed; moral rhetoric is not a Carnuntum admission checklist."
+      "locator": "Letter 37.1–2.",
+      "limit": "Paraphrase attributed; moral rhetoric is not a Carnuntum admission checklist.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC06: the oath 'Through burning, imprisonment, or death by the sword'; 'The gladiator may lower his weapon and test the pity of the people'.",
+        "source_locators": "SRC06 37.1–2",
+        "refutation": "S017 and S079 paraphrase and attribute. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C5",
@@ -176,31 +255,56 @@
       "claim": "Schools were managed by a lanista with support staff; instructors specialized in gladiator equipment types.",
       "sources": [
         "SRC01",
-        "SRC04"
+        "SRC09"
       ],
-      "locator": "Antiquity pp183–185; Met Training.",
-      "limit": "No named local manager or recorded speech. Instructor's exact biography unknown."
+      "locator": "SRC01 lanista and instruction paragraphs; SRC09 familia entry.",
+      "limit": "No named local manager or recorded speech. Instructor's exact biography unknown.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01: 'the lanista … head of his familia gladiatoria'; 'instruction specific to the type of armament'; instructors 'drawn from the ranks of senior and ex-gladiators'. SRC09: a familia 'lived and trained under one lanista'.",
+        "source_locators": "SRC01; SRC09",
+        "refutation": "S020 and S029 name no local manager. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C6",
       "type": "E",
-      "claim": "Gladiatorial training could use wooden weapons and a standing post before paired practice; a Cypriot lamp depicts post training.",
+      "claim": "Gladiatorial training could use wooden weapons and a standing post before paired practice; Vegetius says post training with wicker shields and wooden swords served soldiers and gladiators alike, and Carnuntum's arena has a possible post foundation at its centre.",
       "sources": [
-        "SRC04",
-        "SRC05"
+        "SRC10",
+        "SRC01"
       ],
-      "locator": "Met Training; lamp74.51.2030 object description.",
-      "limit": "No exact weights, repetition counts or first-day training prescription. Lamp predates scenario and is from elsewhere."
+      "locator": "SRC10 I.11; SRC01 palus paragraph.",
+      "limit": "No exact weights, repetition counts or first-day prescription; Vegetius writes in the fourth century about an older practice.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC10: wicker shields and 'clauas ligneas dupli … ponderis pro gladiis'; recruits attacked the post 'tamquam contra aduersarium'; 'Palorum enim usus non solum militibus sed etiam gladiatoribus plurimum prodest'. SRC01: possible palus foundation.",
+        "source_locators": "SRC10 I.11; SRC01",
+        "refutation": "The lamp is no longer cited; S035–S036 speak Vegetius. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C7",
       "type": "E",
       "claim": "Secutor and retiarius equipment differs: enclosed plain helmet/large shield/short sword versus no helmet/net/trident/dagger and left-arm/shoulder protection.",
       "sources": [
-        "SRC04"
+        "SRC08",
+        "SRC09"
       ],
-      "locator": "Armament Types, secutor/retiarius paragraphs.",
-      "limit": "Comparative kit, not exact school inventory. Secutor is not a legionary; don't mix kits."
+      "locator": "SRC08 secutor and retiarius sentences; SRC09 galerus, pugio, trident, helmet entries.",
+      "limit": "Comparative kit, not exact school inventory. Secutor is not a legionary; don't mix kits.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC08: 'a secutor carried a short sword and a large shield and wore a rounded helmet that covered his entire head, except for two small eyeholes … a retiarius, who was equipped with a net in one hand and a long trident in the other'. SRC09: galerus shoulder-guard, pugio dagger, 'The helmet worn by all gladiators except the retiarius'.",
+        "source_locators": "SRC08; SRC09",
+        "refutation": "S025–S027 keep the kits separate. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C8",
@@ -211,7 +315,15 @@
         "SRC03"
       ],
       "locator": "Antiquity p185; VIAS room comparison.",
-      "limit": "Single bed and blanket are illustrative; no exact number of residents or definite private room allocation."
+      "limit": "Single bed and blanket are illustrative; no exact number of residents or definite private room allocation.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01: 'a central row of small cells 3–7m² in area'; 'an estimated total of 75 gladiators could have been housed' (an assumption). SRC03: 'cells that were as little as 5 m²'.",
+        "source_locators": "SRC01; SRC03",
+        "refutation": "S049 and S056 say interpreted and estimated; no count spoken. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C9",
@@ -222,7 +334,15 @@
         "SRC03"
       ],
       "locator": "Antiquity pp186–187.",
-      "limit": "Not a confirmed gym with a documented bathing timetable; no health outcome inferred."
+      "limit": "Not a confirmed gym with a documented bathing timetable; no health outcome inferred.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC01: hypocaust and praefurnium; 'either as a heated training room or an assembly hall'; bath complex with pool, heated floor, apse, well, water line, sewers.",
+        "source_locators": "SRC01 northern wing paragraphs",
+        "refutation": "S058–S061 speak heating and interpretation, not a timetable. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C10",
@@ -230,38 +350,61 @@
       "claim": "Investment in training and facilities could coexist with severe control; a useful body was not necessarily a free person.",
       "sources": [
         "SRC01",
-        "SRC04",
+        "SRC09",
         "SRC06",
-        "SRC07"
+        "SRC11"
       ],
       "locator": "Synthesis of compound plan, training and status evidence.",
-      "limit": "Editorial interpretation, not claim every owner was benevolent or every fighter enslaved."
+      "limit": "Editorial interpretation, not claim every owner was benevolent or every fighter enslaved.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Interpretation across SRC01 (gate, cells, lanista's power), SRC09 (oath), SRC06 and SRC11.",
+        "source_locators": "Synthesis",
+        "refutation": "S062–S064 and S092 keep it as the episode's reading. Holds as interpretation.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C11",
       "type": "E",
       "claim": "Trained gladiators could be hired for shows; defeat did not invariably mean death and mercy was possible.",
       "sources": [
-        "SRC04",
-        "SRC06"
+        "SRC06",
+        "SRC09"
       ],
-      "locator": "Met The Arena; Seneca37.2.",
-      "limit": "No survival probability or promise; no assurance a first-day recruit fought immediately."
+      "locator": "SRC06 37.1–2 (hiring out strength; lowering the weapon to test the people's pity); SRC09 missio entries.",
+      "limit": "No survival probability or promise; no assurance a first-day recruit fought immediately.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC06: 'men who hire out their strength for the arena'; 'lower his weapon and test the pity of the people'. SRC09: missio; a refused loser 'expected to kneel'.",
+        "source_locators": "SRC06; SRC09",
+        "refutation": "S077–S080 give no odds. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C12",
       "type": "E",
-      "claim": "Fame and fan recognition could coexist with low status, illustrated by named fighters on the Colchester Vase and Roman gladiator imagery.",
+      "claim": "Fame and recognition could coexist with low or uncertain status: the Colchester Vase, a commissioned souvenir of a show in Roman Britain, names the secutor Memnon and the retiarius Valentinus while leaving their legal status open.",
       "sources": [
-        "SRC04",
-        "SRC07"
+        "SRC11"
       ],
-      "locator": "Met Arena; BM Valentinus fame discussion.",
-      "limit": "No named Colchester fighter moved to Carnuntum; no claim a celebrity could simply leave."
+      "locator": "SRC11 abstract and inscription section.",
+      "limit": "A British comparison, not a Carnuntum find; no claim that a famous fighter could simply leave.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "SRC11: 'a commissioned piece recording a performance in the town'; captions naming 'the secutor and retiarius' Memnon and Valentinus; 'stage name'; status 'slaves or peregrini … or simply … stage names'.",
+        "source_locators": "SRC11 abstract and inscription section",
+        "refutation": "S083–S084 name the pot and the two fighters and keep status open. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     }
   ],
-  "research": "The hook is an imagined first day whose first opponent is a wooden post. Route: controlled gate, status, equipment and practice, sleeping rooms, heated hall/baths, public arena. c.AD200 is a broad Imperial narrative setting, not the date of a preserved diary or exact construction phase. Carnuntum supplies spatial constraints; museum objects and Seneca supply separately labelled comparative evidence. Original research compared the current site account's qualified wording with the more confident2014 paper and VIAS summary. Keep the more careful wording. Read the underlying lamp record: the correct training lamp is74.51.2030, not the different gallery link's74.51.1845. The latter depicts defeated combatants, so using it as training proof would be wrong. Reject Ephesus ash-drink/vegetarian headlines as a local meal plan; reject exact75 occupants, medical room and underground punishment cell as certainties. Heated hall can be assembly or training. No staged death, first-day duel or guaranteed survival. The story's emotional shift is from fear of an opponent to recognition of institutional control. Original illustrations, not copied research reconstructions; room plans establish geography, elevations remain illustrative.",
-  "description": "Before a Roman gladiator faced an audience, what happened inside his school? We visit a reconstruction of Carnuntum around AD200, from the training post to the rooms and bathing facilities—and ask what care meant when somebody else controlled your future. The first-day journey is imagined; archaeological interpretations and evidence from elsewhere in the Roman world are identified on screen.",
+  "research": "The hook is an imagined first day whose first opponent is a wooden post. Route: controlled gate, status, equipment and practice, sleeping rooms, heated hall/baths, public arena. c.AD 200 is a broad Imperial narrative setting, not the date of a preserved diary or exact construction phase. Carnuntum supplies spatial constraints; museum objects and Seneca supply separately labelled comparative evidence. Original research compared the current site account's qualified wording with the more confident 2014 paper and VIAS summary. Keep the more careful wording. Read the underlying lamp record: the correct training lamp is 74.51.2030, not the different gallery link's74.51.1845. The latter depicts defeated combatants, so using it as training proof would be wrong. Reject Ephesus ash-drink/vegetarian headlines as a local meal plan; reject exact 75 occupants, medical room and underground punishment cell as certainties. Heated hall can be assembly or training. No staged death, first-day duel or guaranteed survival. The story's emotional shift is from fear of an opponent to recognition of institutional control. Original illustrations, not copied research reconstructions; room plans establish geography, elevations remain illustrative.",
+  "description": "Before a Roman gladiator faced an audience, what happened inside his school? We visit a reconstruction of Carnuntum around AD 200, from the training post to the rooms and bathing facilities—and ask what care meant when somebody else controlled your future. The first-day journey is imagined; archaeological interpretations and evidence from elsewhere in the Roman world are identified on screen.",
   "tags": [
     "gladiator school",
     "Roman gladiators",
@@ -281,18 +424,21 @@
     "S001",
     "S003",
     "S008",
+    "S024",
     "S025",
     "S048",
+    "S058",
+    "S075",
     "TH-A"
   ],
   "thumbnails": [
     {
       "id": "A",
       "headline": "DAY ONE",
-      "chip": "GLADIATOR SCHOOL",
+      "chip": "CARNUNTUM • c. AD 200",
       "scope": "Illustrative training courtyard",
       "pose": "closeup-worried",
-      "background": "Large plain wooden training post at left foreground, with a blunt wooden practice sword and small shield resting on low bench beneath it; recognisable restrained Roman school courtyard behind. No human victim, blood or public arena spectacle. Visitor at right looks toward post; he holds no generated weapon.",
+      "background": "Large plain wooden training post at left foreground, with a blunt wooden practice sword and small shield resting on low bench beneath it; recognisable restrained Roman school courtyard behind. No human victim, blood or public arena spectacle. Right side clear.",
       "rationale": "The intimidating training post gives an unexpected answer to the first-day premise and remains readable at phone size.",
       "payoff_scene_ids": [
         "S001",
@@ -303,7 +449,7 @@
     {
       "id": "B",
       "headline": "YOU LIVE HERE?",
-      "chip": "CARNUNTUM",
+      "chip": "CARNUNTUM • c. AD 200",
       "scope": "Interpreted school sleeping room",
       "pose": "closeup-listening",
       "background": "Tight view into small plain room with low bed platform and folded blanket, through narrow doorway; a wooden practice shield beside door supplies gladiator context. No iron cage, chains or gore.",
@@ -316,7 +462,7 @@
     {
       "id": "C",
       "headline": "VALUABLE. NOT FREE.",
-      "chip": "INSIDE THE SCHOOL",
+      "chip": "CARNUNTUM • c. AD 200",
       "scope": "Interpretive comparison of care and control",
       "pose": "closeup-thoughtful",
       "background": "One coherent school corridor with bath basin glimpsed at left and controlled entrance far behind, no split fantasy palace/prison. Keep two clear forms only; headline is editorial interpretation, not quotation.",
@@ -360,10 +506,11 @@
           "C0,C6",
           "court",
           "wide",
-          "Training post dominates left; trainee watches from centre, instructor behind; clear right foreground for Visitor.",
+          "Training post dominates left; trainee watches from centre, instructor behind; clear right foreground.",
           "closeup-worried",
           null,
-          null
+          null,
+          {}
         ],
         [
           "It is a wooden post. Before you face somebody trying to hurt you, there is a great deal to learn here.",
@@ -371,9 +518,10 @@
           "court",
           "detail",
           "Wood grain and worn practice marks on post, blunt wooden weapon held low by trainee.",
+          "closeup-listening",
           null,
           null,
-          null
+          {}
         ],
         [
           "That sounds reassuring, until you turn around and look at the gate through which you have just entered the compound.",
@@ -392,18 +540,20 @@
           "graphic",
           "Simple Danube locator and two-site symbols, no modern map labels beyond checked text.",
           null,
-          "RECONSTRUCTED VISIT",
-          "CARNUNTUM • c. AD 200"
+          "Carnuntum • c. AD 200 • reconstructed visit",
+          "CARNUNTUM • c. AD 200",
+          {}
         ],
         [
           "The reconstructed buildings follow remains interpreted as a gladiator school. Objects and writers elsewhere provide additional training evidence.",
           "C1,C6",
-          "editorial",
-          "graphic",
-          "Compact distinction between site plan, lamp and written source; three icons, no research wall.",
+          "gate",
+          "wide",
+          "Gate passage and plaster wall at left, tiled roofs beyond; clear right.",
+          "count-fingers",
           null,
           null,
-          "SITE • OBJECTS • TEXTS"
+          {}
         ],
         [
           "No surviving timetable tells us exactly what happened on a new arrival's first morning.",
@@ -416,14 +566,15 @@
           null
         ],
         [
-          "But we can follow the questions that matter: who controls you, what you must learn, and where you will live.",
+          "Three questions matter today: who controls you, what must you learn, and where will you sleep? Hold the first; it is answered at the end.",
           "C0",
           "gate",
           "over-shoulder",
           "View past trainee toward courtyard, corridor and plain doorway; three readable spatial destinations.",
+          "look-around",
           null,
           null,
-          null
+          {}
         ],
         [
           "And the school contains something you might not expect. Beyond the practice yard are rooms interpreted as bathing facilities.",
@@ -461,9 +612,10 @@
           "gate",
           "wide",
           "Gate passage leads toward lighted court; no cheering audience visible.",
+          "step-forward",
           null,
           null,
-          null
+          {}
         ],
         [
           "The first lesson begins before anybody puts a weapon into your hand. Being here does not tell us how you arrived.",
@@ -481,14 +633,15 @@
       "title": "Who controls your day?",
       "scenes": [
         [
-          "Some gladiators were enslaved. Some were prisoners of war. Others entered voluntarily, though their circumstances and legal positions differed.",
+          "Some gladiators were enslaved. Some were condemned prisoners. Others enlisted as free or freed men, though their legal positions differed.",
           "C3",
           "editorial",
           "graphic",
           "Three restrained human silhouettes with differentiated labels, no claim of shares.",
           null,
           null,
-          "DIFFERENT ROUTES INTO THE ARENA"
+          "DIFFERENT ROUTES INTO THE ARENA",
+          {}
         ],
         [
           "A willing recruit and a captive might train together without having made anything like the same choice.",
@@ -501,24 +654,26 @@
           null
         ],
         [
-          "Our Visitor can ask whether this looks like a good career. Many people inside never had that question put to them.",
+          "You can ask whether this looks like a good career. Many people inside never had that question put to them.",
           "C0,C3",
           "gate",
           "close",
-          "New trainee's sober face in profile; Visitor separate at right.",
+          "New trainee's sober face in profile at left; clear right.",
           "closeup-worried",
           null,
-          null
+          null,
+          {}
         ],
         [
           "Even agreeing to fight did not mean retaining an ordinary customer's right to leave when the arrangement became unpleasant.",
           "C3,C4",
-          "seneca",
-          "graphic",
-          "Source card with brief original paraphrase and Letter37 attribution.",
+          "gate",
+          "reaction",
+          "Closed gate leaf and the attendant at left; clear right.",
+          "eyebrow-raise",
           null,
-          "EARLIER ROMAN EVIDENCE",
-          "JOINING COULD MEAN SURRENDERING CONTROL"
+          null,
+          {}
         ],
         [
           "The Roman writer Seneca describes men hiring out their strength for the arena, bound to endure restraint, burning, and the sword.",
@@ -527,18 +682,20 @@
           "graphic",
           "Three minimal nonviolent symbols: cord, flame outline, sheathed blade; no injured body.",
           null,
-          null,
-          "SENECA • LETTER 37"
+          "Seneca, Moral Letters 37 • first century AD",
+          "SENECA • LETTER 37",
+          {}
         ],
         [
           "He uses that obligation in a moral argument. It is not a signed contract from this school.",
           "C4",
-          "seneca",
-          "graphic",
-          "Source label stays; document icon remains an editorial card rather than parchment facsimile.",
+          "gate",
+          "detail",
+          "Closed gate leaf and plain wooden latch at left; clear right.",
           null,
           null,
-          "A WRITER'S COMPARISON"
+          null,
+          {}
         ],
         [
           "But it makes the stakes clear. A volunteer could agree to a future that would be very difficult to take back.",
@@ -586,9 +743,10 @@
           "court",
           "over-shoulder",
           "Instructor indicates stance with open hand while trainee's wooden weapon points safely down.",
+          "closeup-listening",
           null,
           null,
-          null
+          {}
         ],
         [
           "That learning depends on the kind of fighter you are becoming. There was no single bag of equipment labelled gladiator.",
@@ -596,9 +754,10 @@
           "bench",
           "wide",
           "Plain bench with wooden practice sword and small shield; distinct equipment examples reserved for later graphics.",
+          "look-around",
           null,
           null,
-          null
+          {}
         ]
       ]
     },
@@ -612,8 +771,9 @@
           "medium",
           "Single secutor kit on plain stand, rounded helmet two small eye holes, large shield, short sword, arm protection.",
           null,
-          "COMPARATIVE EQUIPMENT",
-          null
+          "Comparative equipment • Roman Empire, 1st–3rd centuries AD",
+          null,
+          {}
         ],
         [
           "This is a secutor's equipment. The shield gives substantial cover, while the helmet places a barrier between your face and the world.",
@@ -631,9 +791,12 @@
           "kit",
           "medium",
           "Separate retiarius display: folded weighted net, three-pronged trident, dagger, left-arm sleeve and shoulder plate; no helmet.",
+          "closeup-thoughtful",
           null,
           null,
-          null
+          {
+            "independent_anchor": true
+          }
         ],
         [
           "Different equipment means different problems. Swap the kit around, and the same movements may no longer work.",
@@ -684,12 +847,7 @@
           "glance-nervous",
           null,
           null
-        ]
-      ]
-    },
-    {
-      "title": "The opponent who never gets tired",
-      "scenes": [
+        ],
         [
           "A wooden post sounds like a very undemanding opponent. It will not feint, chase you, or take advantage of a mistake.",
           "C0",
@@ -706,29 +864,37 @@
           "court",
           "medium",
           "Trainee in balanced stance with wooden sword beside post, no dangerous swing crossing instructor.",
+          "watch-arms-crossed",
           null,
           null,
-          null
+          {}
+        ]
+      ]
+    },
+    {
+      "title": "The opponent who never gets tired",
+      "scenes": [
+        [
+          "This is more than a convenient reconstruction. A Roman military handbook, Vegetius, describes recruits trained at a post with wicker shields and wooden swords of double weight.",
+          "C6",
+          "vegetius",
+          "graphic",
+          "Source card: book and chapter, a plain post icon, a wicker shield and wooden sword icon; no facsimile.",
+          null,
+          null,
+          "VEGETIUS • TRAINING AT THE POST",
+          {}
         ],
         [
-          "This is more than a convenient reconstruction. A surviving Roman lamp shows a gladiator advancing towards just such a training target.",
+          "He adds that the post is of the greatest use not only to soldiers but also to gladiators. Our post has good company.",
           "C6",
-          "lamp",
-          "graphic",
-          "Use correct public-domain lamp74.51.2030 image in local layout with arrow outside object.",
+          "court",
+          "medium",
+          "Trainee holds the blunt wooden sword and small practice shield beside the post, instructor adjusting his grip at left; clear right.",
+          "closeup-listening",
+          "Vegetius, Epitoma rei militaris I.11 • 4th century AD",
           null,
-          null,
-          "A TRAINING POST ON A ROMAN LAMP"
-        ],
-        [
-          "The lamp is earlier and comes from Cyprus. It documents the practice, not this particular school.",
-          "C6",
-          "lamp",
-          "graphic",
-          "Same object cropped to relief with complete provenance/date label.",
-          null,
-          null,
-          "CYPRUS • c. AD 50–100"
+          {}
         ],
         [
           "At Carnuntum, researchers also identified a feature that might have held a post in the circular training area they reconstructed.",
@@ -765,10 +931,11 @@
           "C0,C6",
           "court",
           "medium",
-          "Instructor guides shield height through gesture, trainee listens; Visitor at safe foreground edge.",
+          "Instructor guides shield height through gesture at left, trainee listens; clear right.",
           "closeup-thoughtful",
           null,
-          null
+          null,
+          {}
         ],
         [
           "Wooden practice weapons reduced the danger of unnecessary injuries. They did not remove the need for discipline or turn training into play.",
@@ -776,9 +943,10 @@
           "bench",
           "detail",
           "Blunt rounded wooden edge shown clearly against straight grain; no sharp point.",
+          "closeup-thoughtful",
           null,
           null,
-          null
+          {}
         ],
         [
           "Think how much an unfamiliar movement demands: feet, hands, balance, and where your attention goes.",
@@ -844,11 +1012,12 @@
           "And when the practice stops, you do not necessarily leave the institution behind. The next doorway leads towards the living quarters.",
           "C0,C8",
           "cell",
-          "wide",
+          "establishing",
           "Corridor entrance into small room, sleeping platform visible; late-afternoon light not yet dark.",
+          "look-around",
           null,
           null,
-          null
+          {}
         ]
       ]
     },
@@ -859,11 +1028,12 @@
           "Researchers interpreted rows of small rooms in the compound as accommodation for gladiators. That interpretation helps us imagine where a trainee might sleep.",
           "C8",
           "cell",
-          "wide",
-          "Full small room, modest sleeping platform and jug; Visitor outside doorway.",
+          "medium",
+          "Full small room, modest sleeping platform and jug at left, doorway; clear right.",
           "closeup-listening",
+          "Interpreted cells • 3–7 square metres",
           null,
-          null
+          {}
         ],
         [
           "The space in our reconstruction is plain: a place to lie down, a few belongings, and a doorway into the corridor.",
@@ -911,9 +1081,10 @@
           "cell",
           "medium",
           "Wooden practice shield rests by doorway, trainee sits on bed platform fully clothed.",
+          "closeup-thoughtful",
           null,
           null,
-          null
+          {}
         ],
         [
           "Relief, anxiety and ambition are possible reactions, not thoughts we recovered from the floor.",
@@ -961,9 +1132,10 @@
           "hall",
           "medium",
           "Two trainees stand speaking quietly in illustrative hall; no equipment proves single room function.",
+          "look-around",
           null,
           null,
-          null
+          {}
         ],
         [
           "For a visitor expecting nothing but bare walls and punishment, a heated indoor space is a surprising part of the picture.",
@@ -974,26 +1146,33 @@
           "eyebrow-raise",
           null,
           null
-        ],
+        ]
+      ]
+    },
+    {
+      "title": "What the baths do—and do not—mean",
+      "scenes": [
         [
           "Then there are the bathing facilities. Rooms, basins, heating and drains together support the interpretation of a bath suite within the school.",
           "C9",
           "bath",
           "wide",
           "Return to same basin and ledge, restrained light; no newly lavish mosaic.",
+          "closeup-listening",
           null,
           null,
-          null
+          {}
         ],
         [
           "The next question is obvious: if fighters were treated as disposable, why provide facilities that helped maintain them in the first place?",
           "C0,C10",
           "bath",
           "medium",
-          "Basin in left foreground, plain corridor beyond, Visitor thoughtful.",
+          "Basin in the left foreground, plain corridor beyond; clear right.",
           "closeup-thoughtful",
           null,
-          null
+          null,
+          {}
         ],
         [
           "People can invest in somebody's body while denying that person control over its future.",
@@ -1014,12 +1193,7 @@
           null,
           null,
           null
-        ]
-      ]
-    },
-    {
-      "title": "What the baths do—and do not—mean",
-      "scenes": [
+        ],
         [
           "The bath area is a useful correction to a simple picture of gladiator life as nothing except fighting and confinement.",
           "C9,C10",
@@ -1036,9 +1210,10 @@
           "gate",
           "medium",
           "Same controlled gate from inner passage, attendant by threshold without threatening pose.",
+          "eyebrow-raise",
           null,
           null,
-          null
+          {}
         ],
         [
           "A person could be fed, trained and accommodated because somebody expected his future performance to be valuable in the arena.",
@@ -1065,10 +1240,11 @@
           "C0",
           "bath",
           "medium",
-          "Towel-wrapped adult trainee sits on ledge, chest cropped tastefully, no Visitor in water.",
+          "Towel-wrapped adult trainee sits on the ledge at left, chest cropped tastefully; clear right.",
           null,
           null,
-          null
+          null,
+          {}
         ],
         [
           "Now imagine being told tomorrow's decisions will still be made by someone else. Both experiences can belong to the same day.",
@@ -1119,16 +1295,22 @@
           null,
           null,
           null
-        ],
+        ]
+      ]
+    },
+    {
+      "title": "What happens when the crowd arrives?",
+      "scenes": [
         [
           "What we can follow is the purpose towards which the training points. Beyond this compound stands the public amphitheatre.",
           "C1,C11",
           "amphitheatre",
           "wide",
-          "Empty civilian arena from ground level, low provincial tiers, doorway behind Visitor.",
+          "Empty civilian arena from ground level, low provincial tiers, doorway behind at left; clear right.",
           "look-around",
           null,
-          null
+          null,
+          {}
         ],
         [
           "And that is a different kind of space. The same skills will eventually be tested where other people have come to watch.",
@@ -1136,15 +1318,11 @@
           "amphitheatre",
           "medium",
           "Arena sand in foreground, sparse distant spectator silhouettes added only here, no combat.",
+          "look-around",
           null,
           null,
-          null
-        ]
-      ]
-    },
-    {
-      "title": "What happens when the crowd arrives?",
-      "scenes": [
+          {}
+        ],
         [
           "A trained fighter could be hired for a public show. The school prepared people for performances that might wound or kill them.",
           "C11",
@@ -1168,12 +1346,13 @@
         [
           "Seneca mentions a fighter lowering his weapon and appealing to the people. That possibility is very different from a promise of safety.",
           "C4,C11",
-          "seneca",
-          "graphic",
-          "Original paraphrase of appeal for mercy, source attribution; no thumbs graphic.",
+          "amphitheatre",
+          "medium",
+          "Arena sand with a lowered wooden sword at left, no fighters; clear right.",
+          "closeup-thoughtful",
+          "Seneca, Moral Letters 37 • first century AD",
           null,
-          null,
-          "MERCY WAS POSSIBLE"
+          {}
         ],
         [
           "We cannot give our imagined arrival reliable survival odds. A reassuring number would conceal too many unknowns.",
@@ -1206,14 +1385,15 @@
           null
         ],
         [
-          "Even recognition from an audience was a complicated reward. Roman objects preserve the names and images of fighters whom people followed.",
+          "Even recognition was a complicated reward. A pot from Roman Colchester names two fighters, Memnon and Valentinus: a souvenir of one show.",
           "C12",
-          "editorial",
+          "colchester",
           "graphic",
-          "Locally drawn source panel citing Colchester Vase comparison, no generated counterfeit inscription.",
+          "Locally drawn source card: pot outline with the two names as captions; no counterfeit inscription.",
           null,
-          "COMPARISON: COLCHESTER",
-          "FAME COULD COEXIST WITH LOW STATUS"
+          "Colchester Vase • Roman Britain",
+          "FAME COULD COEXIST WITH LOW STATUS",
+          {}
         ],
         [
           "Being recognizable did not by itself mean being free. Admiration from spectators and control over your own life are different things.",
@@ -1224,16 +1404,22 @@
           "closeup-listening",
           null,
           null
-        ],
+        ]
+      ]
+    },
+    {
+      "title": "The real first-day shock",
+      "scenes": [
         [
           "For today's newcomer, those possibilities are still ahead. Our first day does not end by pushing him straight into a public duel.",
           "C0",
           "gate",
           "medium",
           "Return to school approach, late daylight, no arena audience inside compound.",
+          "look-around",
           null,
           null,
-          null
+          {}
         ],
         [
           "It ends with the skills he has only begun to learn, and a much clearer sense of the institution around him.",
@@ -1241,9 +1427,10 @@
           "court",
           "wide",
           "Post and bench at end of day, instructor leaves frame, trainee near room entrance.",
+          "watch-arms-crossed",
           null,
           null,
-          null
+          {}
         ],
         [
           "The post, the small room and the baths now belong to the same story. Training, accommodation and care serve a dangerous purpose.",
@@ -1256,20 +1443,16 @@
           "ONE INSTITUTION"
         ],
         [
-          "Our Visitor began by wondering how difficult the fighting would be. The harder question is how much of this life you could choose.",
+          "You began by wondering how hard the fighting would be. The harder question is how much of this life you could choose.",
           "C0,C3,C10",
           "court",
           "medium",
-          "Visitor looks from post toward controlled exit, warm late light.",
+          "Post at left, controlled exit beyond, warm late light; clear right.",
           "closeup-thoughtful",
           null,
-          null
-        ]
-      ]
-    },
-    {
-      "title": "The real first-day shock",
-      "scenes": [
+          null,
+          {}
+        ],
         [
           "Your imagined first day introduces a system before it introduces a public opponent.",
           "C0,C1,C5",
@@ -1286,9 +1469,10 @@
           "bench",
           "medium",
           "Wooden practice kit put neatly on same bench, court behind.",
+          "count-fingers",
           null,
           null,
-          null
+          {}
         ],
         [
           "You might begin with an uncooperative piece of wood. You might find accommodation and facilities more substantial than you expected.",
@@ -1301,14 +1485,15 @@
           null
         ],
         [
-          "But a bath, a bed, or applause cannot tell you who controls the person inside that body.",
-          "C0,C10,C12",
+          "Now the held question: who controls you? A bath, a bed or applause cannot answer it. The gate, the oath and the lanista can.",
+          "C10,C3,C4,C5",
           "cell",
           "medium",
           "Trainee seated quietly on sleeping platform, small lamp now lit, nontragic expression.",
           null,
           null,
-          null
+          null,
+          {}
         ],
         [
           "That is the part of the school worth carrying with us: being cared for and being in control are different experiences.",
@@ -1335,20 +1520,22 @@
           "C0",
           "court",
           "wide",
-          "Post, hall doorway and school exit form clear final composition; Visitor at edge.",
+          "Post, hall doorway and school exit form a clear final composition at left; clear right.",
           "closeup-listening",
           null,
-          null
+          null,
+          {}
         ],
         [
-          "This is Life, Previously. Next time you picture a gladiator entering an arena, remember the much quieter world behind that entrance.",
+          "Next time you picture a gladiator entering an arena, remember the quieter world behind the entrance. Choose the next Life, Previously episode on screen.",
           "C0",
           "amphitheatre",
-          "wide",
+          "establishing",
           "Empty arena doorway at dusk, clean space for channel end screen, no fight or cliffhanger death.",
+          "look-around",
           null,
           null,
-          null
+          {}
         ]
       ]
     }
@@ -1364,7 +1551,7 @@
     "production_review": "Original face and identity, reduced saturation only through scene-wide grade; do not recolour the approved character asset. No weapon added to a pose. Locals' kit follows equipment_spec.json."
   },
   "pronunciations": {
-    "status": "director_guidance_listen_to_generated_voice",
+    "status": "director_specified_not_voiced",
     "entries": [
       {
         "term": "Carnuntum",
@@ -1390,53 +1577,408 @@
         "term": "Seneca",
         "say": "SEN-eh-kuh",
         "note": "Standard English."
+      },
+      {
+        "term": "Vegetius",
+        "say": "veh-JEE-shus",
+        "note": "Roman military writer; say once with 'handbook'."
+      },
+      {
+        "term": "Memnon",
+        "say": "MEM-non",
+        "note": "Name on the Colchester Vase."
+      },
+      {
+        "term": "Valentinus",
+        "say": "val-en-TEE-nus",
+        "note": "Name on the Colchester Vase."
+      },
+      {
+        "term": "Danube",
+        "say": "DAN-yoob",
+        "note": "Standard English."
       }
     ],
     "rule": "Test these together with first narration batch; retake pronunciation errors before timing images."
   },
   "sound_plan": {
-    "status": "director_specified_not_generated_or_heard",
+    "status": "director_specified_assets_unheard",
     "music": "Existing theme low; tension from quiet controlled spaces, not horror scoring. No triumphant combat montage.",
-    "mix": "Near -14 LUFS, true peak<=-1dBTP, all cues below voice.",
+    "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
     "new_assets": [
       {
-        "id": "wood_practice",
-        "description": "Muted wood-on-wood practice knock, not metal clang."
+        "id": "court_quiet",
+        "prompt": "Open courtyard by day: light wind, a few sandals on sand, distant birds. No crowd, no music.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/gladiator-school-court_quiet.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
-        "id": "school_gate",
-        "description": "Plain wooden hinge and soft closing thud."
+        "id": "wood_post",
+        "prompt": "A blunt wooden sword striking a wooden post once, dull knock. No metal clang.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/gladiator-school-wood_post.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "sand_steps",
+        "prompt": "Two steps and a reset of feet on sand, soft. No gravel crunch.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/gladiator-school-sand_steps.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "gate_wood",
+        "prompt": "A heavy wooden gate leaf swung and closed, a low thud and a latch. No slam or chain.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/gladiator-school-gate_wood.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "bench_kit",
+        "prompt": "A wooden practice sword and shield set down on a timber bench, two soft knocks.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/gladiator-school-bench_kit.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "corridor_steps",
+        "prompt": "Three slow footsteps on a stone corridor floor, slight echo.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/gladiator-school-corridor_steps.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "blanket_fold",
+        "prompt": "A woollen blanket folded and set down, one soft movement.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/gladiator-school-blanket_fold.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "bath_water",
-        "description": "Quiet enclosed water ambience without modern tap."
+        "prompt": "Quiet enclosed water: a basin's surface disturbed once, a drip, hollow room tone. No modern tap.",
+        "seconds": 5,
+        "kind": "ambience",
+        "path": "channel/sfx/gladiator-school-bath_water.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "lamp_flame",
+        "prompt": "A small oil lamp lit: one soft flare and a steady faint flicker.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/gladiator-school-lamp_flame.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "arena_wind",
+        "prompt": "Empty arena by day: wind across sand, a distant murmur of a few voices far off. No roaring crowd.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/gladiator-school-arena_wind.mp3",
+        "paid": true,
+        "quote_at_launch": true
       }
     ],
-    "acquisition": "Inspect existing library first; quote any paid gaps, do not generate now.",
+    "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance; nothing is generated during development.",
     "cues": [
       {
+        "scene_id": "S001",
+        "asset": "court_quiet",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
         "scene_id": "S002",
-        "asset": "wood_practice",
-        "timing": "One restrained knock as post detail appears; illustrative off-screen practice, no fake synchronized body impact."
+        "asset": "wood_post",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S003",
+        "asset": "gate_wood",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S011",
+        "asset": "gate_wood",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S019",
-        "asset": "school_gate",
-        "timing": "Soft transition cue with gate image; no slam louder than narration."
+        "asset": "gate_wood",
+        "offset_seconds": 0.7,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S024",
+        "asset": "bench_kit",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S032",
+        "asset": "court_quiet",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S034",
+        "asset": "wood_post",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S038",
+        "asset": "wood_post",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S043",
+        "asset": "sand_steps",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S044",
+        "asset": "sand_steps",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S048",
+        "asset": "corridor_steps",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S057",
+        "asset": "blanket_fold",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S061",
+        "asset": "bath_water",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S065",
         "asset": "bath_water",
-        "timing": "Low short ambience under narration, end before gate cut."
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S069",
+        "asset": "bath_water",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S075",
+        "asset": "arena_wind",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S077",
+        "asset": "arena_wind",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S084",
+        "asset": "arena_wind",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S090",
+        "asset": "bench_kit",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S092",
+        "asset": "lamp_flame",
+        "offset_seconds": 0.8,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       }
     ],
     "intentional_silence": [
       "No screams, sword wounds or cheering over school scenes.",
       "No modern gym whistle.",
-      "No ominous heartbeat implying an imminent invented execution."
-    ]
+      "No ominous heartbeat implying an imminent invented execution.",
+      "Source cards (Seneca, Vegetius, Colchester) are silent."
+    ],
+    "no_sting": "Do not use the medieval bell sound logo in this episode."
   },
   "extra_specs": [
     "equipment_spec.json"
-  ]
+  ],
+  "lead_thumbnail": "A",
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 13,
+    "open": 0,
+    "total": 13,
+    "method": "Sources read at the locators on 2026-10-10: the Antiquity 2014 paper (PDF downloaded and parsed in full), the Carnuntum site page, the VIAS interpretation page, Seneca's Letter 37, the Archaeology Magazine kit article and glossary, Vegetius I.11 (Latin Library) and the Britannia 2024 Colchester Vase article (added as SRC08–SRC11). The Met essay and object page and the British Museum blog could not be rendered or refused access; no row relies on them.",
+    "summary": "All 13 rows supported on passages read today; the training-post evidence moved from the unreadable lamp page to Vegetius and the Carnuntum post foundation; the Colchester evidence moved from the blog to the peer-reviewed article."
+  },
+  "initial_review": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "All 96 scenes, claims, sources, locations, equipment_spec.json, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md; every claim verified on sources read today (see claims_verification).",
+    "refutation": "Tried to break the first day: no timetable, menu, survival odds or resident count is spoken; 'interpreted' travels with every room; the oath and the mercy appeal are Seneca's words; the kits stay separate; the lamp whose scene could not be re-read is dropped in favour of Vegetius; the Colchester fighters' status stays open as the article leaves it.",
+    "findings": [
+      {
+        "id": "08-R01",
+        "issue": "Cold open asked no question; the payoff ran 57 seconds without an end-screen cue",
+        "fix": "S007 asks the three questions and holds 'who controls you'; chapters re-cut without renumbering (chapter 8 now S085–S096, 90 seconds); S092 answers the held question; S096 cues the next episode."
+      },
+      {
+        "id": "08-R02",
+        "issue": "Chapters 3 and 5 ran 54 and 118 seconds",
+        "fix": "Re-cut: chapter 3 ends with the post introduction (68 seconds), chapter 5 ends at the hall (88 seconds), chapter 6 opens at the baths and chapter 7 at the amphitheatre; all chapters 68–102 seconds."
+      },
+      {
+        "id": "08-R03",
+        "issue": "The Met essay, Met object page and British Museum blog could not be read today",
+        "fix": "Kit from Archaeology Magazine's article and glossary; recruitment, oath and missio from the glossary and Seneca; post training from Vegetius I.11 and the Carnuntum post foundation; the Colchester Vase from the Britannia 2024 article. The lamp cards (S035–S036) became a Vegetius card and a courtyard medium."
+      },
+      {
+        "id": "08-R04",
+        "issue": "Nine runs of identical shot types, including three Seneca cards and three graphics in a row",
+        "fix": "S005 and S036 mediums, S016 a reaction, S018 a detail, S048 an establishing shot, S049 a medium, S079 a medium, S096 an establishing shot."
+      },
+      {
+        "id": "08-R05",
+        "issue": "Visitor in 32% of scenes; nine image instructions and two lines named him",
+        "fix": "Poses added on twenty scenes (now about half); instructions describe the clear space; S015 and S088 are second person."
+      },
+      {
+        "id": "08-R06",
+        "issue": "Three sound cues",
+        "fix": "21 cues on visible action (courtyard, post knocks, gate, bench kit, steps, blanket, bath water, oil lamp, arena wind) with 10 specified assets."
+      },
+      {
+        "id": "08-R07",
+        "issue": "Pilot skipped the bench, hall and amphitheatre anchors",
+        "fix": "Pilot: S001, S003, S008, S024, S025, S048, S058, S075, TH-A."
+      },
+      {
+        "id": "08-R08",
+        "issue": "Thumbnail chips were not place-and-year; captions carried no dates",
+        "fix": "CARNUNTUM • c. AD 200 on all three; captions name Seneca (first century AD), Vegetius I.11 (fourth century AD), the comparative kit range and the Colchester Vase."
+      },
+      {
+        "id": "08-R09",
+        "issue": "S013 said 'prisoners of war' where the readable source says condemned criminals and prisoners",
+        "fix": "S013 follows the glossary: enslaved, condemned prisoners, free or freed volunteers."
+      },
+      {
+        "id": "08-R10",
+        "issue": "Pronunciations lacked Vegetius, Memnon, Valentinus and Danube",
+        "fix": "Added."
+      },
+      {
+        "id": "08-R11",
+        "issue": "21 collapsed-space strings",
+        "fix": "Spacing normaliser applied."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "slate_reviews": [
+    {
+      "pass": 1,
+      "status": "passed_with_fixes",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all other packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (quiet dread turning into institutional clarity).",
+      "findings": [
+        {
+          "id": "08-P1-01",
+          "issue": "The re-check left one run (S005–S006 mediums), and the retiarius kit (S027) would have been a paid edit of the secutor kit image",
+          "fix": "S005 is a wide; S027 is an independent anchor so the two kits never share a picture."
+        },
+        {
+          "id": "08-P1-02",
+          "issue": "Chapters 4 and 6 run 102 seconds",
+          "fix": "Inside the band; no change."
+        },
+        {
+          "id": "08-P1-03",
+          "issue": "Slate check: Roman-era setting shared with 05 (Pompeii, Ostia, Bath, Alexandria); 'first day' format shared with none (04 is a first night in 1900)",
+          "fix": "Distinct: a gladiator school on the Danube frontier, a different question and promise. No change."
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "pass": 2,
+      "status": "passed",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Execution dry run: compiled prompts for the courtyard anchor (S001), the gate anchor (S003), the secutor and retiarius kit anchors (S025, S027), the Vegetius courtyard medium (S036), the cell establishing shot (S048) and the amphitheatre anchor (S075) read in full; equipment_spec.json checked against the kit lines and the dropped lamp; handoff counts, pilot order, 10 sound assets and 21 cues, 9 pronunciations, Shorts windows (157, 161, 169 words), thumbnail brief and packaging copy checked against the standard.",
+      "findings": [
+        {
+          "id": "08-P2-01",
+          "issue": "Looked for a resident count, a fixed timetable, survival odds, mixed kits on one fighter, a Colosseum silhouette, a prompt naming the Visitor or a modern-dated caption; none found",
+          "fix": "No change."
+        }
+      ],
+      "unresolved": []
+    }
+  ],
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification of all 13 claims (Antiquity 2014 read in full, Carnuntum and VIAS pages, Seneca 37, Archaeology Magazine article and glossary, Vegetius I.11, Britannia 2024; the Met pages and the British Museum blog could not be read and are no longer relied on), two package review passes and the slate content check complete. equipment_spec.json governs the kit cards and the dropped lamp image. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  }
 }

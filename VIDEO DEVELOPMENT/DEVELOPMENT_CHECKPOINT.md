@@ -12,9 +12,10 @@ The owner asked Claude to complete Astra's development work, **one package at a 
 | 05 Five Modern Ideas That Are Ancient | **Released.** 14/14 claims checked (all eight sources read); 100 shots, 82 illustrations, 15 graphics, Visitor in 58%; 21 sound cues; diagram runs interleaved with illustrated exteriors; pilot S001, S008, S024, S029, S040, S047, S056, TH-A. |
 | 06 Medieval London Without a Fine | **Released.** 14/14 claims checked (Liber Albus text, Alsford, BHO calendar, 1329 proclamation); 96 shots, 80 illustrations, 16 graphics, Visitor in 53%; 18 sound cues; pilot S001, S004, S011, S025, S043, S048, S076, TH-A. |
 | 07 Rich vs Poor Dinner | **Released.** 14/14 claims checked (Mercier 67/362/383/631, Menon 1755 vol. III, Wellcome); 96 shots, 83 illustrations, 13 graphics, Visitor in 55%; 20 sound cues; pilot S001, S002, S007, S009, S033, S036, S064, TH-A. |
-| 08–18 | Draft as left by Astra. Next in order. |
+| 08 Gladiator School | **Released.** 13/13 claims checked (Antiquity 2014 in full, Carnuntum, VIAS, Seneca, Archaeology Magazine, Vegetius, Britannia 2024; Met and BM pages unreadable, no longer relied on); 96 shots, 83 illustrations, 13 graphics, Visitor in 55%; 21 sound cues; pilot S001, S003, S008, S024, S025, S048, S058, S075, TH-A. |
+| 09–18 | Draft as left by Astra. Next in order; paused for the owner's look after 08 (owner instruction 10 October 2026). |
 
-Era variety, duplicate angles and shared material are checked per package against the whole slate in `SLATE_CHECK.md` (01–07 and 19 done: distinct). Publishing order and scheduling are the owner's later decision.
+Era variety, duplicate angles and shared material are checked per package against the whole slate in `SLATE_CHECK.md` (01–08 and 19 done: distinct). Publishing order and scheduling are the owner's later decision.
 
 # Astra's checkpoint — 9 October 2026 (before the continuation)
 

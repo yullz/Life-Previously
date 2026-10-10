@@ -8,10 +8,19 @@
       "url": "https://www.metmuseum.org/art/collection/search/241583",
       "date": "c.AD50–100",
       "origin": "Roman,Cypriot",
-      "not": "74.51.1845 is a different lamp and must not illustrate post practice."
+      "not": "74.51.1845 is a different lamp and must not illustrate post practice.",
+      "status_2026_10_10": "Not used in the script: the object page could not be re-read on 2026-10-10 (the API confirms date, origin and public domain but not the scene). Add the image at production only if the museum page confirms a fighter at a post."
     },
     "site_plan": "Antiquity2014 figure12,pp183–186 controls compound orientation. Elevations are illustrative. Retain wording interpreted school; avoid exact room occupancy.",
-    "date": "Around AD200 is narrative setting, not a construction-date or individual-day claim."
+    "date": "Around AD200 is narrative setting, not a construction-date or individual-day claim.",
+    "post_training_text": {
+      "source": "Vegetius, Epitoma rei militaris I.11 (SRC10)",
+      "use": "Source card S035 and the courtyard medium S036; wicker shield and wooden sword of double weight; 'of the greatest use … also to gladiators'."
+    },
+    "colchester_vase": {
+      "source": "Britannia 55 (2024), SRC11",
+      "use": "Source card S083: pot outline with the names Memnon (secutor) and Valentinus (retiarius) as captions; no copied photograph."
+    }
   },
   "character_continuity": {
     "trainee": "One adult unnamed composite: short dark hair, ochre waist wrap, cloth belt, bare lower legs. For ordinary room scenes use same simple wrap or plain tunic; no celebrity gladiator identification.",
@@ -22,7 +31,7 @@
     "practice": "Plain short blunt wooden weapon plus modest practice shield. No hard precise claim of weight. Static staged lesson, no choreographed injurious contact.",
     "secutor": "Plain rounded enclosing helmet with two eye holes, large shield, short sword, weapon-arm protection. No legionary crest.",
     "retiarius": "No helmet; net,trident,dagger,left arm/shoulder protection. Never secutor shield or helmet.",
-    "object_image": "Use Met public-domain photograph only after visually confirming the exact object; it is a comparison card, not a background painting."
+    "object_image": "No museum photograph is used in the script as released; cards are locally drawn. If the lamp image is added at production, confirm the exact object and scene first."
   },
   "graphic_rules": "Plans are local diagrams; solid lines for structural layout and explicit interpreted-use labels. Do not generate pseudo-geophysical heatmaps.",
   "pilot_review": [

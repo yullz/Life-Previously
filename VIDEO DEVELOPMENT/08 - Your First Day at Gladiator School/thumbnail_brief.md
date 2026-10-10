@@ -6,9 +6,9 @@ Lead: A. All three require a completed background, measured Visitor placement an
 
 The intimidating training post gives an unexpected answer to the first-day premise and remains readable at phone size.
 
-Background: Large plain wooden training post at left foreground, with a blunt wooden practice sword and small shield resting on low bench beneath it; recognisable restrained Roman school courtyard behind. No human victim, blood or public arena spectacle. Visitor at right looks toward post; he holds no generated weapon.
+Background: Large plain wooden training post at left foreground, with a blunt wooden practice sword and small shield resting on low bench beneath it; recognisable restrained Roman school courtyard behind. No human victim, blood or public arena spectacle. Right side clear.
 
-Chip: GLADIATOR SCHOOL. Pose: closeup-worried. Exact request and geometry: image_prompts.json / thumbnail_requests.
+Chip: CARNUNTUM • c. AD 200. Pose: closeup-worried. Exact request and geometry: image_prompts.json / thumbnail_requests.
 
 The promised moment is paid off by S001, S034, S044.
 
@@ -18,7 +18,7 @@ A human living-space question creates curiosity without inventing a dungeon.
 
 Background: Tight view into small plain room with low bed platform and folded blanket, through narrow doorway; a wooden practice shield beside door supplies gladiator context. No iron cage, chains or gore.
 
-Chip: CARNUNTUM. Pose: closeup-listening. Exact request and geometry: image_prompts.json / thumbnail_requests.
+Chip: CARNUNTUM • c. AD 200. Pose: closeup-listening. Exact request and geometry: image_prompts.json / thumbnail_requests.
 
 The promised moment is paid off by S050, S056.
 
@@ -28,7 +28,7 @@ The episode's central tension, with accuracy protected by the explanation of var
 
 Background: One coherent school corridor with bath basin glimpsed at left and controlled entrance far behind, no split fantasy palace/prison. Keep two clear forms only; headline is editorial interpretation, not quotation.
 
-Chip: INSIDE THE SCHOOL. Pose: closeup-thoughtful. Exact request and geometry: image_prompts.json / thumbnail_requests.
+Chip: CARNUNTUM • c. AD 200. Pose: closeup-thoughtful. Exact request and geometry: image_prompts.json / thumbnail_requests.
 
 The promised moment is paid off by S067, S082, S093.
 

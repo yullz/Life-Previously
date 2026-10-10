@@ -1,42 +1,254 @@
 {
-  "status": "director_specified_not_generated_or_heard",
+  "status": "director_specified_assets_unheard",
   "music": "Existing theme low; tension from quiet controlled spaces, not horror scoring. No triumphant combat montage.",
-  "mix": "Near -14 LUFS, true peak<=-1dBTP, all cues below voice.",
+  "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
   "new_assets": [
     {
-      "id": "wood_practice",
-      "description": "Muted wood-on-wood practice knock, not metal clang."
+      "id": "court_quiet",
+      "prompt": "Open courtyard by day: light wind, a few sandals on sand, distant birds. No crowd, no music.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/gladiator-school-court_quiet.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
-      "id": "school_gate",
-      "description": "Plain wooden hinge and soft closing thud."
+      "id": "wood_post",
+      "prompt": "A blunt wooden sword striking a wooden post once, dull knock. No metal clang.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/gladiator-school-wood_post.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "sand_steps",
+      "prompt": "Two steps and a reset of feet on sand, soft. No gravel crunch.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/gladiator-school-sand_steps.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "gate_wood",
+      "prompt": "A heavy wooden gate leaf swung and closed, a low thud and a latch. No slam or chain.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/gladiator-school-gate_wood.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "bench_kit",
+      "prompt": "A wooden practice sword and shield set down on a timber bench, two soft knocks.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/gladiator-school-bench_kit.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "corridor_steps",
+      "prompt": "Three slow footsteps on a stone corridor floor, slight echo.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/gladiator-school-corridor_steps.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "blanket_fold",
+      "prompt": "A woollen blanket folded and set down, one soft movement.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/gladiator-school-blanket_fold.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "bath_water",
-      "description": "Quiet enclosed water ambience without modern tap."
+      "prompt": "Quiet enclosed water: a basin's surface disturbed once, a drip, hollow room tone. No modern tap.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/gladiator-school-bath_water.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "lamp_flame",
+      "prompt": "A small oil lamp lit: one soft flare and a steady faint flicker.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/gladiator-school-lamp_flame.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "arena_wind",
+      "prompt": "Empty arena by day: wind across sand, a distant murmur of a few voices far off. No roaring crowd.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/gladiator-school-arena_wind.mp3",
+      "paid": true,
+      "quote_at_launch": true
     }
   ],
-  "acquisition": "Inspect existing library first; quote any paid gaps, do not generate now.",
+  "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance; nothing is generated during development.",
   "cues": [
     {
+      "scene_id": "S001",
+      "asset": "court_quiet",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
       "scene_id": "S002",
-      "asset": "wood_practice",
-      "timing": "One restrained knock as post detail appears; illustrative off-screen practice, no fake synchronized body impact."
+      "asset": "wood_post",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S003",
+      "asset": "gate_wood",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S011",
+      "asset": "gate_wood",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S019",
-      "asset": "school_gate",
-      "timing": "Soft transition cue with gate image; no slam louder than narration."
+      "asset": "gate_wood",
+      "offset_seconds": 0.7,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S024",
+      "asset": "bench_kit",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S032",
+      "asset": "court_quiet",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S034",
+      "asset": "wood_post",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S038",
+      "asset": "wood_post",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S043",
+      "asset": "sand_steps",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S044",
+      "asset": "sand_steps",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S048",
+      "asset": "corridor_steps",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S057",
+      "asset": "blanket_fold",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S061",
+      "asset": "bath_water",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S065",
       "asset": "bath_water",
-      "timing": "Low short ambience under narration, end before gate cut."
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S069",
+      "asset": "bath_water",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S075",
+      "asset": "arena_wind",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S077",
+      "asset": "arena_wind",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S084",
+      "asset": "arena_wind",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S090",
+      "asset": "bench_kit",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S092",
+      "asset": "lamp_flame",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     }
   ],
   "intentional_silence": [
     "No screams, sword wounds or cheering over school scenes.",
     "No modern gym whistle.",
-    "No ominous heartbeat implying an imminent invented execution."
-  ]
+    "No ominous heartbeat implying an imminent invented execution.",
+    "Source cards (Seneca, Vegetius, Colchester) are silent."
+  ],
+  "no_sting": "Do not use the medieval bell sound logo in this episode."
 }

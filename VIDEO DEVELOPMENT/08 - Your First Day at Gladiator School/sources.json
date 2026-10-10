@@ -1,51 +1,79 @@
 [
   {
     "id": "SRC01",
-    "title": "Neubauer et al. — The discovery of the school of gladiators at Carnuntum, Austria (Antiquity88,2014,173–190)",
+    "title": "Neubauer et al. — The discovery of the school of gladiators at Carnuntum, Austria (Antiquity 88,2014,173–190)",
     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4ACC29C5CC928A88A8A4F5ADC3E989CB/S0003598X00050298a.pdf/div-class-title-the-discovery-of-the-school-of-gladiators-at-carnuntum-austria-div.pdf",
-    "read": "2026-10-09: archaeological interpretation pp181–188 read with survey context and figures9–12 captions.",
-    "limit": "Non-invasive interpretation; room functions and capacities have different confidence. Do not use an exact75 residents, daily massage, definite punishment cell, normal winter -25C, or inferred medical room as established local facts. Later2014 excavation report exists but accessible content was paywalled; not used."
+    "read": "2026-10-09 (Astra); 2026-10-10 re-read in full (PDF downloaded and parsed): main complex 2800 m² within a walled plot of about 11,000 m² west of the municipal amphitheatre; 'A single and easily controlled entrance into the complex can be seen on its eastern side, facing the amphitheatre … 2.4m-wide gate'; walk of about 80 m to the amphitheatre's north gate; 'a free-standing circular structure 19m in diameter, which could be interpreted as the training arena … surrounded by wooden spectator stands set on stone foundations'; 'Evidence for a feature resembling a post-hole … in the centre of the arena. This might be the foundation of the palus'; 'The division of the gladiators by the use of pali facilitated training and instruction specific to the type of armament'; instructors 'probably were drawn from the ranks of senior and ex-gladiators'; 'the administrative block and living quarters of the school's owner, the lanista … head of his familia gladiatoria with complete legal power over the life and death of the gladiators—unless they were Roman citizens'; 'a central row of small cells 3–7m² in area'; 'an estimated total of 75 gladiators could have been housed' (an assumption-based estimate); a sunken cell 'probably used for disciplinary measures'; hypocaust and 6.5 m² praefurnium: 'we interpret this building either as a heated training room or an assembly hall'; bath complex with pool, heated floor, apse, well, water line from the aqueduct, sewers and latrines; pottery 'generally date to the second and third centuries AD'.",
+    "limit": "Non-invasive interpretation; room functions and capacities have different confidence. Do not use an exact 75 residents, daily massage, definite punishment cell, normal winter -25C, or inferred medical room as established local facts. Later 2014 excavation report exists but accessible content was paywalled; not used."
   },
   {
     "id": "SRC02",
     "title": "Römerstadt Carnuntum — Gladiatur",
     "url": "https://www.carnuntum.at/de/gladiatur",
-    "read": "2026-10-09: full official account of amphitheatres and possible school.",
+    "read": "2026-10-09 (Astra); 2026-10-10 re-read: three amphitheatres now known; 'Westlich des Amphitheaters II befand sich möglicherweise eine Gladiatorenschule'; 'eine kreisrunde Trainingsarena mit 19 Meter Durchmesser'; training hall, administration and living cells 'angenommen' (assumed).",
     "limit": "Site explicitly qualifies school and room interpretations; now recognizes three amphitheatres. Do not repeat outdated two-amphitheatre total."
   },
   {
     "id": "SRC03",
     "title": "University of Vienna VIAS — Archaeological Interpretation of the GPR Survey",
     "url": "https://vias.univie.ac.at/forschung/geopysikalische-prospektion/projects/school-of-gladiators/archaeological-interpretation/",
-    "read": "2026-10-09: full interpretation text.",
-    "limit": "Same research team, corroboration of stated interpretation not independent discovery. Early web summary and2014 paper differ in precise room sizes/orientation wording; use detailed paper for plan, avoid precise cell area."
+    "read": "2026-10-09 (Astra); 2026-10-10 re-read: 'a circular training arena, 19 m in diameter, enclosed by a wooden stand for spectators'; '100 m² heated training hall, an extended bath complex, the 300 m² administration and living complex of the owner'; 'cells that were as little as 5 m² in size'; water pipes, sewers and floor heating visible.",
+    "limit": "Same research team, corroboration of stated interpretation not independent discovery. Early web summary and 2014 paper differ in precise room sizes/orientation wording; use detailed paper for plan, avoid precise cell area."
   },
   {
     "id": "SRC04",
     "title": "Marlee Miller — Gladiators: Types and Training, Metropolitan Museum (2023)",
     "url": "https://www.metmuseum.org/essays/gladiators-types-and-training",
-    "read": "2026-10-09: full Armament Types, Training and Arena sections.",
-    "limit": "Wider Roman evidence, not a local daily roster. Do not repeat broad legal claim that every gladiator had no personhood or exact mortality/rental price. Lamp2030 linked separately because essay gallery link24 goes to1845."
+    "read": "2026-10-09 (Astra): full essay. 2026-10-10: the Met's essay pages are rendered by script and the fetcher was rate-limited (HTTP 429), so the essay could not be re-read; its claims are now carried by SRC08–SRC11 and no row relies on it. Entry kept for the owner's reference.",
+    "limit": "Wider Roman evidence, not a local daily roster. Do not repeat broad legal claim that every gladiator had no personhood or exact mortality/rental price. Lamp 2030 linked separately because essay gallery link 24 goes to 1845."
   },
   {
     "id": "SRC05",
-    "title": "The Metropolitan Museum — Terracotta oil lamp74.51.2030",
+    "title": "The Metropolitan Museum — Terracotta oil lamp 74.51.2030",
     "url": "https://www.metmuseum.org/art/collection/search/241583",
-    "read": "2026-10-09: full object record, date, material and relief description.",
-    "limit": "Roman Cypriot c.AD50–100; earlier comparative image of post practice, not excavated Carnuntum equipment. Photograph public domain per object page."
+    "read": "2026-10-09 (Astra): object page. 2026-10-10: the object page could not be rendered; the Met's open collection API confirms 74.51.2030, 'Terracotta oil lamp', ca. 50–100 CE, Roman, Cypriot, public domain, tagged Gladiators, Shields, Men, but the description of the scene (a fighter at a post) could not be re-read, so the lamp is no longer used in the script; the post training is carried by Vegetius (SRC10) and the Carnuntum post foundation (SRC01). The image may be added at production only if the museum page confirms the scene.",
+    "limit": "Roman Cypriot c.AD 50–100; earlier comparative image of post practice, not excavated Carnuntum equipment. Photograph public domain per object page."
   },
   {
     "id": "SRC06",
-    "title": "Seneca — Moral Letters to Lucilius37, Gummere translation",
+    "title": "Seneca — Moral Letters to Lucilius 37, Gummere translation",
     "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_37",
-    "read": "2026-10-09: full letter and notes.",
+    "read": "2026-10-09 (Astra); 2026-10-10 re-read: the oath 'Through burning, imprisonment, or death by the sword'; 'From the men who hire out their strength for the arena, who eat and drink what they must pay for with their blood, security is taken that they will endure such trials even though they be unwilling'; 'The gladiator may lower his weapon and test the pity of the people'.",
     "limit": "First-century moral analogy references hired fighters' obligation and possible appeal for mercy. Not a surviving signed school contract; omit translator's speculative thumbs-up/down gloss."
   },
   {
     "id": "SRC07",
     "title": "British Museum — Gladiators, in Essex! (Colchester Vase discussion)",
     "url": "https://www.britishmuseum.org/blog/gladiators-essex",
-    "read": "2026-10-09: Valentinus/Memnon, status, specialist training and fame paragraphs read in full.",
-    "limit": "Colchester c.AD175 comparison; do not put Valentinus in Carnuntum or treat hypothetical porridge as its menu. Career and status interpretations remain qualified."
+    "read": "2026-10-09 (Astra): full post. 2026-10-10: the British Museum blog refused automated access (HTTP 403); the Colchester Vase evidence now comes from the Britannia article (SRC11). Entry kept for the owner's reference.",
+    "limit": "Colchester c.AD 175 comparison; do not put Valentinus in Carnuntum or treat hypothetical porridge as its menu. Career and status interpretations remain qualified."
+  },
+  {
+    "id": "SRC08",
+    "title": "Archaeology Magazine — Weapons of the Ancient World: Gladiator Weapons (May/June 2020)",
+    "url": "https://archaeology.org/issues/may-june-2020/collection/gladiator-weapons/weapons-of-the-ancient-world/",
+    "read": "2026-10-10: 'the Romans boosted their entertainment value by pitting gladiators who specialized in different sets of weapons, armor, and fighting style against each other. For example, a secutor carried a short sword and a large shield and wore a rounded helmet that covered his entire head, except for two small eyeholes. A secutor often opposed a retiarius, who was equipped with a net in one hand and a long trident in the other.'",
+    "limit": "A magazine overview of wider Roman evidence, not Carnuntum's inventory."
+  },
+  {
+    "id": "SRC09",
+    "title": "Archaeology Magazine — Gladiators: the language of the arena (glossary)",
+    "url": "https://archive.archaeology.org/gladiators/glossary.html",
+    "read": "2026-10-10: 'Criminals and prisoners could be damned to fight in the arena'; 'There were also volunteer gladiators, ones who either enlisted voluntarily as free or freed men, or who reenlisted after winning their freedom'; the oath by which recruits 'handed themselves over as slaves to their master and trainer, agreeing to submit to beating, burning, and death by the sword'; missio and the kneeling of a refused loser; retiarius: 'a net to ensnare his opponent and a long trident', the galerus shoulder-guard, the pugio dagger, 'The helmet worn by all gladiators except the retiarius'; the secutor 'paired with a retiarius', 'helmet with small eyeholes'; a familia 'lived and trained under one lanista'.",
+    "limit": "Glossary definitions across the Imperial period; no local roster or figures."
+  },
+  {
+    "id": "SRC10",
+    "title": "Vegetius — Epitoma rei militaris, Book I chapter 11 (Latin text, The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/vegetius1.html",
+    "read": "2026-10-10: 'Quemadmodum ad scuta uiminea uel ad palos antiqui exercebant tirones'; wicker shields and 'clauas ligneas dupli aeque ponderis pro gladiis'; recruits exercised at the post morning and afternoon, attacking it 'tamquam contra aduersarium'; 'Palorum enim usus non solum militibus sed etiam gladiatoribus plurimum prodest'.",
+    "limit": "A fourth-century military handbook describing an old practice; it confirms post training with wooden weapons for gladiators in general, not a Carnuntum timetable."
+  },
+  {
+    "id": "SRC11",
+    "title": "Davis, Pearce, Carroll, Moore, Nowell and Montgomery — Gladiators at Roman Colchester: re-interpreting the Colchester Vase, Britannia 55 (2024)",
+    "url": "https://doi.org/10.1017/S0068113X24000187",
+    "read": "2026-10-10: abstract and inscription section: 'The locally made colour-coated ware vessel known as the Colchester Vase is argued to be a commissioned piece recording a performance in the town'; captions 'MEMNON SAC VIIII VALENTINV LEGIONIS XXX' labelling 'the secutor and retiarius'; 'One name, Memnon, is argued to be a stage name'; 'The connection of another combatant, Valentinus, to the 30th legion is re-considered'; the single names 'raise the question as to whether they precisely identify the status of the performers, for example as slaves or peregrini … or simply supply the stage names'; keyword 'souvenir'; the vessel's final use as a cremation urn.",
+    "limit": "Roman Britain, not Carnuntum; the fighters' legal status is left open by the authors, and the script does so too."
   }
 ]

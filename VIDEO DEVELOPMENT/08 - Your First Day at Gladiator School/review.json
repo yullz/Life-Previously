@@ -1,9 +1,129 @@
 {
-  "state": "draft_built",
+  "state": "released_director_package",
   "source_passages_read": true,
-  "exact_script_critical_review": "pending",
-  "additional_slate_review_1": "pending",
-  "additional_slate_review_2": "pending",
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "All 96 scenes, claims, sources, locations, equipment_spec.json, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md; every claim verified on sources read today (see claims_verification).",
+    "refutation": "Tried to break the first day: no timetable, menu, survival odds or resident count is spoken; 'interpreted' travels with every room; the oath and the mercy appeal are Seneca's words; the kits stay separate; the lamp whose scene could not be re-read is dropped in favour of Vegetius; the Colchester fighters' status stays open as the article leaves it.",
+    "findings": [
+      {
+        "id": "08-R01",
+        "issue": "Cold open asked no question; the payoff ran 57 seconds without an end-screen cue",
+        "fix": "S007 asks the three questions and holds 'who controls you'; chapters re-cut without renumbering (chapter 8 now S085–S096, 90 seconds); S092 answers the held question; S096 cues the next episode."
+      },
+      {
+        "id": "08-R02",
+        "issue": "Chapters 3 and 5 ran 54 and 118 seconds",
+        "fix": "Re-cut: chapter 3 ends with the post introduction (68 seconds), chapter 5 ends at the hall (88 seconds), chapter 6 opens at the baths and chapter 7 at the amphitheatre; all chapters 68–102 seconds."
+      },
+      {
+        "id": "08-R03",
+        "issue": "The Met essay, Met object page and British Museum blog could not be read today",
+        "fix": "Kit from Archaeology Magazine's article and glossary; recruitment, oath and missio from the glossary and Seneca; post training from Vegetius I.11 and the Carnuntum post foundation; the Colchester Vase from the Britannia 2024 article. The lamp cards (S035–S036) became a Vegetius card and a courtyard medium."
+      },
+      {
+        "id": "08-R04",
+        "issue": "Nine runs of identical shot types, including three Seneca cards and three graphics in a row",
+        "fix": "S005 and S036 mediums, S016 a reaction, S018 a detail, S048 an establishing shot, S049 a medium, S079 a medium, S096 an establishing shot."
+      },
+      {
+        "id": "08-R05",
+        "issue": "Visitor in 32% of scenes; nine image instructions and two lines named him",
+        "fix": "Poses added on twenty scenes (now about half); instructions describe the clear space; S015 and S088 are second person."
+      },
+      {
+        "id": "08-R06",
+        "issue": "Three sound cues",
+        "fix": "21 cues on visible action (courtyard, post knocks, gate, bench kit, steps, blanket, bath water, oil lamp, arena wind) with 10 specified assets."
+      },
+      {
+        "id": "08-R07",
+        "issue": "Pilot skipped the bench, hall and amphitheatre anchors",
+        "fix": "Pilot: S001, S003, S008, S024, S025, S048, S058, S075, TH-A."
+      },
+      {
+        "id": "08-R08",
+        "issue": "Thumbnail chips were not place-and-year; captions carried no dates",
+        "fix": "CARNUNTUM • c. AD 200 on all three; captions name Seneca (first century AD), Vegetius I.11 (fourth century AD), the comparative kit range and the Colchester Vase."
+      },
+      {
+        "id": "08-R09",
+        "issue": "S013 said 'prisoners of war' where the readable source says condemned criminals and prisoners",
+        "fix": "S013 follows the glossary: enslaved, condemned prisoners, free or freed volunteers."
+      },
+      {
+        "id": "08-R10",
+        "issue": "Pronunciations lacked Vegetius, Memnon, Valentinus and Danube",
+        "fix": "Added."
+      },
+      {
+        "id": "08-R11",
+        "issue": "21 collapsed-space strings",
+        "fix": "Spacing normaliser applied."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 13,
+    "open": 0,
+    "total": 13,
+    "method": "Sources read at the locators on 2026-10-10: the Antiquity 2014 paper (PDF downloaded and parsed in full), the Carnuntum site page, the VIAS interpretation page, Seneca's Letter 37, the Archaeology Magazine kit article and glossary, Vegetius I.11 (Latin Library) and the Britannia 2024 Colchester Vase article (added as SRC08–SRC11). The Met essay and object page and the British Museum blog could not be rendered or refused access; no row relies on them.",
+    "summary": "All 13 rows supported on passages read today; the training-post evidence moved from the unreadable lamp page to Vegetius and the Carnuntum post foundation; the Colchester evidence moved from the blog to the peer-reviewed article."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all other packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (quiet dread turning into institutional clarity).",
+    "findings": [
+      {
+        "id": "08-P1-01",
+        "issue": "The re-check left one run (S005–S006 mediums), and the retiarius kit (S027) would have been a paid edit of the secutor kit image",
+        "fix": "S005 is a wide; S027 is an independent anchor so the two kits never share a picture."
+      },
+      {
+        "id": "08-P1-02",
+        "issue": "Chapters 4 and 6 run 102 seconds",
+        "fix": "Inside the band; no change."
+      },
+      {
+        "id": "08-P1-03",
+        "issue": "Slate check: Roman-era setting shared with 05 (Pompeii, Ostia, Bath, Alexandria); 'first day' format shared with none (04 is a first night in 1900)",
+        "fix": "Distinct: a gladiator school on the Danube frontier, a different question and promise. No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Execution dry run: compiled prompts for the courtyard anchor (S001), the gate anchor (S003), the secutor and retiarius kit anchors (S025, S027), the Vegetius courtyard medium (S036), the cell establishing shot (S048) and the amphitheatre anchor (S075) read in full; equipment_spec.json checked against the kit lines and the dropped lamp; handoff counts, pilot order, 10 sound assets and 21 cues, 9 pronunciations, Shorts windows (157, 161, 169 words), thumbnail brief and packaging copy checked against the standard.",
+    "findings": [
+      {
+        "id": "08-P2-01",
+        "issue": "Looked for a resident count, a fixed timetable, survival odds, mixed kits on one fighter, a Colosseum silhouette, a prompt naming the Visitor or a modern-dated caption; none found",
+        "fix": "No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification of all 13 claims (Antiquity 2014 read in full, Carnuntum and VIAS pages, Seneca 37, Archaeology Magazine article and glossary, Vegetius I.11, Britannia 2024; the Met pages and the British Museum blog could not be read and are no longer relied on), two package review passes and the slate content check complete. equipment_spec.json governs the kit cards and the dropped lamp image. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "media_reviews": "not_applicable_yet_no_media_generated",
-  "known_research_boundaries": "The hook is an imagined first day whose first opponent is a wooden post. Route: controlled gate, status, equipment and practice, sleeping rooms, heated hall/baths, public arena. c.AD200 is a broad Imperial narrative setting, not the date of a preserved diary or exact construction phase. Carnuntum supplies spatial constraints; museum objects and Seneca supply separately labelled comparative evidence. Original research compared the current site account's qualified wording with the more confident2014 paper and VIAS summary. Keep the more careful wording. Read the underlying lamp record: the correct training lamp is74.51.2030, not the different gallery link's74.51.1845. The latter depicts defeated combatants, so using it as training proof would be wrong. Reject Ephesus ash-drink/vegetarian headlines as a local meal plan; reject exact75 occupants, medical room and underground punishment cell as certainties. Heated hall can be assembly or training. No staged death, first-day duel or guaranteed survival. The story's emotional shift is from fear of an opponent to recognition of institutional control. Original illustrations, not copied research reconstructions; room plans establish geography, elevations remain illustrative."
+  "known_research_boundaries": "The hook is an imagined first day whose first opponent is a wooden post. Route: controlled gate, status, equipment and practice, sleeping rooms, heated hall/baths, public arena. c.AD 200 is a broad Imperial narrative setting, not the date of a preserved diary or exact construction phase. Carnuntum supplies spatial constraints; museum objects and Seneca supply separately labelled comparative evidence. Original research compared the current site account's qualified wording with the more confident 2014 paper and VIAS summary. Keep the more careful wording. Read the underlying lamp record: the correct training lamp is 74.51.2030, not the different gallery link's74.51.1845. The latter depicts defeated combatants, so using it as training proof would be wrong. Reject Ephesus ash-drink/vegetarian headlines as a local meal plan; reject exact 75 occupants, medical room and underground punishment cell as certainties. Heated hall can be assembly or training. No staged death, first-day duel or guaranteed survival. The story's emotional shift is from fear of an opponent to recognition of institutional control. Original illustrations, not copied research reconstructions; room plans establish geography, elevations remain illustrative."
 }

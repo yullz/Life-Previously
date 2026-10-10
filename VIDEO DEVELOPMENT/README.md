@@ -2,7 +2,7 @@
 
 Owner commissioned the selected ten packages, five additional Astra choices, and one episode each for China, Japan and Korea on 9 October 2026. Astra owns research, scripts, historical checks, visual direction and editorial decisions; Claude executes production. GOAL.md records the expanded eighteen-video scope.
 
-**Work in progress, one package at a time. Do not commission production from a folder whose START_HERE.md does not say it is released.** Released so far: 01, 02 (9 October 2026), 03, 04, 05, 06, 07 and the new package 19 (10 October 2026; 19 was added at the owner's request). The review bar is [REVIEW_STANDARD.md](REVIEW_STANDARD.md). Completion requires populated packages and two additional full review passes across all eighteen. The machine-readable tracker is STATUS.json. Folder numbers identify this slate, not episode numbers or a publishing order.
+**Work in progress, one package at a time. Do not commission production from a folder whose START_HERE.md does not say it is released.** Released so far: 01, 02 (9 October 2026), 03, 04, 05, 06, 07, 08 and the new package 19 (10 October 2026; 19 was added at the owner's request). Work is paused for the owner's look after 08. The review bar is [REVIEW_STANDARD.md](REVIEW_STANDARD.md). Completion requires populated packages and two additional full review passes across all eighteen. The machine-readable tracker is STATUS.json. Folder numbers identify this slate, not episode numbers or a publishing order.
 
 1. [How Did People Survive the Winter of 1709?](01%20-%20Surviving%20the%20Winter%20of%201709/START_HERE.md)
 2. [What Did Pirates Do When They Weren’t Raiding Ships?](02%20-%20Pirates%20Between%20Raids/START_HERE.md)

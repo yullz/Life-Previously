@@ -11,18 +11,22 @@ Your First Day at Gladiator School: What Happens?
 
 ## Description
 
-Before a Roman gladiator faced an audience, what happened inside his school? We visit a reconstruction of Carnuntum around AD200, from the training post to the rooms and bathing facilities—and ask what care meant when somebody else controlled your future. The first-day journey is imagined; archaeological interpretations and evidence from elsewhere in the Roman world are identified on screen.
+Before a Roman gladiator faced an audience, what happened inside his school? We visit a reconstruction of Carnuntum around AD 200, from the training post to the rooms and bathing facilities—and ask what care meant when somebody else controlled your future. The first-day journey is imagined; archaeological interpretations and evidence from elsewhere in the Roman world are identified on screen.
 
 Life, Previously explores how ordinary people actually lived. Historical scenes are illustrated reconstructions; specific limits and evidence are explained in the episode.
 
 Sources:
-- Neubauer et al. — The discovery of the school of gladiators at Carnuntum, Austria (Antiquity88,2014,173–190): https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4ACC29C5CC928A88A8A4F5ADC3E989CB/S0003598X00050298a.pdf/div-class-title-the-discovery-of-the-school-of-gladiators-at-carnuntum-austria-div.pdf
+- Neubauer et al. — The discovery of the school of gladiators at Carnuntum, Austria (Antiquity 88,2014,173–190): https://www.cambridge.org/core/services/aop-cambridge-core/content/view/4ACC29C5CC928A88A8A4F5ADC3E989CB/S0003598X00050298a.pdf/div-class-title-the-discovery-of-the-school-of-gladiators-at-carnuntum-austria-div.pdf
 - Römerstadt Carnuntum — Gladiatur: https://www.carnuntum.at/de/gladiatur
 - University of Vienna VIAS — Archaeological Interpretation of the GPR Survey: https://vias.univie.ac.at/forschung/geopysikalische-prospektion/projects/school-of-gladiators/archaeological-interpretation/
 - Marlee Miller — Gladiators: Types and Training, Metropolitan Museum (2023): https://www.metmuseum.org/essays/gladiators-types-and-training
-- The Metropolitan Museum — Terracotta oil lamp74.51.2030: https://www.metmuseum.org/art/collection/search/241583
-- Seneca — Moral Letters to Lucilius37, Gummere translation: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_37
+- The Metropolitan Museum — Terracotta oil lamp 74.51.2030: https://www.metmuseum.org/art/collection/search/241583
+- Seneca — Moral Letters to Lucilius 37, Gummere translation: https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_37
 - British Museum — Gladiators, in Essex! (Colchester Vase discussion): https://www.britishmuseum.org/blog/gladiators-essex
+- Archaeology Magazine — Weapons of the Ancient World: Gladiator Weapons (May/June 2020): https://archaeology.org/issues/may-june-2020/collection/gladiator-weapons/weapons-of-the-ancient-world/
+- Archaeology Magazine — Gladiators: the language of the arena (glossary): https://archive.archaeology.org/gladiators/glossary.html
+- Vegetius — Epitoma rei militaris, Book I chapter 11 (Latin text, The Latin Library): https://www.thelatinlibrary.com/vegetius1.html
+- Davis, Pearce, Carroll, Moore, Nowell and Montgomery — Gladiators at Roman Colchester: re-interpreting the Colchester Vase, Britannia 55 (2024): https://doi.org/10.1017/S0068113X24000187
 
 ## Chapters
 

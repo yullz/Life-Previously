@@ -104,3 +104,10 @@ What is assessed, per package against all eighteen and the published episodes: s
 - Thumbnail promises (SAME CITY?, JUST CABBAGE?, WHO EATS NEXT?) repeat no other headline family.
 - No shared sources with another package; Mercier and Menon appear only here.
 - Verdict: distinct. No change needed.
+
+### 08 — Your First Day at Gladiator School: What Happens? (checked 2026-10-10)
+- Setting unique (Carnuntum on the Danube, c. AD 200); the only other Roman-era package is 05 (Pompeii, Ostia, Bath, Alexandria), a conveniences countdown.
+- Angle (an imagined first day inside the school: gate, status, kit, the post, the cell, the baths, the arena, and who controls you) appears nowhere else; 04 is the only other 'first' story (a first night in New York, 1900).
+- Thumbnail promises (DAY ONE, YOU LIVE HERE?, VALUABLE. NOT FREE.) repeat no other headline family.
+- No shared sources with another package.
+- Verdict: distinct. No change needed.

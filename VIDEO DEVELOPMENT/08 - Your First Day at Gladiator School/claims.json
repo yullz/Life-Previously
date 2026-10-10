@@ -2,10 +2,18 @@
   {
     "id": "C0",
     "type": "F",
-    "claim": "The Visitor's first-day tour, unnamed trainee and imagined reactions are original illustrative framing at Carnuntum c.AD200, not a recovered individual's schedule.",
+    "claim": "The Visitor's first-day tour, unnamed trainee and imagined reactions are original illustrative framing at Carnuntum c.AD 200, not a recovered individual's schedule.",
     "sources": [],
     "locator": "Editorial scenario.",
     "limit": "No invented dialogue presented as a quotation; no exact local daily timetable.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Framing row; S004 and S006 say the day is imagined and no timetable survives.",
+      "source_locators": "—",
+      "refutation": "Looked for any invented quotation or exact schedule; none.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -55,13 +63,12 @@
       "S088",
       "S089",
       "S091",
-      "S092",
       "S094",
       "S095",
       "S096"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C1",
@@ -73,6 +80,14 @@
     ],
     "locator": "Antiquity pp181–185; official Gladiatur school paragraph.",
     "limit": "Retain interpreted/reconstructed framing. School identification is strong interpretation rather than every room's function proven.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: complex west of the municipal amphitheatre, 'remains interpreted as a gladiatorial school'; 'A single and easily controlled entrance … 2.4m-wide gate'; circular structure 19 m. SRC02: 'möglicherweise eine Gladiatorenschule'.",
+      "source_locators": "SRC01 interpretation section; SRC02",
+      "refutation": "S004–S005 and S011 keep 'interpreted'; the site's own 'possibly' is respected. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S003",
       "S004",
@@ -84,8 +99,8 @@
       "S089",
       "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C2",
@@ -97,23 +112,40 @@
     ],
     "locator": "Antiquity p184 and VIAS opening paragraph.",
     "limit": "Post-hole interpretation is possible, not surviving wooden post. Do not exact-reconstruct tiers or post carving.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: 'a free-standing circular structure 19m in diameter … surrounded by wooden spectator stands set on stone foundations'; 'a feature resembling a post-hole … might be the foundation of the palus'. SRC03: '19 m in diameter, enclosed by a wooden stand'.",
+      "source_locators": "SRC01; SRC03",
+      "refutation": "S037 says 'might have held a post'. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S037"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C3",
     "type": "E",
     "claim": "Gladiators included enslaved people, war prisoners and voluntary recruits; joining voluntarily did not preserve ordinary freedom of action.",
     "sources": [
-      "SRC04",
+      "SRC09",
       "SRC06",
-      "SRC07"
+      "SRC01",
+      "SRC11"
     ],
-    "locator": "Met Training; Seneca37.1–2; BM Valentinus discussion.",
+    "locator": "SRC09 recruitment and oath entries; SRC06 37.1–2; SRC01 lanista paragraph (citizens excepted); SRC11 status discussion.",
     "limit": "Different legal situations; do not call all enslaved or all willing. No universal contractual rights claim.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC09: 'Criminals and prisoners could be damned to fight in the arena'; 'volunteer gladiators … enlisted voluntarily as free or freed men'; the oath 'handed themselves over as slaves to their master and trainer'. SRC06: 'men who hire out their strength for the arena … security is taken that they will endure such trials even though they be unwilling'. SRC01: the lanista's 'complete legal power … unless they were Roman citizens'. SRC11: names that may be 'slaves or peregrini … or simply … stage names'.",
+      "source_locators": "SRC09; SRC06; SRC01; SRC11",
+      "refutation": "S013 now says 'condemned prisoners' and 'free or freed men' as the glossary does; no shares claimed. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S012",
       "S013",
@@ -122,10 +154,11 @@
       "S016",
       "S019",
       "S066",
-      "S088"
+      "S088",
+      "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C4",
@@ -134,18 +167,27 @@
     "sources": [
       "SRC06"
     ],
-    "locator": "Letter37.1–2.",
+    "locator": "Letter 37.1–2.",
     "limit": "Paraphrase attributed; moral rhetoric is not a Carnuntum admission checklist.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC06: the oath 'Through burning, imprisonment, or death by the sword'; 'The gladiator may lower his weapon and test the pity of the people'.",
+      "source_locators": "SRC06 37.1–2",
+      "refutation": "S017 and S079 paraphrase and attribute. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S016",
       "S017",
       "S018",
       "S019",
       "S079",
+      "S092",
       "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C5",
@@ -153,10 +195,18 @@
     "claim": "Schools were managed by a lanista with support staff; instructors specialized in gladiator equipment types.",
     "sources": [
       "SRC01",
-      "SRC04"
+      "SRC09"
     ],
-    "locator": "Antiquity pp183–185; Met Training.",
+    "locator": "SRC01 lanista and instruction paragraphs; SRC09 familia entry.",
     "limit": "No named local manager or recorded speech. Instructor's exact biography unknown.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: 'the lanista … head of his familia gladiatoria'; 'instruction specific to the type of armament'; instructors 'drawn from the ranks of senior and ex-gladiators'. SRC09: a familia 'lived and trained under one lanista'.",
+      "source_locators": "SRC01; SRC09",
+      "refutation": "S020 and S029 name no local manager. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S020",
       "S021",
@@ -165,21 +215,30 @@
       "S047",
       "S067",
       "S089",
-      "S090"
+      "S090",
+      "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C6",
     "type": "E",
-    "claim": "Gladiatorial training could use wooden weapons and a standing post before paired practice; a Cypriot lamp depicts post training.",
+    "claim": "Gladiatorial training could use wooden weapons and a standing post before paired practice; Vegetius says post training with wicker shields and wooden swords served soldiers and gladiators alike, and Carnuntum's arena has a possible post foundation at its centre.",
     "sources": [
-      "SRC04",
-      "SRC05"
+      "SRC10",
+      "SRC01"
     ],
-    "locator": "Met Training; lamp74.51.2030 object description.",
-    "limit": "No exact weights, repetition counts or first-day training prescription. Lamp predates scenario and is from elsewhere.",
+    "locator": "SRC10 I.11; SRC01 palus paragraph.",
+    "limit": "No exact weights, repetition counts or first-day prescription; Vegetius writes in the fourth century about an older practice.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC10: wicker shields and 'clauas ligneas dupli … ponderis pro gladiis'; recruits attacked the post 'tamquam contra aduersarium'; 'Palorum enim usus non solum militibus sed etiam gladiatoribus plurimum prodest'. SRC01: possible palus foundation.",
+      "source_locators": "SRC10 I.11; SRC01",
+      "refutation": "The lamp is no longer cited; S035–S036 speak Vegetius. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -197,18 +256,27 @@
       "S091",
       "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C7",
     "type": "E",
     "claim": "Secutor and retiarius equipment differs: enclosed plain helmet/large shield/short sword versus no helmet/net/trident/dagger and left-arm/shoulder protection.",
     "sources": [
-      "SRC04"
+      "SRC08",
+      "SRC09"
     ],
-    "locator": "Armament Types, secutor/retiarius paragraphs.",
+    "locator": "SRC08 secutor and retiarius sentences; SRC09 galerus, pugio, trident, helmet entries.",
     "limit": "Comparative kit, not exact school inventory. Secutor is not a legionary; don't mix kits.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC08: 'a secutor carried a short sword and a large shield and wore a rounded helmet that covered his entire head, except for two small eyeholes … a retiarius, who was equipped with a net in one hand and a long trident in the other'. SRC09: galerus shoulder-guard, pugio dagger, 'The helmet worn by all gladiators except the retiarius'.",
+      "source_locators": "SRC08; SRC09",
+      "refutation": "S025–S027 keep the kits separate. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S024",
       "S025",
@@ -217,8 +285,8 @@
       "S028",
       "S029"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C8",
@@ -230,6 +298,14 @@
     ],
     "locator": "Antiquity p185; VIAS room comparison.",
     "limit": "Single bed and blanket are illustrative; no exact number of residents or definite private room allocation.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: 'a central row of small cells 3–7m² in area'; 'an estimated total of 75 gladiators could have been housed' (an assumption). SRC03: 'cells that were as little as 5 m²'.",
+      "source_locators": "SRC01; SRC03",
+      "refutation": "S049 and S056 say interpreted and estimated; no count spoken. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S048",
       "S049",
@@ -243,8 +319,8 @@
       "S090",
       "S091"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C9",
@@ -256,6 +332,14 @@
     ],
     "locator": "Antiquity pp186–187.",
     "limit": "Not a confirmed gym with a documented bathing timetable; no health outcome inferred.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: hypocaust and praefurnium; 'either as a heated training room or an assembly hall'; bath complex with pool, heated floor, apse, well, water line, sewers.",
+      "source_locators": "SRC01 northern wing paragraphs",
+      "refutation": "S058–S061 speak heating and interpretation, not a timetable. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S008",
       "S058",
@@ -266,8 +350,8 @@
       "S087",
       "S091"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C10",
@@ -275,12 +359,20 @@
     "claim": "Investment in training and facilities could coexist with severe control; a useful body was not necessarily a free person.",
     "sources": [
       "SRC01",
-      "SRC04",
+      "SRC09",
       "SRC06",
-      "SRC07"
+      "SRC11"
     ],
     "locator": "Synthesis of compound plan, training and status evidence.",
     "limit": "Editorial interpretation, not claim every owner was benevolent or every fighter enslaved.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Interpretation across SRC01 (gate, cells, lanista's power), SRC09 (oath), SRC06 and SRC11.",
+      "source_locators": "Synthesis",
+      "refutation": "S062–S064 and S092 keep it as the episode's reading. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S009",
       "S021",
@@ -303,19 +395,27 @@
       "S092",
       "S093"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C11",
     "type": "E",
     "claim": "Trained gladiators could be hired for shows; defeat did not invariably mean death and mercy was possible.",
     "sources": [
-      "SRC04",
-      "SRC06"
+      "SRC06",
+      "SRC09"
     ],
-    "locator": "Met The Arena; Seneca37.2.",
+    "locator": "SRC06 37.1–2 (hiring out strength; lowering the weapon to test the people's pity); SRC09 missio entries.",
     "limit": "No survival probability or promise; no assurance a first-day recruit fought immediately.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC06: 'men who hire out their strength for the arena'; 'lower his weapon and test the pity of the people'. SRC09: missio; a refused loser 'expected to kneel'.",
+      "source_locators": "SRC06; SRC09",
+      "refutation": "S077–S080 give no odds. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S045",
       "S075",
@@ -327,25 +427,31 @@
       "S081",
       "S082"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C12",
     "type": "E",
-    "claim": "Fame and fan recognition could coexist with low status, illustrated by named fighters on the Colchester Vase and Roman gladiator imagery.",
+    "claim": "Fame and recognition could coexist with low or uncertain status: the Colchester Vase, a commissioned souvenir of a show in Roman Britain, names the secutor Memnon and the retiarius Valentinus while leaving their legal status open.",
     "sources": [
-      "SRC04",
-      "SRC07"
+      "SRC11"
     ],
-    "locator": "Met Arena; BM Valentinus fame discussion.",
-    "limit": "No named Colchester fighter moved to Carnuntum; no claim a celebrity could simply leave.",
+    "locator": "SRC11 abstract and inscription section.",
+    "limit": "A British comparison, not a Carnuntum find; no claim that a famous fighter could simply leave.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC11: 'a commissioned piece recording a performance in the town'; captions naming 'the secutor and retiarius' Memnon and Valentinus; 'stage name'; status 'slaves or peregrini … or simply … stage names'.",
+      "source_locators": "SRC11 abstract and inscription section",
+      "refutation": "S083–S084 name the pot and the two fighters and keep status open. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S083",
-      "S084",
-      "S092"
+      "S084"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   }
 ]

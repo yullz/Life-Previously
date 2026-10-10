@@ -1,7 +1,7 @@
 {
   "status": "director_selected_normal_outfit",
   "mode": "normal",
-  "policy": "../WARDROBE_POLICY.md",
+  "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
   "reason": "Visitor is an observing guide, not an enrolled fighter. Keep familiar clothes subtle in the composition; no helmet, armour or theatrical gladiator costume. Historical trainees carry the period clothing and kit.",
   "references": [
     "channel/assets/visitor_sheet.png"

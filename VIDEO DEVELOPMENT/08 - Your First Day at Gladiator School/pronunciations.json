@@ -1,5 +1,5 @@
 {
-  "status": "director_guidance_listen_to_generated_voice",
+  "status": "director_specified_not_voiced",
   "entries": [
     {
       "term": "Carnuntum",
@@ -24,6 +24,26 @@
     {
       "term": "Seneca",
       "say": "SEN-eh-kuh",
+      "note": "Standard English."
+    },
+    {
+      "term": "Vegetius",
+      "say": "veh-JEE-shus",
+      "note": "Roman military writer; say once with 'handbook'."
+    },
+    {
+      "term": "Memnon",
+      "say": "MEM-non",
+      "note": "Name on the Colchester Vase."
+    },
+    {
+      "term": "Valentinus",
+      "say": "val-en-TEE-nus",
+      "note": "Name on the Colchester Vase."
+    },
+    {
+      "term": "Danube",
+      "say": "DAN-yoob",
       "note": "Standard English."
     }
   ],

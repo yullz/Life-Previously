@@ -17,6 +17,11 @@
       "status": "not_generated"
     },
     {
+      "id": "S005",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
       "id": "S006",
       "parent": "S003",
       "status": "not_generated"
@@ -62,6 +67,16 @@
       "status": "not_generated"
     },
     {
+      "id": "S016",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
+      "id": "S018",
+      "parent": "S003",
+      "status": "not_generated"
+    },
+    {
       "id": "S019",
       "parent": "S003",
       "status": "not_generated"
@@ -103,7 +118,7 @@
     },
     {
       "id": "S027",
-      "parent": "S025",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -133,6 +148,11 @@
     },
     {
       "id": "S034",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
+      "id": "S036",
       "parent": "S001",
       "status": "not_generated"
     },
@@ -317,6 +337,11 @@
       "status": "not_generated"
     },
     {
+      "id": "S079",
+      "parent": "S075",
+      "status": "not_generated"
+    },
+    {
       "id": "S080",
       "parent": "S075",
       "status": "not_generated"
@@ -391,13 +416,7 @@
     {
       "id": "S004",
       "text": "CARNUNTUM • c. AD 200",
-      "label": "RECONSTRUCTED VISIT",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S005",
-      "text": "SITE • OBJECTS • TEXTS",
-      "label": "Explanatory schematic",
+      "label": "Carnuntum • c. AD 200 • reconstructed visit",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
@@ -407,21 +426,9 @@
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
-      "id": "S016",
-      "text": "JOINING COULD MEAN SURRENDERING CONTROL",
-      "label": "EARLIER ROMAN EVIDENCE",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
       "id": "S017",
       "text": "SENECA • LETTER 37",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S018",
-      "text": "A WRITER'S COMPARISON",
-      "label": "Explanatory schematic",
+      "label": "Seneca, Moral Letters 37 • first century AD",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
@@ -432,13 +439,7 @@
     },
     {
       "id": "S035",
-      "text": "A TRAINING POST ON A ROMAN LAMP",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S036",
-      "text": "CYPRUS • c. AD 50–100",
+      "text": "VEGETIUS • TRAINING AT THE POST",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
@@ -479,15 +480,9 @@
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
-      "id": "S079",
-      "text": "MERCY WAS POSSIBLE",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
       "id": "S083",
       "text": "FAME COULD COEXIST WITH LOW STATUS",
-      "label": "COMPARISON: COLCHESTER",
+      "label": "Colchester Vase • Roman Britain",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
