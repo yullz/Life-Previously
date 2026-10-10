@@ -64,3 +64,10 @@ What is assessed, per package against all eighteen and the published episodes: s
 - Angle (a seasonal cycle: make ice in winter, store it, use it in summer, and who does the work) appears nowhere else.
 - Thumbnail promises (ICE. NO FRIDGE., SAVE THE WINTER, UNDER THIS DOME) repeat no other headline family.
 - Verdict: distinct. No change needed.
+
+### 04 — You Arrive in New York in 1900. Where Do You Sleep? (checked 2026-10-10)
+- Setting shared only by city: 05 (Pompeii, Ostia, Bath and Alexandria, with a 1850s–1870s New York cook as a modern comparison at most) and 10 (Salem 1692) do not touch New York 1900; no other package is set in the United States around 1900 (15 is Memphis 1916–1918, a shop mechanism story).
+- Angle (one newcomer's first night: a nightly room, a boarder's place and a monthly apartment, with what each cost and left out) appears nowhere else; 09 is the only other arrival story and is about money in 1849 California.
+- Thumbnail promises (WHERE'S MY BED?, 20¢ A NIGHT?, THREE ROOMS. EVERYTHING.) repeat no other headline family.
+- No shared sources with another package; Riis, the 1900 census and the Tenement House Commission appear only here.
+- Verdict: distinct. No change needed.

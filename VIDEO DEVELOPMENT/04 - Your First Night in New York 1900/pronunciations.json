@@ -14,7 +14,7 @@
     {
       "term": "Levine",
       "say": "luh-VEEN",
-      "note": "Consistent museum-family surname; caption Levine;1900source transcribes Levin."
+      "note": "Consistent museum-family surname; caption Levine; 1900 source transcribes Levin."
     },
     {
       "term": "Jacob Riis",
@@ -24,8 +24,28 @@
     {
       "term": "Lawrence Veiller",
       "say": "LAW-rens VAY-ler",
-      "note": "Verify named-source reading in pilot if spoken; can use housing survey without author name."
+      "note": "Caption only (S049–S051); the surname is not spoken in the final script."
+    },
+    {
+      "term": "Ike Solive",
+      "say": "IKE so-LEEV",
+      "note": "Census transcription spelling; the real pronunciation is unknown, so say it plainly once and keep the caption spelling."
+    },
+    {
+      "term": "Pauline Rudolph",
+      "say": "paw-LEEN ROO-dolf",
+      "note": "Census transcription spelling."
+    },
+    {
+      "term": "Orchard Street",
+      "say": "OR-churd street",
+      "note": "Spoken as ninety-seven Orchard."
+    },
+    {
+      "term": "Chrystie",
+      "say": "KRIS-tee",
+      "note": "Caption only on the S049 map; not spoken."
     }
   ],
-  "rule": "Read20c as twenty cents,12–13dollars as twelve to thirteen dollars; distinguish per night from per month."
+  "rule": "Say prices in words: twenty cents, fifteen cents, twelve dollars, ten dollars. Say two thousand seven hundred and eighty-one in full. Distinguish per night from per month every time."
 }

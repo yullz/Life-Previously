@@ -73,7 +73,7 @@
     },
     {
       "id": "S017",
-      "parent": "S007",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -113,7 +113,7 @@
     },
     {
       "id": "S027",
-      "parent": "S007",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -123,12 +123,12 @@
     },
     {
       "id": "S029",
-      "parent": "S007",
+      "parent": null,
       "status": "not_generated"
     },
     {
       "id": "S031",
-      "parent": "S007",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -148,12 +148,17 @@
     },
     {
       "id": "S035",
-      "parent": "S007",
+      "parent": null,
       "status": "not_generated"
     },
     {
       "id": "S036",
       "parent": null,
+      "status": "not_generated"
+    },
+    {
+      "id": "S038",
+      "parent": "S034",
       "status": "not_generated"
     },
     {
@@ -183,7 +188,7 @@
     },
     {
       "id": "S044",
-      "parent": "S007",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -202,6 +207,11 @@
       "status": "not_generated"
     },
     {
+      "id": "S048",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
       "id": "S050",
       "parent": "S047",
       "status": "not_generated"
@@ -213,7 +223,7 @@
     },
     {
       "id": "S052",
-      "parent": "S036",
+      "parent": "S001",
       "status": "not_generated"
     },
     {
@@ -258,6 +268,11 @@
     },
     {
       "id": "S064",
+      "parent": "S058",
+      "status": "not_generated"
+    },
+    {
+      "id": "S066",
       "parent": "S058",
       "status": "not_generated"
     },
@@ -313,7 +328,7 @@
     },
     {
       "id": "S078",
-      "parent": "S007",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -358,7 +373,7 @@
     },
     {
       "id": "S088",
-      "parent": "S007",
+      "parent": null,
       "status": "not_generated"
     },
     {
@@ -425,31 +440,19 @@
     {
       "id": "S030",
       "text": "30×20¢=$6",
-      "label": "Illustrative calculation •30nights, lodging only",
+      "label": "Illustrative calculation •30 nights, lodging only",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
       "id": "S037",
       "text": "IKE SOLIVE • TAILOR | PAULINE RUDOLPH • DRESSMAKER",
-      "label": "1900census • rows8and21",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S038",
-      "text": "SEPARATE HOUSEHOLD RECORDS",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S048",
-      "text": "PER NIGHT → PER MONTH",
-      "label": "Explanatory schematic",
+      "label": "1900 census • rows 8 and 21",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
       "id": "S049",
       "text": "A SPECIFIC SURVEY • NOT A CITYWIDE TARIFF",
-      "label": "Veiller survey •1900 •different block",
+      "label": "Veiller block study • 1 January 1900 • Chrystie–Forsyth–Canal–Bayard",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
@@ -466,19 +469,13 @@
     },
     {
       "id": "S059",
-      "text": "THREE ROOMS • ABOUT325SQFT",
-      "label": "97Orchard •typical apartment area",
+      "text": "THREE ROOMS • ABOUT 325 SQ FT",
+      "label": "97 Orchard • four apartments to a floor • about 325 sq ft",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
       "id": "S065",
       "text": "1900: TWO PARENTS • THREE CHILDREN",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S066",
-      "text": "WHO WORKS HERE ≠ WHO LIVES HERE",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },

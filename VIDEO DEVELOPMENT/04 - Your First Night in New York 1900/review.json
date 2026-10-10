@@ -1,9 +1,149 @@
 {
-  "state": "draft_built",
+  "state": "released_director_package",
   "source_passages_read": true,
-  "exact_script_critical_review": "pending",
-  "additional_slate_review_1": "pending",
-  "additional_slate_review_2": "pending",
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "All 96 scenes, claims, sources, locations, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md; every claim re-verified on sources readable today (see claims_verification).",
+    "refutation": "Tried to break the three housing offers: Mills was never called a family hotel or the only option; the census boarders are kept in separate households with no inferred bed, meals or rent; the rent chapter was rebuilt on the 1900 Commission volume after the museum article could not be re-read and its floor ranges were not found there; the 97 Orchard figures were narrowed to what the National Register form measures; the Levines keep three children and three employees who are not residents.",
+    "findings": [
+      {
+        "id": "04-R01",
+        "issue": "Cold open asked four scattered questions and held none for the end",
+        "fix": "S003 asks what a bed costs and what the price leaves out and holds the second; S008 is no longer a question; S086 answers it in the payoff."
+      },
+      {
+        "id": "04-R02",
+        "issue": "Third-person narration about the Visitor ('Our Visitor is a single adult man', 'around our visitor', 'belongs to our Visitor', 'For our newcomer')",
+        "fix": "Second person in S006, S036, S082 and S091; S070 says 'a stranger'."
+      },
+      {
+        "id": "04-R03",
+        "issue": "The rent chapter rested on a Tenement Museum article that could not be read today (HTTP 403), and its floor-specific $12–13 / $9.50–10 figures were not found in the 1900 Commission volume",
+        "fix": "Chapter 5 rebuilt on the readable 1900 records: Veiller's block counts (S050–S051) and a tenant's testimony to the State Tenement House Commission of 1900 (S052–S053, S055, S089); C7 rewritten; SRC08 added."
+      },
+      {
+        "id": "04-R04",
+        "issue": "The 97 Orchard apartment figures rested on a museum web page that could not be read, and readable sources disagree on the building's apartment count (20 or 22)",
+        "fix": "S059 and C8 follow the National Register form: four apartments per upper floor, three small rooms, about 325 sq ft; no building total spoken; SRC09 added."
+      },
+      {
+        "id": "04-R05",
+        "issue": "C9 cited the unreadable virtual-tour page beside the readable family-story PDF",
+        "fix": "C9 rests on SRC04 alone; every narrated detail checked against it."
+      },
+      {
+        "id": "04-R06",
+        "issue": "Twelve runs of identical shot types",
+        "fix": "S015 a medium; S033 an establishing shot; S019, S050, S052 and S069 wides; S046 and S080 establishing shots; S038, S048 and S082 reactions; S051 and S070 mediums; S066 an object insert."
+      },
+      {
+        "id": "04-R07",
+        "issue": "Six image instructions, the avoid list and thumbnail A named the Visitor",
+        "fix": "S017, S043, S051, S060, S073, S084 and S094 describe the clear space instead; 'background Visitor' removed from the avoid list; thumbnail A background no longer names him."
+      },
+      {
+        "id": "04-R08",
+        "issue": "Eight unrelated object inserts in the 'objects' location inherited the S007 ledger image as parent",
+        "fix": "S017, S027, S029, S031, S035, S044, S078 and S088 are independent anchors; S029 shows real objects (coins, plate, bag) instead of locally drawn icons."
+      },
+      {
+        "id": "04-R09",
+        "issue": "Four sound cues for eleven minutes",
+        "fix": "23 cues on visible action (shutters, steps and doors, ledger pages, bag set down, stair footsteps, treadle, iron hiss and thud, simmering pot, key on the counter, evening street) with 15 new assets; deliberate silence named for the Sabbath workshop and the Mills room."
+      },
+      {
+        "id": "04-R10",
+        "issue": "Pilot listed paid edits (S014, S019, S039, S064) instead of anchors",
+        "fix": "Pilot: S001 street, S006 Mills facade, S008 reception (clerk), S012 Mills room, S034 boarding room, S058 front room, S062 kitchen (presser and Jennie, the hardest interaction), TH-A."
+      },
+      {
+        "id": "04-R11",
+        "issue": "No end-screen cue",
+        "fix": "S096 ends with 'pick the next episode on screen'."
+      },
+      {
+        "id": "04-R12",
+        "issue": "79 collapsed-space strings ('No.1 is on Bleecker Street;97 Orchard', 'ABOUT325SQFT')",
+        "fix": "Spacing normaliser applied; graphic texts and notes re-set by hand."
+      },
+      {
+        "id": "04-R13",
+        "issue": "Short 3 opened on 'Harris' before the Levines were introduced",
+        "fix": "Short 3 runs S060–S067 (152 words)."
+      },
+      {
+        "id": "04-R14",
+        "issue": "S052 spoke of 'the Levines' exact rent' before the family appeared in S060",
+        "fix": "The caveat moves to S089, after the Levine chapter."
+      },
+      {
+        "id": "04-R15",
+        "issue": "Pronunciations lacked the census names and the rule still quoted the old twelve-to-thirteen-dollar range",
+        "fix": "Ike Solive, Pauline Rudolph, Orchard Street and Chrystie added; Veiller marked caption-only; rule rewritten."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 12,
+    "open": 0,
+    "total": 12,
+    "method": "Sources fetched and read at the locator on 2026-10-10: Riis (Gutenberg), the 1900 census transcription PDF, the Levine Family Story PDF, the NYC LGBT Historic Sites page, the 1903 Tenement House Problem volume on archive.org (added as SRC08) and the National Register form for 97 Orchard Street (added as SRC09). Three Tenement Museum web pages (SRC03, SRC05, SRC07) refused automated access (HTTP 403); Astra read them on 2026-10-09. No row rests on them: the rent chapter was rebuilt on the 1900 Commission volume and the apartment figures on the National Register form.",
+    "summary": "All 12 rows supported on passages read today. C7 rewritten (block counts and a tenant's rents instead of unverifiable floor ranges); C8 narrowed to four three-room apartments per upper floor, about 325 sq ft, no building total; C9 on the family-story PDF alone."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all eighteen packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (a dry, practical first-night search).",
+    "findings": [
+      {
+        "id": "04-P1-01",
+        "issue": "The re-check's shot changes created four new runs (S032–S033 mediums, S069–S070 wides, S070–S071 mediums, S082–S083 wides)",
+        "fix": "S033 and S072 are establishing shots, S070 a medium, S071 a wide and S082 a reaction."
+      },
+      {
+        "id": "04-P1-02",
+        "issue": "Chapter 5 now runs 95 seconds and chapter 2 76 seconds",
+        "fix": "Both inside the 70–110 second band; no change."
+      },
+      {
+        "id": "04-P1-03",
+        "issue": "Slate check: New York 1900 compared with the other seventeen packages and episodes 001–003",
+        "fix": "Distinct: 05 (1850s and 1870s New York cooks) and 10 (1860s New York police) share the city but not the subject, decade or promise; no other package is about housing or lodging prices. No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Execution dry run: compiled prompts for the independent coin insert (S017), the boarding-room reaction edit (S038), the stairs reaction edit (S048), the street wide with the tenant (S052), the kitchen anchor (S062) and the front-room object insert (S066) read in full; handoff counts (96 shots, 82 illustrations, 14 graphics, 3 thumbnails), pilot order, 15 sound assets and 23 cues, pronunciations, Shorts windows (118, 153, 152 words) and packaging copy checked against the standard.",
+    "findings": [
+      {
+        "id": "04-P2-01",
+        "issue": "Looked for a factual sentence without a checked claim, a modern-dated caption, a prompt naming the Visitor, a full-body pose on an object insert, an object insert inheriting an unrelated image, or a rent figure the sources do not carry; none found",
+        "fix": "No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification (Riis, the 1900 census transcription, the Levine family-story PDF, the NYC LGBT Historic Sites page, the 1903 Tenement House Problem volume and the 97 Orchard National Register form read; three Tenement Museum web pages refused automated access and are no longer relied on), two package review passes and the slate content check complete. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "media_reviews": "not_applicable_yet_no_media_generated",
-  "known_research_boundaries": "A fictional single adult's first-night search in1900 contrasts nightly lodging, boarding and monthly family housing. Mills House No.1 was operating, and Riis's1900edition—not only his1902rewrite—confirms20c lodging,15c dinner and shared amenities. The9am–5pm room closure occurs in the1902book but was not located in the1900passage, so omit it. The1900census supplies actual male and female boarders at97Orchard, avoiding reliance on a1908citywide percentage. Veiller rent ranges belong to a different surveyed block; caption and speech say so.97Orchard's apartments are small three-room homes, not three-bedroom homes. The Levines have three children in1900, not the eventual five; workplace staff are not counted as residents. Do not use the Ellis Island main hall without choosing a date after itsDecember1900opening, or assume all arrivals passed through it. Avoid1901tenement reforms,1903women'shotel,1904subway,1909Mills/bridge imagery. Riis is a reform advocate with stigmatizing prejudices; factual observations can be used without adopting his moral explanations of poverty. No authenticity claim for fictional Visitor's bed or particular family's private agreement."
+  "known_research_boundaries": "A fictional single adult's first-night search in 1900 contrasts nightly lodging, boarding and monthly family housing. Mills House No.1 was operating, and Riis's1900 edition—not only his 1902 rewrite—confirms20c lodging, 15c dinner and shared amenities. The9am–5pm room closure occurs in the 1902 book but was not located in the 1900 passage, so omit it. The 1900 census supplies actual male and female boarders at 97 Orchard, avoiding reliance on a 1908 citywide percentage. Veiller rent ranges belong to a different surveyed block; caption and speech say so.97 Orchard's apartments are small three-room homes, not three-bedroom homes. The Levines have three children in 1900, not the eventual five; workplace staff are not counted as residents. Do not use the Ellis Island main hall without choosing a date after itsDecember 1900 opening, or assume all arrivals passed through it. Avoid 1901 tenement reforms, 1903 women'shotel, 1904 subway, 1909 Mills/bridge imagery. Riis is a reform advocate with stigmatizing prejudices; factual observations can be used without adopting his moral explanations of poverty. No authenticity claim for fictional Visitor's bed or particular family's private agreement. Re-check 2026-10-10: the rent chapter speaks the 1900 Commission's block counts and one witness's rents (SRC08) instead of the museum article's floor ranges, which could not be re-read; the apartment figures follow the National Register form (SRC09) and no whole-building count is spoken because readable sources disagree (20 or 22)."
 }

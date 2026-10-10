@@ -11,18 +11,20 @@ You Arrive in New York in 1900. Where Do You Sleep?
 
 ## Description
 
-You have arrived in New York in1900. Tonight you need a bed; next month you might need a home. Compare a low-cost room at Mills House, boarding in a crowded neighborhood and renting a small tenement apartment, using contemporary accounts, a1900census and the lives of residents at97Orchard Street.
+You have arrived in New York in 1900. Tonight you need a bed; next month you might need a home. Compare a low-cost room at Mills House, boarding in a crowded neighborhood and renting a small tenement apartment, using contemporary accounts, a 1900 census and the lives of residents at 97 Orchard Street.
 
 Life, Previously explores how ordinary people actually lived. Historical scenes are illustrated reconstructions; specific limits and evidence are explained in the episode.
 
 Sources:
 - Jacob Riis — A Ten Years' War (1900): https://www.gutenberg.org/cache/epub/38821/pg38821-images.html
-- Tenement Museum —1900 Census for97 Orchard Street: https://www.tenement.org/wp-content/uploads/2019/10/1900-Census.pdf
+- Tenement Museum —1900 Census for 97 Orchard Street: https://www.tenement.org/wp-content/uploads/2019/10/1900-Census.pdf
 - Tenement Museum — The Rent Is Due: https://www.tenement.org/blog/the-rent-is-due-a-history-of-rent-at-97-orchard-street/
 - Tenement Museum — The Levine Family Story: https://www.tenement.org/wp-content/uploads/2019/10/Levine-Family-Story.pdf
 - Tenement Museum — The Levine Tenement Story: https://www.tenement.org/Virtual-Tour/vt_levstory.html
 - NYC LGBT Historic Sites Project — Mills House No.1: https://www.nyclgbtsites.org/site/mills-house-no-1-village-gate/
 - Tenement Museum —97 Orchard Street: https://www.tenement.org/explore/97-orchard-street/
+- DeForest and Veiller (eds) — The Tenement House Problem, including the Report of the New York State Tenement House Commission of 1900, vol. 1 (Macmillan, 1903): https://archive.org/stream/tenementhousepro01deforich/tenementhousepro01deforich_djvu.txt
+- National Park Service — National Register of Historic Places registration form, Tenement Building at 97 Orchard Street (NRIS 92000556, 1992): https://npgallery.nps.gov/NRHP/GetAsset/NHLS/92000556_text
 
 ## Chapters
 
@@ -37,7 +39,7 @@ Sources:
 
 ## Tags
 
-New York1900, New York history, tenement history, Mills House, 97Orchard Street, Lower East Side history, immigrant life, boarding houses, Jacob Riis, history of housing, New York rent history, everyday history, Life Previously
+New York 1900, New York history, tenement history, Mills House, 97 Orchard Street, Lower East Side history, immigrant life, boarding houses, Jacob Riis, history of housing, New York rent history, everyday history, Life Previously
 
 ## Hashtags
 

@@ -1,51 +1,313 @@
 {
-  "status": "director_specified_not_generated_or_heard",
-  "music": "Existing theme quiet under dialogue; no comic poverty stings or sentimental swelling over named families.",
-  "mix": "Near-14LUFS, true peak<=-1dBTP; brief effects below exact narration cue.",
+  "status": "director_specified_assets_unheard",
+  "music": "Existing theme quiet and unhurried under the search; no comic poverty stings and no sentimental swell over the named families.",
+  "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
   "new_assets": [
     {
-      "id": "wood_steps",
-      "description": "Two modest footsteps on worn wooden stairs, no modern shoe squeak."
+      "id": "street_murmur",
+      "prompt": "Distant turn-of-the-century city street: a few footsteps on pavement, a horse cart passing slowly, low murmur of voices. No car engines, horns, sirens or music.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/new-york-1900-street_murmur.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
-      "id": "treadle_sewing",
-      "description": "Quiet mechanical treadle sewing, no electric motor."
+      "id": "shutter_close",
+      "prompt": "Wooden shop shutter swung closed and latched once, modest and dry. No slam or metal roll-down.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/new-york-1900-shutter_close.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "stone_steps_door",
+      "prompt": "Two people walking up a few stone steps and a heavy wooden door opening and closing behind them. No bell or hotel chime.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/new-york-1900-stone_steps_door.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "bag_set",
-      "description": "Soft worn travel bag placed on floor."
+      "prompt": "A soft worn leather travel bag set down once on a wooden floor. No zip or wheels.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/new-york-1900-bag_set.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "page_turn",
+      "prompt": "One heavy ledger page turned slowly on a wooden counter. No paper rustle loop.",
+      "seconds": 1,
+      "kind": "accent",
+      "path": "channel/sfx/new-york-1900-page_turn.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "pen_scratch",
+      "prompt": "A steel-nib pen writing two short words in a ledger, quiet scratch. No typewriter.",
+      "seconds": 2,
+      "kind": "accent",
+      "path": "channel/sfx/new-york-1900-pen_scratch.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "cloth_fold",
+      "prompt": "A woollen blanket folded by hand, two soft movements. No snap.",
+      "seconds": 2,
+      "kind": "accent",
+      "path": "channel/sfx/new-york-1900-cloth_fold.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "wood_steps",
+      "prompt": "Two or three slow footsteps climbing a worn wooden tenement stair, slight creak. No modern shoe squeak.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/new-york-1900-wood_steps.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "treadle_sewing",
+      "prompt": "A foot-treadle sewing machine running steadily, mechanical and quiet, with the treadle rocking. No electric motor hum.",
+      "seconds": 4,
+      "kind": "ambience",
+      "path": "channel/sfx/new-york-1900-treadle_sewing.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "iron_hiss",
+      "prompt": "A hot flat iron touched to damp cloth: one short hiss of steam. No kettle whistle.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/new-york-1900-iron_hiss.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "pot_simmer",
+      "prompt": "A covered pot simmering gently on a coal stove with a faint coal crackle. No boiling-over or gas burner.",
+      "seconds": 4,
+      "kind": "ambience",
+      "path": "channel/sfx/new-york-1900-pot_simmer.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "iron_thud",
+      "prompt": "A heavy flat iron set down once on a padded wooden board, dull thud. No metal ring.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/new-york-1900-iron_thud.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "key_counter",
+      "prompt": "A single iron key placed on a wooden counter. No jangle of a key ring.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/new-york-1900-key_counter.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "wood_door",
-      "description": "Plain interior wooden door opening gently."
+      "prompt": "A plain interior wooden door closed gently with a latch click. No slam or echo.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/new-york-1900-wood_door.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "evening_street",
+      "prompt": "Very quiet evening street heard from a doorway or through a closed window: faint distant footsteps and a muffled voice, mostly still. No traffic or music.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/new-york-1900-evening_street.mp3",
+      "paid": true,
+      "quote_at_launch": true
     }
   ],
-  "acquisition": "Inspect existing sounds first. Quote only genuinely missing assets; do not generate during development.",
+  "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance; nothing is generated during development.",
   "cues": [
+    {
+      "scene_id": "S001",
+      "asset": "street_murmur",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S005",
+      "asset": "shutter_close",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S009",
+      "asset": "stone_steps_door",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S015",
+      "asset": "page_turn",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S019",
+      "asset": "pen_scratch",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
     {
       "scene_id": "S020",
       "asset": "bag_set",
-      "timing": "Sync a single soft cue to the bag settling at the bed foot."
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S025",
+      "asset": "page_turn",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S028",
+      "asset": "evening_street",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S033",
+      "asset": "street_murmur",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S041",
+      "asset": "cloth_fold",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S045",
+      "asset": "street_murmur",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S050",
+      "asset": "wood_steps",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S053",
       "asset": "wood_steps",
-      "timing": "Two quiet steps with the visible adult climbing."
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
-      "scene_id": "S061",
+      "scene_id": "S060",
       "asset": "treadle_sewing",
-      "timing": "Brief quiet cue under visible machine action; stop at cut to kitchen."
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S062",
+      "asset": "iron_hiss",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S063",
+      "asset": "pot_simmer",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S068",
+      "asset": "iron_thud",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S071",
+      "asset": "stone_steps_door",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S072",
+      "asset": "evening_street",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S082",
+      "asset": "key_counter",
+      "offset_seconds": 0.9,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S083",
       "asset": "wood_door",
-      "timing": "Sync the door closing, then stop."
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S090",
+      "asset": "treadle_sewing",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S093",
+      "asset": "evening_street",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     }
   ],
   "intentional_silence": [
-    "No invented Yiddish dialogue.",
-    "No screaming crowd loop or criminalizing ambience.",
-    "No subway, car horn or modern hotel beep."
-  ]
+    "S069: the idle workshop on the Sabbath stays silent on purpose.",
+    "The Mills room scenes (S012–S014, S091–S092) carry no ambience: a closed door and a quiet room are the point.",
+    "No invented Yiddish or English dialogue.",
+    "No crowd loop, subway, car horn or modern hotel chime."
+  ],
+  "no_sting": "Do not use the medieval bell sound logo in this episode."
 }

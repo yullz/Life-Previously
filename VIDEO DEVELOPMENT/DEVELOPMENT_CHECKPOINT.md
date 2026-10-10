@@ -7,9 +7,10 @@ The owner asked Claude to complete Astra's development work, **one package at a 
 | 01 Winter of 1709 | **Released.** 12/12 claims checked; 96 shots, 82 illustrations, 14 graphics, Visitor in 43%; 17 sound cues; pilot S001, S003, S010, S016, S031, S034, S060, S072, TH-A. |
 | 02 Pirates Between Raids | **Released.** 12/12 claims checked (QAR Project pages, Johnson 1724, Greenwich, NC DNCR); 96 shots, 82 illustrations, 14 graphics, Visitor in 57% (the hat is the running gag); 22 sound cues; pilot S001, S003, S009, S021, S035, S047, S071, TH-A. Pirate-hat pose derivatives to be built at production. |
 | 03 Ice in the Desert | **Released.** 11/11 claims checked on the METU paper and Max Fordham article (Iranica/UCL blocked automated access); 94 shots, 79 illustrations, 15 graphics, 8 chapters, Visitor in 53%; 18 sound cues; pilot S001, S011, S007, S006, S046, S062, TH-A. Late-Qajar pose derivatives to be built at production. |
-| 04–18 | Draft as left by Astra. Next in order. |
+| 04 New York 1900 | **Released.** 12/12 claims checked (Riis 1900, the 1900 census transcription, the Levine family-story PDF, NYC LGBT Historic Sites, the 1903 Tenement House Problem volume, the 97 Orchard National Register form; three Tenement Museum web pages blocked automated access, so the rent chapter was rebuilt on the 1900 Commission volume); 96 shots, 82 illustrations, 14 graphics, Visitor in 55%; 23 sound cues; pilot S001, S006, S008, S012, S034, S058, S062, TH-A. |
+| 05–18 | Draft as left by Astra. Next in order. |
 
-Era variety, duplicate angles and shared material are checked per package against the whole slate in `SLATE_CHECK.md` (01 done: distinct). Publishing order and scheduling are the owner's later decision.
+Era variety, duplicate angles and shared material are checked per package against the whole slate in `SLATE_CHECK.md` (01–04 done: distinct). Publishing order and scheduling are the owner's later decision.
 
 # Astra's checkpoint — 9 October 2026 (before the continuation)
 

@@ -6,6 +6,14 @@
     "sources": [],
     "locator": "Opening explicitly defines a reconstructed search, not an individual immigration diary.",
     "limit": "No invented named resident's dialogue or guarantee of vacancy, work or admission.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Fictional framing row; S005 says aloud that the search is reconstructed and S082 that the ending is imagined. No source required.",
+      "source_locators": "—",
+      "refutation": "Looked for any line that presents the Visitor's night as a documented case; none.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -42,12 +50,12 @@
       "S095",
       "S096"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C1",
-    "claim": "Mills House No.1 opened in1897 on Bleecker Street and offered low-cost rooms intended for single working-class men.",
+    "claim": "Mills House No.1 opened in 1897 on Bleecker Street and offered low-cost rooms intended for single working-class men.",
     "type": "E",
     "sources": [
       "SRC01",
@@ -55,6 +63,14 @@
     ],
     "locator": "Riis pp.89–91; historic-site opening and clientele paragraphs.",
     "limit": "Not a family hotel or universal option; Bleecker is not Orchard.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Riis: 'No. 1, in Bleecker Street, has room for 1554 guests'; intended for 'decent mechanics, laborers, and men of small means'. NYC LGBT Historic Sites: 'Opened in 1897 as Mills House No. 1 … intended as a wholesome residential hotel for single, working-class men', 160 Bleecker Street.",
+      "source_locators": "SRC01 Mills Houses passage; SRC06 opening paragraphs",
+      "refutation": "Checked that the script does not call it a hotel for families or the only option (S022–S023 say the opposite). Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S006",
       "S009",
@@ -68,18 +84,26 @@
       "S079",
       "S087"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C2",
-    "claim": "Riis's1900 account gives Mills lodging at20cents nightly and a separate restaurant dinner at15cents.",
+    "claim": "Riis's1900 account gives Mills lodging at 20 cents nightly and a separate restaurant dinner at 15 cents.",
     "type": "E",
     "sources": [
       "SRC01"
     ],
     "locator": "Printed pp.89–90.",
     "limit": "Historical reported charge, not entire daily living cost or guaranteed booking. No invented current-dollar equivalence.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Riis: 'a regular dinner of good quality is served at fifteen cents. The night's lodging is twenty cents'.",
+      "source_locators": "SRC01 Mills Houses passage",
+      "refutation": "S016 and S030 keep lodging and dinner as separate charges and S030 labels the thirty-night sum as an illustration. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S008",
       "S016",
@@ -90,8 +114,8 @@
       "S073",
       "S086"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C3",
@@ -102,6 +126,14 @@
     ],
     "locator": "Printed p.89, baths, games, library, paid and self-service laundry; p.90 rooms.",
     "limit": "Do not draw private luxury bathroom or claim all amenities had identical availability for every guest.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Riis: 'baths without stint; a free library; a laundry for those who can pay … and a separate one for such as prefer to do it themselves'; 'bedrooms are necessarily small, but they are clean'.",
+      "source_locators": "SRC01 Mills Houses passage",
+      "refutation": "No private bath or kitchen is drawn or spoken; the room design excludes them. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S010",
       "S012",
@@ -111,8 +143,8 @@
       "S018",
       "S021"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C4",
@@ -122,7 +154,15 @@
       "SRC01"
     ],
     "locator": "Printed p.90, both houses filled and crowds often turned away.",
-    "limit": "No fabricated vacancy status for a particular1900night.",
+    "limit": "No fabricated vacancy status for a particular 1900 night.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Riis: 'both have been filled since they were opened, and crowds have often been turned away'.",
+      "source_locators": "SRC01 Mills Houses passage",
+      "refutation": "S025 and S027 say no vacancy is recovered for the imagined night. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S024",
       "S025",
@@ -132,18 +172,26 @@
       "S079",
       "S087"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C5",
-    "claim": "97Orchard's1900census records boarders, including23-year-old tailor Ike Solive and21-year-old dressmaker Pauline Rudolph.",
+    "claim": "97 Orchard's1900 census records boarders, including 23-year-old tailor Ike Solive and 21-year-old dressmaker Pauline Rudolph.",
     "type": "E",
     "sources": [
       "SRC02"
     ],
-    "locator": "Transcription row8 and row21; boarder classification.",
+    "locator": "Transcription row 8 and row 21; boarder classification.",
     "limit": "Names follow supplied transcription; do not claim a specific bed, room, relationship, rent or meals.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Census transcription row 8: Solive, Ike, boarder, 23, tailor; row 21: Rudolph, Pauline, boarder, 21, dress maker.",
+      "source_locators": "SRC02 rows 8 and 21",
+      "refutation": "S038 keeps them in separate households and S039 and S044 refuse to infer a bed, meals or rent. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S007",
       "S035",
@@ -156,8 +204,8 @@
       "S074",
       "S088"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C6",
@@ -165,10 +213,18 @@
     "type": "I",
     "sources": [
       "SRC02",
-      "SRC03"
+      "SRC08"
     ],
-    "locator": "Census boarder rows; rent article household-support discussion.",
-    "limit": "No1908boarding percentage passed off as1900, no assumption every boarder ate meals with hosts.",
+    "locator": "Census boarder rows; 1903 vol. 1 p.400, tenant's account: 'Several took boarders. This means of helping out with the rent is commonly resorted to, no matter how few the rooms.'",
+    "limit": "No 1908 boarding percentage passed off as 1900; no assumption every boarder ate meals with hosts; the boarders' own agreements are not recorded.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Census boarder rows (SRC02); 1903 vol. 1 p.400, a tenant's account: 'Several took boarders. This means of helping out with the rent is commonly resorted to, no matter how few the rooms.'",
+      "source_locators": "SRC02 rows 8 and 21; SRC08 p.400",
+      "refutation": "Interpretation row: S041 says 'could help' and S044 that agreements need their own evidence. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S033",
       "S034",
@@ -180,18 +236,26 @@
       "S046",
       "S074"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C7",
-    "claim": "Veiller's1900survey found3-room rents of$12–13monthly on first floors and$9.50–10on fourth floors in a specified Lower East Side block.",
+    "claim": "Veiller's block study for 1 January 1900 (Chrystie, Forsyth, Canal and Bayard streets) counted 39 tenements, 605 apartments and 2,781 people, 179 of the apartments having three rooms, with 264 water-closets and not one bath; a tenant told the State Tenement House Commission of 1900 she had paid $12 and then $10 a month for three rooms, the $10 flat being at the top of a house, four flights up.",
     "type": "E",
     "sources": [
-      "SRC03"
+      "SRC08"
     ],
-    "locator": "Veiller paragraph and footnotes1–2.",
-    "limit": "A study example, not a citywide tariff or97Orchardlease. Keep floor labels as source's US usage.",
+    "locator": "Vol. 1 pp.112–113 (block figures); pp.408–409 (Mrs. Miller's testimony).",
+    "limit": "A block chosen as characteristic and one witness's rents, not a citywide tariff or a 97 Orchard Street lease. Floor counts follow US usage. The witness's two statements about stairs (two flights; four flights at the top of a house) are kept apart as she gave them.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "1903 vol. 1 pp.112–113: block bounded by Chrystie, Forsyth, Canal and Bayard, 'on January 1, 1900, contained 39 different tenement houses, having 605 different apartments or sets of rooms, and housing 2781 persons … 179 three-room apartments … There were only 264 water-closets, and not one bath in the entire block'. pp.408–409: 'I paid $12 at one time for three rooms, and then I paid $10 the last time for three rooms, with no improvements, only gas … gas and cold water'; 'that $10 flat was at the top of a house, four flights of stairs'. The Tenement Museum rent article (SRC03) could not be read today (HTTP 403) and its floor-specific $12–13 / $9.50–10 figures were not found in this volume, so the chapter now speaks only these passages.",
+      "source_locators": "SRC08 pp.112–113, 408–409",
+      "refutation": "Tried to find the old first-floor/fourth-floor figures in the volume (rent tables pp.380 and 408–409 are a speculative builder's example and a witness, not a floor survey); the narration no longer states them. The witness gave two stair counts; S053 quotes only the four-flights statement she attached to the $10 flat. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S048",
       "S049",
@@ -203,37 +267,52 @@
       "S075",
       "S089"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C8",
-    "claim": "97Orchard was built with22three-room apartments of roughly325squarefeet each.",
+    "claim": "97 Orchard Street (built 1863–4) had four apartments on each upper floor, each of three small rooms (parlor, central kitchen, inner bedroom) totalling about 325 square feet.",
     "type": "E",
     "sources": [
-      "SRC07"
+      "SRC09"
     ],
-    "locator": "Opening building description.",
-    "limit": "Do not present each room as a separate bedroom or exact modern floorplan without drawing evidence.",
+    "locator": "Section 7, description of the upper floors and apartments.",
+    "limit": "Measured on the surviving building; no whole-building apartment count is spoken (sources give 20 or 22); no exact modern floor plan; hall toilets date from 1905, so none are drawn or implied for 1900.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "National Register form, section 7: 'The second through fifth floors each contain a central hall … two toilet compartments, and four apartments'; 'Each apartment consists of three small rooms a living room or parlor, central kitchen, and inner bedroom'; 'Each apartment totaled about 325 square feet'; toilets built 1905. The museum page (SRC07) could not be read today (HTTP 403) and readable sources disagree on the whole-building count (20 or 22), so S059 speaks four apartments per upper floor and no building total.",
+      "source_locators": "SRC09 section 7",
+      "refutation": "Room sizes are rounded, no floor plan is drawn, and S058 and S064 say three rooms are not three bedrooms. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S058",
       "S059",
       "S064",
       "S075"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C9",
-    "claim": "Harris and Jennie Levine lived/worked at97Orchard; Harris employed three garment workers, with pressing in the kitchen, and closed the workshop on Saturdays for the Jewish Sabbath.",
+    "claim": "Harris and Jennie Levine lived/worked at 97 Orchard; Harris employed three garment workers, with pressing in the kitchen, and closed the workshop on Saturdays for the Jewish Sabbath.",
     "type": "E",
     "sources": [
-      "SRC04",
-      "SRC05"
+      "SRC04"
     ],
-    "locator": "Family story pp.1/5,1892inspection explanation; virtual tour workshop and kitchen paragraphs.",
+    "locator": "Family story pp.1 and 5: three workers; presser in the kitchen next to the stove; Sabbath observed each Saturday; 1892 inspection.",
     "limit": "Workers are not automatically boarders. Distinguish documented workplace from invented family interactions.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Levine Family Story PDF: 'Harris Levine hired three workers', working 'stopping only to observe the Sabbath each Saturday'; the presser 'worked in the kitchen next to the stove in the same space Jennie worked'; three-room apartment; 1892 inspection. The virtual-tour page (SRC05) could not be read today (HTTP 403) and is no longer cited.",
+      "source_locators": "SRC04 pp.1 and 5",
+      "refutation": "S066 and S067 keep employees out of the resident count; S069 attributes the Sabbath closure to the museum's research. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S007",
       "S060",
@@ -249,25 +328,33 @@
       "S071",
       "S090"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C10",
-    "claim": "The1900census lists Harris, Jenny and three children in the Levine household; later family size must not be imported.",
+    "claim": "The 1900 census lists Harris, Jenny and three children in the Levine household; later family size must not be imported.",
     "type": "E",
     "sources": [
       "SRC02"
     ],
-    "locator": "Rows25–29: Harris,Jenny,Pauline,Hyman,Max.",
-    "limit": "Narration uses three children only for1900. No claim that census captures every visitor or worker.",
+    "locator": "Rows 25–29: Harris, Jenny, Pauline, Hyman, Max.",
+    "limit": "Narration uses three children only for 1900. No claim that census captures every visitor or worker.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Census transcription rows 25–29: Levin, Harris (head, 32, ladies tailor), Jenny (wife, 24), Pauline (7), Hyman (4), Max (2).",
+      "source_locators": "SRC02 rows 25–29",
+      "refutation": "S065 speaks two parents and three children for 1900 only; the avoid list bans five children. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S065",
       "S066",
       "S067"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C11",
@@ -276,10 +363,18 @@
     "sources": [
       "SRC01",
       "SRC02",
-      "SRC03"
+      "SRC08"
     ],
     "locator": "Synthesis of reported prices, boarding records and household arrangements.",
-    "limit": "Explicit interpretation; no universal ranking or invented wage budget.30nights×20c=$6is only an illustrative calculation if used.",
+    "limit": "Explicit interpretation; no universal ranking or invented wage budget.30 nights×20c=$6 is only an illustrative calculation if used.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Synthesis of Riis's charges (SRC01), the census boarders (SRC02) and the 1900 Commission block counts and testimony (SRC08).",
+      "source_locators": "SRC01; SRC02; SRC08 pp.112–113, 400, 408–409",
+      "refutation": "Interpretation row; S055 and S056 refuse a like-for-like price ranking. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S003",
       "S004",
@@ -317,7 +412,7 @@
       "S093",
       "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   }
 ]

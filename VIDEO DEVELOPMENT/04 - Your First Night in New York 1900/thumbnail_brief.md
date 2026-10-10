@@ -6,7 +6,7 @@ Lead: A. All three require a completed background, measured Visitor placement an
 
 Immediate personal problem and visible promise of a place to sleep. The room is modest, emotionally clear, and the question survives phone-size viewing.
 
-Background: A narrow plain single bed at left inside a modest period room, open doorway beyond showing a brick tenement street. Brown travel bag at bed foot. Keep geography illustrative, not Mills plus97Orchard fused into one building; no skyline, neon or drawn Visitor.
+Background: A narrow plain single bed at left inside a modest period room, open doorway beyond showing a brick tenement street. Brown travel bag at bed foot. Keep geography illustrative, not Mills plus 97 Orchard fused into one building; no skyline or neon.
 
 Chip: NEW YORK • 1900. Pose: closeup-worried. Exact request and geometry: image_prompts.json / thumbnail_requests.
 

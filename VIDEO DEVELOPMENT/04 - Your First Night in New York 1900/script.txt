@@ -9,7 +9,7 @@ You have arrived in New York. Your bag is here, your ambitions are enormous, and
 It is nineteen hundred. Before you build a new life, there is a smaller problem: where do you sleep tonight?
 
 ::: S003 | Same street and bag, no modern device, two adults walking left. [pose: scratch-head 0.8,0.94 0.6] [same-as: S001] [still]
-You cannot book a room from your pocket. You can, however, discover that the city has several very different answers.
+You cannot book a room from your pocket. What does a bed cost here, and what does the price leave out? The second answer waits until the end.
 
 ::: S004 | Three separate icons: single bed, shared household, three-room plan; unit labels local. [still]
 A nightly room, a boarding arrangement, or a monthly apartment. Those solve different problems, at different prices.
@@ -18,15 +18,15 @@ A nightly room, a boarding arrangement, or a monthly apartment. Those solve diff
 We're following an imaginary newcomer through real housing evidence. The choices are reconstructed, not taken from one person's diary.
 
 ::: S006 | Reconstructed lower Bleecker facade in late afternoon, two adult men near entrance, no family group. [pose: watch-arms-crossed 0.8,0.94 0.6] [pan-left]
-Our Visitor is a single adult man. That opens one door which would not solve everybody's problem.
+You arrive alone, one adult man and one bag. That opens one door, which would not solve everybody's problem.
 
 ::: S007 | Plain closed ledger beside folded cloth and unlettered paper, no fake census handwriting. [zoom-out]
 We will also meet actual residents through the census, and a family whose home doubled as a place of work.
 
 ::: S008 | Male clerk behind plain counter left, blank ledger, clear floor right. [pose: count-fingers 0.8,0.94 0.6] [pan-right]
-But first, suppose you need one bed, for one night, and you have some money. What might that purchase?
+But first, suppose you need one bed, for one night, and you have some money in your pocket.
 
-::: S009 | Same verified entrance, early evening light, two modestly dressed adult men entering. [note: Mills House No.1 • opened1897] [same-as: S006] [zoom-in]
+::: S009 | Same verified entrance, early evening light, two modestly dressed adult men entering. [note: Mills House No.1 • opened 1897] [same-as: S006] [zoom-in]
 An answer stands on Bleecker Street: Mills House Number One. It opened in eighteen ninety-seven for men of modest means.
 
 ::: S010 | Entrance and lower facade only, no luxury awning, bellhop or modern revolving door. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S006] [pan-left]
@@ -39,7 +39,7 @@ Your ideal accommodation currently contains a bed and lets you stop carrying thi
 Let us inspect the room before your imagination adds a drawing room, a bathtub and somebody bringing breakfast upstairs.
 
 ## What twenty cents bought
-::: S013 | Single plain metal-framed bed left, clean bedding, no bathroom or kitchenette. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Riis • A Ten Years’ War,1900] [same-as: S012] [zoom-in]
+::: S013 | Single plain metal-framed bed left, clean bedding, no bathroom or kitchenette. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Riis • A Ten Years’ War, 1900] [same-as: S012] [zoom-in]
 Jacob Riis's nineteen-hundred account describes small private bedrooms, clean beds and shared facilities at the Mills Houses.
 
 ::: S014 | Show narrow clearance between bed and wall, empty right-side floor strip, no exaggerated coffin-sized cell. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S012] [pan-left]
@@ -48,10 +48,10 @@ Small matters. This room provides somewhere to sleep, not space to spread an ent
 ::: S015 | Two men sit quietly at reading table left; shelves of blank-spined books, orderly modest room. [pose: count-fingers 0.8,0.94 0.6] [zoom-out]
 Shared amenities include baths, reading facilities and laundry options. You can wash your own clothes if you prefer.
 
-::: S016 | Bed icon20¢per night and plate icon15¢dinner, separated plus sign; no modern conversion. [still]
+::: S016 | Bed icon 20¢per night and plate icon 15¢dinner, separated plus sign; no modern conversion. [still]
 Riis reports twenty cents for nightly lodging. A restaurant dinner costs fifteen cents separately. Your pocket needs that distinction.
 
-::: S017 | Small group of blank-faced period coin shapes beside a simple bed icon made locally later, no written currency. [same-as: S007] [zoom-in]
+::: S017 | Small group of blank-faced period coins on a neutral field; bed icon composited locally later; no written currency. [zoom-in]
 The bed price does not cover everything you need until you become successful.
 
 ::: S018 | Bed and closed plain door at left, small window beyond; no room-service tray. [pose: look-around 0.8,0.94 0.6] [same-as: S012] [pan-left]
@@ -76,25 +76,25 @@ Arrive with children, or seek accommodation as a woman, and this particular answ
 Even if you fit the clientele and can pay, one more question remains.
 
 ## A cheap room can still be full
-::: S025 | Illustrative clerk checking blank ledger with two waiting men, no exact occupancy tally. [pose: closeup-worried 0.8,1.02 0.82] [note: Reported demand • Riis,1900] [same-as: S008] [zoom-in]
+::: S025 | Illustrative clerk checking blank ledger with two waiting men, no exact occupancy tally. [pose: closeup-worried 0.8,1.02 0.82] [note: Reported demand • Riis, 1900] [same-as: S008] [zoom-in]
 Is there a vacancy? Riis reports full houses and people turned away. An affordable price cannot create another bed.
 
 ::: S026 | Two clear question boxes: cost and availability; bed icon between them. [still]
 Your search has two questions: can you afford it, and is it available tonight?
 
-::: S027 | Plain coins beside closed unnumbered key on neutral field, no booking confirmation. [same-as: S007] [zoom-out]
+::: S027 | Plain coins beside closed unnumbered key on neutral field, no booking confirmation. [zoom-out]
 We cannot recover a vacancy for our invented evening. The right coins alone would not guarantee success.
 
 ::: S028 | Evening small room, bag at bed foot, modest window darkening, no lamps invented. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S012] [pan-right]
 Suppose you do get a room. It solves tonight's sleeping problem. Tomorrow's meals and tomorrow night's lodging still need attention.
 
-::: S029 | Three local-drawn simple icons bed, plate and bag on neutral field; no amount painted by model. [same-as: S007] [zoom-in]
+::: S029 | Plain blank coins, an empty tin plate and the brown travel bag on a neutral field; no amounts painted. [zoom-in]
 A low nightly figure is easily mistaken for a complete budget. It covers only one expense.
 
-::: S030 | Explicit assumed30nights×20¢=$6, subtitle lodging only; no claim actualmonthinvoice. [note: Illustrative calculation •30nights, lodging only] [still]
+::: S030 | Explicit assumed 30 nights×20¢=$6, subtitle lodging only; no claim actualmonthinvoice. [note: Illustrative calculation •30 nights, lodging only] [still]
 For illustration, thirty nights at twenty cents makes six dollars for lodging. That supplies neither dinner nor a job.
 
-::: S031 | Period blank coins on neutral field, no current banknotes, currency chart or smartphone. [same-as: S007] [zoom-out]
+::: S031 | Period blank coins on neutral field, no current banknotes, currency chart or smartphone. [zoom-out]
 A modern-dollar conversion would hide differences in wages, expenses and what housing included. Keep the historical offer in view.
 
 ::: S032 | Single bed clearly visible, no extra bunk or family belongings. [pose: look-around 0.8,0.94 0.6] [same-as: S012] [pan-right]
@@ -106,17 +106,17 @@ But suppose you already know someone in the city. Or you find a household willin
 ::: S034 | Illustrative small shared room, two simple distinct beds left, plain clothes folded on chair. [pose: watch-arms-crossed 0.8,0.94 0.6] [pan-left]
 That leads to another possibility: boarding. A place in an existing household can connect housing to people who are already established.
 
-::: S035 | Blank paper with locally composited census extract reserved on left; no source handwriting generated. [same-as: S007] [zoom-out]
+::: S035 | Blank paper with locally composited census extract reserved on left; no source handwriting generated. [zoom-out]
 The census helps replace an anonymous crowd with individuals and their lives.
 
-::: S036 | Verified lower facade and entrance, two ordinary adults on pavement, no museum banners. [note: 97Orchard Street •1900census] [pan-right]
-At ninety-seven Orchard Street, the nineteen-hundred records actually name boarders. They are people, with occupations, rather than scenery around our visitor.
+::: S036 | Verified lower facade and entrance, two ordinary adults on pavement, no museum banners. [note: 97 Orchard Street •1900 census] [pan-right]
+At ninety-seven Orchard Street, the nineteen-hundred records actually name boarders. They are people, with occupations, rather than scenery around you.
 
 ## A place inside someone else’s home
-::: S037 | Two locally typeset record cards with names,age,occupation,boarder; no invented portraits. [note: 1900census • rows8and21] [still]
+::: S037 | Two locally typeset record cards with names, age, occupation, boarder; no invented portraits. [note: 1900 census • rows 8 and 21] [still]
 The census transcription lists Ike Solive, a twenty-three-year-old tailor, as a boarder. Pauline Rudolph, a twenty-one-year-old dressmaker, appears as another.
 
-::: S038 | Two record boxes remain separate; no shared bed diagram or inferred relationship. [still]
+::: S038 | Two separate plain beds at left, each with its own folded blanket, nobody present; clear right floor. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S034] [still]
 They appear in different households. We should not invent a room or arrangement that puts them together.
 
 ::: S039 | Illustrative shared room with two beds, no named people or precise address label. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Illustrative room • not a census floorplan] [same-as: S034] [zoom-out]
@@ -131,13 +131,13 @@ For a household paying rent, another contribution could help. For the boarder, f
 ::: S042 | Travel bag beside modest wooden bed leg, small clear floor area, no invented contract. [same-as: S002] [pan-left]
 Your private kingdom might be a bed, a few possessions and the boundaries agreed with your host.
 
-::: S043 | One clothed adult quietly arranges belongings near bed left; no staged quarrel, Visitor right. [same-as: S034] [still]
+::: S043 | One clothed adult quietly arranges belongings near the bed at left; no staged quarrel; clear right floor. [same-as: S034] [still]
 That can mean company and useful connections. It can also mean less control over when the room is quiet or how space is used.
 
-::: S044 | Plain bowl, blank ledger and key separated on neutral field, no values or implied included-meal package. [same-as: S007] [pan-right]
+::: S044 | Plain bowl, blank ledger and key separated on neutral field, no values or implied included-meal package. [pan-right]
 Do not assume boarder tells us every detail about meals, rent or relationships. Particular agreements need their own evidence.
 
-::: S045 | Same1900 entrance, two unrelated adults passing separately, no claim they are named boarders. [pose: count-fingers 0.8,0.94 0.6] [same-as: S036] [zoom-in]
+::: S045 | Same 1900 entrance, two unrelated adults passing separately, no claim they are named boarders. [pose: count-fingers 0.8,0.94 0.6] [same-as: S036] [zoom-in]
 What we securely know is that boarders lived in this building in nineteen hundred.
 
 ::: S046 | Brick residential frontage with two doorways and modest pedestrians, not Mills facade next to Orchard copy. [same-as: S001] [pan-left]
@@ -146,44 +146,44 @@ That broadens the first-night search. The city was made of households as well as
 ::: S047 | Shared tenement landing with closed apartment door left and safe level right foreground. [pose: look-around 0.8,0.94 0.6] [zoom-out]
 Joining a household differs from renting your own apartment. Perhaps you hope eventually to bring your family.
 
-::: S048 | Nightly bed card transitions to monthly apartment card, no number until next chapter. [still]
+::: S048 | Plain apartment door on the landing at left, banister in the foreground, level clear floor right; nobody present. [pose: count-fingers 0.8,0.94 0.6] [same-as: S047] [still]
 Now the price changes units. We stop asking what one night costs and start asking about rent for the month.
 
 ## The cheaper apartment is upstairs
-::: S049 | Simple local map rectangle labelled Canal/Bayard/Chrystie/Forsyth;97Orchard clearly outside sampled block. [note: Veiller survey •1900 •different block] [still]
+::: S049 | Simple local map rectangle labelled Canal, Bayard, Chrystie and Forsyth; 97 Orchard marked clearly outside the sampled block; says schematic. [note: Veiller block study • 1 January 1900 • Chrystie–Forsyth–Canal–Bayard] [still]
 A nineteen-hundred housing survey supplies another comparison. It covers a different Lower East Side block, not Orchard Street.
 
-::: S050 | Lower landing and apartment doorway, ordinary stairs rising left; no readable rent painted. [pose: count-fingers 0.8,0.94 0.6] [note: Survey example •3rooms •$12–13/month] [same-as: S047] [pan-left]
-In that sample, three rooms on the first floor rented for about twelve to thirteen dollars a month.
+::: S050 | Lower landing with two plain apartment doors, ordinary stairs rising left, one adult carrying a basket up; no readable numbers painted. [pose: count-fingers 0.8,0.94 0.6] [note: Veiller block study • 1 January 1900 • 39 tenements • 605 apartments] [same-as: S047] [pan-left]
+On the first day of nineteen hundred, that one block held thirty-nine tenements, six hundred and five apartments and two thousand seven hundred and eighty-one people.
 
-::: S051 | Higher landing in same generic stair family, stairwell descending left; Visitor on level right landing. [note: Survey example •4thfloor •$9.50–10/month] [same-as: S047] [zoom-out]
-On the fourth floor, the reported range was nine dollars fifty to ten dollars a month. The higher climb accompanied the lower rent.
+::: S051 | Higher landing in the same stair family, stairwell descending left, a plain closed door in the right background; level clear floor right. [pose: eyebrow-raise 0.8,0.94 0.6] [note: Same block • 1 January 1900 • 264 water-closets • not one bath] [same-as: S047] [zoom-out]
+One hundred and seventy-nine of those apartments had three rooms. Two hundred and sixty-four toilets served the whole block, and not one bath.
 
-::: S052 | 97Orchard doorway without any rent price label, no landlord holding invented document. [same-as: S036] [pan-right]
-Those figures cannot simply become the Levines' exact rent. Their own lease is not the source.
+::: S052 | Brick residential frontage with two doorways, one adult woman with a basket pausing on a stoop at left, modest pedestrians farther back; no readable signs. [note: Tenant's testimony • State Tenement House Commission • 1900] [same-as: S001] [pan-right]
+A tenant told the state's housing commission that same year what three rooms cost her: twelve dollars a month once, then ten.
 
-::: S053 | Long modest stair visible left, safe level landing right, one adult climbing with small bundle. [pose: look-up-worried 0.8,0.94 0.6] [same-as: S047] [zoom-in]
-But the comparison gives you a practical trade-off. A cheaper apartment may put more stairs between your household and the street.
+::: S053 | Long modest stair visible left, safe level landing right, one adult climbing with small bundle. [pose: look-up-worried 0.8,0.94 0.6] [note: Tenant's testimony • 1900 • $10 flat, four flights up] [same-as: S047] [zoom-in]
+Her ten-dollar rooms came with gas and cold water, and nothing else. The cheapest she knew sat at the top of a house, four flights up.
 
 ::: S054 | Brown bag rests on safe landing beside banister, not blocking stair treads. [same-as: S002] [pan-left]
 Your bag has an opinion about that climb. New York's impressive size has become less interesting than the next landing.
 
-::: S055 | Two cards:20¢bed/night and surveyed3-room rent/month; note notlike-for-likecomparison, no misleading cheaper arrow. [still]
+::: S055 | Two cards: 20¢ bed per night and about $10–12 for three rooms per month (tenant's testimony); note not like-for-like comparison, no misleading cheaper arrow. [still]
 Keep the units attached: a monthly apartment rent and a nightly bed charge buy different space and use.
 
 ::: S056 | Closed apartment door left, clear safe landing right, no locals. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S047] [still]
 Choosing the smaller number would misunderstand both offers. Decide what problem you need to solve.
 
-::: S057 | Three distinct needs with bed,person+workbag,household symbols; no newhistoricalclaim. [still]
+::: S057 | Three distinct needs with bed, person+workbag, household symbols; no newhistoricalclaim. [still]
 Are you alone for a night? Looking for somewhere to stay while finding work? Bringing a household that needs its own space?
 
 ::: S058 | Small front room with treadle machine and worktable, narrow doorway to kitchen behind. [pose: closeup-listening 0.8,1.02 0.82] [pan-left]
 That last option sounds more settled. But three rooms in a tenement do not mean three spacious bedrooms waiting for their occupants.
 
-::: S059 | Schematic three-room sequence labelled approximately325sqft; no exact museum survey dimensions inferred. [note: 97Orchard •typical apartment area] [still]
-At ninety-seven Orchard, apartments were roughly three hundred and twenty-five square feet. Three rooms accommodated much of daily life.
+::: S059 | Schematic three-room sequence, parlor, kitchen and inner bedroom, labelled approximately 325 square feet and marked schematic; no survey dimensions. [note: 97 Orchard • four apartments to a floor • about 325 sq ft] [still]
+At ninety-seven Orchard, four apartments shared each upper floor. Each had three small rooms, about three hundred and twenty-five square feet in all.
 
-::: S060 | Harris illustrative adult sits at treadle machine left; cloth on worktable, no Visitor overlapping worker. [pose: look-around 0.8,0.94 0.6] [note: Levine household •97Orchard] [same-as: S058] [pan-right]
+::: S060 | Harris, an illustrative adult man, sits at the treadle machine left; cloth on the worktable; clear right floor. [pose: look-around 0.8,0.94 0.6] [note: Levine household •97 Orchard] [same-as: S058] [pan-right]
 To understand what that meant, meet a household that had already made a home there: Harris and Jennie Levine.
 
 ## The apartment is also the workplace
@@ -199,10 +199,10 @@ A room can have several jobs even when its walls do not move. Cooking, work and 
 ::: S064 | Worktable with cloth left and simple domestic chair beside doorway, no modern suburban comparison drawing. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S058] [pan-right]
 Three rooms meant overlapping uses, not a miniature suburban house with everything neatly separated.
 
-::: S065 | Five locally drawn family symbols: two adults and three children. Typeset the year1900; no exact portraits. [still]
+::: S065 | Five locally drawn family symbols: two adults and three children. Typeset the year 1900; no exact portraits. [still]
 The nineteen-hundred census lists Harris, Jennie and three children. The later, larger family does not belong in this scene.
 
-::: S066 | Separate household and workplace panels. Do not sum employees into the number of residents. [still]
+::: S066 | Folded cloth and a tailor's shears on the worktable with a plain household cup beside them; no people. [same-as: S058] [pan-left]
 The three employees are not automatically residents. A workplace headcount and a household record answer different questions.
 
 ::: S067 | Only Harris and one employee visible, physically plausible clearances; no cartoon crowd. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S058] [still]
@@ -215,16 +215,16 @@ The actual story is demanding enough. Earning money and maintaining a home could
 According to the museum's research, the workshop closed on Saturdays for the Jewish Sabbath. Work fitted around that observance.
 
 ::: S070 | Illustrative Jennie tidies a plain table; modest orderly belongings, no exaggerated dirt or despair. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S062] [pan-left]
-A tenement was somebody's home, with routines and choices, not merely a grim interior for a visitor to look horrified inside.
+A tenement was somebody's home, with routines and choices, not merely a grim interior for a stranger to look horrified inside.
 
-::: S071 | Same doorway at early evening, one ordinary adult entering. Do not portray the Levines as newly arriving in1900. [same-as: S036] [zoom-out]
+::: S071 | Same doorway at early evening, one ordinary adult entering. Do not portray the Levines as newly arriving in 1900. [same-as: S036] [zoom-out]
 This does not recover the Levines' first night. It shows what establishing a longer-term home could involve.
 
 ::: S072 | Evening street, brown travelling bag beside stoop, a few lit windows only. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [pan-right]
 Your own first-night question now has more depth. Finding somewhere to lie down and establishing a household are different achievements.
 
 ## Choose the offer that fits your problem
-::: S073 | Small clean bed at left; bag at its foot is our fictional visitor's prop. Quiet right foreground. [pose: count-fingers 0.8,0.94 0.6] [same-as: S012] [zoom-in]
+::: S073 | Small clean bed at left, brown bag at its foot; quiet right foreground. [pose: count-fingers 0.8,0.94 0.6] [same-as: S012] [zoom-in]
 Review the choices. Mills offers a small single room, if you fit the clientele, can pay and find space.
 
 ::: S074 | Two separate simple beds; one adult arranging belongings. No named resident portrayed. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S034] [pan-left]
@@ -239,7 +239,7 @@ There is no universal winner. The option that suits a single man tonight might b
 ::: S077 | Two modest adults passing separately at left, no humiliating pose or caricature. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S001] [zoom-in]
 And the picture changes again if you have no money, no contacts, or no work waiting. Our three examples do not cover every possibility.
 
-::: S078 | Three separate blank source cards; text composited locally. No claim to a complete city lodging map. [same-as: S007] [pan-left]
+::: S078 | Three separate blank source cards; text composited locally. No claim to a complete city lodging map. [pan-left]
 These examples cannot promise every newcomer a safe bed. They show particular arrangements supported by evidence.
 
 ::: S079 | Mills entrance in evening light, two adults nearby. No vacancy sign. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S006] [zoom-out]
@@ -251,13 +251,13 @@ A city full of buildings is not the same as a place you can actually occupy.
 ::: S081 | One adult at the doorway, empty plain bed visible left. No named person portrayed. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S034] [zoom-in]
 Your first night may depend on a very small decision, a bit of information, or somebody willing to make room.
 
-::: S082 | Clerk at left prepares an unnumbered key. No readable invented receipt. [pose: count-fingers 0.8,0.94 0.6] [note: Imagined outcome •room available] [same-as: S008] [pan-left]
-For our fictional ending, suppose a room is available and you can pay. This outcome belongs to our Visitor.
+::: S082 | Clerk at left prepares an unnumbered key. No readable invented receipt. [pose: count-fingers 0.8,0.94 0.6] [note: Imagined outcome •room available] [same-as: S008] [still]
+For our fictional ending, suppose a room is available and you can pay. This outcome belongs to the story, not the record.
 
 ::: S083 | Brown bag on floor at foot of single bed, closed plain door, clean bedding; preserve established room geometry. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S012] [zoom-out]
 The bag comes off your shoulder. A door closes. There is a bed, which has suddenly become the most attractive object in Manhattan.
 
-::: S084 | Bed left, dark window. Do not paint the Visitor sleeping in the bed. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S012] [pan-right]
+::: S084 | Bed left, dark window; the bed is empty, nobody lying in it. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S012] [pan-right]
 One night is solved. The city promises nothing about tomorrow, but you can finally stop walking.
 
 ## A bed tonight, a life tomorrow
@@ -265,22 +265,22 @@ One night is solved. The city promises nothing about tomorrow, but you can final
 The surprise is how many different things can hide inside the phrase somewhere to stay. A room, a household, a home.
 
 ::: S086 | Close view of plain bed frame and pillow, no price tag. [same-as: S012] [pan-left]
-The twenty-cent figure makes a good hook. The useful history is understanding what it bought and everything it left unresolved.
+The twenty-cent figure made a good hook. Now the held question: what did that price leave out? Rather a lot, as it turns out.
 
 ::: S087 | Quiet counter and closed blank ledger. Clerk absent; no free-room sign. [same-as: S008] [zoom-out]
 It did not include a family apartment. It did not create vacancies. It did not pay every other expense.
 
-::: S088 | Cloth and simple sewing tools beside a blank census-card area. No named portrait or electric machine. [same-as: S007] [pan-right]
+::: S088 | Cloth and simple sewing tools beside a blank census-card area. No named portrait or electric machine. [pan-right]
 A tailor and a dressmaker give the boarding records individual lives. They were people working and living here.
 
-::: S089 | Staircase and two plain landings, no elevator or invented fourth-floor door number. [pose: look-up-worried 0.8,0.94 0.6] [same-as: S047] [zoom-in]
-The survey adds another dimension: within its sample, the floor affected the monthly price.
+::: S089 | Staircase and two plain landings, nobody present; no elevator or invented door numbers. [pose: look-up-worried 0.8,0.94 0.6] [same-as: S047] [zoom-in]
+The nineteen-hundred testimony adds another dimension: cheaper rooms meant more stairs. It does not tell us what the Levines paid.
 
 ::: S090 | Harris at machine, one employee at table, domestic chair near doorway. Ordinary late-day light. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S058] [pan-left]
 And the Levines show how small rooms could support both a household and the work that helped keep it there.
 
 ::: S091 | Brown bag at foot of single bed, modest room unchanged. No painted people. [pose: look-around 0.8,0.94 0.6] [same-as: S012] [zoom-out]
-For our newcomer, that future remains ahead. Tonight's achievement is simply a bag on the floor and somewhere to sleep.
+For you, that future remains ahead. Tonight's achievement is simply a bag on the floor and somewhere to sleep.
 
 ::: S092 | Bag beside bed leg. Remain at night, no unexplained sunrise. [same-as: S002] [pan-right]
 Tomorrow brings food, work, directions and keeping up the payments. A night is the beginning of the story.
@@ -288,11 +288,11 @@ Tomorrow brings food, work, directions and keeping up the payments. A night is t
 ::: S093 | Evening brick street with a few lit windows, no golden modern skyline or generalized immigrant outcome. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S001] [zoom-in]
 New York in nineteen hundred offered opportunity, but arrival itself did not hand you the keys to a settled life.
 
-::: S094 | Plain pillow and bed left. Clear right floor for standing or close-up Visitor; no lying pose. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S012] [pan-left]
+::: S094 | Plain pillow and bed left, bed empty; clear right floor. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S012] [pan-left]
 That is why the first bed matters. It is a small piece of security inside a much larger, uncertain undertaking.
 
 ::: S095 | Three clear housing icons and labels, no ranked winner. [still]
 Which would you seek first: a nightly room, a boarding arrangement, or a place of your own?
 
 ::: S096 | Quiet established room, bed clearly left, bag at foot, no skyline through the window. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S012] [still]
-Choose with your circumstances in mind. And before you admire the skyline, make sure somebody has an answer about the bed.
+Choose with your circumstances in mind. Before you admire the skyline, make sure somebody has an answer about the bed. Then pick the next episode on screen.

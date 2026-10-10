@@ -7,60 +7,60 @@
     "Your First Night in New York, 1900",
     "A Bed for 20 Cents in New York?"
   ],
-  "period": "New York City, 1900. Ground-level Lower East Side and Greenwich Village scenes: brick and brownstone masonry, narrow tenement stairs, plain timber floors, cast-iron coal stove, treadle sewing machine, modest turn-of-century work clothes, cloth caps and restrained hats. No claim that every newcomer used Ellis Island. Mills House No.1 is on Bleecker Street;97 Orchard Street is a different building in a different neighborhood. Specific household reconstructions use the1900 census or an explicitly dated1892 factory record. Any daylight/time change must be in scene scope. Illustrations reconstruct documented building types, not unidentified photographs.",
-  "avoid": "Empire State Building, Chrysler Building, modern Manhattan skyline, Manhattan Bridge, subway entrances before1904, FDR Drive, modern taxis or cars dominating streets, electric sewing machine, zippers or wheeled suitcases, neon hotel signs, air conditioners, televisions, modern kitchen plumbing in97 Orchard1900, interior flush toilet assumed in every flat, luxurious Mills suites or private baths, tourist version of Ellis Island's main hall, identical filthy faces or ethnic caricatures, five Levine children in1900, later1901 housing improvements silently moved into1900, typeset-looking signs generated into artwork, background Visitor.",
+  "period": "New York City, 1900. Ground-level Lower East Side and Greenwich Village scenes: brick and brownstone masonry, narrow tenement stairs, plain timber floors, cast-iron coal stove, treadle sewing machine, modest turn-of-century work clothes, cloth caps and restrained hats. No claim that every newcomer used Ellis Island. Mills House No.1 is on Bleecker Street; 97 Orchard Street is a different building in a different neighborhood. Specific household reconstructions use the 1900 census or an explicitly dated 1892 factory record. Any daylight/time change must be in scene scope. Illustrations reconstruct documented building types, not unidentified photographs.",
+  "avoid": "Empire State Building, Chrysler Building, modern Manhattan skyline, Manhattan Bridge, subway entrances before 1904, FDR Drive, modern taxis or cars dominating streets, electric sewing machine, zippers or wheeled suitcases, neon hotel signs, air conditioners, televisions, modern kitchen plumbing in 97 Orchard 1900, interior flush toilet assumed in every flat, luxurious Mills suites or private baths, tourist version of Ellis Island's main hall, identical filthy faces or ethnic caricatures, five Levine children in 1900, later 1901 housing improvements silently moved into 1900, typeset-looking signs generated into artwork.",
   "locations": {
     "street": {
-      "scope": "Lower East Side, New York,1900; illustrative newcomer arrival",
+      "scope": "Lower East Side, New York, 1900; illustrative newcomer arrival",
       "design": "Brick tenement frontage left, simple stoop and ground-floor unlettered shop window, two period pushcarts farther back, no landmark skyline. Firm pavement with clear right foreground. Late afternoon. Pedestrians modestly and diversely dressed; no poverty spectacle."
     },
     "case": {
-      "scope": "New York,1900; illustrative newcomer's luggage",
+      "scope": "New York, 1900; illustrative newcomer's luggage",
       "design": "One modest rectangular brown leather or heavy cloth travelling bag with simple handle on worn timber or pavement. No wheels, bright plastic or airline tag. All labels blank."
     },
     "mills_ext": {
-      "scope": "Mills House No.1, Bleecker Street, New York,1900; reconstructed lower facade",
-      "design": "Light masonry base and brick upper facade, broad substantial entrance and regular windows. Use primary1900 book photograph and historic-site facade reference for exact form; show only verified portion, no invented enormous hotel name. No later Village Gate signage."
+      "scope": "Mills House No.1, Bleecker Street, New York, 1900; reconstructed lower facade",
+      "design": "Light masonry base and brick upper facade, broad substantial entrance and regular windows. Use primary 1900 book photograph and historic-site facade reference for exact form; show only verified portion, no invented enormous hotel name. No later Village Gate signage."
     },
     "mills_desk": {
-      "scope": "Mills House No.1, New York,1900; illustrative reception",
+      "scope": "Mills House No.1, New York, 1900; illustrative reception",
       "design": "Plain wood counter left, one clothed male clerk in dark waistcoat, simple blank ledger, modest waiting area. Good maintenance, no luxury concierge uniforms or modern register. Clear right floor. Exact counter layout is illustrative."
     },
     "mills_room": {
-      "scope": "Mills House No.1, New York,1900; illustrative small single room",
+      "scope": "Mills House No.1, New York, 1900; illustrative small single room",
       "design": "Narrow private room with single plain metal-framed bed left, clean pale bedding, simple small window beyond, one modest chair. No private bathroom, kitchen, chandelier or double bed; no exact unsupported room dimensions. Clear floor along right edge."
     },
     "mills_common": {
-      "scope": "Mills House No.1, New York,1900; reconstructed shared amenities",
+      "scope": "Mills House No.1, New York, 1900; reconstructed shared amenities",
       "design": "Plain orderly common room with reading table left, shelves with unlettered book spines, restrained late-Victorian chairs. Two adult men at most. No all-access family scene, club luxury or modern lamps."
     },
     "boarding": {
-      "scope": "Lower East Side, New York,1900; illustrative boarding arrangement, not a named resident's room",
+      "scope": "Lower East Side, New York, 1900; illustrative boarding arrangement, not a named resident's room",
       "design": "Small plastered room with two distinct plain sleeping places at left separated by modest space, worn wooden floor and one window. Do not depict a specific bed from census records. No absurd bodies piled together; right floor clear."
     },
     "orchard_ext": {
-      "scope": "97 Orchard Street, New York,1900; reconstructed entrance",
+      "scope": "97 Orchard Street, New York, 1900; reconstructed entrance",
       "design": "Narrow five-story brick tenement, brownstone entrance steps and regular sash windows using museum exterior reference. Ground-floor shop fittings simplified and unlettered; no current museum banners. Frame entrance and lower windows, not invented full streetscape."
     },
     "stairs": {
-      "scope": "Lower East Side tenement, New York,1900; illustrative shared stair",
+      "scope": "Lower East Side tenement, New York, 1900; illustrative shared stair",
       "design": "Narrow wooden stair rising at left with plain dark banister and plaster wall. Small safe level landing at right. No elevator, modern exit sign or lush carpet; no bodies sitting across steps."
     },
     "frontroom": {
-      "scope": "Levine household at97 Orchard Street, around1900; historical reconstruction",
+      "scope": "Levine household at 97 Orchard Street, around 1900; historical reconstruction",
       "design": "Modest front room with treadle sewing machine by window left, worktable center-left, neatly stacked cloth and chair. Family space shares work. Harris: adult man cream shirt, dark waistcoat, simple trousers; no exact portrait claim. No electric motor or unsupported furniture count."
     },
     "kitchen": {
-      "scope": "Levine household at97 Orchard Street, around1900; historical reconstruction",
+      "scope": "Levine household at 97 Orchard Street, around 1900; historical reconstruction",
       "design": "Small middle kitchen with cast-iron coal stove left, plain table and iron on a separate workboard, modest pots. Interior room light restrained; no invented modern taps. Jennie: adult woman dark long skirt, cream blouse and plain apron, no exact likeness. Right floor clear."
     },
     "objects": {
-      "scope": "New York,1900; explanatory object detail",
+      "scope": "New York, 1900; explanatory object detail",
       "frame": "modern historical object explanation",
       "design": "Neutral parchment with one specified period object: plain coins, bed frame, cloth, key or unlettered ledger. Local text only."
     },
     "diagram": {
-      "scope": "Modern explanatory graphic about New York housing in1900",
+      "scope": "Modern explanatory graphic about New York housing in 1900",
       "frame": "modern explanatory diagram",
       "design": "Parchment canvas, clear date and building labels locally typeset. Prices always carry unit and scope: per night vs per month. No present-day currency conversion or invented income."
     }
@@ -70,50 +70,64 @@
       "id": "SRC01",
       "title": "Jacob Riis — A Ten Years' War (1900)",
       "url": "https://www.gutenberg.org/cache/epub/38821/pg38821-images.html",
-      "read": "2026-10-09: front matter confirms1900 edition; printed pp.89–93, Mills Houses prices, facilities, intended residents and occupancy.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: Gutenberg text, Mills Houses passage ('a regular dinner of good quality is served at fifteen cents. The night's lodging is twenty cents'; baths, free library, paid and self-service laundry; 'bedrooms are necessarily small, but they are clean'; No. 1 in Bleecker Street with room for 1554 guests, both houses filled and crowds often turned away; intended for 'decent mechanics, laborers, and men of small means').",
       "limit": "Reform advocate's account, not neutral inspection of all lodging. Use concrete prices/facilities, not stigmatizing judgments or comparisons asserting identical Waldorf beds."
     },
     {
       "id": "SRC02",
-      "title": "Tenement Museum —1900 Census for97 Orchard Street",
+      "title": "Tenement Museum —1900 Census for 97 Orchard Street",
       "url": "https://www.tenement.org/wp-content/uploads/2019/10/1900-Census.pdf",
-      "read": "2026-10-09: all3PDF pages; transcription rows5–35, including male/female boarders and Levine family rows25–29.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: all three PDF pages; row 8 Solive, Ike, boarder, 23, tailor; row 21 Rudolph, Pauline, boarder, 21, dress maker; rows 25–29 Levin, Harris (head, 32, ladies tailor), Jenny (wife, 24), Pauline (7), Hyman (4), Max (2).",
       "limit": "Census classification does not reveal nightly prices, bed position, household agreement or the experience of every immigrant."
     },
     {
       "id": "SRC03",
       "title": "Tenement Museum — The Rent Is Due",
       "url": "https://www.tenement.org/blog/the-rent-is-due-a-history-of-rent-at-97-orchard-street/",
-      "read": "2026-10-09: entire article and references; Veiller1900 study block and floor-specific rent ranges.",
-      "limit": "The quoted block is bounded by Canal/Bayard/Chrystie/Forsyth, not97 Orchard. Do not transfer later1907/1908 figures or the article's conjectural rents into1900 fact."
+      "read": "2026-10-09 (Astra): entire article and references. 2026-10-10: the page refused automated access (HTTP 403, also with a browser user agent and a second fetcher); its floor-specific rent figures were not found in the 1900 Commission volume (SRC08). No claim relies on this source after the re-check; the entry is kept for the owner's reference.",
+      "limit": "The quoted block is bounded by Canal/Bayard/Chrystie/Forsyth, not 97 Orchard. Do not transfer later 1907/1908 figures or the article's conjectural rents into 1900 fact."
     },
     {
       "id": "SRC04",
       "title": "Tenement Museum — The Levine Family Story",
       "url": "https://www.tenement.org/wp-content/uploads/2019/10/Levine-Family-Story.pdf",
-      "read": "2026-10-09: teacher-guide source notes and narrative pp.1–7; census and1892inspection described; distinguish illustrative domestic reconstruction.",
-      "limit": "Teacher narrative contains imagination and later children. In1900 there are three children; no imagined shopping or cooking anecdote asserted as documented."
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: pp.1–7; three-room apartment; 'Harris Levine hired three workers' and worked 'stopping only to observe the Sabbath each Saturday'; the presser 'worked in the kitchen next to the stove in the same space Jennie worked'; 1892 inspection; census spelling Levin; five family members in 1900.",
+      "limit": "Teacher narrative contains imagination and later children. In 1900 there are three children; no imagined shopping or cooking anecdote asserted as documented."
     },
     {
       "id": "SRC05",
       "title": "Tenement Museum — The Levine Tenement Story",
       "url": "https://www.tenement.org/Virtual-Tour/vt_levstory.html",
-      "read": "2026-10-09: full account of apartment workshop, three employees, kitchen pressing and Sabbath; originally reconstructed1897 scene.",
-      "limit": "Use workshop arrangement with clear historical period; no mechanical transfer of1897child count or1904family into1900."
+      "read": "2026-10-09 (Astra): full account. 2026-10-10: the page refused automated access (HTTP 403). C9 now rests on SRC04 alone, which carries every narrated detail; the entry is kept for the owner's reference.",
+      "limit": "Use workshop arrangement with clear historical period; no mechanical transfer of 1897 child count or 1904 family into 1900."
     },
     {
       "id": "SRC06",
       "title": "NYC LGBT Historic Sites Project — Mills House No.1",
       "url": "https://www.nyclgbtsites.org/site/mills-house-no-1-village-gate/",
-      "read": "2026-10-09: architectural history,1897opening and intended single-male clientele.",
+      "read": "2026-10-09 (Astra); 2026-10-10 re-read: 'Opened in 1897 as Mills House No. 1', 160 Bleecker Street, 'intended as a wholesome residential hotel for single, working-class men'.",
       "limit": "Later1910s/1920s incidents and entertainment venues are outside this episode. Do not imply modern demographic labels for every guest."
     },
     {
       "id": "SRC07",
       "title": "Tenement Museum —97 Orchard Street",
       "url": "https://www.tenement.org/explore/97-orchard-street/",
-      "read": "2026-10-09: building description:22apartments, roughly325squarefeet each,3rooms; Levine1892–1905 section.",
+      "read": "2026-10-09 (Astra): building description. 2026-10-10: the page refused automated access (HTTP 403); the apartment count also differs between readable sources (20 or 22). C8 now rests on SRC09; the entry is kept for the owner's reference.",
       "limit": "Whole-building historical overview spans decades. Keep households and upgrades in their own years."
+    },
+    {
+      "id": "SRC08",
+      "title": "DeForest and Veiller (eds) — The Tenement House Problem, including the Report of the New York State Tenement House Commission of 1900, vol. 1 (Macmillan, 1903)",
+      "url": "https://archive.org/stream/tenementhousepro01deforich/tenementhousepro01deforich_djvu.txt",
+      "read": "2026-10-10: title page and contents; pp.112–113 (Veiller, 'Tenement House Reform in New York City, 1834–1900': the exhibition block bounded by Chrystie, Forsyth, Canal and Bayard streets, 1 January 1900: 39 tenements, 605 apartments, 2,781 persons, 263 two-room, 179 three-room, 105 four-room and 21 five-room apartments, 264 water-closets, not one bath, rentals $113,964 a year); p.400 ('Tenement Evils as Seen by the Tenants': 'Several took boarders. This means of helping out with the rent is commonly resorted to, no matter how few the rooms'); pp.408–409 (Mrs. Miller's testimony: '$12 at one time for three rooms, and then I paid $10 the last time for three rooms, with no improvements, only gas … gas and cold water'; 'that $10 flat was at the top of a house, four flights of stairs').",
+      "limit": "A reform commission's publication: the block was chosen as 'characteristic', not measured as a citywide average, and the rents are one witness's experience, not a tariff. Do not transfer the block's counts or the witness's rents to 97 Orchard Street."
+    },
+    {
+      "id": "SRC09",
+      "title": "National Park Service — National Register of Historic Places registration form, Tenement Building at 97 Orchard Street (NRIS 92000556, 1992)",
+      "url": "https://npgallery.nps.gov/NRHP/GetAsset/NHLS/92000556_text",
+      "read": "2026-10-10: section 7 description: erected 1863–4; stoop replaced and toilets and shaft built in 1905; 'The second through fifth floors each contain a central hall with wooden floor, two toilet compartments, and four apartments'; 'Each apartment consists of three small rooms a living room or parlor, central kitchen, and inner bedroom'; parlor about 11 by 12 feet 6 inches (about 138 sq ft), inner bedroom about 8 feet 6 inches square (about 67 sq ft); 'Each apartment totaled about 325 square feet'; south-side partitions moved in 1905.",
+      "limit": "A 1992 measurement of the surviving building. Sources differ on the whole-building apartment count (20 or 22), so none is spoken. Hall toilets date from 1905, so none in 1900. No modern floor plan is drawn."
     }
   ],
   "claims": [
@@ -123,28 +137,52 @@
       "type": "F",
       "sources": [],
       "locator": "Opening explicitly defines a reconstructed search, not an individual immigration diary.",
-      "limit": "No invented named resident's dialogue or guarantee of vacancy, work or admission."
+      "limit": "No invented named resident's dialogue or guarantee of vacancy, work or admission.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Fictional framing row; S005 says aloud that the search is reconstructed and S082 that the ending is imagined. No source required.",
+        "source_locators": "—",
+        "refutation": "Looked for any line that presents the Visitor's night as a documented case; none.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C1",
-      "claim": "Mills House No.1 opened in1897 on Bleecker Street and offered low-cost rooms intended for single working-class men.",
+      "claim": "Mills House No.1 opened in 1897 on Bleecker Street and offered low-cost rooms intended for single working-class men.",
       "type": "E",
       "sources": [
         "SRC01",
         "SRC06"
       ],
       "locator": "Riis pp.89–91; historic-site opening and clientele paragraphs.",
-      "limit": "Not a family hotel or universal option; Bleecker is not Orchard."
+      "limit": "Not a family hotel or universal option; Bleecker is not Orchard.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Riis: 'No. 1, in Bleecker Street, has room for 1554 guests'; intended for 'decent mechanics, laborers, and men of small means'. NYC LGBT Historic Sites: 'Opened in 1897 as Mills House No. 1 … intended as a wholesome residential hotel for single, working-class men', 160 Bleecker Street.",
+        "source_locators": "SRC01 Mills Houses passage; SRC06 opening paragraphs",
+        "refutation": "Checked that the script does not call it a hotel for families or the only option (S022–S023 say the opposite). Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C2",
-      "claim": "Riis's1900 account gives Mills lodging at20cents nightly and a separate restaurant dinner at15cents.",
+      "claim": "Riis's1900 account gives Mills lodging at 20 cents nightly and a separate restaurant dinner at 15 cents.",
       "type": "E",
       "sources": [
         "SRC01"
       ],
       "locator": "Printed pp.89–90.",
-      "limit": "Historical reported charge, not entire daily living cost or guaranteed booking. No invented current-dollar equivalence."
+      "limit": "Historical reported charge, not entire daily living cost or guaranteed booking. No invented current-dollar equivalence.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Riis: 'a regular dinner of good quality is served at fifteen cents. The night's lodging is twenty cents'.",
+        "source_locators": "SRC01 Mills Houses passage",
+        "refutation": "S016 and S030 keep lodging and dinner as separate charges and S030 labels the thirty-night sum as an illustration. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C3",
@@ -154,7 +192,15 @@
         "SRC01"
       ],
       "locator": "Printed p.89, baths, games, library, paid and self-service laundry; p.90 rooms.",
-      "limit": "Do not draw private luxury bathroom or claim all amenities had identical availability for every guest."
+      "limit": "Do not draw private luxury bathroom or claim all amenities had identical availability for every guest.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Riis: 'baths without stint; a free library; a laundry for those who can pay … and a separate one for such as prefer to do it themselves'; 'bedrooms are necessarily small, but they are clean'.",
+        "source_locators": "SRC01 Mills Houses passage",
+        "refutation": "No private bath or kitchen is drawn or spoken; the room design excludes them. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C4",
@@ -164,17 +210,33 @@
         "SRC01"
       ],
       "locator": "Printed p.90, both houses filled and crowds often turned away.",
-      "limit": "No fabricated vacancy status for a particular1900night."
+      "limit": "No fabricated vacancy status for a particular 1900 night.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Riis: 'both have been filled since they were opened, and crowds have often been turned away'.",
+        "source_locators": "SRC01 Mills Houses passage",
+        "refutation": "S025 and S027 say no vacancy is recovered for the imagined night. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C5",
-      "claim": "97Orchard's1900census records boarders, including23-year-old tailor Ike Solive and21-year-old dressmaker Pauline Rudolph.",
+      "claim": "97 Orchard's1900 census records boarders, including 23-year-old tailor Ike Solive and 21-year-old dressmaker Pauline Rudolph.",
       "type": "E",
       "sources": [
         "SRC02"
       ],
-      "locator": "Transcription row8 and row21; boarder classification.",
-      "limit": "Names follow supplied transcription; do not claim a specific bed, room, relationship, rent or meals."
+      "locator": "Transcription row 8 and row 21; boarder classification.",
+      "limit": "Names follow supplied transcription; do not claim a specific bed, room, relationship, rent or meals.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Census transcription row 8: Solive, Ike, boarder, 23, tailor; row 21: Rudolph, Pauline, boarder, 21, dress maker.",
+        "source_locators": "SRC02 rows 8 and 21",
+        "refutation": "S038 keeps them in separate households and S039 and S044 refuse to infer a bed, meals or rent. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C6",
@@ -182,51 +244,90 @@
       "type": "I",
       "sources": [
         "SRC02",
-        "SRC03"
+        "SRC08"
       ],
-      "locator": "Census boarder rows; rent article household-support discussion.",
-      "limit": "No1908boarding percentage passed off as1900, no assumption every boarder ate meals with hosts."
+      "locator": "Census boarder rows; 1903 vol. 1 p.400, tenant's account: 'Several took boarders. This means of helping out with the rent is commonly resorted to, no matter how few the rooms.'",
+      "limit": "No 1908 boarding percentage passed off as 1900; no assumption every boarder ate meals with hosts; the boarders' own agreements are not recorded.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Census boarder rows (SRC02); 1903 vol. 1 p.400, a tenant's account: 'Several took boarders. This means of helping out with the rent is commonly resorted to, no matter how few the rooms.'",
+        "source_locators": "SRC02 rows 8 and 21; SRC08 p.400",
+        "refutation": "Interpretation row: S041 says 'could help' and S044 that agreements need their own evidence. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C7",
-      "claim": "Veiller's1900survey found3-room rents of$12–13monthly on first floors and$9.50–10on fourth floors in a specified Lower East Side block.",
+      "claim": "Veiller's block study for 1 January 1900 (Chrystie, Forsyth, Canal and Bayard streets) counted 39 tenements, 605 apartments and 2,781 people, 179 of the apartments having three rooms, with 264 water-closets and not one bath; a tenant told the State Tenement House Commission of 1900 she had paid $12 and then $10 a month for three rooms, the $10 flat being at the top of a house, four flights up.",
       "type": "E",
       "sources": [
-        "SRC03"
+        "SRC08"
       ],
-      "locator": "Veiller paragraph and footnotes1–2.",
-      "limit": "A study example, not a citywide tariff or97Orchardlease. Keep floor labels as source's US usage."
+      "locator": "Vol. 1 pp.112–113 (block figures); pp.408–409 (Mrs. Miller's testimony).",
+      "limit": "A block chosen as characteristic and one witness's rents, not a citywide tariff or a 97 Orchard Street lease. Floor counts follow US usage. The witness's two statements about stairs (two flights; four flights at the top of a house) are kept apart as she gave them.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "1903 vol. 1 pp.112–113: block bounded by Chrystie, Forsyth, Canal and Bayard, 'on January 1, 1900, contained 39 different tenement houses, having 605 different apartments or sets of rooms, and housing 2781 persons … 179 three-room apartments … There were only 264 water-closets, and not one bath in the entire block'. pp.408–409: 'I paid $12 at one time for three rooms, and then I paid $10 the last time for three rooms, with no improvements, only gas … gas and cold water'; 'that $10 flat was at the top of a house, four flights of stairs'. The Tenement Museum rent article (SRC03) could not be read today (HTTP 403) and its floor-specific $12–13 / $9.50–10 figures were not found in this volume, so the chapter now speaks only these passages.",
+        "source_locators": "SRC08 pp.112–113, 408–409",
+        "refutation": "Tried to find the old first-floor/fourth-floor figures in the volume (rent tables pp.380 and 408–409 are a speculative builder's example and a witness, not a floor survey); the narration no longer states them. The witness gave two stair counts; S053 quotes only the four-flights statement she attached to the $10 flat. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C8",
-      "claim": "97Orchard was built with22three-room apartments of roughly325squarefeet each.",
+      "claim": "97 Orchard Street (built 1863–4) had four apartments on each upper floor, each of three small rooms (parlor, central kitchen, inner bedroom) totalling about 325 square feet.",
       "type": "E",
       "sources": [
-        "SRC07"
+        "SRC09"
       ],
-      "locator": "Opening building description.",
-      "limit": "Do not present each room as a separate bedroom or exact modern floorplan without drawing evidence."
+      "locator": "Section 7, description of the upper floors and apartments.",
+      "limit": "Measured on the surviving building; no whole-building apartment count is spoken (sources give 20 or 22); no exact modern floor plan; hall toilets date from 1905, so none are drawn or implied for 1900.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "National Register form, section 7: 'The second through fifth floors each contain a central hall … two toilet compartments, and four apartments'; 'Each apartment consists of three small rooms a living room or parlor, central kitchen, and inner bedroom'; 'Each apartment totaled about 325 square feet'; toilets built 1905. The museum page (SRC07) could not be read today (HTTP 403) and readable sources disagree on the whole-building count (20 or 22), so S059 speaks four apartments per upper floor and no building total.",
+        "source_locators": "SRC09 section 7",
+        "refutation": "Room sizes are rounded, no floor plan is drawn, and S058 and S064 say three rooms are not three bedrooms. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C9",
-      "claim": "Harris and Jennie Levine lived/worked at97Orchard; Harris employed three garment workers, with pressing in the kitchen, and closed the workshop on Saturdays for the Jewish Sabbath.",
+      "claim": "Harris and Jennie Levine lived/worked at 97 Orchard; Harris employed three garment workers, with pressing in the kitchen, and closed the workshop on Saturdays for the Jewish Sabbath.",
       "type": "E",
       "sources": [
-        "SRC04",
-        "SRC05"
+        "SRC04"
       ],
-      "locator": "Family story pp.1/5,1892inspection explanation; virtual tour workshop and kitchen paragraphs.",
-      "limit": "Workers are not automatically boarders. Distinguish documented workplace from invented family interactions."
+      "locator": "Family story pp.1 and 5: three workers; presser in the kitchen next to the stove; Sabbath observed each Saturday; 1892 inspection.",
+      "limit": "Workers are not automatically boarders. Distinguish documented workplace from invented family interactions.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Levine Family Story PDF: 'Harris Levine hired three workers', working 'stopping only to observe the Sabbath each Saturday'; the presser 'worked in the kitchen next to the stove in the same space Jennie worked'; three-room apartment; 1892 inspection. The virtual-tour page (SRC05) could not be read today (HTTP 403) and is no longer cited.",
+        "source_locators": "SRC04 pp.1 and 5",
+        "refutation": "S066 and S067 keep employees out of the resident count; S069 attributes the Sabbath closure to the museum's research. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C10",
-      "claim": "The1900census lists Harris, Jenny and three children in the Levine household; later family size must not be imported.",
+      "claim": "The 1900 census lists Harris, Jenny and three children in the Levine household; later family size must not be imported.",
       "type": "E",
       "sources": [
         "SRC02"
       ],
-      "locator": "Rows25–29: Harris,Jenny,Pauline,Hyman,Max.",
-      "limit": "Narration uses three children only for1900. No claim that census captures every visitor or worker."
+      "locator": "Rows 25–29: Harris, Jenny, Pauline, Hyman, Max.",
+      "limit": "Narration uses three children only for 1900. No claim that census captures every visitor or worker.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Census transcription rows 25–29: Levin, Harris (head, 32, ladies tailor), Jenny (wife, 24), Pauline (7), Hyman (4), Max (2).",
+        "source_locators": "SRC02 rows 25–29",
+        "refutation": "S065 speaks two parents and three children for 1900 only; the avoid list bans five children. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C11",
@@ -235,20 +336,28 @@
       "sources": [
         "SRC01",
         "SRC02",
-        "SRC03"
+        "SRC08"
       ],
       "locator": "Synthesis of reported prices, boarding records and household arrangements.",
-      "limit": "Explicit interpretation; no universal ranking or invented wage budget.30nights×20c=$6is only an illustrative calculation if used."
+      "limit": "Explicit interpretation; no universal ranking or invented wage budget.30 nights×20c=$6 is only an illustrative calculation if used.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Synthesis of Riis's charges (SRC01), the census boarders (SRC02) and the 1900 Commission block counts and testimony (SRC08).",
+        "source_locators": "SRC01; SRC02; SRC08 pp.112–113, 400, 408–409",
+        "refutation": "Interpretation row; S055 and S056 refuse a like-for-like price ranking. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     }
   ],
-  "research": "A fictional single adult's first-night search in1900 contrasts nightly lodging, boarding and monthly family housing. Mills House No.1 was operating, and Riis's1900edition—not only his1902rewrite—confirms20c lodging,15c dinner and shared amenities. The9am–5pm room closure occurs in the1902book but was not located in the1900passage, so omit it. The1900census supplies actual male and female boarders at97Orchard, avoiding reliance on a1908citywide percentage. Veiller rent ranges belong to a different surveyed block; caption and speech say so.97Orchard's apartments are small three-room homes, not three-bedroom homes. The Levines have three children in1900, not the eventual five; workplace staff are not counted as residents. Do not use the Ellis Island main hall without choosing a date after itsDecember1900opening, or assume all arrivals passed through it. Avoid1901tenement reforms,1903women'shotel,1904subway,1909Mills/bridge imagery. Riis is a reform advocate with stigmatizing prejudices; factual observations can be used without adopting his moral explanations of poverty. No authenticity claim for fictional Visitor's bed or particular family's private agreement.",
-  "description": "You have arrived in New York in1900. Tonight you need a bed; next month you might need a home. Compare a low-cost room at Mills House, boarding in a crowded neighborhood and renting a small tenement apartment, using contemporary accounts, a1900census and the lives of residents at97Orchard Street.",
+  "research": "A fictional single adult's first-night search in 1900 contrasts nightly lodging, boarding and monthly family housing. Mills House No.1 was operating, and Riis's1900 edition—not only his 1902 rewrite—confirms20c lodging, 15c dinner and shared amenities. The9am–5pm room closure occurs in the 1902 book but was not located in the 1900 passage, so omit it. The 1900 census supplies actual male and female boarders at 97 Orchard, avoiding reliance on a 1908 citywide percentage. Veiller rent ranges belong to a different surveyed block; caption and speech say so.97 Orchard's apartments are small three-room homes, not three-bedroom homes. The Levines have three children in 1900, not the eventual five; workplace staff are not counted as residents. Do not use the Ellis Island main hall without choosing a date after itsDecember 1900 opening, or assume all arrivals passed through it. Avoid 1901 tenement reforms, 1903 women'shotel, 1904 subway, 1909 Mills/bridge imagery. Riis is a reform advocate with stigmatizing prejudices; factual observations can be used without adopting his moral explanations of poverty. No authenticity claim for fictional Visitor's bed or particular family's private agreement. Re-check 2026-10-10: the rent chapter speaks the 1900 Commission's block counts and one witness's rents (SRC08) instead of the museum article's floor ranges, which could not be re-read; the apartment figures follow the National Register form (SRC09) and no whole-building count is spoken because readable sources disagree (20 or 22).",
+  "description": "You have arrived in New York in 1900. Tonight you need a bed; next month you might need a home. Compare a low-cost room at Mills House, boarding in a crowded neighborhood and renting a small tenement apartment, using contemporary accounts, a 1900 census and the lives of residents at 97 Orchard Street.",
   "tags": [
-    "New York1900",
+    "New York 1900",
     "New York history",
     "tenement history",
     "Mills House",
-    "97Orchard Street",
+    "97 Orchard Street",
     "Lower East Side history",
     "immigrant life",
     "boarding houses",
@@ -261,10 +370,12 @@
   "pinned_comment": "For your first night, would you try the single room, seek a boarding arrangement, or start searching for an apartment? What would matter most?",
   "pilot": [
     "S001",
-    "S014",
-    "S019",
-    "S039",
-    "S064",
+    "S006",
+    "S008",
+    "S012",
+    "S034",
+    "S058",
+    "S062",
     "TH-A"
   ],
   "thumbnails": [
@@ -272,9 +383,9 @@
       "id": "A",
       "headline": "WHERE’S MY BED?",
       "chip": "NEW YORK • 1900",
-      "scope": "New York1900; fictional first-night search",
+      "scope": "New York 1900; fictional first-night search",
       "pose": "closeup-worried",
-      "background": "A narrow plain single bed at left inside a modest period room, open doorway beyond showing a brick tenement street. Brown travel bag at bed foot. Keep geography illustrative, not Mills plus97Orchard fused into one building; no skyline, neon or drawn Visitor.",
+      "background": "A narrow plain single bed at left inside a modest period room, open doorway beyond showing a brick tenement street. Brown travel bag at bed foot. Keep geography illustrative, not Mills plus 97 Orchard fused into one building; no skyline or neon.",
       "rationale": "Immediate personal problem and visible promise of a place to sleep. The room is modest, emotionally clear, and the question survives phone-size viewing.",
       "payoff_scene_ids": [
         "S001",
@@ -300,7 +411,7 @@
       "id": "C",
       "headline": "THREE ROOMS. EVERYTHING.",
       "chip": "ORCHARD STREET • 1900",
-      "scope": "97Orchard Street household-workspace reconstruction",
+      "scope": "97 Orchard Street household-workspace reconstruction",
       "pose": "closeup-thoughtful",
       "background": "Period treadle sewing machine left foreground and a narrow doorway to a modest kitchen behind. A folded blanket on plain chair suggests domestic use without invented bed count. No factory warehouse, five children or slum caricature.",
       "rationale": "Shows the home/work tension rather than implying three spacious bedrooms; directly paid off by the Levine story.",
@@ -317,21 +428,21 @@
       "from_scene": "S013",
       "to_scene": "S019",
       "hook": "A room with qualifications",
-      "description": "Riis’s1900account reports20-cent nightly lodging at the Mills Houses. Small rooms and shared amenities were a specific offer for men, with food priced separately."
+      "description": "Riis’s1900 account reports 20-cent nightly lodging at the Mills Houses. Small rooms and shared amenities were a specific offer for men, with food priced separately."
     },
     {
       "title": "New York’s Cheaper Apartment Was Upstairs",
       "from_scene": "S049",
       "to_scene": "S055",
       "hook": "The floor changed the price",
-      "description": "A1900Lower East Side survey found lower rents on higher floors in its sample. These figures belong to that surveyed block, not a recovered97Orchard Street lease."
+      "description": "A 1900 Lower East Side block survey and a tenant's testimony to the 1900 state commission: three rooms for about ten to twelve dollars a month, the cheaper flat four flights up. These figures belong to that block and that witness, not a recovered 97 Orchard Street lease."
     },
     {
       "title": "Three Rooms, a Family and a Workshop",
-      "from_scene": "S061",
+      "from_scene": "S060",
       "to_scene": "S067",
       "hook": "Three rooms did not mean three bedrooms",
-      "description": "The Levine household at97Orchard combined domestic life and garment work. In1900the census lists two parents and three children; employees were not automatically residents."
+      "description": "Harris and Jennie Levine's household at 97 Orchard combined domestic life and garment work. In 1900 the census lists two parents and three children; employees were not automatically residents."
     }
   ],
   "chapters": [
@@ -354,12 +465,15 @@
           "Single brown travelling bag on pavement beside tenement stoop, no person or luggage wheels."
         ],
         [
-          "You cannot book a room from your pocket. You can, however, discover that the city has several very different answers.",
+          "You cannot book a room from your pocket. What does a bed cost here, and what does the price leave out? The second answer waits until the end.",
           "C0,C11",
           "street",
           "reaction",
           "Same street and bag, no modern device, two adults walking left.",
-          "scratch-head"
+          "scratch-head",
+          null,
+          null,
+          {}
         ],
         [
           "A nightly room, a boarding arrangement, or a monthly apartment. Those solve different problems, at different prices.",
@@ -381,12 +495,15 @@
           "New York • 1900 • reconstructed search"
         ],
         [
-          "Our Visitor is a single adult man. That opens one door which would not solve everybody's problem.",
+          "You arrive alone, one adult man and one bag. That opens one door, which would not solve everybody's problem.",
           "C1,C0",
           "mills_ext",
           "wide",
           "Reconstructed lower Bleecker facade in late afternoon, two adult men near entrance, no family group.",
-          "watch-arms-crossed"
+          "watch-arms-crossed",
+          null,
+          null,
+          {}
         ],
         [
           "We will also meet actual residents through the census, and a family whose home doubled as a place of work.",
@@ -397,12 +514,15 @@
           null
         ],
         [
-          "But first, suppose you need one bed, for one night, and you have some money. What might that purchase?",
+          "But first, suppose you need one bed, for one night, and you have some money in your pocket.",
           "C0,C2",
           "mills_desk",
           "medium",
           "Male clerk behind plain counter left, blank ledger, clear floor right.",
-          "count-fingers"
+          "count-fingers",
+          null,
+          null,
+          {}
         ],
         [
           "An answer stands on Bleecker Street: Mills House Number One. It opened in eighteen ninety-seven for men of modest means.",
@@ -411,7 +531,7 @@
           "establishing",
           "Same verified entrance, early evening light, two modestly dressed adult men entering.",
           null,
-          "Mills House No.1 • opened1897"
+          "Mills House No.1 • opened 1897"
         ],
         [
           "The substantial building offers something more modest than a private suite. Let us inspect what you could actually get.",
@@ -448,7 +568,7 @@
           "medium",
           "Single plain metal-framed bed left, clean bedding, no bathroom or kitchenette.",
           "closeup-thoughtful",
-          "Riis • A Ten Years’ War,1900"
+          "Riis • A Ten Years’ War, 1900"
         ],
         [
           "Small matters. This room provides somewhere to sleep, not space to spread an entire household.",
@@ -462,16 +582,19 @@
           "Shared amenities include baths, reading facilities and laundry options. You can wash your own clothes if you prefer.",
           "C3",
           "mills_common",
-          "wide",
+          "medium",
           "Two men sit quietly at reading table left; shelves of blank-spined books, orderly modest room.",
-          "count-fingers"
+          "count-fingers",
+          null,
+          null,
+          {}
         ],
         [
           "Riis reports twenty cents for nightly lodging. A restaurant dinner costs fifteen cents separately. Your pocket needs that distinction.",
           "C2",
           "diagram",
           "graphic",
-          "Bed icon20¢per night and plate icon15¢dinner, separated plus sign; no modern conversion.",
+          "Bed icon 20¢per night and plate icon 15¢dinner, separated plus sign; no modern conversion.",
           null,
           null,
           "BED:20¢/NIGHT • DINNER:15¢"
@@ -481,8 +604,13 @@
           "C2,C11",
           "objects",
           "object insert",
-          "Small group of blank-faced period coin shapes beside a simple bed icon made locally later, no written currency.",
-          null
+          "Small group of blank-faced period coins on a neutral field; bed icon composited locally later; no written currency.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
           "Private sleeping space, shared amenities, food downstairs: the room belongs to a larger arrangement.",
@@ -496,9 +624,12 @@
           "It offers something important to a newcomer who fits its intended clientele. You do not need to rent a whole apartment tonight.",
           "C1,C11",
           "mills_desk",
-          "medium",
+          "wide",
           "Clerk left beside blank ledger, one waiting adult man farther left, no key exchange promised yet.",
-          null
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "Your bag can finally occupy one small patch of floor. You have been imagining that moment with unreasonable emotional intensity.",
@@ -553,7 +684,7 @@
           "medium",
           "Illustrative clerk checking blank ledger with two waiting men, no exact occupancy tally.",
           "closeup-worried",
-          "Reported demand • Riis,1900"
+          "Reported demand • Riis, 1900"
         ],
         [
           "Your search has two questions: can you afford it, and is it available tonight?",
@@ -571,7 +702,12 @@
           "objects",
           "object insert",
           "Plain coins beside closed unnumbered key on neutral field, no booking confirmation.",
-          null
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
           "Suppose you do get a room. It solves tonight's sleeping problem. Tomorrow's meals and tomorrow night's lodging still need attention.",
@@ -586,16 +722,22 @@
           "C11",
           "objects",
           "object insert",
-          "Three local-drawn simple icons bed, plate and bag on neutral field; no amount painted by model."
+          "Plain blank coins, an empty tin plate and the brown travel bag on a neutral field; no amounts painted.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
           "For illustration, thirty nights at twenty cents makes six dollars for lodging. That supplies neither dinner nor a job.",
           "C2,C11",
           "diagram",
           "graphic",
-          "Explicit assumed30nights×20¢=$6, subtitle lodging only; no claim actualmonthinvoice.",
+          "Explicit assumed 30 nights×20¢=$6, subtitle lodging only; no claim actualmonthinvoice.",
           null,
-          "Illustrative calculation •30nights, lodging only",
+          "Illustrative calculation •30 nights, lodging only",
           "30×20¢=$6"
         ],
         [
@@ -604,7 +746,12 @@
           "objects",
           "object insert",
           "Period blank coins on neutral field, no current banknotes, currency chart or smartphone.",
-          null
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
           "This room answers a particular question: where can one eligible person sleep, if space is available?",
@@ -618,9 +765,12 @@
           "But suppose you already know someone in the city. Or you find a household willing to make space for another person.",
           "C0,C6",
           "street",
-          "wide",
+          "establishing",
           "Two adults greet at a plain stoop on left, no invented named people or touching confusion.",
-          "closeup-listening"
+          "closeup-listening",
+          null,
+          null,
+          {}
         ],
         [
           "That leads to another possibility: boarding. A place in an existing household can connect housing to people who are already established.",
@@ -636,16 +786,23 @@
           "objects",
           "object insert",
           "Blank paper with locally composited census extract reserved on left; no source handwriting generated.",
-          null
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
-          "At ninety-seven Orchard Street, the nineteen-hundred records actually name boarders. They are people, with occupations, rather than scenery around our visitor.",
+          "At ninety-seven Orchard Street, the nineteen-hundred records actually name boarders. They are people, with occupations, rather than scenery around you.",
           "C5",
           "orchard_ext",
           "establishing",
           "Verified lower facade and entrance, two ordinary adults on pavement, no museum banners.",
           null,
-          "97Orchard Street •1900census"
+          "97 Orchard Street •1900 census",
+          null,
+          {}
         ]
       ]
     },
@@ -657,20 +814,21 @@
           "C5",
           "diagram",
           "graphic",
-          "Two locally typeset record cards with names,age,occupation,boarder; no invented portraits.",
+          "Two locally typeset record cards with names, age, occupation, boarder; no invented portraits.",
           null,
-          "1900census • rows8and21",
+          "1900 census • rows 8 and 21",
           "IKE SOLIVE • TAILOR | PAULINE RUDOLPH • DRESSMAKER"
         ],
         [
           "They appear in different households. We should not invent a room or arrangement that puts them together.",
           "C5",
-          "diagram",
-          "graphic",
-          "Two record boxes remain separate; no shared bed diagram or inferred relationship.",
+          "boarding",
+          "reaction",
+          "Two separate plain beds at left, each with its own folded blanket, nobody present; clear right floor.",
+          "eyebrow-raise",
           null,
           null,
-          "SEPARATE HOUSEHOLD RECORDS"
+          {}
         ],
         [
           "The record gives status and occupation, not a bed's exact position or the agreement with a host.",
@@ -708,30 +866,43 @@
           "C6",
           "boarding",
           "reaction",
-          "One clothed adult quietly arranges belongings near bed left; no staged quarrel, Visitor right.",
-          null
+          "One clothed adult quietly arranges belongings near the bed at left; no staged quarrel; clear right floor.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "Do not assume boarder tells us every detail about meals, rent or relationships. Particular agreements need their own evidence.",
           "C5,C6",
           "objects",
           "object insert",
-          "Plain bowl, blank ledger and key separated on neutral field, no values or implied included-meal package."
+          "Plain bowl, blank ledger and key separated on neutral field, no values or implied included-meal package.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
           "What we securely know is that boarders lived in this building in nineteen hundred.",
           "C5",
           "orchard_ext",
           "medium",
-          "Same1900 entrance, two unrelated adults passing separately, no claim they are named boarders.",
+          "Same 1900 entrance, two unrelated adults passing separately, no claim they are named boarders.",
           "count-fingers"
         ],
         [
           "That broadens the first-night search. The city was made of households as well as hotels, with different ways of accommodating people.",
           "C6,C11",
           "street",
-          "wide",
-          "Brick residential frontage with two doorways and modest pedestrians, not Mills facade next to Orchard copy."
+          "establishing",
+          "Brick residential frontage with two doorways and modest pedestrians, not Mills facade next to Orchard copy.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "Joining a household differs from renting your own apartment. Perhaps you hope eventually to bring your family.",
@@ -744,12 +915,13 @@
         [
           "Now the price changes units. We stop asking what one night costs and start asking about rent for the month.",
           "C7,C11",
-          "diagram",
-          "graphic",
-          "Nightly bed card transitions to monthly apartment card, no number until next chapter.",
+          "stairs",
+          "reaction",
+          "Plain apartment door on the landing at left, banister in the foreground, level clear floor right; nobody present.",
+          "count-fingers",
           null,
           null,
-          "PER NIGHT → PER MONTH"
+          {}
         ]
       ]
     },
@@ -761,44 +933,55 @@
           "C7",
           "diagram",
           "graphic",
-          "Simple local map rectangle labelled Canal/Bayard/Chrystie/Forsyth;97Orchard clearly outside sampled block.",
+          "Simple local map rectangle labelled Canal, Bayard, Chrystie and Forsyth; 97 Orchard marked clearly outside the sampled block; says schematic.",
           null,
-          "Veiller survey •1900 •different block",
-          "A SPECIFIC SURVEY • NOT A CITYWIDE TARIFF"
+          "Veiller block study • 1 January 1900 • Chrystie–Forsyth–Canal–Bayard",
+          "A SPECIFIC SURVEY • NOT A CITYWIDE TARIFF",
+          {}
         ],
         [
-          "In that sample, three rooms on the first floor rented for about twelve to thirteen dollars a month.",
-          "C7",
-          "stairs",
-          "medium",
-          "Lower landing and apartment doorway, ordinary stairs rising left; no readable rent painted.",
-          "count-fingers",
-          "Survey example •3rooms •$12–13/month"
-        ],
-        [
-          "On the fourth floor, the reported range was nine dollars fifty to ten dollars a month. The higher climb accompanied the lower rent.",
+          "On the first day of nineteen hundred, that one block held thirty-nine tenements, six hundred and five apartments and two thousand seven hundred and eighty-one people.",
           "C7",
           "stairs",
           "wide",
-          "Higher landing in same generic stair family, stairwell descending left; Visitor on level right landing.",
+          "Lower landing with two plain apartment doors, ordinary stairs rising left, one adult carrying a basket up; no readable numbers painted.",
+          "count-fingers",
+          "Veiller block study • 1 January 1900 • 39 tenements • 605 apartments",
           null,
-          "Survey example •4thfloor •$9.50–10/month"
+          {}
         ],
         [
-          "Those figures cannot simply become the Levines' exact rent. Their own lease is not the source.",
+          "One hundred and seventy-nine of those apartments had three rooms. Two hundred and sixty-four toilets served the whole block, and not one bath.",
           "C7",
-          "orchard_ext",
+          "stairs",
           "medium",
-          "97Orchard doorway without any rent price label, no landlord holding invented document.",
-          null
+          "Higher landing in the same stair family, stairwell descending left, a plain closed door in the right background; level clear floor right.",
+          "eyebrow-raise",
+          "Same block • 1 January 1900 • 264 water-closets • not one bath",
+          null,
+          {}
         ],
         [
-          "But the comparison gives you a practical trade-off. A cheaper apartment may put more stairs between your household and the street.",
+          "A tenant told the state's housing commission that same year what three rooms cost her: twelve dollars a month once, then ten.",
+          "C7",
+          "street",
+          "wide",
+          "Brick residential frontage with two doorways, one adult woman with a basket pausing on a stoop at left, modest pedestrians farther back; no readable signs.",
+          null,
+          "Tenant's testimony • State Tenement House Commission • 1900",
+          null,
+          {}
+        ],
+        [
+          "Her ten-dollar rooms came with gas and cold water, and nothing else. The cheapest she knew sat at the top of a house, four flights up.",
           "C7,C11",
           "stairs",
           "medium",
           "Long modest stair visible left, safe level landing right, one adult climbing with small bundle.",
-          "look-up-worried"
+          "look-up-worried",
+          "Tenant's testimony • 1900 • $10 flat, four flights up",
+          null,
+          {}
         ],
         [
           "Your bag has an opinion about that climb. New York's impressive size has become less interesting than the next landing.",
@@ -812,10 +995,11 @@
           "C7,C11",
           "diagram",
           "graphic",
-          "Two cards:20¢bed/night and surveyed3-room rent/month; note notlike-for-likecomparison, no misleading cheaper arrow.",
+          "Two cards: 20¢ bed per night and about $10–12 for three rooms per month (tenant's testimony); note not like-for-like comparison, no misleading cheaper arrow.",
           null,
           null,
-          "A BED/NIGHT ≠ AN APARTMENT/MONTH"
+          "A BED/NIGHT ≠ AN APARTMENT/MONTH",
+          {}
         ],
         [
           "Choosing the smaller number would misunderstand both offers. Decide what problem you need to solve.",
@@ -830,7 +1014,7 @@
           "C0,C11",
           "diagram",
           "graphic",
-          "Three distinct needs with bed,person+workbag,household symbols; no newhistoricalclaim.",
+          "Three distinct needs with bed, person+workbag, household symbols; no newhistoricalclaim.",
           null,
           null,
           "TONIGHT • GETTING STARTED • A HOUSEHOLD"
@@ -844,23 +1028,26 @@
           "closeup-listening"
         ],
         [
-          "At ninety-seven Orchard, apartments were roughly three hundred and twenty-five square feet. Three rooms accommodated much of daily life.",
+          "At ninety-seven Orchard, four apartments shared each upper floor. Each had three small rooms, about three hundred and twenty-five square feet in all.",
           "C8",
           "diagram",
           "graphic",
-          "Schematic three-room sequence labelled approximately325sqft; no exact museum survey dimensions inferred.",
+          "Schematic three-room sequence, parlor, kitchen and inner bedroom, labelled approximately 325 square feet and marked schematic; no survey dimensions.",
           null,
-          "97Orchard •typical apartment area",
-          "THREE ROOMS • ABOUT325SQFT"
+          "97 Orchard • four apartments to a floor • about 325 sq ft",
+          "THREE ROOMS • ABOUT 325 SQ FT",
+          {}
         ],
         [
           "To understand what that meant, meet a household that had already made a home there: Harris and Jennie Levine.",
           "C9",
           "frontroom",
           "medium",
-          "Harris illustrative adult sits at treadle machine left; cloth on worktable, no Visitor overlapping worker.",
+          "Harris, an illustrative adult man, sits at the treadle machine left; cloth on the worktable; clear right floor.",
           "look-around",
-          "Levine household •97Orchard"
+          "Levine household •97 Orchard",
+          null,
+          {}
         ]
       ]
     },
@@ -903,7 +1090,7 @@
           "C10",
           "diagram",
           "graphic",
-          "Five locally drawn family symbols: two adults and three children. Typeset the year1900; no exact portraits.",
+          "Five locally drawn family symbols: two adults and three children. Typeset the year 1900; no exact portraits.",
           null,
           null,
           "1900: TWO PARENTS • THREE CHILDREN"
@@ -911,12 +1098,13 @@
         [
           "The three employees are not automatically residents. A workplace headcount and a household record answer different questions.",
           "C9,C10",
-          "diagram",
-          "graphic",
-          "Separate household and workplace panels. Do not sum employees into the number of residents.",
+          "frontroom",
+          "object insert",
+          "Folded cloth and a tailor's shears on the worktable with a plain household cup beside them; no people.",
           null,
           null,
-          "WHO WORKS HERE ≠ WHO LIVES HERE"
+          null,
+          {}
         ],
         [
           "Otherwise, every name becomes another person permanently crammed into the picture. The evidence deserves more care than that.",
@@ -938,31 +1126,36 @@
           "According to the museum's research, the workshop closed on Saturdays for the Jewish Sabbath. Work fitted around that observance.",
           "C9",
           "frontroom",
-          "medium",
+          "wide",
           "Idle treadle machine, folded cloth and empty chairs. No invented ritual.",
           null,
-          "Levine workshop •Sabbath closure"
+          "Levine workshop •Sabbath closure",
+          null,
+          {}
         ],
         [
-          "A tenement was somebody's home, with routines and choices, not merely a grim interior for a visitor to look horrified inside.",
+          "A tenement was somebody's home, with routines and choices, not merely a grim interior for a stranger to look horrified inside.",
           "C9,C11",
           "kitchen",
-          "wide",
+          "medium",
           "Illustrative Jennie tidies a plain table; modest orderly belongings, no exaggerated dirt or despair.",
-          "closeup-listening"
+          "closeup-listening",
+          null,
+          null,
+          {}
         ],
         [
           "This does not recover the Levines' first night. It shows what establishing a longer-term home could involve.",
           "C0,C9",
           "orchard_ext",
-          "medium",
-          "Same doorway at early evening, one ordinary adult entering. Do not portray the Levines as newly arriving in1900."
+          "wide",
+          "Same doorway at early evening, one ordinary adult entering. Do not portray the Levines as newly arriving in 1900."
         ],
         [
           "Your own first-night question now has more depth. Finding somewhere to lie down and establishing a household are different achievements.",
           "C11",
           "street",
-          "wide",
+          "establishing",
           "Evening street, brown travelling bag beside stoop, a few lit windows only.",
           "look-around"
         ]
@@ -976,8 +1169,11 @@
           "C1,C2,C4",
           "mills_room",
           "medium",
-          "Small clean bed at left; bag at its foot is our fictional visitor's prop. Quiet right foreground.",
-          "count-fingers"
+          "Small clean bed at left, brown bag at its foot; quiet right foreground.",
+          "count-fingers",
+          null,
+          null,
+          {}
         ],
         [
           "Boarding involves an existing household and a particular agreement. The census shows actual residents living that way.",
@@ -1018,7 +1214,13 @@
           "C11",
           "objects",
           "object insert",
-          "Three separate blank source cards; text composited locally. No claim to a complete city lodging map."
+          "Three separate blank source cards; text composited locally. No claim to a complete city lodging map.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
           "Knowing an address is useful. Knowing what that address offers, whom it serves and whether it has space is more useful.",
@@ -1032,9 +1234,12 @@
           "A city full of buildings is not the same as a place you can actually occupy.",
           "C11",
           "street",
-          "wide",
+          "establishing",
           "Rows of brick fronts recede modestly. Clear right foreground; no modern skyline.",
-          "look-around"
+          "look-around",
+          null,
+          null,
+          {}
         ],
         [
           "Your first night may depend on a very small decision, a bit of information, or somebody willing to make room.",
@@ -1045,13 +1250,15 @@
           "closeup-listening"
         ],
         [
-          "For our fictional ending, suppose a room is available and you can pay. This outcome belongs to our Visitor.",
+          "For our fictional ending, suppose a room is available and you can pay. This outcome belongs to the story, not the record.",
           "C0",
           "mills_desk",
-          "medium",
+          "reaction",
           "Clerk at left prepares an unnumbered key. No readable invented receipt.",
           "count-fingers",
-          "Imagined outcome •room available"
+          "Imagined outcome •room available",
+          null,
+          {}
         ],
         [
           "The bag comes off your shoulder. A door closes. There is a bed, which has suddenly become the most attractive object in Manhattan.",
@@ -1066,8 +1273,11 @@
           "C0,C11",
           "mills_room",
           "medium",
-          "Bed left, dark window. Do not paint the Visitor sleeping in the bed.",
-          "closeup-listening"
+          "Bed left, dark window; the bed is empty, nobody lying in it.",
+          "closeup-listening",
+          null,
+          null,
+          {}
         ]
       ]
     },
@@ -1085,12 +1295,15 @@
           "ROOM • HOUSEHOLD • HOME"
         ],
         [
-          "The twenty-cent figure makes a good hook. The useful history is understanding what it bought and everything it left unresolved.",
+          "The twenty-cent figure made a good hook. Now the held question: what did that price leave out? Rather a lot, as it turns out.",
           "C2,C11",
           "mills_room",
           "object insert",
           "Close view of plain bed frame and pillow, no price tag.",
-          null
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "It did not include a family apartment. It did not create vacancies. It did not pay every other expense.",
@@ -1104,15 +1317,24 @@
           "C5",
           "objects",
           "object insert",
-          "Cloth and simple sewing tools beside a blank census-card area. No named portrait or electric machine."
+          "Cloth and simple sewing tools beside a blank census-card area. No named portrait or electric machine.",
+          null,
+          null,
+          null,
+          {
+            "independent_anchor": true
+          }
         ],
         [
-          "The survey adds another dimension: within its sample, the floor affected the monthly price.",
+          "The nineteen-hundred testimony adds another dimension: cheaper rooms meant more stairs. It does not tell us what the Levines paid.",
           "C7",
           "stairs",
           "wide",
-          "Staircase and two plain landings, no elevator or invented fourth-floor door number.",
-          "look-up-worried"
+          "Staircase and two plain landings, nobody present; no elevator or invented door numbers.",
+          "look-up-worried",
+          null,
+          null,
+          {}
         ],
         [
           "And the Levines show how small rooms could support both a household and the work that helped keep it there.",
@@ -1123,12 +1345,15 @@
           "watch-arms-crossed"
         ],
         [
-          "For our newcomer, that future remains ahead. Tonight's achievement is simply a bag on the floor and somewhere to sleep.",
+          "For you, that future remains ahead. Tonight's achievement is simply a bag on the floor and somewhere to sleep.",
           "C0",
           "mills_room",
           "wide",
           "Brown bag at foot of single bed, modest room unchanged. No painted people.",
-          "look-around"
+          "look-around",
+          null,
+          null,
+          {}
         ],
         [
           "Tomorrow brings food, work, directions and keeping up the payments. A night is the beginning of the story.",
@@ -1150,8 +1375,11 @@
           "C0,C11",
           "mills_room",
           "medium",
-          "Plain pillow and bed left. Clear right floor for standing or close-up Visitor; no lying pose.",
-          "closeup-listening"
+          "Plain pillow and bed left, bed empty; clear right floor.",
+          "closeup-listening",
+          null,
+          null,
+          {}
         ],
         [
           "Which would you seek first: a nightly room, a boarding arrangement, or a place of your own?",
@@ -1164,12 +1392,15 @@
           "ONE NIGHT • A BOARDER’S PLACE • YOUR OWN ROOMS"
         ],
         [
-          "Choose with your circumstances in mind. And before you admire the skyline, make sure somebody has an answer about the bed.",
+          "Choose with your circumstances in mind. Before you admire the skyline, make sure somebody has an answer about the bed. Then pick the next episode on screen.",
           "C0",
           "mills_room",
           "reaction",
           "Quiet established room, bed clearly left, bag at foot, no skyline through the window.",
-          "shrug-smirk"
+          "shrug-smirk",
+          null,
+          null,
+          {}
         ]
       ]
     }
@@ -1182,7 +1413,7 @@
     "references": [
       "channel/assets/visitor_sheet.png"
     ],
-    "production_review": "Check visual balance beside understated1900street clothes; avoid enlarging the Visitor or saturating him so strongly that the room's evidence becomes secondary."
+    "production_review": "Check visual balance beside understated 1900 street clothes; avoid enlarging the Visitor or saturating him so strongly that the room's evidence becomes secondary."
   },
   "pronunciations": {
     "status": "director_specified_not_voiced",
@@ -1200,7 +1431,7 @@
       {
         "term": "Levine",
         "say": "luh-VEEN",
-        "note": "Consistent museum-family surname; caption Levine;1900source transcribes Levin."
+        "note": "Consistent museum-family surname; caption Levine; 1900 source transcribes Levin."
       },
       {
         "term": "Jacob Riis",
@@ -1210,61 +1441,486 @@
       {
         "term": "Lawrence Veiller",
         "say": "LAW-rens VAY-ler",
-        "note": "Verify named-source reading in pilot if spoken; can use housing survey without author name."
-      }
-    ],
-    "rule": "Read20c as twenty cents,12–13dollars as twelve to thirteen dollars; distinguish per night from per month."
-  },
-  "sound_plan": {
-    "status": "director_specified_not_generated_or_heard",
-    "music": "Existing theme quiet under dialogue; no comic poverty stings or sentimental swelling over named families.",
-    "mix": "Near-14LUFS, true peak<=-1dBTP; brief effects below exact narration cue.",
-    "new_assets": [
-      {
-        "id": "wood_steps",
-        "description": "Two modest footsteps on worn wooden stairs, no modern shoe squeak."
+        "note": "Caption only (S049–S051); the surname is not spoken in the final script."
       },
       {
-        "id": "treadle_sewing",
-        "description": "Quiet mechanical treadle sewing, no electric motor."
+        "term": "Ike Solive",
+        "say": "IKE so-LEEV",
+        "note": "Census transcription spelling; the real pronunciation is unknown, so say it plainly once and keep the caption spelling."
+      },
+      {
+        "term": "Pauline Rudolph",
+        "say": "paw-LEEN ROO-dolf",
+        "note": "Census transcription spelling."
+      },
+      {
+        "term": "Orchard Street",
+        "say": "OR-churd street",
+        "note": "Spoken as ninety-seven Orchard."
+      },
+      {
+        "term": "Chrystie",
+        "say": "KRIS-tee",
+        "note": "Caption only on the S049 map; not spoken."
+      }
+    ],
+    "rule": "Say prices in words: twenty cents, fifteen cents, twelve dollars, ten dollars. Say two thousand seven hundred and eighty-one in full. Distinguish per night from per month every time."
+  },
+  "sound_plan": {
+    "status": "director_specified_assets_unheard",
+    "music": "Existing theme quiet and unhurried under the search; no comic poverty stings and no sentimental swell over the named families.",
+    "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
+    "new_assets": [
+      {
+        "id": "street_murmur",
+        "prompt": "Distant turn-of-the-century city street: a few footsteps on pavement, a horse cart passing slowly, low murmur of voices. No car engines, horns, sirens or music.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/new-york-1900-street_murmur.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "shutter_close",
+        "prompt": "Wooden shop shutter swung closed and latched once, modest and dry. No slam or metal roll-down.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/new-york-1900-shutter_close.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "stone_steps_door",
+        "prompt": "Two people walking up a few stone steps and a heavy wooden door opening and closing behind them. No bell or hotel chime.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/new-york-1900-stone_steps_door.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "bag_set",
-        "description": "Soft worn travel bag placed on floor."
+        "prompt": "A soft worn leather travel bag set down once on a wooden floor. No zip or wheels.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/new-york-1900-bag_set.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "page_turn",
+        "prompt": "One heavy ledger page turned slowly on a wooden counter. No paper rustle loop.",
+        "seconds": 1,
+        "kind": "accent",
+        "path": "channel/sfx/new-york-1900-page_turn.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "pen_scratch",
+        "prompt": "A steel-nib pen writing two short words in a ledger, quiet scratch. No typewriter.",
+        "seconds": 2,
+        "kind": "accent",
+        "path": "channel/sfx/new-york-1900-pen_scratch.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "cloth_fold",
+        "prompt": "A woollen blanket folded by hand, two soft movements. No snap.",
+        "seconds": 2,
+        "kind": "accent",
+        "path": "channel/sfx/new-york-1900-cloth_fold.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "wood_steps",
+        "prompt": "Two or three slow footsteps climbing a worn wooden tenement stair, slight creak. No modern shoe squeak.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/new-york-1900-wood_steps.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "treadle_sewing",
+        "prompt": "A foot-treadle sewing machine running steadily, mechanical and quiet, with the treadle rocking. No electric motor hum.",
+        "seconds": 4,
+        "kind": "ambience",
+        "path": "channel/sfx/new-york-1900-treadle_sewing.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "iron_hiss",
+        "prompt": "A hot flat iron touched to damp cloth: one short hiss of steam. No kettle whistle.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/new-york-1900-iron_hiss.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "pot_simmer",
+        "prompt": "A covered pot simmering gently on a coal stove with a faint coal crackle. No boiling-over or gas burner.",
+        "seconds": 4,
+        "kind": "ambience",
+        "path": "channel/sfx/new-york-1900-pot_simmer.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "iron_thud",
+        "prompt": "A heavy flat iron set down once on a padded wooden board, dull thud. No metal ring.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/new-york-1900-iron_thud.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "key_counter",
+        "prompt": "A single iron key placed on a wooden counter. No jangle of a key ring.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/new-york-1900-key_counter.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "wood_door",
-        "description": "Plain interior wooden door opening gently."
+        "prompt": "A plain interior wooden door closed gently with a latch click. No slam or echo.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/new-york-1900-wood_door.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "evening_street",
+        "prompt": "Very quiet evening street heard from a doorway or through a closed window: faint distant footsteps and a muffled voice, mostly still. No traffic or music.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/new-york-1900-evening_street.mp3",
+        "paid": true,
+        "quote_at_launch": true
       }
     ],
-    "acquisition": "Inspect existing sounds first. Quote only genuinely missing assets; do not generate during development.",
+    "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance; nothing is generated during development.",
     "cues": [
+      {
+        "scene_id": "S001",
+        "asset": "street_murmur",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S005",
+        "asset": "shutter_close",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S009",
+        "asset": "stone_steps_door",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S015",
+        "asset": "page_turn",
+        "offset_seconds": 0.8,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S019",
+        "asset": "pen_scratch",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
       {
         "scene_id": "S020",
         "asset": "bag_set",
-        "timing": "Sync a single soft cue to the bag settling at the bed foot."
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S025",
+        "asset": "page_turn",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S028",
+        "asset": "evening_street",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S033",
+        "asset": "street_murmur",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S041",
+        "asset": "cloth_fold",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S045",
+        "asset": "street_murmur",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S050",
+        "asset": "wood_steps",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S053",
         "asset": "wood_steps",
-        "timing": "Two quiet steps with the visible adult climbing."
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
-        "scene_id": "S061",
+        "scene_id": "S060",
         "asset": "treadle_sewing",
-        "timing": "Brief quiet cue under visible machine action; stop at cut to kitchen."
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S062",
+        "asset": "iron_hiss",
+        "offset_seconds": 0.8,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S063",
+        "asset": "pot_simmer",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S068",
+        "asset": "iron_thud",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S071",
+        "asset": "stone_steps_door",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S072",
+        "asset": "evening_street",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S082",
+        "asset": "key_counter",
+        "offset_seconds": 0.9,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S083",
         "asset": "wood_door",
-        "timing": "Sync the door closing, then stop."
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S090",
+        "asset": "treadle_sewing",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S093",
+        "asset": "evening_street",
+        "offset_seconds": 0,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       }
     ],
     "intentional_silence": [
-      "No invented Yiddish dialogue.",
-      "No screaming crowd loop or criminalizing ambience.",
-      "No subway, car horn or modern hotel beep."
-    ]
+      "S069: the idle workshop on the Sabbath stays silent on purpose.",
+      "The Mills room scenes (S012–S014, S091–S092) carry no ambience: a closed door and a quiet room are the point.",
+      "No invented Yiddish or English dialogue.",
+      "No crowd loop, subway, car horn or modern hotel chime."
+    ],
+    "no_sting": "Do not use the medieval bell sound logo in this episode."
   },
-  "extra_specs": []
+  "extra_specs": [],
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 12,
+    "open": 0,
+    "total": 12,
+    "method": "Sources fetched and read at the locator on 2026-10-10: Riis (Gutenberg), the 1900 census transcription PDF, the Levine Family Story PDF, the NYC LGBT Historic Sites page, the 1903 Tenement House Problem volume on archive.org (added as SRC08) and the National Register form for 97 Orchard Street (added as SRC09). Three Tenement Museum web pages (SRC03, SRC05, SRC07) refused automated access (HTTP 403); Astra read them on 2026-10-09. No row rests on them: the rent chapter was rebuilt on the 1900 Commission volume and the apartment figures on the National Register form.",
+    "summary": "All 12 rows supported on passages read today. C7 rewritten (block counts and a tenant's rents instead of unverifiable floor ranges); C8 narrowed to four three-room apartments per upper floor, about 325 sq ft, no building total; C9 on the family-story PDF alone."
+  },
+  "lead_thumbnail": "A",
+  "initial_review": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "All 96 scenes, claims, sources, locations, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md; every claim re-verified on sources readable today (see claims_verification).",
+    "refutation": "Tried to break the three housing offers: Mills was never called a family hotel or the only option; the census boarders are kept in separate households with no inferred bed, meals or rent; the rent chapter was rebuilt on the 1900 Commission volume after the museum article could not be re-read and its floor ranges were not found there; the 97 Orchard figures were narrowed to what the National Register form measures; the Levines keep three children and three employees who are not residents.",
+    "findings": [
+      {
+        "id": "04-R01",
+        "issue": "Cold open asked four scattered questions and held none for the end",
+        "fix": "S003 asks what a bed costs and what the price leaves out and holds the second; S008 is no longer a question; S086 answers it in the payoff."
+      },
+      {
+        "id": "04-R02",
+        "issue": "Third-person narration about the Visitor ('Our Visitor is a single adult man', 'around our visitor', 'belongs to our Visitor', 'For our newcomer')",
+        "fix": "Second person in S006, S036, S082 and S091; S070 says 'a stranger'."
+      },
+      {
+        "id": "04-R03",
+        "issue": "The rent chapter rested on a Tenement Museum article that could not be read today (HTTP 403), and its floor-specific $12–13 / $9.50–10 figures were not found in the 1900 Commission volume",
+        "fix": "Chapter 5 rebuilt on the readable 1900 records: Veiller's block counts (S050–S051) and a tenant's testimony to the State Tenement House Commission of 1900 (S052–S053, S055, S089); C7 rewritten; SRC08 added."
+      },
+      {
+        "id": "04-R04",
+        "issue": "The 97 Orchard apartment figures rested on a museum web page that could not be read, and readable sources disagree on the building's apartment count (20 or 22)",
+        "fix": "S059 and C8 follow the National Register form: four apartments per upper floor, three small rooms, about 325 sq ft; no building total spoken; SRC09 added."
+      },
+      {
+        "id": "04-R05",
+        "issue": "C9 cited the unreadable virtual-tour page beside the readable family-story PDF",
+        "fix": "C9 rests on SRC04 alone; every narrated detail checked against it."
+      },
+      {
+        "id": "04-R06",
+        "issue": "Twelve runs of identical shot types",
+        "fix": "S015 a medium; S033 an establishing shot; S019, S050, S052 and S069 wides; S046 and S080 establishing shots; S038, S048 and S082 reactions; S051 and S070 mediums; S066 an object insert."
+      },
+      {
+        "id": "04-R07",
+        "issue": "Six image instructions, the avoid list and thumbnail A named the Visitor",
+        "fix": "S017, S043, S051, S060, S073, S084 and S094 describe the clear space instead; 'background Visitor' removed from the avoid list; thumbnail A background no longer names him."
+      },
+      {
+        "id": "04-R08",
+        "issue": "Eight unrelated object inserts in the 'objects' location inherited the S007 ledger image as parent",
+        "fix": "S017, S027, S029, S031, S035, S044, S078 and S088 are independent anchors; S029 shows real objects (coins, plate, bag) instead of locally drawn icons."
+      },
+      {
+        "id": "04-R09",
+        "issue": "Four sound cues for eleven minutes",
+        "fix": "23 cues on visible action (shutters, steps and doors, ledger pages, bag set down, stair footsteps, treadle, iron hiss and thud, simmering pot, key on the counter, evening street) with 15 new assets; deliberate silence named for the Sabbath workshop and the Mills room."
+      },
+      {
+        "id": "04-R10",
+        "issue": "Pilot listed paid edits (S014, S019, S039, S064) instead of anchors",
+        "fix": "Pilot: S001 street, S006 Mills facade, S008 reception (clerk), S012 Mills room, S034 boarding room, S058 front room, S062 kitchen (presser and Jennie, the hardest interaction), TH-A."
+      },
+      {
+        "id": "04-R11",
+        "issue": "No end-screen cue",
+        "fix": "S096 ends with 'pick the next episode on screen'."
+      },
+      {
+        "id": "04-R12",
+        "issue": "79 collapsed-space strings ('No.1 is on Bleecker Street;97 Orchard', 'ABOUT325SQFT')",
+        "fix": "Spacing normaliser applied; graphic texts and notes re-set by hand."
+      },
+      {
+        "id": "04-R13",
+        "issue": "Short 3 opened on 'Harris' before the Levines were introduced",
+        "fix": "Short 3 runs S060–S067 (152 words)."
+      },
+      {
+        "id": "04-R14",
+        "issue": "S052 spoke of 'the Levines' exact rent' before the family appeared in S060",
+        "fix": "The caveat moves to S089, after the Levine chapter."
+      },
+      {
+        "id": "04-R15",
+        "issue": "Pronunciations lacked the census names and the rule still quoted the old twelve-to-thirteen-dollar range",
+        "fix": "Ike Solive, Pauline Rudolph, Orchard Street and Chrystie added; Veiller marked caption-only; rule rewritten."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "slate_reviews": [
+    {
+      "pass": 1,
+      "status": "passed_with_fixes",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all eighteen packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (a dry, practical first-night search).",
+      "findings": [
+        {
+          "id": "04-P1-01",
+          "issue": "The re-check's shot changes created four new runs (S032–S033 mediums, S069–S070 wides, S070–S071 mediums, S082–S083 wides)",
+          "fix": "S033 and S072 are establishing shots, S070 a medium, S071 a wide and S082 a reaction."
+        },
+        {
+          "id": "04-P1-02",
+          "issue": "Chapter 5 now runs 95 seconds and chapter 2 76 seconds",
+          "fix": "Both inside the 70–110 second band; no change."
+        },
+        {
+          "id": "04-P1-03",
+          "issue": "Slate check: New York 1900 compared with the other seventeen packages and episodes 001–003",
+          "fix": "Distinct: 05 (1850s and 1870s New York cooks) and 10 (1860s New York police) share the city but not the subject, decade or promise; no other package is about housing or lodging prices. No change."
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "pass": 2,
+      "status": "passed",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Execution dry run: compiled prompts for the independent coin insert (S017), the boarding-room reaction edit (S038), the stairs reaction edit (S048), the street wide with the tenant (S052), the kitchen anchor (S062) and the front-room object insert (S066) read in full; handoff counts (96 shots, 82 illustrations, 14 graphics, 3 thumbnails), pilot order, 15 sound assets and 23 cues, pronunciations, Shorts windows (118, 153, 152 words) and packaging copy checked against the standard.",
+      "findings": [
+        {
+          "id": "04-P2-01",
+          "issue": "Looked for a factual sentence without a checked claim, a modern-dated caption, a prompt naming the Visitor, a full-body pose on an object insert, an object insert inheriting an unrelated image, or a rent figure the sources do not carry; none found",
+          "fix": "No change."
+        }
+      ],
+      "unresolved": []
+    }
+  ],
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification (Riis, the 1900 census transcription, the Levine family-story PDF, the NYC LGBT Historic Sites page, the 1903 Tenement House Problem volume and the 97 Orchard National Register form read; three Tenement Museum web pages refused automated access and are no longer relied on), two package review passes and the slate content check complete. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  }
 }

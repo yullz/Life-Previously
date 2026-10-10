@@ -1,10 +1,10 @@
 {
   "status": "director_selected_normal_outfit",
   "mode": "normal",
-  "policy": "../WARDROBE_POLICY.md",
+  "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
   "reason": "No national or ceremonial outfit is needed for the explicitly modern viewer surrogate in this urban housing episode. Keep familiar orange hoodie, jeans and original identity; period clothing belongs to local cast. Avoid extra flashy accessories.",
   "references": [
     "channel/assets/visitor_sheet.png"
   ],
-  "production_review": "Check visual balance beside understated1900street clothes; avoid enlarging the Visitor or saturating him so strongly that the room's evidence becomes secondary."
+  "production_review": "Check visual balance beside understated 1900 street clothes; avoid enlarging the Visitor or saturating him so strongly that the room's evidence becomes secondary."
 }

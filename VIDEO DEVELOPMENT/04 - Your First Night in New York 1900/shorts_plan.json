@@ -9,7 +9,7 @@
       "from_scene": "S013",
       "to_scene": "S019",
       "hook": "A room with qualifications",
-      "description": "Riis’s1900account reports20-cent nightly lodging at the Mills Houses. Small rooms and shared amenities were a specific offer for men, with food priced separately.",
+      "description": "Riis’s1900 account reports 20-cent nightly lodging at the Mills Houses. Small rooms and shared amenities were a specific offer for men, with food priced separately.",
       "id": "short-1",
       "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
       "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
@@ -19,17 +19,17 @@
       "from_scene": "S049",
       "to_scene": "S055",
       "hook": "The floor changed the price",
-      "description": "A1900Lower East Side survey found lower rents on higher floors in its sample. These figures belong to that surveyed block, not a recovered97Orchard Street lease.",
+      "description": "A 1900 Lower East Side block survey and a tenant's testimony to the 1900 state commission: three rooms for about ten to twelve dollars a month, the cheaper flat four flights up. These figures belong to that block and that witness, not a recovered 97 Orchard Street lease.",
       "id": "short-2",
       "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
       "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
     },
     {
       "title": "Three Rooms, a Family and a Workshop",
-      "from_scene": "S061",
+      "from_scene": "S060",
       "to_scene": "S067",
       "hook": "Three rooms did not mean three bedrooms",
-      "description": "The Levine household at97Orchard combined domestic life and garment work. In1900the census lists two parents and three children; employees were not automatically residents.",
+      "description": "Harris and Jennie Levine's household at 97 Orchard combined domestic life and garment work. In 1900 the census lists two parents and three children; employees were not automatically residents.",
       "id": "short-3",
       "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
       "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
