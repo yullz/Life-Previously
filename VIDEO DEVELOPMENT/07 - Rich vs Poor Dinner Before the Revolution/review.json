@@ -1,9 +1,129 @@
 {
-  "state": "draft_built",
+  "state": "released_director_package",
   "source_passages_read": true,
-  "exact_script_critical_review": "pending",
-  "additional_slate_review_1": "pending",
-  "additional_slate_review_2": "pending",
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "All 96 scenes, claims, sources, locations, food_continuity_spec.json, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md; every claim verified on sources read today (see claims_verification).",
+    "refutation": "Tried to break the comparison: no recorded menu, price, weight or household name; the sausage is Mercier's example, the meal pattern his list, the servants his observation; the cabbage and rissoles follow Menon's words with no borrowed butter or cream; the oven practice carries no amounts; no cake quotation and no cause-of-revolution claim.",
+    "findings": [
+      {
+        "id": "07-R01",
+        "issue": "Cold open held no question; the payoff ran 60 seconds with no end-screen cue",
+        "fix": "S003 asks what really separates the tables besides quantity and holds it; S088 opens the payoff (chapter 8 now 71 seconds); S090 answers it; S096 cues the next episode."
+      },
+      {
+        "id": "07-R02",
+        "issue": "Seven third-person lines about the Visitor",
+        "fix": "Second person in S010, S013, S025, S036, S062, S088 and S095."
+      },
+      {
+        "id": "07-R03",
+        "issue": "Eleven runs of identical shot types, including six details in a row through the cabbage recipe",
+        "fix": "S002, S020, S044 wides; S050 a reaction; S052, S054, S058, S069, S083 mediums."
+      },
+      {
+        "id": "07-R04",
+        "issue": "Visitor in 33% of scenes and fourteen image instructions naming him",
+        "fix": "Poses added on fourteen scenes (now about 55%); instructions describe the clear space; the period sentence naming him is removed."
+      },
+      {
+        "id": "07-R05",
+        "issue": "The 'kitchen' location was anchored by a book insert (S008), and the 'pastry' location pointed at it",
+        "fix": "The book moves to its own object location; the kitchen is anchored by S036 and pastry edits S036."
+      },
+      {
+        "id": "07-R06",
+        "issue": "Three sound cues",
+        "fix": "20 cues on visible action (market murmur, basket, bread cut, hearth, spit, blanching, squeezing, lid, simmer, pour, sieve, plates, oven peel, frying, clearing) with 16 specified assets."
+      },
+      {
+        "id": "07-R07",
+        "issue": "Pilot used S008 (a book) and skipped the market, shop, kitchen and second-household anchors",
+        "fix": "Pilot: S001, S002, S007, S009, S033, S036, S064, TH-A."
+      },
+      {
+        "id": "07-R08",
+        "issue": "Thumbnail chips B and C were not place-and-year",
+        "fix": "PARIS • 1783 on all three."
+      },
+      {
+        "id": "07-R09",
+        "issue": "Menon captions lacked the book's year",
+        "fix": "S046 and S081 name 1755 and the page."
+      },
+      {
+        "id": "07-R10",
+        "issue": "Pronunciations lacked Mercier's first names and the two book titles",
+        "fix": "Added."
+      },
+      {
+        "id": "07-R11",
+        "issue": "53 collapsed-space strings",
+        "fix": "Spacing normaliser applied."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 14,
+    "open": 0,
+    "total": 14,
+    "method": "All six sources fetched and read at the locators on 2026-10-10: Mercier's chapters 67, 362, 383 and 631 on Wikisource, Menon volume III on the archive.org OCR text (title page, p.24, pp.26–31) and the Wellcome catalogue record. No source refused access.",
+    "summary": "All 14 rows supported on passages read today."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all other packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (curious, fair, a little hungry).",
+    "findings": [
+      {
+        "id": "07-P1-01",
+        "issue": "The re-check left one run (S083–S084 mediums) and pushed the Visitor to 61% of scenes",
+        "fix": "S084 is a wide; six added poses removed; about 55%."
+      },
+      {
+        "id": "07-P1-02",
+        "issue": "The SRC05 note paraphrased the rissoles recipe",
+        "fix": "Replaced with the recipe's own words (leftover roast poultry from the table, cream sauce, pastry sealed and fried as half-moons)."
+      },
+      {
+        "id": "07-P1-03",
+        "issue": "Slate check: Paris is also the setting of 01 (1709, a crisis year) and food recurs in 05 (Roman counters) and 16 (Kaifeng night out)",
+        "fix": "Distinct: 07 is a two-household dinner comparison in 1783 with a cookbook; different century, question and promise; each keeps its own explanation. No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Execution dry run: compiled prompts for the modest-room anchor (S001), the market anchor (S007), the kitchen anchor (S036), the squeeze medium (S052), the pastry edit of the kitchen (S081) and the closing dining room (S096) read in full; food_continuity_spec.json checked against the recipe lines; handoff counts, pilot order, 16 sound assets and 20 cues, 8 pronunciations, Shorts windows (143, 155, 149 words), thumbnail brief and packaging copy checked against the standard.",
+    "findings": [
+      {
+        "id": "07-P2-01",
+        "issue": "Looked for a price or weight spoken, cream or butter in the cabbage sauce, a whole new bird after service, a prompt naming the Visitor, or a modern-dated caption; none found",
+        "fix": "No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification of all 14 claims (Mercier's four chapters, Menon volume III and the Wellcome record all read), two package review passes and the slate content check complete. food_continuity_spec.json governs the recipe stages and the platter continuity. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "media_reviews": "not_applicable_yet_no_media_generated",
-  "known_research_boundaries": "Set Paris1783, using a composite modest household and a composite affluent urban household. Avoid substituting Versailles for every prosperous city house. Main twist: a cabbage can be an elaborate meat-garnish recipe, and access to fuel/cooks/shop ovens changes what reaches a plate. Mercier is a vivid contemporary critic, not a neutral dataset. His own ordinary-meal account (soup,boiled beef,Sunday mutton) refutes a blanket meatless-poor narrative. His sausage anecdote supports a small purchase, not an invented complete daily ration. Read his surrounding social polemic to avoid adopting stereotypes or fantastical statistical certainty. Menon's1755Paris cookbook independently supports exact preparation sequences and planned reuse of roast poultry, challenging the idea that all rich leftovers were waste. It is a prescription, so the narrator explicitly chooses a period recipe for the reconstruction. No unverified causal claim linking one menu directly to revolution. Food and labour remain the story; methodological qualifications are concise. No modern dollar conversions or precise household food budget. Bibliographic date verified by Wellcome. Cairn's2004butcher-hygiene study was inaccessible except snippets and is not used."
+  "known_research_boundaries": "Set Paris 1783, using a composite modest household and a composite affluent urban household. Avoid substituting Versailles for every prosperous city house. Main twist: a cabbage can be an elaborate meat-garnish recipe, and access to fuel/cooks/shop ovens changes what reaches a plate. Mercier is a vivid contemporary critic, not a neutral dataset. His own ordinary-meal account (soup, boiled beef, Sunday mutton) refutes a blanket meatless-poor narrative. His sausage anecdote supports a small purchase, not an invented complete daily ration. Read his surrounding social polemic to avoid adopting stereotypes or fantastical statistical certainty. Menon's1755 Paris cookbook independently supports exact preparation sequences and planned reuse of roast poultry, challenging the idea that all rich leftovers were waste. It is a prescription, so the narrator explicitly chooses a period recipe for the reconstruction. No unverified causal claim linking one menu directly to revolution. Food and labour remain the story; methodological qualifications are concise. No modern dollar conversions or precise household food budget. Bibliographic date verified by Wellcome. Cairn's2004 butcher-hygiene study was inaccessible except snippets and is not used."
 }

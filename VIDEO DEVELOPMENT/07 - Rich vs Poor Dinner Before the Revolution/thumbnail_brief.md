@@ -16,9 +16,9 @@ The promised moment is paid off by S003, S026, S040.
 
 An ordinary ingredient conceals a costly-looking chain of preparation. Specific mystery, fully paid off by the recipe segment.
 
-Background: One green cabbage quarter prominent left foreground beside a small elegant bowl of brown sauce; behind it restrained ham,mushroom and garlic ingredients on a period wood worktop. No floating labelled ingredient cloud or huge raw meat pile.
+Background: One green cabbage quarter prominent left foreground beside a small elegant bowl of brown sauce; behind it restrained ham, mushroom and garlic ingredients on a period wood worktop. No floating labelled ingredient cloud or huge raw meat pile.
 
-Chip: FOLLOW THE SAUCE. Pose: closeup-thoughtful. Exact request and geometry: image_prompts.json / thumbnail_requests.
+Chip: PARIS • 1783. Pose: closeup-thoughtful. Exact request and geometry: image_prompts.json / thumbnail_requests.
 
 The promised moment is paid off by S051, S057, S061.
 
@@ -28,7 +28,7 @@ Turns leftovers into a story about circulation and status without asserting that
 
 Background: Partly served roast-poultry platter and bread on a plain side table at left, open doorway into comfortable dining room beyond. One modestly dressed servant visible farther left, no sneaking or theft expression. Keep food and question dominant.
 
-Chip: AFTER DINNER. Pose: closeup-listening. Exact request and geometry: image_prompts.json / thumbnail_requests.
+Chip: PARIS • 1783. Pose: closeup-listening. Exact request and geometry: image_prompts.json / thumbnail_requests.
 
 The promised moment is paid off by S078, S081, S086.
 

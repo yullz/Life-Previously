@@ -25,6 +25,21 @@
       "term": "rissoles",
       "say": "rih-SOHLZ",
       "note": "Explain pastry shape; no need to imitate French aggressively."
+    },
+    {
+      "term": "Louis-Sébastien",
+      "say": "loo-EE say-bas-TYAN",
+      "note": "First names of Mercier, spoken once."
+    },
+    {
+      "term": "Tableau de Paris",
+      "say": "ta-BLOH duh pa-REE",
+      "note": "Caption only."
+    },
+    {
+      "term": "Les Soupers de la Cour",
+      "say": "lay soo-PAY duh la KOOR",
+      "note": "Caption only; narration says 'the cookbook' or 'Menon'."
     }
   ],
   "rule": "Say seventeen eighty-three; do not insert numerical prices or modern currency comparisons absent from narration."

@@ -3,7 +3,13 @@
   "message_type": "complete_episode_execution_brief",
   "episode_slug": "paris-dinner",
   "title": "Rich vs Poor: Dinner Before the French Revolution",
-  "status": "development_in_progress_do_not_execute_yet",
+  "status": "director_package_ready",
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification of all 14 claims (Mercier's four chapters, Menon volume III and the Wellcome record all read), two package review passes and the slate content check complete. food_continuity_spec.json governs the recipe stages and the platter continuity. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "owner_authorization": "All director development authorized. Paid production quote and publication approval remain separate.",
   "read_first": [
     "START_HERE.md",
@@ -15,6 +21,8 @@
     "director_prompt_plan.json",
     "image_prompts.json",
     "wardrobe_spec.json",
+    "pose_plan.json",
+    "food_continuity_spec.json",
     "sound_plan.json",
     "EXECUTION.md",
     "thumbnail_brief.md",
@@ -28,8 +36,12 @@
     "creative_budget": "Story-led premium visual coverage; quote actual current costs. Do not replace with sparse stock backgrounds.",
     "pirate_hat": false
   },
+  "supplemental_specs": [
+    "food_continuity_spec.json"
+  ],
+  "local_graphic_pilot": [],
   "counts": {
-    "narration_words": 1758,
+    "narration_words": 1793,
     "chapters": 8,
     "shots": 96,
     "illustrations": 90,
@@ -38,12 +50,15 @@
   },
   "pilot": [
     "S001",
-    "S004",
+    "S002",
     "S007",
+    "S009",
+    "S033",
     "S036",
-    "S052",
+    "S064",
     "TH-A"
   ],
+  "pilot_submission_rule": "Submit only requests whose accepted parent hash/media ID is resolved. Pilot list is ordered; it is not a single parallel batch.",
   "execution": "After completion status and launch cost approval, continue end to end through the shared contract. Do not stop at planning. Deliver full film, lead and alternate thumbnails, captions, upload text and three Shorts, with review evidence.",
   "protected": "Existing episodes and shared approved assets; never reuse Episode003 spend authorization.",
   "production_checks_pending": [

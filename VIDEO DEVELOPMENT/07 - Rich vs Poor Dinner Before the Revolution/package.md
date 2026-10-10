@@ -11,18 +11,16 @@ Rich vs Poor: Dinner Before the French Revolution
 
 ## Description
 
-Two tables in Paris,1783: a small meal stretched carefully, and a dinner with more choice, ingredients and labour behind it.
-
-But the contrast is stranger than 'meat versus no meat.' We follow food through the market, a household kitchen, a shared oven and the servants' side of the table—and find an unexpectedly elaborate cabbage along the way. The households are illustrated composites; the observations and recipes come from period sources.
+Two tables in Paris, 1783: a small meal stretched carefully, and a dinner with more choice, ingredients and labour behind it. But the contrast is stranger than 'meat versus no meat.' We follow food through the market, a household kitchen, a shared oven and the servants' side of the table—and find an unexpectedly elaborate cabbage along the way. The households are illustrated composites; the observations and recipes come from period sources.
 
 Life, Previously explores how ordinary people actually lived. Historical scenes are illustrated reconstructions; specific limits and evidence are explained in the episode.
 
 Sources:
-- Louis-Sébastien Mercier — Tableau de Paris, chapter67, Les Halles (1782): https://fr.wikisource.org/wiki/Tableau_de_Paris/067
-- Mercier — chapter362, Pâtissiers, Rôtisseurs (1783): https://fr.wikisource.org/wiki/Tableau_de_Paris/362
-- Mercier — chapter383, Cuisiniers (1783): https://fr.wikisource.org/wiki/Tableau_de_Paris/383
-- Mercier — chapter631, École de Boulangerie (1783): https://fr.wikisource.org/wiki/Tableau_de_Paris/631
-- Menon — Les Soupers de la Cour (Paris,1755), volumeIII: https://archive.org/details/lessoupersdelaco03meno
+- Louis-Sébastien Mercier — Tableau de Paris, chapter 67, Les Halles (1782): https://fr.wikisource.org/wiki/Tableau_de_Paris/067
+- Mercier — chapter 362, Pâtissiers, Rôtisseurs (1783): https://fr.wikisource.org/wiki/Tableau_de_Paris/362
+- Mercier — chapter 383, Cuisiniers (1783): https://fr.wikisource.org/wiki/Tableau_de_Paris/383
+- Mercier — chapter 631, École de Boulangerie (1783): https://fr.wikisource.org/wiki/Tableau_de_Paris/631
+- Menon — Les Soupers de la Cour (Paris, 1755), volumeIII: https://archive.org/details/lessoupersdelaco03meno
 - Wellcome Collection — Les Soupers de la Cour catalogue: https://wellcomecollection.org/works/ws6tnp82
 
 ## Chapters
@@ -38,7 +36,7 @@ Sources:
 
 ## Tags
 
-food history, Paris1783, rich and poor history, before the French Revolution, eighteenth century food, Mercier Tableau de Paris, Menon cookbook, historical cooking, ordinary life history, Life Previously
+food history, Paris 1783, rich and poor history, before the French Revolution, eighteenth century food, Mercier Tableau de Paris, Menon cookbook, historical cooking, ordinary life history, Life Previously
 
 ## Hashtags
 

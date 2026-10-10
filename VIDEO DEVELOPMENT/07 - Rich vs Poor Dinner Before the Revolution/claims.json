@@ -2,10 +2,18 @@
   {
     "id": "C0",
     "type": "F",
-    "claim": "Two imagined households and the Visitor's choice are composite framing for Paris1783, not a recovered day's menu or a claim that all rich/poor people ate alike.",
+    "claim": "Two imagined households and the Visitor's choice are composite framing for Paris 1783, not a recovered day's menu or a claim that all rich/poor people ate alike.",
     "sources": [],
     "locator": "Original comparison structure.",
     "limit": "No invented names, household accounts, exact daily budget or universal meal.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Framing row; S006 says the households are composites and S019, S037 and S051 repeat it where a meal is shown.",
+      "source_locators": "—",
+      "refutation": "Looked for any line presenting a dinner as recorded; none.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -41,8 +49,8 @@
       "S095",
       "S096"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C1",
@@ -52,8 +60,16 @@
       "SRC01",
       "SRC02"
     ],
-    "locator": "Chapter67 opening and chapter362 opening.",
+    "locator": "Chapter 67 opening and chapter 362 opening.",
     "limit": "Availability in shops does not establish affordability for all; do not reproduce his precise counts or every-day guarantees.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: the flower and fruit halls at daybreak, 'une des choses les plus curieuses à voir'. SRC02: shops of pastry-cooks, pork-butchers and roasters 'frappent la vue dans tous les carrefours … langues fourrées, des jambons couronnés de laurier, de grasses poulardes, des pâtés vermeils, des gâteaux tout sucrés'.",
+      "source_locators": "SRC01 opening; SRC02 opening",
+      "refutation": "S011–S013 speak display, not affordability; S014 says so. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S007",
       "S009",
@@ -62,8 +78,8 @@
       "S013",
       "S015"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C2",
@@ -72,14 +88,22 @@
     "sources": [
       "SRC04"
     ],
-    "locator": "Chapter631 paragraph beginning Le pain qu'on mange à Paris.",
+    "locator": "Chapter 631 paragraph beginning Le pain qu'on mange à Paris.",
     "limit": "Not their sole food, not a quantified calorie percentage; no modern nutrition equivalence.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC04: 'le pain est en France le principal aliment du pauvre dans les grandes villes'.",
+      "source_locators": "SRC04 bread paragraph",
+      "refutation": "S023 says 'a principal food of the poor in large French towns'. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S019",
       "S023"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C3",
@@ -88,8 +112,16 @@
     "sources": [
       "SRC01"
     ],
-    "locator": "Chapter67 paragraph Plus les classes sont indigentes.",
+    "locator": "Chapter 67 paragraph Plus les classes sont indigentes.",
     "limit": "One author's example, not a universal diet or measured representative family; no assertion the portion was all calories for a whole day.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: 'Plus les classes sont indigentes, plus il leur en coûte pour se nourrir. Il y a de pauvres ménages, où un cervelat de trois sols compose toute la bonne chere'; 'Ce qui se vend par fragmens, se vend trois fois plus cher'.",
+      "source_locators": "SRC01 'Plus les classes sont indigentes'",
+      "refutation": "S017–S019 keep it as his example and never give the portion a weight or the price a modern value. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S015",
       "S017",
@@ -99,8 +131,8 @@
       "S026",
       "S091"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C4",
@@ -109,15 +141,23 @@
     "sources": [
       "SRC01"
     ],
-    "locator": "Chapter67 À dîner,la soupe,le bouilli.",
+    "locator": "Chapter 67 À dîner, la soupe, le bouilli.",
     "limit": "Do not turn his broad rhetorical population estimate into data or suggest these meals were within every destitute person's reach.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: 'À dîner, la soupe, le bouilli; le soir, la persillade ou le bœuf à la mode; le gigot ou l'éclanche, le dimanche; presque jamais de poisson; rarement des légumes'.",
+      "source_locators": "SRC01 'À dîner'",
+      "refutation": "S027–S028 name the dishes and say access varied; his 'trois quarts & demi' fraction is not spoken. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S026",
       "S027",
       "S028"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C5",
@@ -129,6 +169,14 @@
     ],
     "locator": "Ordinary-meal and sausage passages; Menon cabbage recipe.",
     "limit": "Synthesis of cited examples, not a claim of identical diets or an affordability index.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Interpretation across SRC01 (ordinary meals, sausage) and SRC05 (cabbage recipe).",
+      "source_locators": "SRC01; SRC05 p.24",
+      "refutation": "S029–S030 and S091 keep it as a comparison, not an index. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S005",
       "S009",
@@ -143,27 +191,35 @@
       "S087",
       "S090"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C6",
     "type": "E",
-    "claim": "Menon's1755cookbook lists roast poultry by season and explains spit preparation; poultry also appears in Mercier's roast-shop descriptions.",
+    "claim": "Menon's1755 cookbook lists roast poultry by season and explains spit preparation; poultry also appears in Mercier's roast-shop descriptions.",
     "sources": [
       "SRC05",
       "SRC02"
     ],
-    "locator": "MenonIII pp29–33; Mercier362.",
-    "limit": "Supports an illustrative affluent poultry dish, not a specific1783banquet menu or universal luxury item.",
+    "locator": "MenonIII pp29–33; Mercier 362.",
+    "limit": "Supports an illustrative affluent poultry dish, not a specific 1783 banquet menu or universal luxury item.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC05 pp.29–31: 'Du Rôti & de la façon de le préparer' ('un degré de cuisson très-essentiel … se connoît au doigt & à l'œil'), seasonal lists naming 'la poularde', 'le dindon gras', 'le chapon gras'. SRC02: 'grasses poulardes' in the shop displays; roasters 'vuident leurs boutiques'.",
+      "source_locators": "SRC05 pp.29–31; SRC02",
+      "refutation": "S037–S039 speak poultry as a plausible dish, not a recorded menu. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S020",
       "S037",
       "S038",
       "S039"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C7",
@@ -172,8 +228,16 @@
     "sources": [
       "SRC05"
     ],
-    "locator": "VolumeIII p24,Ragoûts de Choux.",
+    "locator": "VolumeIII p24, Ragoûts de Choux.",
     "limit": "Descriptive history, not modern recipe/safety advice; no unsourced exact cooking times.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC05 p.24: 'Faites blanchir un choux coupé en plusieurs morceaux, & le retirez à l'eau fraiche; pressez-le fort & le faites cuire dans une bonne braise; dressez-le autour de la viande que vous voulez garnir'.",
+      "source_locators": "SRC05 p.24",
+      "refutation": "S051–S054 follow the stages in order; no times. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S036",
       "S045",
@@ -185,18 +249,26 @@
       "S063",
       "S091"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C8",
     "type": "E",
-    "claim": "Its sauce uses ham,mushrooms,garlic with a clove,broth/coulis; it is reduced,strained and finished with pepper.",
+    "claim": "Its sauce uses ham, mushrooms, garlic with a clove, broth/coulis; it is reduced, strained and finished with pepper.",
     "sources": [
       "SRC05"
     ],
-    "locator": "VolumeIII p24,same recipe.",
+    "locator": "VolumeIII p24, same recipe.",
     "limit": "Do not replace cabbage sauce with neighbouring cauliflower's butter recipe. No invented cream in this particular sauce.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC05 p.24: 'mettez une tranche de jambon dans une casserole avec quelques champignons, une gousse d'ail piquée d'un clou de girofle; faites suer & mouillez de bon bouillon, coulis, & laissez réduire au point d'une sauce, passez au tamis, en servant un peu de gros poivre'.",
+      "source_locators": "SRC05 p.24",
+      "refutation": "S055–S059 list exactly these; the cauliflower recipe's butter is not borrowed. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S036",
       "S047",
@@ -208,18 +280,26 @@
       "S063",
       "S091"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C9",
     "type": "I",
-    "claim": "This recipe demonstrates that an ordinary vegetable can involve multiple ingredients,stages,fuel and skilled work; the finished plate hides some preparation.",
+    "claim": "This recipe demonstrates that an ordinary vegetable can involve multiple ingredients, stages, fuel and skilled work; the finished plate hides some preparation.",
     "sources": [
       "SRC05"
     ],
     "locator": "Cabbage/sauce sequence.",
-    "limit": "No measured labour hours,cost or assumption every wealthy household used this recipe.",
+    "limit": "No measured labour hours, cost or assumption every wealthy household used this recipe.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Interpretation of the recipe's stages, equipment and heat.",
+      "source_locators": "SRC05 p.24",
+      "refutation": "S060–S062 claim no hours or cost. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S032",
       "S035",
@@ -236,8 +316,8 @@
       "S088",
       "S090"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C10",
@@ -246,8 +326,16 @@
     "sources": [
       "SRC02"
     ],
-    "locator": "Chapter362 paragraph Les petits ménages.",
+    "locator": "Chapter 362 paragraph Les petits ménages.",
     "limit": "Modest households able to buy meat, not necessarily the poorest. No universal home-oven absence or exact charge schedule.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC02: 'Les petits ménages qui n'ont guere qu'un âtre, envoient aux fours des pâtissiers la viande pour la faire cuire … On donne deux sols pour la cuisson … le petit bourgeois épargne pour dix sols de bois; mais son rôti est sec, noir & presque toujours brûlé'.",
+      "source_locators": "SRC02 'Les petits ménages'",
+      "refutation": "S065–S070 speak the practice, the fuel saving and his grumble; no amounts. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S032",
       "S033",
@@ -266,8 +354,8 @@
       "S090",
       "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C11",
@@ -277,8 +365,16 @@
       "SRC01",
       "SRC03"
     ],
-    "locator": "Chapter67 un laquais; chapter383 on service and food.",
+    "locator": "Chapter 67 un laquais; chapter 383 on service and food.",
     "limit": "Explicitly attributed, not every servant, not proof servants had more power or better lives than employers.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: 'Un laquais est beaucoup mieux nourri qu'un petit bourgeois'. SRC03: 'On ne mange pas le quart de ce qui est servi; & ce n'est pas sans raison que les domestiques sont gros & gras; ils font bien meilleure chere que l'ordre de la bourgeoisie'.",
+      "source_locators": "SRC01; SRC03",
+      "refutation": "S077–S080 attribute it to Mercier and refuse to generalise. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S075",
       "S076",
@@ -289,8 +385,8 @@
       "S085",
       "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C12",
@@ -299,8 +395,16 @@
     "sources": [
       "SRC05"
     ],
-    "locator": "VolumeIII p26,Rissoles à la Béchamel; p27game alternative separately.",
+    "locator": "VolumeIII p26, Rissoles à la Béchamel; p27 game alternative separately.",
     "limit": "Use poultry recipe only; do not claim all leftovers followed this route or identify it as a modern croquette.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC05 p.26 'Rissolles à la Béchamel': 'Prenez de la volaille cuite à la broche, des restes que vous aurez de la desserte; coupez-la en petits dez'; the filling is bound with a cream sauce and an egg yolk, set 'par petits tas' on thin pastry and covered with more; 'pincez-les tout autour pour les bien souder … faites-les frire d'une belle couleur dorée; il faut leur donner la forme d'une demi-lune'. The game variant (p.27) starts from 'gibier cuit à la broche, de ce que l'on aura desservi de la table'.",
+      "source_locators": "SRC05 pp.26–27",
+      "refutation": "S081–S084 summarise the method as a demonstration of reuse, not a universal practice. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S075",
       "S076",
@@ -311,8 +415,8 @@
       "S085",
       "S090"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C13",
@@ -325,7 +429,15 @@
       "SRC05"
     ],
     "locator": "Cross-source synthesis.",
-    "limit": "No cake quotation, famine spectacle or claim dinner alone caused1789.",
+    "limit": "No cake quotation, famine spectacle or claim dinner alone caused 1789.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC03's staged dialogue and turtle anecdote read as satire; SRC05 is a prescriptive cookbook.",
+      "source_locators": "SRC03; SRC05",
+      "refutation": "S041–S042 and S093 keep the satire attributed and refuse a cause-of-revolution claim. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S007",
       "S008",
@@ -335,7 +447,7 @@
       "S087",
       "S093"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   }
 ]

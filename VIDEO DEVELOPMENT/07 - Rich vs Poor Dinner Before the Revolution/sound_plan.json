@@ -1,42 +1,301 @@
 {
-  "status": "director_specified_not_generated_or_heard",
-  "music": "Existing theme low; gentle curiosity, no comic disgust at modest food or triumphant aristocratic fanfare.",
-  "mix": "Near -14LUFS, true peak<=-1dBTP; all cues below narration.",
+  "status": "director_specified_assets_unheard",
+  "music": "Existing theme low; gentle curiosity, no comic disgust at modest food and no triumphant aristocratic fanfare.",
+  "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
   "new_assets": [
     {
+      "id": "market_murmur",
+      "prompt": "Open-air market by day: low voices without words, baskets set down, a cart wheel on stone far off. No shouting, no music.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/paris-dinner-market_murmur.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "basket_set",
+      "prompt": "A wicker basket set down on a wooden table once. No rattle.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-basket_set.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "bread_cut",
+      "prompt": "A knife cutting through a crusty round loaf on a board, two slow strokes.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-bread_cut.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "hearth_fire",
+      "prompt": "Small domestic hearth fire crackling quietly. No roar.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/paris-dinner-hearth_fire.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "spit_turn",
+      "prompt": "A roasting spit turned slowly over a hearth, a soft creak and a drip of fat hissing once.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-spit_turn.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "pot_water",
+      "prompt": "A pot of water at a simmer, soft bubbling, as cut cabbage is dropped in with one small splash.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-pot_water.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "squeeze_wet",
+      "prompt": "Cooked cabbage squeezed by hand over a bowl, two wet presses. No slap.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-squeeze_wet.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "lid_set",
+      "prompt": "An earthenware or iron lid set onto a pot once, a dull ceramic tap.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-lid_set.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
       "id": "pan_simmer",
-      "description": "Quiet small pan simmer, no electric hiss."
+      "prompt": "A small pan at a gentle simmer with ham and mushrooms, soft sizzle. No electric hiss.",
+      "seconds": 3,
+      "kind": "ambience",
+      "path": "channel/sfx/paris-dinner-pan_simmer.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "pour_broth",
+      "prompt": "Broth poured from an earthen jug into a pan, one short pour.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-pour_broth.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "sieve_pour",
+      "prompt": "Sauce poured through a sieve into a bowl, a thin steady trickle, two seconds.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-sieve_pour.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "plate_set",
-      "description": "One ceramic serving dish placed on wood."
+      "prompt": "One ceramic serving dish placed on a cloth-covered wooden table. No clatter.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-plate_set.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "oven_fire",
-      "description": "Soft masonry-oven wood fire."
+      "prompt": "Soft masonry-oven wood fire with a faint draw. No roar.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/paris-dinner-oven_fire.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "peel_slide",
+      "prompt": "A wooden peel slid into a masonry oven once, dry scrape.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-peel_slide.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "fry_pastry",
+      "prompt": "Small pastries frying in fat, steady gentle sizzle, three seconds.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-fry_pastry.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "dishes_clear",
+      "prompt": "Two plates stacked gently and lifted, soft ceramic contact.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/paris-dinner-dishes_clear.mp3",
+      "paid": true,
+      "quote_at_launch": true
     }
   ],
-  "acquisition": "Inspect existing assets, quote only gaps; historical Foley is illustrative, not archival audio.",
+  "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance; nothing is generated during development.",
   "cues": [
     {
-      "scene_id": "S057",
+      "scene_id": "S007",
+      "asset": "market_murmur",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S011",
+      "asset": "market_murmur",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S015",
+      "asset": "market_murmur",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S022",
+      "asset": "basket_set",
+      "offset_seconds": 0.7,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S032",
+      "asset": "hearth_fire",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S034",
+      "asset": "bread_cut",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S039",
+      "asset": "spit_turn",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S043",
+      "asset": "plate_set",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S051",
+      "asset": "pot_water",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S052",
+      "asset": "squeeze_wet",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S053",
+      "asset": "lid_set",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S056",
       "asset": "pan_simmer",
-      "timing": "Brief low bed behind the visible sauce pan; end at next cut."
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S057",
+      "asset": "pour_broth",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S058",
+      "asset": "sieve_pour",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S065",
+      "asset": "peel_slide",
+      "offset_seconds": 0.9,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S068",
       "asset": "oven_fire",
-      "timing": "Short low ambience while oven is visible."
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S075",
+      "asset": "dishes_clear",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S080",
       "asset": "plate_set",
-      "timing": "Single cue on cut to platter on service table, no extra clattering."
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S083",
+      "asset": "fry_pastry",
+      "offset_seconds": 0.2,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S093",
+      "asset": "market_murmur",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     }
   ],
   "intentional_silence": [
     "No invented French market shouting.",
-    "No chewing/slurping joke against poor diners.",
-    "No guillotine or revolutionary gunfire foreshadowing."
-  ]
+    "No chewing or slurping joke against the modest diners.",
+    "No guillotine or revolutionary gunfire foreshadowing.",
+    "The graphics and the modest-room reaction shots carry no ambience."
+  ],
+  "no_sting": "Do not use the medieval bell sound logo in this episode."
 }

@@ -9,7 +9,7 @@
       "from_scene": "S051",
       "to_scene": "S058",
       "hook": "The vegetable is only the beginning.",
-      "description": "Menon's1755Paris cookbook surrounds a meat dish with cabbage and a layered sauce. A period recipe demonstration, not a recovered household menu.",
+      "description": "Menon's1755 Paris cookbook surrounds a meat dish with cabbage and a layered sauce. A period recipe demonstration, not a recovered household menu.",
       "id": "short-1",
       "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
       "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."
@@ -29,7 +29,7 @@
       "from_scene": "S079",
       "to_scene": "S086",
       "hook": "The platter leaving the room was not necessarily finished.",
-      "description": "Mercier's observation about servants meets a1755recipe that starts with leftover roast poultry. Different evidence, both complicating the simple waste story.",
+      "description": "Mercier's observation about servants meets a 1755 recipe that starts with leftover roast poultry. Different evidence, both complicating the simple waste story.",
       "id": "short-3",
       "cut_rule": "Use the exact contiguous selected narration and all qualifying words. Resolve start/end by scene ID. Verify actual duration, crop, captions and audio before delivery.",
       "vertical_direction": "Recompose 9:16 around the active subject; keep Visitor and evidence labels readable, not an automatic center crop. Captions within phone UI-safe region; no claimed related-video link until configured."

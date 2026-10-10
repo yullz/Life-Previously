@@ -97,3 +97,10 @@ What is assessed, per package against all eighteen and the published episodes: s
 - Title shape 'Could You …' recurs in 09 and 19; fine across the slate, only relevant to adjacency when the owner schedules.
 - No shared sources with another package.
 - Verdict: distinct. No change needed.
+
+### 07 — Rich vs Poor: Dinner Before the French Revolution (checked 2026-10-10)
+- Setting shared by city with 01 (Paris, 1709); different century, a dinner comparison versus a crisis year; both mention bread in passing and tell different stories.
+- Angle (two composite households, a cookbook's cabbage, a shared oven, the servants' table) appears nowhere else; 05 and 16 touch food in other centuries and formats.
+- Thumbnail promises (SAME CITY?, JUST CABBAGE?, WHO EATS NEXT?) repeat no other headline family.
+- No shared sources with another package; Mercier and Menon appear only here.
+- Verdict: distinct. No change needed.
