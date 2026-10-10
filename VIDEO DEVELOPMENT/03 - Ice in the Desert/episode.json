@@ -12,7 +12,7 @@
   "locations": {
     "complex": {
       "scope": "Meybod, around 1900; summer ice-house exterior reconstruction",
-      "design": "One muted ochre conical stepped earthen dome beyond the east–west shade wall, one shallow rectangular basin north of wall. View from northeast toward southwest: basin foreground, wall middle ground, dome beyond. Plain small access opening, no wind tower, fixed layout. Level open right foreground for Visitor; no active frozen pond in summer."
+      "design": "One muted ochre conical stepped earthen dome beyond the east–west shade wall, one shallow rectangular basin north of wall. View from northeast toward southwest: basin foreground, wall middle ground, dome beyond. Plain small access opening, no wind tower, fixed layout. Level open right foreground; no active frozen pond in summer."
     },
     "pond": {
       "scope": "Meybod, around 1900; winter freezing basin",
@@ -30,7 +30,7 @@
     },
     "store": {
       "scope": "Meybod, around 1900; winter ice-store interior reconstruction",
-      "design": "Large earthen domed chamber over a below-ground circular storage pit. Thick adobe base, narrow small daylight opening above, simple access ledge at left with no invented exact stair count. Ice packed in pit with straw/reed insulation, meltwater path at lowest point. Visitor always on a level access ledge, never floating over pit or standing on slippery ice. Two safe adult workers at most, A and B; B wears plain olive robe, cream trousers and small cap."
+      "design": "Large earthen domed chamber over a below-ground circular storage pit. Thick adobe base, narrow small daylight opening above, simple access ledge at left with no invented exact stair count. Ice packed in the pit with straw insulation, meltwater path at the lowest point. A level access ledge at right stays clear of the ice; nobody stands on the ice. Two safe adult workers at most, A and B; B wears plain olive robe, cream trousers and small cap."
     },
     "brick": {
       "scope": "Meybod ice-house materials; explanatory reconstruction",
@@ -65,14 +65,14 @@
       "title": "Pochee, Gunstone and Wilton — Passive ice making and seasonal storage (2017)",
       "url": "https://discovery.ucl.ac.uk/id/eprint/10087896/",
       "read": "2026-10-09: complete eight-page paper, printed pp.3579–3586; model assumptions and limitations included.",
-      "limit": "Modern simulations using a typical meteorological year, not weather observations from1900 or measured historical output. Do not use model percentages as historical facts."
+      "limit": "Modern simulations using a typical meteorological year, not weather observations from 1900 or measured historical output. Do not use model percentages as historical facts."
     },
     {
       "id": "SRC03",
       "title": "Hosseini and Namazian — An Overview of Iranian Ice Repositories (2012)",
       "url": "https://open.metu.edu.tr/handle/11511/50831",
       "read": "2026-10-09: pp.223–231 read, including architectural elements, cited travelers, access and drainage. PDF at https://open.metu.edu.tr/bitstream/handle/11511/50831/223-234.pdf.",
-      "limit": "Use supported architectural descriptions and cite locations of travelers accurately. Reject broad public-access claims, speculative400BCE chronology and wording suggesting summer pond freezing; compare with Jørgensen and physics research."
+      "limit": "Use supported architectural descriptions and cite locations of travelers accurately. Reject broad public-access claims, speculative 400 BCE chronology and wording suggesting summer pond freezing; compare with Jørgensen and physics research."
     },
     {
       "id": "SRC04",
@@ -101,11 +101,19 @@
   "claims": [
     {
       "id": "C0",
-      "claim": "The Visitor, a particular cup, assigned errands and a reconstructed day around1900 are fictional framing.",
+      "claim": "The Visitor, a particular cup, assigned errands and a reconstructed day around 1900 are fictional framing.",
       "type": "F",
       "sources": [],
       "locator": "Opening states reconstruction; conditional viewer tasks throughout.",
-      "limit": "No invented historical person, exact wage, recipe, tariff or dated weather reading."
+      "limit": "No invented historical person, exact wage, recipe, tariff or dated weather reading.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "editorial framing; no factual content",
+        "evidence": "S009 says aloud that the visit is invented and names what the evidence is.",
+        "source_locators": "",
+        "refutation": "",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C1",
@@ -116,7 +124,15 @@
         "SRC02"
       ],
       "locator": "Iranica opening, use/typology, final survey paragraph; PLEA pp.3579–3580.",
-      "limit": "Not an assertion that all Iranian buildings used one design or that the dome dates to400BCE."
+      "limit": "Not an assertion that all Iranian buildings used one design or that the dome dates to 400 BCE.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "METU p.223: ice 'was produced in the coldest periods of winter and people would use the preserved ice during long and warm summers'; p.228: 'One of the biggest examples of this kind is located in the city of Meibod in Yazd province', vault diameter 13 m, pit depth 6 m. Max Fordham: 'a particular large, dome type Yakhchal in Meybod ... reported to be around 400 years old'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+        "source_locators": "SRC03 pp.223, 228; SRC04 'The Yakhchals'",
+        "refutation": "The script never dates the dome; it says around 1900 is an editorial anchor. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C2",
@@ -126,8 +142,16 @@
         "SRC01",
         "SRC03"
       ],
-      "locator": "Iranica ice-making sequence; METU pp.227–229 shade wall, provision pool and store.",
-      "limit": "Thin-layer methods and harvesting schedules vary; no single exact depth or yield presented as universal."
+      "locator": "METU pp.224 (Chardin quotation), 227–228 shade wall, provision pool and transfer to the pit; Iranica ice-making sequence",
+      "limit": "Thin-layer methods and harvesting schedules vary; no single exact depth or yield presented as universal.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "METU p.227–228: the shading wall casts 'a long shadow on the shallow channel to its north'; ponds 'located just north of the wall ... with a depth of about 40–50 cm'; 'at dawn, people chop the ice into pieces and transfer it to the main structure'. Chardin (METU p.224): ponds filled at night, ice broken in the morning and stored in the pit, repeated over at least eight days. Max Fordham: 'a shallow ice making pond which is filled each night from a qanat ... Ice is harvested from the pond and transferred into the Yakhchal ice store'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+        "source_locators": "SRC03 pp.224, 227–228; SRC04",
+        "refutation": "S032 now quotes the traveller's nightly-fill routine instead of Iranica's thin-layer wording, which could not be re-read today. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C3",
@@ -138,7 +162,15 @@
         "SRC03"
       ],
       "locator": "PLEA Fig.1 and p.3580; METU pp.227–228.",
-      "limit": "Do not invert the wall/pond relation in maps or imply nighttime shade causes cold by itself."
+      "limit": "Do not invert the wall/pond relation in maps or imply nighttime shade causes cold by itself.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "METU p.227: 'the shading wall always stands to the south of the ice-making channel ... Therefore it stretches from the east to the west.' Max Fordham: 'A shading wall shields the pond from the heat of low-angle winter sun.'",
+        "source_locators": "SRC03 p.227; SRC04",
+        "refutation": "Checked every diagram and visual keeps pond north, wall south. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C4",
@@ -149,11 +181,19 @@
         "SRC04"
       ],
       "locator": "PLEA climate data p.3580, model results p.3582 and discussion p.3585.",
-      "limit": "No numerical historic temperatures, no summer instant-freezing claim; model result attributed as modern explanation."
+      "limit": "No numerical historic temperatures, no summer instant-freezing claim; model result attributed as modern explanation.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "Max Fordham: Yazd has 'hot summers and cool winters', winter lows occasionally −5 °C; 'the dominant cooling mechanism was heat loss by radiation from the pond to the night sky ... Also important was significant heat loss by evaporation'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+        "source_locators": "SRC04 'The Yazd climate' and 'Ice production'",
+        "refutation": "The script attributes radiation-dominant cooling to modern modelling and gives no historic temperature. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C5",
-      "claim": "Ice was collected, transferred and insulated for seasonal storage, with adobe structures and straw/reed insulation limiting heat gain.",
+      "claim": "Ice was collected, transferred and insulated for seasonal storage, with adobe structures and straw or thatch insulation limiting heat gain.",
       "type": "E",
       "sources": [
         "SRC01",
@@ -161,7 +201,15 @@
         "SRC03"
       ],
       "locator": "Iranica typology/materials; PLEA storage pp.3582–3583/3586; METU pp.228–231.",
-      "limit": "Do not promise zero melting or a fixed survival percentage. No claim to exact Meybod insulation thickness."
+      "limit": "Do not promise zero melting or a fixed survival percentage. No claim to exact Meybod insulation thickness.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "METU p.228: the pit 'surrounded by a vault' of adobe, workers 'cover the external crust of the vault with thatch to protect it'; p.225: snow stored 'within the layers of wicker or straw'. Max Fordham: adobe construction; 'covered in a thick layer of straw thatch to insulate them'; model with thatch insulation; about 20% melt loss by September in one scenario. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+        "source_locators": "SRC03 pp.225, 228; SRC04 'Ice storage'",
+        "refutation": "Claim and S048 narrowed from 'straw/reed' to 'straw or thatch'; no survival percentage is narrated. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C6",
@@ -173,18 +221,34 @@
         "SRC03"
       ],
       "locator": "Iranica distinction from water reservoirs; METU p.229 drain well; PLEA storage assumptions.",
-      "limit": "No magicalcold generation from dome, no swimming tank, no exact underground temperature."
+      "limit": "No magicalcold generation from dome, no swimming tank, no exact underground temperature.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "METU p.228: 'People preserve ice in an underground well'; Meybod pit 6 m deep; 'a well usually was considered beneath the main pit to let the melted water poured into it because the melted water causes the ice melt too.' Max Fordham: pit about 5 m deep; dome an excellent solar shade with cooling thermal mass. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+        "source_locators": "SRC03 pp.228–229; SRC04",
+        "refutation": "S052 keeps the ice store distinct from a water reservoir, as the drain passage implies. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C7",
-      "claim": "Water supply, labor and management were part of operation; qanats could supply complexes; ownership included communal/endowed and commercial arrangements.",
+      "claim": "Water supply, labor and management were part of operation; qanats could supply complexes; ice houses were run as community operations or as businesses selling ice.",
       "type": "E",
       "sources": [
         "SRC01",
         "SRC03"
       ],
       "locator": "Iranica qanat and ownership paragraphs; METU pool p.228 and distribution accounts p.225.",
-      "limit": "Do not say all ice was free, equally accessible, or every house had a private ice store. Qanat diagram is generic, not surveyed Meybod route."
+      "limit": "Do not say all ice was free, equally accessible, or every house had a private ice store. Qanat diagram is generic, not surveyed Meybod route.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "METU p.227: water 'procured from water systems known as qanats ... and conducted to some ponds located just north of the wall'; p.225 (Holster 1870): private yakhchals existed, 'Huge chunks of ice were carried by donkeys and sold all over the province'; p.228: stairs let workers maintain or repair the vault. Max Fordham: 'run both as community operations and as businesses selling ice'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+        "source_locators": "SRC03 pp.225, 227–228; SRC04 'Ice storage'",
+        "refutation": "S071 now says 'community operations' and 'businesses selling ice' rather than Iranica's 'endowed', which could not be re-read today. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C8",
@@ -196,7 +260,15 @@
         "SRC03"
       ],
       "locator": "Iranica use/typology and Fryer discussion; PLEA introduction; METU travelers p.223/225.",
-      "limit": "No exact drink recipe, no guarantee of safe direct consumption or universal availability."
+      "limit": "No exact drink recipe, no guarantee of safe direct consumption or universal availability.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "METU p.223 (Fryer, 1670s): 'they mix snow, or dissolve ice in their Water, Wine or Sherbets'; p.225 (Holster): the poor could use the yakhchal to cool water; sherbets and fruit were kept cold with ice in shops. Max Fordham: ice used 'for the production and preservation of food and drinks'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+        "source_locators": "SRC03 pp.223, 225; SRC04",
+        "refutation": "The script says the store holds the supply and the cooling happens elsewhere; it does not deny that ice preserved food elsewhere. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C9",
@@ -207,7 +279,15 @@
         "SRC03"
       ],
       "locator": "PLEA assumptions and melt results; METU p.231 obsolescence/contamination/maintenance.",
-      "limit": "No quantified historic failure rate or health outcomes; not a claim modern refrigeration and ice houses were equivalent."
+      "limit": "No quantified historic failure rate or health outcomes; not a claim modern refrigeration and ice houses were equivalent.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "source passage read, spoken wording compared, refutation attempted",
+        "evidence": "METU p.231: erosion meant the buildings 'required ... frequent' maintenance; 'The contamination of ice obtained from ice repositories was another reason that made ice repositories abandoned as Yakhchal's ice was usually merged with dust and soil because ice was developed in open areas. Also channels and ponds were dug in the soil and were used without any finishing material.' Max Fordham: melt losses modelled at roughly 20% by September in one scenario, dependent on insulation.",
+        "source_locators": "SRC03 p.231; SRC04 'Ice storage'",
+        "refutation": "No failure rate or health outcome is narrated; S068 states only that open water and handling bring problems. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     },
     {
       "id": "C10",
@@ -219,10 +299,18 @@
         "SRC03"
       ],
       "locator": "Synthesis of production, storage and distribution sections.",
-      "limit": "Metaphor of saving winter is explanatory; no claim heat is a substance or cold is manufactured in summer."
+      "limit": "Metaphor of saving winter is explanatory; no claim heat is a substance or cold is manufactured in summer.",
+      "checked": {
+        "date": "2026-10-10",
+        "method": "inference checked against the evidence rows above",
+        "evidence": "Synthesis of C2, C5 and C8: production in winter, storage, use in summer.",
+        "source_locators": "C2–C8 passages",
+        "refutation": "Looked for any line treating cold as a manufactured substance; S026 and S027 say heat leaves the water. Holds.",
+        "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+      }
     }
   ],
-  "research": "Reconstruct a seasonal cycle at Meybod around1900. This date is an editorial anchor within the documented long use of the type, not a claim to a preserved daybook. The architecture and functions are drawn from field research and engineering papers. Key contradiction resolved: later papers loosely call these ancient refrigerators, while Jørgensen explicitly distinguishes ice storage from food refrigeration. Say ice cooled drinks and could be used elsewhere; do not put hanging food inside the store. Avoid400BCE origin claims, exact historical freezing yields, fixed melt percentages, huge radiant-cold arrows, mechanical windcatchers, and a claim that a small dome vent creates the freezing. Engineering models are explanatory, not measurements from1900; their own reported yields vary with assumptions. Some METU wording says transfer on hot summer days in its wall section; do not use that to move winter harvesting into summer. Water, operating labor and maintenance are central to the story. Final costume follows late-Qajar ordinary layered clothing, not court finery.",
+  "research": "Reconstruct a seasonal cycle at Meybod around 1900. This date is an editorial anchor within the documented long use of the type, not a claim to a preserved daybook. The architecture and functions are drawn from field research and engineering papers. Key contradiction resolved: later papers loosely call these ancient refrigerators, while Jørgensen explicitly distinguishes ice storage from food refrigeration. Say ice cooled drinks and could be used elsewhere; do not put hanging food inside the store. Avoid 400 BCE origin claims, exact historical freezing yields, fixed melt percentages, huge radiant-cold arrows, mechanical windcatchers, and a claim that a small dome vent creates the freezing. Engineering models are explanatory, not measurements from 1900; their own reported yields vary with assumptions. Some METU wording says transfer on hot summer days in its wall section; do not use that to move winter harvesting into summer. Water, operating labor and maintenance are central to the story. Final costume follows late-Qajar ordinary layered clothing, not court finery.",
   "description": "A hot summer drink begins with a cold winter night. At Meybod in Iran, follow the seasonal work behind the traditional yakhchal: shallow freezing ponds, a carefully placed shade wall, harvested ice and an insulated store. This illustrated reconstruction explains how people kept winter ice for summer—and what the buildings could not do.",
   "tags": [
     "yakhchal",
@@ -244,6 +332,8 @@
     "S011",
     "S007",
     "S006",
+    "S046",
+    "S062",
     "TH-A"
   ],
   "thumbnails": [
@@ -251,7 +341,7 @@
       "id": "A",
       "headline": "ICE. NO FRIDGE.",
       "chip": "MEYBOD • c.1900",
-      "scope": "Meybod, around1900; summer ice retrieval, reconstructed",
+      "scope": "Meybod, around 1900; summer ice retrieval, reconstructed",
       "pose": "closeup-listening",
       "background": "One substantial but hand-carried irregular cloudy ice piece on a shaded plain tray at left foreground, ochre earthen ice-house dome and dry plateau ground behind. Warm sunlit background contrasts with pale ice in shaded foreground. No outdoor frozen pond in summer, snowfield, refrigerator or artificial glow.",
       "rationale": "The contrast between a recognisable ice block and dry earthen surroundings is the premise; the actual storage explanation earns the image.",
@@ -295,8 +385,8 @@
   "shorts": [
     {
       "title": "The Wall That Helped Make Ice",
-      "from_scene": "S015",
-      "to_scene": "S021",
+      "from_scene": "S014",
+      "to_scene": "S020",
       "hook": "A wall with a practical job",
       "description": "The freezing pond belongs north of the shade wall. The position helps protect it from low winter sun."
     },
@@ -404,7 +494,7 @@
           null,
           null,
           {
-            "scope": "Meybod, around1900; summer ice-store interior reconstruction"
+            "scope": "Meybod, around 1900; summer ice-store interior reconstruction"
           }
         ],
         [
@@ -434,14 +524,15 @@
           }
         ],
         [
-          "First question: how do you make ice? Second: how do you stop summer taking it back?",
+          "Two questions, then. How do you make ice out here? And who does all this work? Keep the second one for the end.",
           "C2,C5",
           "diagram",
           "graphic",
           "Two seasonal panels with water-to-ice symbol and protected ice store.",
           null,
           null,
-          "FREEZE IN WINTER • KEEP FOR SUMMER"
+          "FREEZE IN WINTER • KEEP FOR SUMMER",
+          {}
         ],
         [
           "The trick is to use the conditions the place already offers. Winter gives you a different opportunity from summer.",
@@ -637,12 +728,15 @@
         [
           "One way water loses heat is by radiating it toward the night sky. Clear, dry conditions can make that loss especially useful.",
           "C4",
-          "diagram",
-          "graphic",
-          "Shallow water section, restrained arrows point upward labelled heat leaving; no blue rays entering water.",
+          "pond",
+          "wide",
+          "Clear winter night over the open shallow pond, wall to the south, faint natural sky glow; no rays or arrows.",
+          "look-around",
           null,
           null,
-          "HEAT LEAVES TOWARD THE SKY"
+          {
+            "scope": "Meybod, around 1900; winter ice production reconstruction"
+          }
         ],
         [
           "Evaporation carries energy away too. Modern modelling finds both processes important, with radiation providing the larger cooling effect.",
@@ -651,7 +745,7 @@
           "graphic",
           "Two modest outgoing arrows, radiation dominant and evaporation smaller; label qualitative, no numerical ratio.",
           null,
-          "Modern physical explanation • not1900 measurements",
+          "Modern physical explanation • not 1900 measurements",
           "RADIATION + EVAPORATION"
         ],
         [
@@ -684,8 +778,8 @@
           "Confidence is no substitute for checking the surface. Our workers have a physical process to manage.",
           "C0,C2",
           "pond",
-          "medium",
-          "Worker A observes shallow icy edge from dry path, holding no invented measuring instrument.",
+          "wide",
+          "Wide winter view: worker A observes the shallow icy edge from the dry path, wall behind; no measuring instrument.",
           null,
           null,
           null,
@@ -694,14 +788,15 @@
           }
         ],
         [
-          "Historical descriptions include adding water in thin layers, allowing those layers to freeze and building a thicker sheet over successive cold nights.",
+          "A seventeenth-century traveller describes ponds filled at night, ice broken each morning, and the store built up through days of repeated work.",
           "C2",
           "diagram",
           "graphic",
-          "Three sequential side sections: shallow water, first frozen layer, next thin layer; no numeric thickness.",
+          "Three sequential side sections: shallow pond filled at night, ice broken at dawn, pieces added to the store; no numeric thickness.",
           null,
-          null,
-          "THIN LAYERS • REPEATED FREEZING"
+          "Jean Chardin's account • Isfahan, 1670s",
+          "FILL AT NIGHT • BREAK AT DAWN • REPEAT",
+          {}
         ],
         [
           "Fill a deep swimming pool and you will not simply lift out a perfect block the next morning.",
@@ -761,7 +856,12 @@
           {
             "scope": "Meybod, around 1900; winter ice production reconstruction"
           }
-        ],
+        ]
+      ]
+    },
+    {
+      "title": "How to keep a piece of winter",
+      "scenes": [
         [
           "Researchers model production and storage separately. Their estimates depend on assumptions; they are not tallies from this particular winter.",
           "C4,C9",
@@ -797,7 +897,7 @@
           "C0,C7",
           "pond",
           "reaction",
-          "Worker A and B prepare one modest tray left of clear path, Visitor right.",
+          "Worker A and B prepare one modest tray left of the clear path; right third open.",
           "clutch-stomach",
           null,
           null,
@@ -815,14 +915,9 @@
           "Winter • harvesting for storage",
           null,
           {
-            "scope": "Meybod, around1900; winter harvesting exterior reconstruction"
+            "scope": "Meybod, around 1900; winter harvesting exterior reconstruction"
           }
-        ]
-      ]
-    },
-    {
-      "title": "How to keep a piece of winter",
-      "scenes": [
+        ],
         [
           "The ice is broken into manageable pieces and transferred to the store. That sentence conceals quite a lot of handling.",
           "C2,C7",
@@ -869,12 +964,21 @@
           "closeup-listening"
         ],
         [
-          "The ice itself is packed and protected with materials such as straw or reeds. It is a stored supply worth looking after.",
+          "The ice itself is packed and protected with insulating material such as straw. It is a stored supply worth looking after.",
           "C5",
           "store",
-          "medium",
-          "Worker B arranges a dry straw insulating layer across packed ice from safe ledge, A absent."
-        ],
+          "wide",
+          "Wide interior: worker B on the safe ledge arranges a dry straw layer across the packed ice in the pit; A absent.",
+          null,
+          null,
+          null,
+          {}
+        ]
+      ]
+    },
+    {
+      "title": "Not a water tank",
+      "scenes": [
         [
           "Summer will still take a share through melting. Good storage slows that loss; it cannot make ice indestructible.",
           "C5,C6",
@@ -933,7 +1037,11 @@
           "C1,C4,C6",
           "store",
           "upward view",
-          "Small daylight opening high in earthen dome, no icy chimney plume, no floor-level Visitor."
+          "Small daylight opening high in the earthen dome, no icy chimney plume; no figure in the frame.",
+          null,
+          null,
+          null,
+          {}
         ],
         [
           "We have made ice during suitable weather, brought it inside and protected it. Now comes the longest part of the process.",
@@ -1001,8 +1109,8 @@
           "This is where a building becomes part of daily life: not just a remarkable shape, but a place people use.",
           "C8,C10",
           "door",
-          "medium",
-          "Worker B stands by tray in shaded doorway, two waiting adults at left only, clear right.",
+          "wide",
+          "Wider shaded doorway: worker B by the tray, two waiting adults at left, dome edge above; clear right.",
           "watch-arms-crossed",
           null,
           null,
@@ -1086,8 +1194,8 @@
           "Nor can we turn an old ice supply into a guarantee of modern hygiene. Open water and handling bring their own problems.",
           "C9",
           "inlet",
-          "object insert",
-          "Shallow exposed earthen channel with ordinary ground around it, no visible disease, insects swarm or disgust imagery.",
+          "medium",
+          "Shallow exposed earthen channel with ordinary ground around it, seen from a few steps back; no visible disease, insect swarm or disgust imagery.",
           null,
           "Storage performance is not a hygiene guarantee",
           null,
@@ -1099,8 +1207,8 @@
           "The cleverness is real. So is the work. You can appreciate both without pretending the system made every inconvenience disappear.",
           "C7,C9,C10",
           "door",
-          "medium",
-          "Worker B checks tray in summer shade, modest relaxed expression, no triumphant pose.",
+          "wide",
+          "Wider summer shade view: worker B checks the tray at the doorway, dome edge above; modest relaxed expression; right clear.",
           "watch-arms-crossed",
           null,
           null,
@@ -1127,14 +1235,15 @@
       "title": "Who makes the system work?",
       "scenes": [
         [
-          "Iranian ice houses did not all share one business model. Some were connected to communal or endowed water systems; others were commercial ventures.",
+          "Iranian ice houses did not all share one business model. Some were run as community operations; others were businesses selling ice.",
           "C7",
           "diagram",
           "graphic",
-          "Two equal paths: community/endowment and business; each leads to ice supply, no ownership percentages.",
+          "Two equal paths: a community operation and a business selling ice; each leads to an ice supply, no ownership percentages.",
           null,
           null,
-          "DIFFERENT OWNERSHIP ARRANGEMENTS"
+          "COMMUNITY • BUSINESS",
+          {}
         ],
         [
           "That means we should not announce that every resident simply walked in and collected unlimited free ice whenever they wanted.",
@@ -1153,8 +1262,8 @@
           "Water had to be managed, structures maintained and ice handled. Someone's resources and someone's labor were involved before our visitor arrived.",
           "C7,C9",
           "pond",
-          "medium",
-          "Worker A inspects earthen water inlet in winter morning, B absent; right path open.",
+          "wide",
+          "Wide winter morning view: worker A inspects the earthen inlet, basin and wall beyond; B absent; right path open.",
           "watch-arms-crossed",
           "Winter work • water management",
           null,
@@ -1173,8 +1282,8 @@
           "Think of your cup as the final page of a much longer story. It begins with decisions about water, space and winter weather.",
           "C0,C10",
           "drink",
-          "object insert",
-          "Plain cup left on shaded low table, one small ice piece beside it.",
+          "reaction",
+          "Plain cup at left on the shaded low table, one small ice piece beside it; right third calm.",
           "closeup-thoughtful",
           null,
           null,
@@ -1199,7 +1308,7 @@
           "We remember the dome because we see it. The organisation is easier to miss, but matters just as much.",
           "C7,C10",
           "complex",
-          "wide",
+          "establishing",
           "Summer complex, one worker at doorway and two modest distant adults, same architecture.",
           "count-fingers",
           null,
@@ -1264,8 +1373,8 @@
           "We can now answer our opening question. First, clear away three attractive mistakes that would make the story less accurate.",
           "C1,C9",
           "door",
-          "medium",
-          "Ice piece on tray in summer shade, Visitor right, no extra locals.",
+          "reaction",
+          "Ice piece on a tray in summer shade at left; right third calm, no extra locals.",
           "count-fingers",
           null,
           null,
@@ -1419,7 +1528,7 @@
           }
         ],
         [
-          "Which would you rather manage: freezing the supply in winter, or keeping enough for summer? The dome, unfortunately, cannot choose for you.",
+          "Freezing the supply, or guarding it all summer: which job would you take? The dome can't choose for you. Pick the next episode on screen.",
           "C0",
           "door",
           "reaction",
@@ -1438,7 +1547,7 @@
     "status": "director_selected_reference_inspected",
     "mode": "late_Qajar_everyday_clothing",
     "policy": "VIDEO DEVELOPMENT/WARDROBE_POLICY.md",
-    "scope": "Meybod, around1900; modest visitor to a working ice house, no official or royal status",
+    "scope": "Meybod, around 1900; modest visitor to a working ice house, no official or royal status",
     "garments": "Plain knee-length muted olive/brown outer robe over a cream collarless shirt and straight loose slate trousers; modest dark cloth waist tie; simple dark soft shoes. Long sleeves narrowed enough for ordinary work; no embroidery, metallic trim, huge sash, weapons, jewels or ceremonial headgear. Visitor's familiar hair remains visible; no change of ethnic identity or facial hair.",
     "season_variants": "Use one consistent plain closed-front or modestly overlapping robe configuration in every pose. Moderate loose fit works for the illustrative visit in both seasons; no shot-dependent open/closed variant is required.",
     "references": [
@@ -1483,56 +1592,219 @@
     "rule": "Listen to pilot and every recurrence; retain correct spelling in captions."
   },
   "sound_plan": {
-    "status": "director_specified_not_generated_or_heard",
+    "status": "director_specified_assets_unheard",
     "music": "Existing theme understated, with space for physical work and the seasonal reveal.",
     "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
     "new_assets": [
       {
         "id": "thin_water",
-        "description": "Quiet shallow water flowing through an earthen channel; no electric pump or waterfall."
+        "prompt": "Quiet shallow water flowing through an earthen channel into a basin, steady and soft. No pump, pipe or waterfall.",
+        "seconds": 4,
+        "kind": "ambience",
+        "path": "channel/sfx/ice-in-the-desert-thin_water.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "ice_crack",
-        "description": "One short subdued slab-of-ice crack, no glass smash or cinematic explosion."
+        "prompt": "One short subdued crack of a thin ice slab breaking, close and dry. No glass smash or cinematic boom.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/ice-in-the-desert-ice_crack.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "straw_move",
-        "description": "Soft dry straw being arranged by hand."
+        "prompt": "Soft dry straw being spread by hand over a surface, two slow movements. No wind.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/ice-in-the-desert-straw_move.mp3",
+        "paid": true,
+        "quote_at_launch": true
       },
       {
         "id": "tray_set",
-        "description": "Quiet wood tray placed on a rough wooden surface."
+        "prompt": "A plain wooden tray set down once on a rough wooden surface, quiet. No crockery.",
+        "seconds": 1,
+        "kind": "spot",
+        "path": "channel/sfx/ice-in-the-desert-tray_set.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "water_pour",
+        "prompt": "Water poured gently from an earthen vessel onto a shallow surface, one short pour. No splash spectacle.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/ice-in-the-desert-water_pour.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "ice_tap",
+        "prompt": "A wooden-handled tool tapping a thin ice edge twice, light and dry. No metal ring.",
+        "seconds": 2,
+        "kind": "spot",
+        "path": "channel/sfx/ice-in-the-desert-ice_tap.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "footsteps_dry",
+        "prompt": "Two people walking a few steps on dry packed earth, quiet, no gravel crunch exaggeration.",
+        "seconds": 3,
+        "kind": "spot",
+        "path": "channel/sfx/ice-in-the-desert-footsteps_dry.mp3",
+        "paid": true,
+        "quote_at_launch": true
+      },
+      {
+        "id": "desert_night",
+        "prompt": "Very quiet still night air on a dry plateau, almost silence with a faint distant breath of wind. No howling wind or insects chorus.",
+        "seconds": 6,
+        "kind": "ambience",
+        "path": "channel/sfx/ice-in-the-desert-desert_night.mp3",
+        "paid": true,
+        "quote_at_launch": true
       }
     ],
     "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance.",
     "cues": [
       {
+        "scene_id": "S002",
+        "asset": "tray_set",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S014",
+        "asset": "thin_water",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
         "scene_id": "S015",
         "asset": "thin_water",
-        "timing": "single quiet inlet cue during visible flowing water"
+        "offset_seconds": 0.2,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S016",
+        "asset": "thin_water",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S021",
+        "asset": "desert_night",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S029",
+        "asset": "desert_night",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S034",
+        "asset": "water_pour",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S035",
+        "asset": "ice_tap",
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S043",
         "asset": "ice_crack",
-        "timing": "sync one visible breaking action only"
+        "offset_seconds": 0.6,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
         "scene_id": "S048",
         "asset": "straw_move",
-        "timing": "sync worker arranging straw"
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       },
       {
-        "scene_id": "S002",
+        "scene_id": "S060",
+        "asset": "ice_tap",
+        "offset_seconds": 0.5,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S061",
         "asset": "tray_set",
-        "timing": "sync tray being set down"
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S064",
+        "asset": "tray_set",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S066",
+        "asset": "thin_water",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S073",
+        "asset": "thin_water",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S076",
+        "asset": "footsteps_dry",
+        "offset_seconds": 0.3,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S078",
+        "asset": "tray_set",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+      },
+      {
+        "scene_id": "S092",
+        "asset": "tray_set",
+        "offset_seconds": 0.4,
+        "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+        "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
       }
     ],
     "intentional_silence": [
-      "No cooling motor.",
+      "No cooling motor or electrical hum.",
       "No magical icy whoosh.",
-      "No loud wind throughout every desert scene.",
+      "Desert night ambience stays very quiet, never a wind howl, and only where the night sky is in view.",
       "No false documentary crowd voices."
-    ]
+    ],
+    "no_sting": "Do not use the medieval bell sound logo in this episode."
   },
   "extra_specs": [],
   "initial_review": {
@@ -1567,6 +1839,116 @@
         "fix": "Corrected links to retrieval, harvesting and protected pit."
       }
     ],
-    "unresolved_director_issues": []
+    "unresolved_director_issues": [],
+    "recheck": {
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "coverage": "All 94 scenes re-read against REVIEW_STANDARD.md after Astra's initial review; every claim re-verified on the sources readable today (see claims_verification).",
+      "findings": [
+        {
+          "id": "03-R01",
+          "issue": "Cold open asked two questions but held none for the end",
+          "fix": "S010 asks how ice is made and who does the work, and holds the second; chapter 'Who makes the system work?' answers it."
+        },
+        {
+          "id": "03-R02",
+          "issue": "Two sections ran 116 and 120 seconds",
+          "fix": "Split into three: 'Borrowing the cold night', 'How to keep a piece of winter', 'Not a water tank' (eight chapters, all 75–100 seconds)."
+        },
+        {
+          "id": "03-R03",
+          "issue": "Nine runs of identical shot types (two heat graphics in a row, repeated mediums at the pond, store, doorway and inlet, two object inserts)",
+          "fix": "S027 is a night wide with the Visitor; S031, S048, S061, S073 are wides; S068 a medium; S075 and S082 reactions; S077 an establishing shot."
+        },
+        {
+          "id": "03-R04",
+          "issue": "Three image instructions and two location designs named the Visitor",
+          "fix": "Rewritten to describe the clear space; the store design now says nobody stands on the ice."
+        },
+        {
+          "id": "03-R05",
+          "issue": "Two wordings rested on the Iranica entry, which could not be re-read today (thin layers; endowed ownership)",
+          "fix": "S032 quotes Chardin's nightly routine as given in the METU paper; S071 says community operations or businesses selling ice, as Max Fordham states."
+        },
+        {
+          "id": "03-R06",
+          "issue": "Four sound cues for eleven minutes",
+          "fix": "18 cues on visible action (water into the basin, tray set down, pouring, tapping and breaking ice, straw spread, footsteps on dry earth, very quiet night air only under the open sky); eight assets in the shared format, paid and quoted at launch."
+        },
+        {
+          "id": "03-R07",
+          "issue": "No end-screen cue in the closing line",
+          "fix": "S094 keeps the two-job question and the dome joke, then points to the next episode on screen."
+        },
+        {
+          "id": "03-R08",
+          "issue": "Ten strings with years glued to words",
+          "fix": "Spaced."
+        },
+        {
+          "id": "03-R09",
+          "issue": "Short 1 opened on a dangling 'Water is directed into it'; pilot lacked the cooled-drink room and the brick object study",
+          "fix": "Short 1 now runs S014–S020; pilot adds S046 and S062."
+        }
+      ],
+      "unresolved": []
+    }
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 11,
+    "open": 0,
+    "total": 11,
+    "method": "Sources fetched and read at the locator on 2026-10-10: Hosseini and Namazian (METU JFA 2012, full PDF) and the Max Fordham research article. Encyclopaedia Iranica and the UCL eprint refused automated access (HTTP 403); Astra read both on 2026-10-09. Every row is supported by passages read today; where a wording came only from Iranica (thin layers, endowed ownership) the narration was reworded to the passages read.",
+    "summary": "All 11 rows supported on the METU and Max Fordham passages. Two wordings narrowed (nightly filling per Chardin; community operations or businesses selling ice); straw or thatch instead of straw/reed."
+  },
+  "slate_reviews": [
+    {
+      "pass": 1,
+      "status": "passed_with_fixes",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all eighteen packages and the published episodes (see ../SLATE_CHECK.md); each episode keeps its own tone.",
+      "findings": [
+        {
+          "id": "03-P1-01",
+          "issue": "After the first re-cut four middle chapters ran only 52–68 seconds",
+          "fix": "Re-cut into three chapters of 74–82 seconds."
+        },
+        {
+          "id": "03-P1-02",
+          "issue": "A new run of two mediums at the inlet and the doorway (S068, S069)",
+          "fix": "S069 is a wider doorway view."
+        },
+        {
+          "id": "03-P1-03",
+          "issue": "Slate check: Meybod around 1900 compared with the other seventeen packages and episodes 001–003",
+          "fix": "Distinct: the only other c.1900 setting (18, Seoul) is another continent and subject; no other package touches Iran, ice or seasonal storage. No change."
+        }
+      ],
+      "unresolved": []
+    },
+    {
+      "pass": 2,
+      "status": "passed",
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "scope": "Execution dry run: compiled prompts for the night pond edit (S027), the winter store edit of the summer store anchor (S045) and the drink-room anchor (S062) read in full; private late-Qajar pose render paths and the thumbnail composite checked; handoff counts, pilot order, sound assets, pronunciations, Shorts and packaging copy checked against the standard.",
+      "findings": [
+        {
+          "id": "03-P2-01",
+          "issue": "Looked for a factual sentence without a checked claim, a modern-dated caption, a pose on the ice or over the pit, a prompt naming the Visitor, or a summer scene inheriting winter; none found",
+          "fix": "No change."
+        }
+      ],
+      "unresolved": []
+    }
+  ],
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial review (Astra) with re-check, source verification (METU paper and Max Fordham article read; Iranica and the UCL eprint refused automated access and were read by Astra on 2026-10-09), two package review passes and the slate content check complete. Late-Qajar outfit is a mandatory private pose derivative set (wardrobe_spec.json) to be built and inspected at production. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
   }
 }

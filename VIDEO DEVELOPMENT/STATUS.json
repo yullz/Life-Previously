@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "commissioned": "2026-10-09",
   "goal": "Complete all eighteen director packages and two additional full review passes",
-  "state": "in_progress: one package at a time (owner instruction 2026-10-09); 01 and 02 released",
+  "state": "in_progress: one package at a time (owner instruction 2026-10-09); 01–03 released",
   "paid_generation": false,
   "publication_authorized": false,
   "packages": [
@@ -41,11 +41,15 @@
       "folder": "03 - Ice in the Desert",
       "title": "How Did People Keep Ice in the Desert Before Fridges?",
       "production_slug": "ice-in-the-desert",
-      "stage": "initial_content_review_passed_generated_refresh_pending",
-      "director_review": "content_passed_with_fixes_execution_validation_pending",
-      "additional_review_1": "pending",
-      "additional_review_2": "pending",
-      "claude_ready": false
+      "stage": "released_director_package",
+      "director_review": "initial review (Astra) passed with fixes; re-check by Claude 2026-10-10",
+      "additional_review_1": "passed_with_fixes (package pass, 2026-10-10)",
+      "additional_review_2": "passed (package pass, 2026-10-10)",
+      "claude_ready": true,
+      "claims_verification": "complete: 11 of 11 checked on METU and Max Fordham passages 2026-10-10 (Iranica and UCL eprint blocked automated access; read by Astra 2026-10-09)",
+      "cross_slate_check": "done 2026-10-10: distinct setting and angle (see SLATE_CHECK.md)",
+      "released": "2026-10-10",
+      "manifest": "package_manifest.json"
     },
     {
       "id": 4,

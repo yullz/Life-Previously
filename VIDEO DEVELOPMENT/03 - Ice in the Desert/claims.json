@@ -1,11 +1,19 @@
 [
   {
     "id": "C0",
-    "claim": "The Visitor, a particular cup, assigned errands and a reconstructed day around1900 are fictional framing.",
+    "claim": "The Visitor, a particular cup, assigned errands and a reconstructed day around 1900 are fictional framing.",
     "type": "F",
     "sources": [],
     "locator": "Opening states reconstruction; conditional viewer tasks throughout.",
     "limit": "No invented historical person, exact wage, recipe, tariff or dated weather reading.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "editorial framing; no factual content",
+      "evidence": "S009 says aloud that the visit is invented and names what the evidence is.",
+      "source_locators": "",
+      "refutation": "",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -37,8 +45,8 @@
       "S093",
       "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; editorial framing; no factual content",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C1",
@@ -49,7 +57,15 @@
       "SRC02"
     ],
     "locator": "Iranica opening, use/typology, final survey paragraph; PLEA pp.3579–3580.",
-    "limit": "Not an assertion that all Iranian buildings used one design or that the dome dates to400BCE.",
+    "limit": "Not an assertion that all Iranian buildings used one design or that the dome dates to 400 BCE.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "METU p.223: ice 'was produced in the coldest periods of winter and people would use the preserved ice during long and warm summers'; p.228: 'One of the biggest examples of this kind is located in the city of Meibod in Yazd province', vault diameter 13 m, pit depth 6 m. Max Fordham: 'a particular large, dome type Yakhchal in Meybod ... reported to be around 400 years old'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+      "source_locators": "SRC03 pp.223, 228; SRC04 'The Yakhchals'",
+      "refutation": "The script never dates the dome; it says around 1900 is an editorial anchor. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S002",
@@ -73,8 +89,8 @@
       "S086",
       "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C2",
@@ -84,8 +100,16 @@
       "SRC01",
       "SRC03"
     ],
-    "locator": "Iranica ice-making sequence; METU pp.227–229 shade wall, provision pool and store.",
+    "locator": "METU pp.224 (Chardin quotation), 227–228 shade wall, provision pool and transfer to the pit; Iranica ice-making sequence",
     "limit": "Thin-layer methods and harvesting schedules vary; no single exact depth or yield presented as universal.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "METU p.227–228: the shading wall casts 'a long shadow on the shallow channel to its north'; ponds 'located just north of the wall ... with a depth of about 40–50 cm'; 'at dawn, people chop the ice into pieces and transfer it to the main structure'. Chardin (METU p.224): ponds filled at night, ice broken in the morning and stored in the pit, repeated over at least eight days. Max Fordham: 'a shallow ice making pond which is filled each night from a qanat ... Ice is harvested from the pond and transferred into the Yakhchal ice store'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+      "source_locators": "SRC03 pp.224, 227–228; SRC04",
+      "refutation": "S032 now quotes the traveller's nightly-fill routine instead of Iranica's thin-layer wording, which could not be re-read today. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S004",
       "S005",
@@ -110,8 +134,8 @@
       "S080",
       "S088"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C3",
@@ -123,6 +147,14 @@
     ],
     "locator": "PLEA Fig.1 and p.3580; METU pp.227–228.",
     "limit": "Do not invert the wall/pond relation in maps or imply nighttime shade causes cold by itself.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "METU p.227: 'the shading wall always stands to the south of the ice-making channel ... Therefore it stretches from the east to the west.' Max Fordham: 'A shading wall shields the pond from the heat of low-angle winter sun.'",
+      "source_locators": "SRC03 p.227; SRC04",
+      "refutation": "Checked every diagram and visual keeps pond north, wall south. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S017",
       "S018",
@@ -130,8 +162,8 @@
       "S020",
       "S037"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C4",
@@ -143,6 +175,14 @@
     ],
     "locator": "PLEA climate data p.3580, model results p.3582 and discussion p.3585.",
     "limit": "No numerical historic temperatures, no summer instant-freezing claim; model result attributed as modern explanation.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Max Fordham: Yazd has 'hot summers and cool winters', winter lows occasionally −5 °C; 'the dominant cooling mechanism was heat loss by radiation from the pond to the night sky ... Also important was significant heat loss by evaporation'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+      "source_locators": "SRC04 'The Yazd climate' and 'Ice production'",
+      "refutation": "The script attributes radiation-dominant cooling to modern modelling and gives no historic temperature. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S011",
       "S013",
@@ -162,12 +202,12 @@
       "S088",
       "S089"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C5",
-    "claim": "Ice was collected, transferred and insulated for seasonal storage, with adobe structures and straw/reed insulation limiting heat gain.",
+    "claim": "Ice was collected, transferred and insulated for seasonal storage, with adobe structures and straw or thatch insulation limiting heat gain.",
     "type": "E",
     "sources": [
       "SRC01",
@@ -176,6 +216,14 @@
     ],
     "locator": "Iranica typology/materials; PLEA storage pp.3582–3583/3586; METU pp.228–231.",
     "limit": "Do not promise zero melting or a fixed survival percentage. No claim to exact Meybod insulation thickness.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "METU p.228: the pit 'surrounded by a vault' of adobe, workers 'cover the external crust of the vault with thatch to protect it'; p.225: snow stored 'within the layers of wicker or straw'. Max Fordham: adobe construction; 'covered in a thick layer of straw thatch to insulate them'; model with thatch insulation; about 20% melt loss by September in one scenario. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+      "source_locators": "SRC03 pp.225, 228; SRC04 'Ice storage'",
+      "refutation": "Claim and S048 narrowed from 'straw/reed' to 'straw or thatch'; no survival percentage is narrated. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S010",
       "S036",
@@ -192,8 +240,8 @@
       "S084",
       "S088"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C6",
@@ -206,6 +254,14 @@
     ],
     "locator": "Iranica distinction from water reservoirs; METU p.229 drain well; PLEA storage assumptions.",
     "limit": "No magicalcold generation from dome, no swimming tank, no exact underground temperature.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "METU p.228: 'People preserve ice in an underground well'; Meybod pit 6 m deep; 'a well usually was considered beneath the main pit to let the melted water poured into it because the melted water causes the ice melt too.' Max Fordham: pit about 5 m deep; dome an excellent solar shade with cooling thermal mass. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+      "source_locators": "SRC03 pp.228–229; SRC04",
+      "refutation": "S052 keeps the ice store distinct from a water reservoir, as the drain passage implies. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S045",
       "S046",
@@ -215,12 +271,12 @@
       "S052",
       "S055"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C7",
-    "claim": "Water supply, labor and management were part of operation; qanats could supply complexes; ownership included communal/endowed and commercial arrangements.",
+    "claim": "Water supply, labor and management were part of operation; qanats could supply complexes; ice houses were run as community operations or as businesses selling ice.",
     "type": "E",
     "sources": [
       "SRC01",
@@ -228,6 +284,14 @@
     ],
     "locator": "Iranica qanat and ownership paragraphs; METU pool p.228 and distribution accounts p.225.",
     "limit": "Do not say all ice was free, equally accessible, or every house had a private ice store. Qanat diagram is generic, not surveyed Meybod route.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "METU p.227: water 'procured from water systems known as qanats ... and conducted to some ponds located just north of the wall'; p.225 (Holster 1870): private yakhchals existed, 'Huge chunks of ice were carried by donkeys and sold all over the province'; p.228: stairs let workers maintain or repair the vault. Max Fordham: 'run both as community operations and as businesses selling ice'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+      "source_locators": "SRC03 pp.225, 227–228; SRC04 'Ice storage'",
+      "refutation": "S071 now says 'community operations' and 'businesses selling ice' rather than Iranica's 'endowed', which could not be re-read today. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S005",
       "S015",
@@ -251,8 +315,8 @@
       "S090",
       "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C8",
@@ -265,6 +329,14 @@
     ],
     "locator": "Iranica use/typology and Fryer discussion; PLEA introduction; METU travelers p.223/225.",
     "limit": "No exact drink recipe, no guarantee of safe direct consumption or universal availability.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "METU p.223 (Fryer, 1670s): 'they mix snow, or dissolve ice in their Water, Wine or Sherbets'; p.225 (Holster): the poor could use the yakhchal to cool water; sherbets and fruit were kept cold with ice in shops. Max Fordham: ice used 'for the production and preservation of food and drinks'. Encyclopaedia Iranica (SRC01) and the UCL eprint (SRC02) returned HTTP 403 from this environment on 2026-10-10; Astra read them on 2026-10-09 (see source notes). This row is checked on the passages read today in Hosseini and Namazian (SRC03, METU JFA 2012) and the Max Fordham research article (SRC04), which independently support it.",
+      "source_locators": "SRC03 pp.223, 225; SRC04",
+      "refutation": "The script says the store holds the supply and the cooling happens elsewhere; it does not deny that ice preserved food elsewhere. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S053",
       "S054",
@@ -274,8 +346,8 @@
       "S063",
       "S064"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C9",
@@ -287,6 +359,14 @@
     ],
     "locator": "PLEA assumptions and melt results; METU p.231 obsolescence/contamination/maintenance.",
     "limit": "No quantified historic failure rate or health outcomes; not a claim modern refrigeration and ice houses were equivalent.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "METU p.231: erosion meant the buildings 'required ... frequent' maintenance; 'The contamination of ice obtained from ice repositories was another reason that made ice repositories abandoned as Yakhchal's ice was usually merged with dust and soil because ice was developed in open areas. Also channels and ponds were dug in the soil and were used without any finishing material.' Max Fordham: melt losses modelled at roughly 20% by September in one scenario, dependent on insulation.",
+      "source_locators": "SRC03 p.231; SRC04 'Ice storage'",
+      "refutation": "No failure rate or health outcome is narrated; S068 states only that open water and handling bring problems. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S007",
       "S030",
@@ -302,8 +382,8 @@
       "S084",
       "S090"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C10",
@@ -316,6 +396,14 @@
     ],
     "locator": "Synthesis of production, storage and distribution sections.",
     "limit": "Metaphor of saving winter is explanatory; no claim heat is a substance or cold is manufactured in summer.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "inference checked against the evidence rows above",
+      "evidence": "Synthesis of C2, C5 and C8: production in winter, storage, use in summer.",
+      "source_locators": "C2–C8 passages",
+      "refutation": "Looked for any line treating cold as a manufactured substance; S026 and S027 say heat leaves the water. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S006",
       "S008",
@@ -336,7 +424,7 @@
       "S092",
       "S093"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; inference checked against the evidence rows above",
+    "checked_date": "2026-10-10"
   }
 ]

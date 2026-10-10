@@ -1,52 +1,215 @@
 {
-  "status": "director_specified_not_generated_or_heard",
+  "status": "director_specified_assets_unheard",
   "music": "Existing theme understated, with space for physical work and the seasonal reveal.",
   "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
   "new_assets": [
     {
       "id": "thin_water",
-      "description": "Quiet shallow water flowing through an earthen channel; no electric pump or waterfall."
+      "prompt": "Quiet shallow water flowing through an earthen channel into a basin, steady and soft. No pump, pipe or waterfall.",
+      "seconds": 4,
+      "kind": "ambience",
+      "path": "channel/sfx/ice-in-the-desert-thin_water.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "ice_crack",
-      "description": "One short subdued slab-of-ice crack, no glass smash or cinematic explosion."
+      "prompt": "One short subdued crack of a thin ice slab breaking, close and dry. No glass smash or cinematic boom.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/ice-in-the-desert-ice_crack.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "straw_move",
-      "description": "Soft dry straw being arranged by hand."
+      "prompt": "Soft dry straw being spread by hand over a surface, two slow movements. No wind.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/ice-in-the-desert-straw_move.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "tray_set",
-      "description": "Quiet wood tray placed on a rough wooden surface."
+      "prompt": "A plain wooden tray set down once on a rough wooden surface, quiet. No crockery.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/ice-in-the-desert-tray_set.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "water_pour",
+      "prompt": "Water poured gently from an earthen vessel onto a shallow surface, one short pour. No splash spectacle.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/ice-in-the-desert-water_pour.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "ice_tap",
+      "prompt": "A wooden-handled tool tapping a thin ice edge twice, light and dry. No metal ring.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/ice-in-the-desert-ice_tap.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "footsteps_dry",
+      "prompt": "Two people walking a few steps on dry packed earth, quiet, no gravel crunch exaggeration.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/ice-in-the-desert-footsteps_dry.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "desert_night",
+      "prompt": "Very quiet still night air on a dry plateau, almost silence with a faint distant breath of wind. No howling wind or insects chorus.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/ice-in-the-desert-desert_night.mp3",
+      "paid": true,
+      "quote_at_launch": true
     }
   ],
   "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance.",
   "cues": [
     {
+      "scene_id": "S002",
+      "asset": "tray_set",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S014",
+      "asset": "thin_water",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
       "scene_id": "S015",
       "asset": "thin_water",
-      "timing": "single quiet inlet cue during visible flowing water"
+      "offset_seconds": 0.2,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S016",
+      "asset": "thin_water",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S021",
+      "asset": "desert_night",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S029",
+      "asset": "desert_night",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S034",
+      "asset": "water_pour",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S035",
+      "asset": "ice_tap",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S043",
       "asset": "ice_crack",
-      "timing": "sync one visible breaking action only"
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S048",
       "asset": "straw_move",
-      "timing": "sync worker arranging straw"
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
-      "scene_id": "S002",
+      "scene_id": "S060",
+      "asset": "ice_tap",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S061",
       "asset": "tray_set",
-      "timing": "sync tray being set down"
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S064",
+      "asset": "tray_set",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S066",
+      "asset": "thin_water",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S073",
+      "asset": "thin_water",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S076",
+      "asset": "footsteps_dry",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S078",
+      "asset": "tray_set",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S092",
+      "asset": "tray_set",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     }
   ],
   "intentional_silence": [
-    "No cooling motor.",
+    "No cooling motor or electrical hum.",
     "No magical icy whoosh.",
-    "No loud wind throughout every desert scene.",
+    "Desert night ambience stays very quiet, never a wind howl, and only where the night sky is in view.",
     "No false documentary crowd voices."
-  ]
+  ],
+  "no_sting": "Do not use the medieval bell sound logo in this episode."
 }

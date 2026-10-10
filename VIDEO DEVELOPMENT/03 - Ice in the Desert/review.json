@@ -1,5 +1,5 @@
 {
-  "state": "draft_built",
+  "state": "released_director_package",
   "source_passages_read": true,
   "exact_script_critical_review": "passed",
   "initial_review_evidence": {
@@ -34,10 +34,118 @@
         "fix": "Corrected links to retrieval, harvesting and protected pit."
       }
     ],
-    "unresolved_director_issues": []
+    "unresolved_director_issues": [],
+    "recheck": {
+      "date": "2026-10-10",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+      "coverage": "All 94 scenes re-read against REVIEW_STANDARD.md after Astra's initial review; every claim re-verified on the sources readable today (see claims_verification).",
+      "findings": [
+        {
+          "id": "03-R01",
+          "issue": "Cold open asked two questions but held none for the end",
+          "fix": "S010 asks how ice is made and who does the work, and holds the second; chapter 'Who makes the system work?' answers it."
+        },
+        {
+          "id": "03-R02",
+          "issue": "Two sections ran 116 and 120 seconds",
+          "fix": "Split into three: 'Borrowing the cold night', 'How to keep a piece of winter', 'Not a water tank' (eight chapters, all 75–100 seconds)."
+        },
+        {
+          "id": "03-R03",
+          "issue": "Nine runs of identical shot types (two heat graphics in a row, repeated mediums at the pond, store, doorway and inlet, two object inserts)",
+          "fix": "S027 is a night wide with the Visitor; S031, S048, S061, S073 are wides; S068 a medium; S075 and S082 reactions; S077 an establishing shot."
+        },
+        {
+          "id": "03-R04",
+          "issue": "Three image instructions and two location designs named the Visitor",
+          "fix": "Rewritten to describe the clear space; the store design now says nobody stands on the ice."
+        },
+        {
+          "id": "03-R05",
+          "issue": "Two wordings rested on the Iranica entry, which could not be re-read today (thin layers; endowed ownership)",
+          "fix": "S032 quotes Chardin's nightly routine as given in the METU paper; S071 says community operations or businesses selling ice, as Max Fordham states."
+        },
+        {
+          "id": "03-R06",
+          "issue": "Four sound cues for eleven minutes",
+          "fix": "18 cues on visible action (water into the basin, tray set down, pouring, tapping and breaking ice, straw spread, footsteps on dry earth, very quiet night air only under the open sky); eight assets in the shared format, paid and quoted at launch."
+        },
+        {
+          "id": "03-R07",
+          "issue": "No end-screen cue in the closing line",
+          "fix": "S094 keeps the two-job question and the dome joke, then points to the next episode on screen."
+        },
+        {
+          "id": "03-R08",
+          "issue": "Ten strings with years glued to words",
+          "fix": "Spaced."
+        },
+        {
+          "id": "03-R09",
+          "issue": "Short 1 opened on a dangling 'Water is directed into it'; pilot lacked the cooled-drink room and the brick object study",
+          "fix": "Short 1 now runs S014–S020; pilot adds S046 and S062."
+        }
+      ],
+      "unresolved": []
+    }
   },
-  "additional_slate_review_1": "pending",
-  "additional_slate_review_2": "pending",
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 11,
+    "open": 0,
+    "total": 11,
+    "method": "Sources fetched and read at the locator on 2026-10-10: Hosseini and Namazian (METU JFA 2012, full PDF) and the Max Fordham research article. Encyclopaedia Iranica and the UCL eprint refused automated access (HTTP 403); Astra read both on 2026-10-09. Every row is supported by passages read today; where a wording came only from Iranica (thin layers, endowed ownership) the narration was reworded to the passages read.",
+    "summary": "All 11 rows supported on the METU and Max Fordham passages. Two wordings narrowed (nightly filling per Chardin; community operations or businesses selling ice); straw or thatch instead of straw/reed."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all eighteen packages and the published episodes (see ../SLATE_CHECK.md); each episode keeps its own tone.",
+    "findings": [
+      {
+        "id": "03-P1-01",
+        "issue": "After the first re-cut four middle chapters ran only 52–68 seconds",
+        "fix": "Re-cut into three chapters of 74–82 seconds."
+      },
+      {
+        "id": "03-P1-02",
+        "issue": "A new run of two mediums at the inlet and the doorway (S068, S069)",
+        "fix": "S069 is a wider doorway view."
+      },
+      {
+        "id": "03-P1-03",
+        "issue": "Slate check: Meybod around 1900 compared with the other seventeen packages and episodes 001–003",
+        "fix": "Distinct: the only other c.1900 setting (18, Seoul) is another continent and subject; no other package touches Iran, ice or seasonal storage. No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Execution dry run: compiled prompts for the night pond edit (S027), the winter store edit of the summer store anchor (S045) and the drink-room anchor (S062) read in full; private late-Qajar pose render paths and the thumbnail composite checked; handoff counts, pilot order, sound assets, pronunciations, Shorts and packaging copy checked against the standard.",
+    "findings": [
+      {
+        "id": "03-P2-01",
+        "issue": "Looked for a factual sentence without a checked claim, a modern-dated caption, a pose on the ice or over the pit, a prompt naming the Visitor, or a summer scene inheriting winter; none found",
+        "fix": "No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial review (Astra) with re-check, source verification (METU paper and Max Fordham article read; Iranica and the UCL eprint refused automated access and were read by Astra on 2026-10-09), two package review passes and the slate content check complete. Late-Qajar outfit is a mandatory private pose derivative set (wardrobe_spec.json) to be built and inspected at production. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "media_reviews": "not_applicable_yet_no_media_generated",
-  "known_research_boundaries": "Reconstruct a seasonal cycle at Meybod around1900. This date is an editorial anchor within the documented long use of the type, not a claim to a preserved daybook. The architecture and functions are drawn from field research and engineering papers. Key contradiction resolved: later papers loosely call these ancient refrigerators, while Jørgensen explicitly distinguishes ice storage from food refrigeration. Say ice cooled drinks and could be used elsewhere; do not put hanging food inside the store. Avoid400BCE origin claims, exact historical freezing yields, fixed melt percentages, huge radiant-cold arrows, mechanical windcatchers, and a claim that a small dome vent creates the freezing. Engineering models are explanatory, not measurements from1900; their own reported yields vary with assumptions. Some METU wording says transfer on hot summer days in its wall section; do not use that to move winter harvesting into summer. Water, operating labor and maintenance are central to the story. Final costume follows late-Qajar ordinary layered clothing, not court finery."
+  "known_research_boundaries": "Reconstruct a seasonal cycle at Meybod around 1900. This date is an editorial anchor within the documented long use of the type, not a claim to a preserved daybook. The architecture and functions are drawn from field research and engineering papers. Key contradiction resolved: later papers loosely call these ancient refrigerators, while Jørgensen explicitly distinguishes ice storage from food refrigeration. Say ice cooled drinks and could be used elsewhere; do not put hanging food inside the store. Avoid 400 BCE origin claims, exact historical freezing yields, fixed melt percentages, huge radiant-cold arrows, mechanical windcatchers, and a claim that a small dome vent creates the freezing. Engineering models are explanatory, not measurements from 1900; their own reported yields vary with assumptions. Some METU wording says transfer on hot summer days in its wall section; do not use that to move winter harvesting into summer. Water, operating labor and maintenance are central to the story. Final costume follows late-Qajar ordinary layered clothing, not court finery."
 }

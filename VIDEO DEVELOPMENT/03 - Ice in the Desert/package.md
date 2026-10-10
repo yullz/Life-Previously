@@ -27,9 +27,10 @@ Sources:
 - The wall is part of the machine — derive timestamp from first aligned word of chapter 2
 - Borrowing the cold night — derive timestamp from first aligned word of chapter 3
 - How to keep a piece of winter — derive timestamp from first aligned word of chapter 4
-- Summer comes to collect — derive timestamp from first aligned word of chapter 5
-- Who makes the system work? — derive timestamp from first aligned word of chapter 6
-- What the ice house really achieved — derive timestamp from first aligned word of chapter 7
+- Not a water tank — derive timestamp from first aligned word of chapter 5
+- Summer comes to collect — derive timestamp from first aligned word of chapter 6
+- Who makes the system work? — derive timestamp from first aligned word of chapter 7
+- What the ice house really achieved — derive timestamp from first aligned word of chapter 8
 
 ## Tags
 

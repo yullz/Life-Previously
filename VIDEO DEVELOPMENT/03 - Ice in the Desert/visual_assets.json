@@ -102,6 +102,11 @@
       "status": "not_generated"
     },
     {
+      "id": "S027",
+      "parent": "S011",
+      "status": "not_generated"
+    },
+    {
       "id": "S029",
       "parent": "S011",
       "status": "not_generated"
@@ -430,21 +435,15 @@
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
-      "id": "S027",
-      "text": "HEAT LEAVES TOWARD THE SKY",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
       "id": "S028",
       "text": "RADIATION + EVAPORATION",
-      "label": "Modern physical explanation • not1900 measurements",
+      "label": "Modern physical explanation • not 1900 measurements",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
       "id": "S032",
-      "text": "THIN LAYERS • REPEATED FREEZING",
-      "label": "Explanatory schematic",
+      "text": "FILL AT NIGHT • BREAK AT DAWN • REPEAT",
+      "label": "Jean Chardin's account • Isfahan, 1670s",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
@@ -479,7 +478,7 @@
     },
     {
       "id": "S071",
-      "text": "DIFFERENT OWNERSHIP ARRANGEMENTS",
+      "text": "COMMUNITY • BUSINESS",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },

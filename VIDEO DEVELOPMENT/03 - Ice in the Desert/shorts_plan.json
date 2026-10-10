@@ -6,8 +6,8 @@
   "shorts": [
     {
       "title": "The Wall That Helped Make Ice",
-      "from_scene": "S015",
-      "to_scene": "S021",
+      "from_scene": "S014",
+      "to_scene": "S020",
       "hook": "A wall with a practical job",
       "description": "The freezing pond belongs north of the shade wall. The position helps protect it from low winter sun.",
       "id": "short-1",

@@ -58,3 +58,9 @@ What is assessed, per package against all eighteen and the published episodes: s
 - Thumbnail promises (NO DAY OFF?, YOU'RE THE COOK, TREASURE? MEDICINE.) repeat no other package's headline family.
 - No shared sources or beats with another package.
 - Verdict: distinct. No change needed.
+
+### 03 — How Did People Keep Ice in the Desert Before Fridges? (checked 2026-10-10)
+- Setting unique (Meybod, Iran, around 1900); 18 shares the date but is Seoul and a different subject.
+- Angle (a seasonal cycle: make ice in winter, store it, use it in summer, and who does the work) appears nowhere else.
+- Thumbnail promises (ICE. NO FRIDGE., SAVE THE WINTER, UNDER THIS DOME) repeat no other headline family.
+- Verdict: distinct. No change needed.

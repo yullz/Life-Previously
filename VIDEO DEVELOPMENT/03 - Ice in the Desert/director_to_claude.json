@@ -3,7 +3,13 @@
   "message_type": "complete_episode_execution_brief",
   "episode_slug": "ice-in-the-desert",
   "title": "How Did People Keep Ice in the Desert Before Fridges?",
-  "status": "development_in_progress_do_not_execute_yet",
+  "status": "director_package_ready",
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial review (Astra) with re-check, source verification (METU paper and Max Fordham article read; Iranica and the UCL eprint refused automated access and were read by Astra on 2026-10-09), two package review passes and the slate content check complete. Late-Qajar outfit is a mandatory private pose derivative set (wardrobe_spec.json) to be built and inspected at production. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "owner_authorization": "All director development authorized. Paid production quote and publication approval remain separate.",
   "read_first": [
     "START_HERE.md",
@@ -32,11 +38,11 @@
   "supplemental_specs": [],
   "local_graphic_pilot": [],
   "counts": {
-    "narration_words": 1848,
-    "chapters": 7,
+    "narration_words": 1855,
+    "chapters": 8,
     "shots": 94,
-    "illustrations": 78,
-    "local_graphics": 16,
+    "illustrations": 79,
+    "local_graphics": 15,
     "thumbnail_backgrounds": 3
   },
   "pilot": [
@@ -44,6 +50,8 @@
     "S011",
     "S007",
     "S006",
+    "S046",
+    "S062",
     "TH-A"
   ],
   "pilot_submission_rule": "Submit only requests whose accepted parent hash/media ID is resolved. Pilot list is ordered; it is not a single parallel batch.",
