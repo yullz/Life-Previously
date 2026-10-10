@@ -12,6 +12,11 @@
       "status": "not_generated"
     },
     {
+      "id": "S004",
+      "parent": "S001",
+      "status": "not_generated"
+    },
+    {
       "id": "S005",
       "parent": "S001",
       "status": "not_generated"
@@ -38,7 +43,7 @@
     },
     {
       "id": "S011",
-      "parent": null,
+      "parent": "S008",
       "status": "not_generated"
     },
     {
@@ -187,7 +192,17 @@
       "status": "not_generated"
     },
     {
+      "id": "S042",
+      "parent": "S040",
+      "status": "not_generated"
+    },
+    {
       "id": "S044",
+      "parent": "S040",
+      "status": "not_generated"
+    },
+    {
+      "id": "S046",
       "parent": "S040",
       "status": "not_generated"
     },
@@ -242,6 +257,21 @@
       "status": "not_generated"
     },
     {
+      "id": "S060",
+      "parent": "S056",
+      "status": "not_generated"
+    },
+    {
+      "id": "S062",
+      "parent": "S056",
+      "status": "not_generated"
+    },
+    {
+      "id": "S064",
+      "parent": "S056",
+      "status": "not_generated"
+    },
+    {
       "id": "S066",
       "parent": "S056",
       "status": "not_generated"
@@ -273,7 +303,7 @@
     },
     {
       "id": "S073",
-      "parent": null,
+      "parent": "S001",
       "status": "not_generated"
     },
     {
@@ -297,7 +327,22 @@
       "status": "not_generated"
     },
     {
+      "id": "S080",
+      "parent": "S073",
+      "status": "not_generated"
+    },
+    {
+      "id": "S082",
+      "parent": "S073",
+      "status": "not_generated"
+    },
+    {
       "id": "S084",
+      "parent": "S073",
+      "status": "not_generated"
+    },
+    {
+      "id": "S086",
       "parent": "S073",
       "status": "not_generated"
     },
@@ -342,6 +387,11 @@
       "status": "not_generated"
     },
     {
+      "id": "S096",
+      "parent": "S047",
+      "status": "not_generated"
+    },
+    {
       "id": "S097",
       "parent": "S056",
       "status": "not_generated"
@@ -358,7 +408,7 @@
     },
     {
       "id": "S100",
-      "parent": "S040",
+      "parent": "S073",
       "status": "not_generated"
     }
   ],
@@ -366,12 +416,6 @@
     {
       "id": "S003",
       "text": "5 FAMILIAR IDEAS",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S004",
-      "text": "BUILDINGS • WRITTEN DESIGNS",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
@@ -388,12 +432,6 @@
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
-      "id": "S042",
-      "text": "A FLOOR RAISED ON TILE STACKS",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
       "id": "S043",
       "text": "FURNACE → UNDERFLOOR SPACE",
       "label": "Explanatory schematic",
@@ -402,12 +440,6 @@
     {
       "id": "S045",
       "text": "HYPOCAUST • FLOORS AND WALLS",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S046",
-      "text": "HOT GASES • NOT WATER PIPES",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
@@ -430,32 +462,14 @@
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
-      "id": "S060",
-      "text": "ONE COIN • TWO JOBS",
-      "label": "Hero, Pneumatics 21 • reconstruction",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
       "id": "S061",
       "text": "PLATE ← PIVOT → LID",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
-      "id": "S062",
-      "text": "COIN DOWN • LID UP",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
       "id": "S063",
       "text": "THE OUTLET OPENS",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S064",
-      "text": "WATER FLOWS",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
@@ -484,20 +498,8 @@
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
-      "id": "S080",
-      "text": "HEAT MOVES THE WATER",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
       "id": "S081",
       "text": "A HEAVIER BUCKET DESCENDS",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S082",
-      "text": "CHAINS TURN THE DOORS",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
@@ -514,20 +516,8 @@
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     },
     {
-      "id": "S086",
-      "text": "BUCKET LIGHTENS • DOORS CLOSE",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
       "id": "S095",
       "text": "FOOD • HOMES • HEAT • COINS • DOORS",
-      "label": "Explanatory schematic",
-      "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
-    },
-    {
-      "id": "S096",
-      "text": "THREE BUILDINGS • TWO WRITTEN DESIGNS",
       "label": "Explanatory schematic",
       "layout": "1920x1080 parchment; headline 96px, body 64px minimum; dark-brown text, ochre/olive/slate shapes; maximum four elements, each labelled; all elements within x120..1800, y100..880; no duplicated footer"
     }

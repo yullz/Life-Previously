@@ -81,3 +81,11 @@ What is assessed, per package against all eighteen and the published episodes: s
 - Thumbnail promises (ONE NIGHT. NO FIRE., NOT THE STRONGEST, THE OLDEST BED) repeat no other headline family.
 - No shared sources with another package.
 - Verdict: distinct. No change needed.
+
+### 05 — 5 “Modern” Ideas That Are Actually Ancient (checked 2026-10-10)
+- Settings: Pompeii AD 79 (also published 002), Ostia c. AD 200, Aquae Sulis c. AD 350 and Roman-era Alexandria; the only other Roman-era package is 08 (Carnuntum, c. AD 200, gladiator school), a different subject and format.
+- Angle (five modern conveniences with ancient counterparts, each with its catch) appears nowhere else; 002 reads Pompeii's walls, 16 is a night out in Kaifeng, 18 a Korean heated floor; each keeps its own full explanation.
+- Format (labelled stops, counted down) is shared only with 19, which walks forward through prehistory.
+- Thumbnail promises (ANCIENT VENDING?, OPEN BY FIRE?, WARM FLOORS?) repeat no other headline family.
+- Shared material: Vitruvius appears only here; no other package cites Hero, the Pompeii park or Ostia.
+- Verdict: distinct. No change needed.

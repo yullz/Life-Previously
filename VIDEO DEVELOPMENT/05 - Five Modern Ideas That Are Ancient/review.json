@@ -1,9 +1,134 @@
 {
-  "state": "draft_built",
+  "state": "released_director_package",
   "source_passages_read": true,
-  "exact_script_critical_review": "pending",
-  "additional_slate_review_1": "pending",
-  "additional_slate_review_2": "pending",
+  "exact_script_critical_review": "passed",
+  "initial_review_evidence": {
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "coverage": "All 100 scenes, claims, sources, locations, mechanism_spec.json, thumbnails, Shorts, pilot, sound and pronunciation plans read against REVIEW_STANDARD.md; every claim verified on sources read today (see claims_verification).",
+    "refutation": "Tried to break the countdown: no menu, price, rent or tenant is spoken for Pompeii or Ostia; Bath's spring and furnace are kept apart; Hero's two devices follow sections 21 and 37 word for word, section 38 is excluded, his dating stays conventional and uncertain, and no installation count or discovery story is claimed; the attendant stays unnamed.",
+    "findings": [
+      {
+        "id": "05-R01",
+        "issue": "Cold open ran 51 seconds with one question and nothing held; the payoff chapter ran 37 seconds",
+        "fix": "S003 asks which idea you would keep and what the catch is, and holds the catch; S007 adds 'who is doing the work'; chapters re-cut without renumbering (the temple intro S073–S074 opens chapter 6; S087–S100 form the payoff 'Every convenience has a catch'); chapters now 59–104 seconds."
+      },
+      {
+        "id": "05-R02",
+        "issue": "Chapters 4 and 5 ran 118 and 121 seconds",
+        "fix": "Twelve lines tightened; chapter 4 is 111 seconds and chapter 5 (now S057–S072) 104."
+      },
+      {
+        "id": "05-R03",
+        "issue": "Twenty-one runs of identical shot types, including seven coin diagrams and five door diagrams in a row",
+        "fix": "Diagram sequences interleaved with the chest and temple exteriors showing the visible result (S060 coin insert, S062 coin dropped, S064 water flowing, S080 hot altar, S082 doors opening, S086 doors closing); S042 is an illustrated cutaway and S044, S046 a detail and a reaction; other runs broken by shot changes (S004, S017, S020, S034, S036, S069, S092, S096)."
+      },
+      {
+        "id": "05-R04",
+        "issue": "Sixteen image instructions named the Visitor; three narration lines spoke of him in the third person",
+        "fix": "Instructions describe the clear space (including S040 and S089); S005, S072 and S099 are second person."
+      },
+      {
+        "id": "05-R05",
+        "issue": "Visitor in 42% of scenes",
+        "fix": "Poses added on S012, S019, S027, S032, S044, S078, S090, S094 and the new exterior shots; now about half."
+      },
+      {
+        "id": "05-R06",
+        "issue": "Thumbnail chips were not place-and-year ('HERO'S DESIGN', 'AN ANCIENT DESIGN', 'ROMAN BRITAIN')",
+        "fix": "ALEXANDRIA • 1ST CENTURY AD (A, B) and AQUAE SULIS • c. AD 350 (C)."
+      },
+      {
+        "id": "05-R07",
+        "issue": "Four sound cues",
+        "fix": "21 cues on visible action (bowls set down, stair steps, furnace fire and wood, coin on plate, water stream, coin into box, altar flame, door hinges) with 12 specified assets."
+      },
+      {
+        "id": "05-R08",
+        "issue": "Pilot skipped the temple-model anchor (S001), the room anchor and the furnace anchor",
+        "fix": "Pilot: S001, S008, S024, S029, S040, S047, S056, TH-A."
+      },
+      {
+        "id": "05-R09",
+        "issue": "No end-screen cue and no return to the opening image",
+        "fix": "S100 returns to the temple doors closing and cues the next episode."
+      },
+      {
+        "id": "05-R10",
+        "issue": "Pronunciations lacked thermopolium, Regio, medianum, Vitruvius and Alexandria",
+        "fix": "Added."
+      },
+      {
+        "id": "05-R11",
+        "issue": "The press release's 'about eighty thermopolia' and the nymph-and-animals decoration were unused",
+        "fix": "S010 and S012 use them, within C1–C2."
+      },
+      {
+        "id": "05-R12",
+        "issue": "mechanism_spec.json listed scenes that are no longer graphics",
+        "fix": "Scene lists updated to the remaining diagram scenes; geometry unchanged."
+      }
+    ],
+    "unresolved_director_issues": []
+  },
+  "claims_verification": {
+    "status": "complete",
+    "date": "2026-10-10",
+    "checked": 14,
+    "open": 0,
+    "total": 14,
+    "method": "All eight sources fetched and read at the locators on 2026-10-10: the Pompeii press release, the Ostia Antica panel, two Roman Baths pages, Vitruvius V.10 (Gutenberg), Hero's Pneumatics sections 21, 37 and 38 (Gutenberg, 1851 translation), MacTutor and the Linda Hall essay. No source refused access.",
+    "summary": "All 14 rows supported on passages read today; wording unchanged in substance, with 'about eighty thermopolia' and the nymph-and-animals decoration added from the press release."
+  },
+  "additional_slate_review_1": "passed",
+  "additional_slate_review_1_evidence": {
+    "pass": 1,
+    "status": "passed_with_fixes",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Package-level pass on the compiled script, claims and packaging after the re-check, plus the slate content check against all other packages and the published episodes (see ../SLATE_CHECK.md); the episode keeps its own tone (a brisk, playful countdown with a sting in each item).",
+    "findings": [
+      {
+        "id": "05-P1-01",
+        "issue": "The re-check left one new run (S004–S005 reactions) and two instructions still naming the Visitor (S040 'visitor rails', S089)",
+        "fix": "S004 is a medium; both instructions describe the clear space."
+      },
+      {
+        "id": "05-P1-02",
+        "issue": "Chapter 4 runs 112 seconds",
+        "fix": "Accepted: the hypocaust needs the spring-versus-furnace caveat; the other six chapters are 60–106 seconds."
+      },
+      {
+        "id": "05-P1-03",
+        "issue": "Slate check: Pompeii AD 79 is also the setting of published episode 002, and heated floors recur in 18 (Seoul ondol); hot food counters in 16 (Kaifeng)",
+        "fix": "Distinct: 002 reads Pompeii's walls, 05 uses one counter as a function in a countdown; 18 and 16 are other centuries, buildings and stories; each episode keeps its own full explanation. No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "additional_slate_review_2": "passed",
+  "additional_slate_review_2_evidence": {
+    "pass": 2,
+    "status": "passed",
+    "date": "2026-10-10",
+    "reviewer": "Claude acting for the director (owner delegation 2026-10-09)",
+    "scope": "Execution dry run: compiled prompts for the illustrated hypocaust cutaway (S042), the coin object insert (S060), the coin-drop reaction (S062), the doors-opening wide (S082) and the closing temple wide (S100) read in full; mechanism_spec.json scene lists checked against the remaining diagram scenes; handoff counts, pilot order, 12 sound assets and 21 cues, 11 pronunciations, Shorts windows (142, 144, 151 words), thumbnail brief and packaging copy checked against the standard.",
+    "findings": [
+      {
+        "id": "05-P2-01",
+        "issue": "Looked for a factual sentence without a checked claim, a diagram scene missing from the spec, a modern-dated caption, a prompt naming the Visitor, or Hero's section 38 leaking into the door sequence; none found",
+        "fix": "No change."
+      }
+    ],
+    "unresolved": []
+  },
+  "release": {
+    "status": "ready",
+    "date": "2026-10-10",
+    "released_by": "Claude acting for the director (owner delegation 2026-10-09)",
+    "note": "Initial content review, source verification of all 14 claims (all eight sources read; none refused access), two package review passes and the slate content check complete. mechanism_spec.json governs the remaining local diagrams (S043, S045, S059, S061, S063, S065, S079, S081, S083, S085) and the TH-C cutaway. Production still needs the owner's itemized spending approval; publishing order and scheduling are the owner's later decision."
+  },
   "media_reviews": "not_applicable_yet_no_media_generated",
   "known_research_boundaries": "Original countdown with a functional question: could the Visitor assemble familiar conveniences from ancient examples? Three archaeological stops precede two designs in Hero's text. This is an explicitly labelled multi-place format exception, not a single ancient city containing all five examples. Archaeological limits matter: Regio V does not justify a precise illustrated menu; Ostia's extant phases do not supply a named tenant or monthly price; Bath's modern Victorian terrace must never appear in the Roman reconstruction. Date Bath to the fourth-century complex and use c. AD 350 as the reconstruction convention. Hero is placed in Roman-era Alexandria, approximately first century AD, without claiming an exact invention date. Sections 21 and 37 have been read in full, with 38 checked to prevent mixing two different door designs. The narration follows described sequences, not a claim that a particular excavated device operated. Build functional interiors locally from mechanism_spec.json; generated backgrounds provide exteriors only. Independent challenges: Linda Hall's dating caution versus MacTutor's conventional dating; compare surviving-building evidence with textual prescriptions; test every drawn lever and hinge direction. Do not offer a clickable claim such as first vending machine ever without stronger evidence. Counted list is an editorial format, not a historical ranking."
 }

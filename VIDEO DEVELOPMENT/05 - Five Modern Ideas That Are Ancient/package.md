@@ -11,9 +11,7 @@
 
 ## Description
 
-A hot-food counter, upstairs homes, warm floors, a coin-operated water vessel and doors that open when a fire is lit. How familiar could an ancient day feel?
-
-We visit Pompeii, Ostia and Roman Bath, then unpack two remarkable mechanisms described by Hero of Alexandria. Surviving buildings and written designs tell different stories—and every convenience has a catch.
+A hot-food counter, upstairs homes, warm floors, a coin-operated water vessel and doors that open when a fire is lit. How familiar could an ancient day feel? We visit Pompeii, Ostia and Roman Bath, then unpack two remarkable mechanisms described by Hero of Alexandria. Surviving buildings and written designs tell different stories—and every convenience has a catch.
 
 Life, Previously explores how ordinary people actually lived. Historical scenes are illustrated reconstructions; specific limits and evidence are explained in the episode.
 
@@ -35,7 +33,7 @@ Sources:
 - 3. The floor is warm — derive timestamp from first aligned word of chapter 4
 - 2. The coin is also the switch — derive timestamp from first aligned word of chapter 5
 - 1. Open the door—with fire — derive timestamp from first aligned word of chapter 6
-- What would you keep? — derive timestamp from first aligned word of chapter 7
+- Every convenience has a catch — derive timestamp from first aligned word of chapter 7
 
 ## Tags
 

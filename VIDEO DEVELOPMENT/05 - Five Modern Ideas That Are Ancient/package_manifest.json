@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "created": "2026-10-10",
+  "note": "SHA-256 of every file in this package at release. Verify before copying into episodes/.",
+  "files": {
+    "EXECUTION.md": "58813116da603d376826fcc11a88d5f5600ebb84273c02c47a51fef2e08c9a9d",
+    "START_HERE.md": "de114786a881c58ff397bc645e175cc00d53bc032dffa1863ff4db477f601d0a",
+    "claims.json": "e3d2a92b5504582c14c074015fe6e6426bd36a9bfa1507e958bb63c20b5cf8bf",
+    "claims.md": "3e6ad57f6e6bbc5e04e3a79c2215ffd7424c537ddaef295b7a47982b41ab7c0c",
+    "director_prompt_plan.json": "7132673ee4f60e5f7c1e6335f9a41301d7804f75cef8cdb0691e1235fb3c4301",
+    "director_to_claude.json": "0c6091c4425ed80700bc628f1a755009e05700e1812f2ba343c6205984003b37",
+    "episode.json": "6c9a929935971368b8309401ccaa61e77755d325d3bc1136d7396cf6c5a271a9",
+    "image_prompts.json": "eb4dac88ee709958a766f15e84906474a8657d58801327f7b49067da95087a7f",
+    "mechanism_spec.json": "268cd768a4fd66435d92603bd49d8a187923284cc4a0215b9581c944ec389c33",
+    "narration.md": "c99cc1ac4ab31a0aecaff9afd5ba7f40d4cf6248f65981d38a56b1f2701da255",
+    "package.md": "af8b261795735003f91e50a74345b03d4b98e870e2d91e13ef52f7040c99c4e9",
+    "period.txt": "e50d9194ecbd6d598fe0a5c2938edf01883f19ad3a071b74287e85078826db99",
+    "pose_plan.json": "a98bdcc3f3529e4c947eccf2358676f71d52c8ded338172b910437140233bbf2",
+    "pronunciations.json": "6ac9ac7ed45a5009eef0b2ef9f8d912f36ce49380386f01f0e5cae7b0a0800b7",
+    "qa.md": "05cdd49fbf5984dd2db8bbef100074ef82ae44b0e7160038b9f98b703a31bef7",
+    "research.md": "375fc62cca1c618b66e33a860a7b8953cc58a8f7b7ecc0ad3a59219ad0a04c14",
+    "review.json": "e399ae9cdde572a683728e16a6096f09a25a7122bf3ce0740318ddc55ed2e032",
+    "scene_plan.json": "95238e04a4602b1192a703dc7beca03fea7af211c9edf700113268722f85141c",
+    "script.txt": "1d783c206ffc706c1a04e271458008b33e56d3a614d09294dfc86d40c339c5fa",
+    "shorts_plan.json": "576d112ea68aa310553d350951f552bad7c1ffd46221bf64f33082d264ac30ab",
+    "sound_plan.json": "5e6bca0549b82b77f8cfbdf1072e927f476aedea4944712ce8f7f34031a61ad2",
+    "sources.json": "862d0092171d2772928b9f8f6d5c1cead9ece9bcac1f24723382630dfffddf27",
+    "thumbnail_brief.md": "ef89ed5dc8118b9107e8c129f798a268f1e29bb8a260cfd318a6f72ee0ab1293",
+    "visual_assets.json": "cd25f4c06ba196503d0d6130865f0b3d13ea35d58e0aed5c4cd03d8a32bdf1bb",
+    "wardrobe_spec.json": "3a33fc8f56bac21684a791de8e764a70aa813336ce15e9e8c2fedbb8f4bc5e8b"
+  }
+}

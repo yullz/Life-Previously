@@ -30,7 +30,32 @@
       "term": "Pneumatics",
       "say": "new-MAT-iks",
       "note": "The book title."
+    },
+    {
+      "term": "thermopolium",
+      "say": "ther-mo-POH-lee-um",
+      "note": "Say once with 'hot-food counter'."
+    },
+    {
+      "term": "Regio",
+      "say": "REH-jo",
+      "note": "Spoken as 'Regio Five'."
+    },
+    {
+      "term": "medianum",
+      "say": "meh-dee-AH-num",
+      "note": "Caption keeps Latin spelling."
+    },
+    {
+      "term": "Vitruvius",
+      "say": "vi-TROO-vee-us",
+      "note": "Four syllables."
+    },
+    {
+      "term": "Alexandria",
+      "say": "al-ig-ZAN-dree-uh",
+      "note": "Roman-era Alexandria, Egypt."
     }
   ],
-  "rule": "Read AD dates naturally; the approximate Roman-era label must not become a precise invention year."
+  "rule": "Read AD dates naturally; 'first century AD' is the conventional placement for Hero and must not become a precise invention year. Count down 'number five' to 'number one' in full."
 }

@@ -6,6 +6,14 @@
     "sources": [],
     "locator": "Original framing for this episode.",
     "limit": "Never present the itinerary, a purchase or the Visitor as a documented ancient event.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Framing row; S005–S007 present the countdown as the viewer's imagined day; S006 says the stops cannot be walked between.",
+      "source_locators": "—",
+      "refutation": "Looked for any line presenting the itinerary or a purchase as a documented ancient event; none.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S001",
       "S005",
@@ -36,8 +44,8 @@
       "S099",
       "S100"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C1",
@@ -48,6 +56,14 @@
     ],
     "locator": "Opening archaeological description, thermopolia paragraph.",
     "limit": "No exact menu, pricing, ubiquitous kitchenlessness or modern business equivalence.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: thermopolia served 'hot food and drinks … stored in large dolia (jars) embedded in the masonry counter'; 'at least eighty examples in Pompeii alone'; Regio V counter with 'exceptional decoration'.",
+      "source_locators": "SRC01 opening paragraphs",
+      "refutation": "S010 now speaks 'about eighty'; S011 shows the embedded jars; no menu or price is spoken. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S008",
       "S009",
@@ -56,8 +72,8 @@
       "S012",
       "S020"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C2",
@@ -68,6 +84,14 @@
     ],
     "locator": "Function of thermopolium; decorated animal panels described as likely offerings.",
     "limit": "Explicit functional comparison and evidential boundary, not demographics or a recorded customer's order.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC01: images 'of a Nereid riding a hippocampus and of animals that were likely prepared and sold there'; the press release names no menu or price.",
+      "source_locators": "SRC01 decoration sentence",
+      "refutation": "S012 names the nymph and animals; S016–S017 keep contents and menu uncertain; S019 says one option, not proof of kitchenless living. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S013",
       "S014",
@@ -78,8 +102,8 @@
       "S021",
       "S098"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C3",
@@ -90,6 +114,14 @@
     ],
     "locator": "First two panel paragraphs.",
     "limit": "Shown c. AD 200 with three-storey reconstructed elevation; no exact rent, owner or named residents.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC02: 'block of the Hadrianic period (AD 117-138), used for both residential and commercial purposes'; 'three or four storeys, accessed from outside stairs'.",
+      "source_locators": "SRC02 first paragraphs",
+      "refutation": "S026 draws three storeys and says the park gives three or four; no rent or tenant. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S023",
       "S024",
@@ -101,8 +133,8 @@
       "S037",
       "S038"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C4",
@@ -113,6 +145,14 @@
     ],
     "locator": "Panel paragraphs on medianum, decoration and transformation.",
     "limit": "Do not flatten all phases together or invent occupants. Scene plan is explanatory, not measured survey.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC02: 'arranged around a medianum (central vestibule) lit by tall windows (A), with the rooms opening onto it'; painted decoration 'may date to a renovation in the late 2nd century AD'; 'transformations that involved the creation of small independent apartments'.",
+      "source_locators": "SRC02 plan and decoration paragraphs",
+      "refutation": "S030–S036 keep the phases apart and date the reconstruction around AD 200. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S029",
       "S030",
@@ -122,8 +162,8 @@
       "S035",
       "S036"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C5",
@@ -134,6 +174,14 @@
     ],
     "locator": "West Baths final paragraph.",
     "limit": "This bath complex, not every Roman home; occupied floor separated from furnace smoke.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC03: 'The West Baths contains an exceptionally well-preserved set of pilae which were piles of tiles through which hot air circulated to heat the floor and walls of the room above'.",
+      "source_locators": "SRC03 West Baths paragraph",
+      "refutation": "S044–S045 speak floors and walls; S053 says the complex does not prove household heating. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S040",
       "S041",
@@ -145,8 +193,8 @@
       "S052",
       "S053"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C6",
@@ -158,6 +206,14 @@
     ],
     "locator": "V.10.2 and Great Bath opening paragraph.",
     "limit": "Do not apply Vitruvius's precise dimensions to Bath or confuse warm-room heating with spring temperature.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC05 V.10.2: 'The hanging floors of the hot bath rooms are to be constructed as follows … pillars made of eight-inch bricks … two feet in height … two-foot tiles which support the floor'; V.10.1 one furnace serving the rooms. SRC03: 'The Great Bath … was fed with hot water directly from the Sacred Spring'.",
+      "source_locators": "SRC05 V.10.1–2; SRC03 Great Bath paragraph",
+      "refutation": "S047 speaks the principle without Vitruvius's measurements; S051 separates the spring from the furnace. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S040",
       "S042",
@@ -168,8 +224,8 @@
       "S051",
       "S052"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C7",
@@ -180,15 +236,24 @@
     ],
     "locator": "Furnace-dependent construction in V.10.",
     "limit": "No unsupported worker status, fuel quantities, wages or exact schedule.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Interpretation: SRC05 V.10.1–2 makes the hot rooms depend on a furnace room and sloping tiles 'towards the furnace'; the attendant is unnamed.",
+      "source_locators": "SRC05 V.10.1–2",
+      "refutation": "S049 and S098 say the worker is imagined and unnamed. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S048",
       "S049",
       "S050",
       "S054",
+      "S096",
       "S098"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C8",
@@ -201,14 +266,22 @@
     ],
     "locator": "Pneumatics sections 21/37; MacTutor chronology; Linda Hall opening.",
     "limit": "Use Roman-era Alexandria in speech; on-screen first century AD (approx.) if needed. No invention date or priority claim.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC07: Heron 'referred to a recent eclipse … in Alexandria … 13 March 62' (first century AD); SRC08: 'perhaps in the first century BCE, more likely in the first or second centuries CE'; 'we do not know his birthday or death date'.",
+      "source_locators": "SRC07 dating paragraphs; SRC08 opening",
+      "refutation": "S058 says Roman-era Alexandria and an uncertain biography; the chips say '1st century AD' as the conventional placement. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S055",
       "S057",
       "S058",
       "S094"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C9",
@@ -219,6 +292,14 @@
     ],
     "locator": "Section 21, printed p. 37.",
     "limit": "The source says five drachms, but omit denomination. No fixed dose, coin authentication, refill automation or drink/snack vending claim.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC06 §21: coin thrown through the mouth 'will fall upon the plate R and, preponderating, it will turn the beam O P, and raise the lid of the box so that the water will flow: but if the coin falls off, the lid will descend and close the box so that the discharge ceases'; lid 'heavier than the plate R, but lighter than the plate and coin combined'.",
+      "source_locators": "SRC06 section 21",
+      "refutation": "S059–S066 follow exactly this sequence; the five-drachm denomination is omitted as the limit requires. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S056",
       "S057",
@@ -234,8 +315,8 @@
       "S068",
       "S072"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C10",
@@ -246,6 +327,14 @@
     ],
     "locator": "Section 21's finite water vessel and weight relationship.",
     "limit": "Maintenance implication and source limit are explained as such. No claim every temple used it or that it verified legal tender.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Interpretation from §21: a finite 'vessel … containing water' inside the chest; the text describes a design, not installations.",
+      "source_locators": "SRC06 section 21",
+      "refutation": "S068–S071 keep the religious setting and the extent-of-use limit. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S067",
       "S068",
@@ -254,8 +343,8 @@
       "S071",
       "S098"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C11",
@@ -266,6 +355,14 @@
     ],
     "locator": "Section 37, printed pp. 57–58.",
     "limit": "Illustrative small-temple model. No steam motor, electronic sensor or everyday automatic shopfront.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC06 §37: tube from the altar into a globe 'enough to fill one half of it'; chains from extended hinges to a suspended hollow vessel; heated air 'will drive out the liquid … through the siphon … into the suspended vessel, which, descending with its weight, will tighten the chains and open the doors'.",
+      "source_locators": "SRC06 section 37",
+      "refutation": "S075–S084 follow the text; S090 keeps the scale ('a small temple'). Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S002",
       "S073",
@@ -286,8 +383,8 @@
       "S092",
       "S093"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C12",
@@ -299,6 +396,14 @@
     ],
     "locator": "Section 37 closing paragraph; MacTutor discussion of partly incorrect theory.",
     "limit": "Explain intended sequence without repeating porous-air theory or claiming a tested reconstruction. Section 38 remains separate.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "SRC06 §37: 'other chains, wound upon the hinges in an opposite direction … attached … to a leaden weight, on the descent of which the doors will be shut'; on cooling 'the weight suspended will preponderate and shut the doors'; 'the rarefied air will escape through the pores in the side of the globe'. SRC07: 'some is quite wrong'. Section 38 is a different design (leather bag).",
+      "source_locators": "SRC06 section 37 closing; SRC07",
+      "refutation": "S085–S087 speak the counterweight and the outdated theory; section 38 is excluded. Holds.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S077",
       "S085",
@@ -306,8 +411,8 @@
       "S087",
       "S092"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   },
   {
     "id": "C13",
@@ -321,6 +426,14 @@
     ],
     "locator": "Cross-source synthesis.",
     "limit": "Not proof that ancient life was generally easier, that modern devices directly descend from these, or that access was universal.",
+    "checked": {
+      "date": "2026-10-10",
+      "method": "source passage read, spoken wording compared, refutation attempted",
+      "evidence": "Interpretation across SRC01, SRC02, SRC03 and SRC06: three excavated buildings and two described designs.",
+      "source_locators": "Synthesis",
+      "refutation": "S095–S098 answer the held question (someone out of sight does the work) without claiming ancient life was easier or that modern devices descend from these. Holds as interpretation.",
+      "reviewer": "Claude acting for the director (owner delegation 2026-10-09)"
+    },
     "scene_ids": [
       "S003",
       "S004",
@@ -330,7 +443,7 @@
       "S096",
       "S097"
     ],
-    "status": "source_read; exact-script review pending",
-    "checked_date": null
+    "status": "checked 2026-10-10; source passage read, spoken wording compared, refutation attempted",
+    "checked_date": "2026-10-10"
   }
 ]

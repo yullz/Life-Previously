@@ -9,19 +9,19 @@ You have bought lunch, climbed to your apartment and found a warm floor. Then a 
 That sounds like an ordinary day. Until the door opens because somebody has lit a fire on an altar.
 
 ::: S003 | Five simple numbered tokens; keep names unrevealed until each chapter. [still]
-Five familiar ideas have ancient counterparts. The catches are where this gets interesting.
+Five familiar ideas, each with an ancient counterpart. Which would you keep? And what is the catch inside every one? Hold that second question.
 
-::: S004 | Two panels: masonry silhouette and open modern source book, not an invented ancient manuscript. [still]
-We start with buildings archaeologists can walk through, then end with two extraordinary mechanisms preserved in a book.
+::: S004 | Temple model at left with doors closed, a plain stone block beside it; clear right. [pose: count-fingers 0.8,0.94 0.6] [same-as: S001] [pan-right]
+We start with three buildings archaeologists can walk through, then end with two mechanisms preserved in a book.
 
-::: S005 | Model at left with doors still closed; empty calm right for Visitor. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S001] [still]
-Our Visitor's ambitious plan is to assemble the most comfortable ancient day he can.
+::: S005 | Model at left with doors still closed; calm clear right. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S001] [still]
+Your ambitious plan is to assemble the most comfortable ancient day you can. Modestly, you call it a countdown.
 
 ::: S006 | Map dots for Pompeii, Ostia, Bath and Alexandria, correct broad locations; no route implying one journey. [still]
 These stops belong to different places and centuries. You cannot walk between them before lunch.
 
-::: S007 | Visitor beside a simple empty demonstration table, temple model farther back; no invented historical documents. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S001] [still]
-Each gets a date, and the same question. What are you getting for your trouble?
+::: S007 | Simple empty demonstration table at left, temple model farther back; clear right. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S001] [still]
+Each gets a place, a date, and the same question: what are you getting for your trouble, and who is doing the work?
 
 ::: S008 | Daylight at Pompeian masonry food counter; plain server behind left counter, no specific dishes visible. [pose: step-forward 0.8,0.94 0.6] [note: Pompeii • AD 79] [pan-right]
 Number five begins with the easiest part of your plan. You are hungry, and somebody else has already prepared food.
@@ -31,15 +31,15 @@ Number five begins with the easiest part of your plan. You are hungry, and someb
 Welcome to Pompeii, in the year seventy-nine. This masonry counter belongs to the kind of business archaeologists call a thermopolium.
 
 ::: S010 | Server lifts a plain small serving bowl behind counter; no labelled menu or invented dish close-up. [same-as: S008] [pan-left]
-A thermopolium sold hot food and drink. Convenient, if your greatest culinary talent is feeling hungry.
+A thermopolium sold hot food and drink; about eighty are known in Pompeii alone. Convenient, if your greatest culinary talent is feeling hungry.
 
-::: S011 | One broad jar rim flush with counter and rounded body below, section edge clearly explanatory. [zoom-out]
+::: S011 | One broad jar rim flush with counter and rounded body below, section edge clearly explanatory. [same-as: S008] [zoom-out]
 Look at the holes in the counter. They are the mouths of large jars built into the masonry beneath it.
 
-::: S012 | Counter front with simplified unlettered animal motifs based on source reference, not a claimed exact facsimile. [same-as: S008] [pan-right]
-The counter from Pompeii's Regio Five survived with painted decoration: a business preserved in actual remains.
+::: S012 | Counter front with a simplified unlettered nymph-and-sea-horse panel and animal motifs based on the source reference, not a facsimile. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S008] [pan-right]
+The Regio Five counter kept its painted decoration: a sea nymph riding a sea-horse, and animals. A business preserved in actual remains.
 
-::: S013 | Customer holding a plain bowl at left; keep Visitor separate and hands unchanged. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S008] [still]
+::: S013 | Customer holding a plain bowl at left; clear right. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S008] [still]
 You can picture yourself arriving, receiving a bowl and leaving the preparation to somebody else. That part feels very familiar.
 
 ::: S014 | Counter seen over customer's shoulder; plain bowl on counter, no invented menus or modern comparisons. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S008] [pan-left]
@@ -51,13 +51,13 @@ You can admire the counter without asking whether they have an app. They really 
 ::: S016 | Jar mouth seen from above with neutral shaded contents obscured; no specific food identification. [same-as: S011] [pan-right]
 And the jars do not supply an exact menu. We should leave their uncertain contents uncertain.
 
-::: S017 | Two restrained animal motifs on counter front, one partly worn; no plate matching each animal. [note: Painted animals • interpretation, not a complete menu] [same-as: S008] [zoom-in]
+::: S017 | Counter front with two restrained animal motifs, one partly worn, a customer glancing at them; no plate matching each animal. [note: Painted animals • interpretation, not a complete menu] [same-as: S008] [zoom-in]
 Painted animals may relate to what was sold, but that interpretation has limits.
 
 ::: S018 | One customer accepts bowl from server; other customers sparse, plausible hand anatomy. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S008] [pan-left]
 For our imagined purchase, the advantage is modest and real enough: you can buy prepared food instead of preparing that meal yourself.
 
-::: S019 | Food counter occupies one shopfront within an ordinary street; adjacent closed doorway remains visible. [note: Prepared-food counter • one option] [same-as: S008] [zoom-out]
+::: S019 | Food counter occupies one shopfront within an ordinary street; adjacent closed doorway remains visible. [pose: look-around 0.8,0.94 0.6] [note: Prepared-food counter • one option] [same-as: S008] [zoom-out]
 It was one option, rather than proof that every resident lacked a kitchen.
 
 ::: S020 | Counter and street opening together, same geometry, quiet daytime activity. [pose: thumbs-up 0.8,0.94 0.6] [same-as: S008] [pan-right]
@@ -66,7 +66,7 @@ Your lunch stop passes. A familiar function, supported by a very solid piece of 
 ::: S021 | Single plain bowl on counter surface; food indistinct and no price markings. [same-as: S008] [zoom-in]
 We cannot quote your bill. The bowl in our imagined purchase will have to do.
 
-::: S022 | Counter recedes behind; clear right for thoughtful Visitor. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S008] [still]
+::: S022 | Counter recedes behind at left; clear right. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S008] [still]
 Somebody has fed you. Now you would quite like a home.
 
 ::: S023 | Map transition Pompeii to Ostia, with two distinct date boxes and a clear time jump. [still]
@@ -82,10 +82,10 @@ At Ostia, the Insula of the Painted Ceiling belonged to a block combining homes 
 ::: S026 | Clearly count three storeys; continuous outside stair remains on same side. [note: Reconstructed elevation • upper details uncertain] [same-as: S024] [pan-left]
 The archaeological park describes three or four storeys and exterior stairs. Our reconstruction shows three, rather than inventing a certain fourth.
 
-::: S027 | Upper doorway and ground commercial frontage together; two distinct occupants, no named tenants. [same-as: S024] [zoom-out]
+::: S027 | Upper doorway and ground commercial frontage together; two distinct occupants, no named tenants. [pose: glance-nervous 0.8,0.94 0.6] [same-as: S024] [zoom-out]
 People living vertically, sharing a building, with commercial life happening below: you recognize the arrangement.
 
-::: S028 | Ground-level stair entrance beside commercial opening; clear Visitor ground. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S024] [still]
+::: S028 | Ground-level stair entrance beside commercial opening; clear level ground at right. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S024] [still]
 A Roman home does not have to be a detached villa around a private courtyard.
 
 ::: S029 | Central vestibule, tall left windows and three adjoining doorways, simple bench; no people needed. [zoom-in]
@@ -97,13 +97,13 @@ Archaeologists call the central space a medianum. Look where those tall windows 
 ::: S031 | Angle from an adjoining doorway into bright central vestibule; preserve doors and window positions. [pose: look-around 0.8,0.94 0.6] [same-as: S029] [zoom-out]
 Drawing a row of identical dark boxes would miss something important about this particular interior.
 
-::: S032 | Restrained late-second-century red/ochre wall painting, no faux inscriptions or lavish palace fresco. [same-as: S029] [pan-right]
+::: S032 | Restrained late-second-century red/ochre wall painting, no faux inscriptions or lavish palace fresco. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S029] [pan-right]
 Painted decoration survives here too. Upstairs living and commercial neighbours do not automatically mean a building stripped of every decorative ambition.
 
-::: S033 | Modest reconstructed room, plain stool and small table; Visitor close-up right. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S029] [still]
+::: S033 | Modest reconstructed room, plain stool and small table; clear right. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S029] [still]
 Your imagined apartment has rooms and daylight. You have not needed to acquire an entire villa.
 
-::: S034 | Window-lit vestibule, simple door and table; no invented lease, key or written prices. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S029] [still]
+::: S034 | Window-lit vestibule, simple door and table; no invented lease, key or written prices. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S029] [pan-left]
 The floor plan cannot quote your rent or identify the person handing you a key.
 
 ::: S035 | Show original broad doorway and a separate locally drawn schematic inset of later partition; label phase distinction. [note: Later subdivision • not all phases simultaneous] [same-as: S029] [zoom-out]
@@ -115,60 +115,60 @@ Our reconstruction is around the year two hundred. The building's entire history
 ::: S037 | Block viewed across narrow Roman street, consistent three-storey elevation and exterior stair. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S024] [zoom-in]
 A home inside a larger urban building: another recognizable solution to fitting people into a town.
 
-::: S038 | Clear continuous stair, adult local ascending left; Visitor only as separate reaction at right. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S024] [pan-left]
+::: S038 | Clear continuous stair, adult local ascending at left; level landing clear at right. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S024] [pan-left]
 Then there are those steps. Familiar housing has not abolished familiar effort.
 
-::: S039 | Top landing of same stair, no impossible Visitor footing; use close-up rather than standing on steps. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S024] [still]
+::: S039 | Top landing of the same stair, level floor at right; nobody on the steps. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S024] [still]
 Now imagine finishing the climb and discovering a warm floor. For that part of our day, we need another change of address.
 
-::: S040 | Late Roman warm room viewed from doorway, tiled intact floor and bench, no modern visitor rails. [pose: step-forward 0.8,0.94 0.6] [note: Aquae Sulis • c. AD 350] [pan-right]
+::: S040 | Late Roman warm room viewed from the doorway, tiled intact floor and bench, no modern railings; clear right. [pose: step-forward 0.8,0.94 0.6] [note: Aquae Sulis • c. AD 350] [pan-right]
 Number three takes us to Roman Britain, to Aquae Sulis: the place we now call Bath. Follow the heat, not the plumbing.
 
 ## 3. The floor is warm
 ::: S041 | Same simple warm room with tiled floor occupying lower left, plaster walls intact. [pose: closeup-smile 0.8,1.02 0.82] [note: Roman Baths • western heated rooms] [same-as: S040] [zoom-in]
-We are visiting the fourth-century bathing complex. The heated rooms here give us a very literal version of comfort under your feet.
+We are visiting the fourth-century bathing complex. Its heated rooms give a very literal version of comfort under your feet.
 
-::: S042 | Hypocaust section from mechanism_spec.json; floor separated from cavity, short square tile stacks below. [still]
-Lift away the floor in our diagram. A forest of short supports appears underneath.
+::: S042 | Section through the warm room with the floor slab lifted at left to show rows of short square tile stacks beneath; nobody present; says reconstruction. [same-as: S040] [pan-left]
+Lift away the floor. A forest of short supports appears underneath.
 
 ::: S043 | Same section, muted arrows from side furnace through open spaces between stacks. [still]
-These stacks hold the floor above a cavity. Heat from a furnace can travel through that space beneath the occupied room.
+These stacks hold the floor above a cavity. Heat from a furnace travels through that space beneath the occupied room.
 
-::: S044 | Unoccupied room section with intact suspended floor over short tile piers; masonry geometry matches diagram. [same-as: S040] [pan-right]
+::: S044 | Close on preserved square tile stacks under a missing floor, museum-plain; no people. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S040] [pan-right]
 The Roman Baths preserve examples of these tile supports. They are heating evidence, not broken furniture.
 
 ::: S045 | Hypocaust section adds upward wall flue; keep hot-gas circuit separate from occupied air. [still]
-The system is called a hypocaust. At Bath, heated air circulated beneath floors and through parts of the walls as well.
+The system is called a hypocaust. At Bath, heated air circulated beneath floors and through parts of the walls too.
 
-::: S046 | Compare Roman underfloor cavity with small crossed-out modern pipe icon, clearly editorial. [still]
+::: S046 | Warm room floor and bench at left; clear right. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S040] [still]
 These are passages for hot gases, not modern water pipes zigzagging through concrete.
 
 ::: S047 | Furnace masonry edge and robust floor-support section, no handwritten page. [note: Vitruvius • Architecture V.10] [zoom-out]
-The Roman writer Vitruvius describes constructing suspended hot-room floors on brick supports. This was a building problem someone had worked through carefully.
+The Roman writer Vitruvius describes building suspended hot-room floors on brick pillars. Someone had worked this problem through carefully.
 
 ::: S048 | One unnamed attendant places split wood beside low furnace mouth; normal muted tunic, no invented chains. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S047] [pan-right]
 For somebody enjoying the warm room, the useful part stays out of sight. For somebody tending the furnace, it is the whole job.
 
 ::: S049 | Plain stack of dry wood and contained furnace glow; no name badge or written roster. [same-as: S047] [zoom-in]
-We do not know our imagined attendant's name or circumstances. The fuel and furnace are the point.
+We do not know the attendant's name or circumstances. The fuel and the furnace are the point.
 
 ::: S050 | Service area with fuel, furnace and attendant; clear safe working space, no impossible smoke entering warm room. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S047] [pan-left]
-The heat has to come from somewhere. Your comfortable floor depends on a service space, a working fire and somebody keeping things going.
+The heat has to come from somewhere. Your comfortable floor depends on a service space, a working fire and somebody keeping it going.
 
 ::: S051 | Two separate paths: spring to bathing pool, furnace to room floor. Distinct labels and no connecting arrow. [still]
-There is another trap at Bath: the Great Bath received naturally hot spring water. Do not make that spring into a furnace product.
+Another trap at Bath: the Great Bath received naturally hot spring water. Do not turn that spring into a furnace product.
 
 ::: S052 | Return to intact warm-room floor and bench, no pool added. [pose: look-around 0.8,0.94 0.6] [same-as: S040] [pan-right]
-Two sources of warmth can belong to the same complex without being the same mechanism. Our countdown is about the heated rooms.
+Two sources of warmth can share one complex without being the same mechanism. Our countdown is about the heated rooms.
 
 ::: S053 | Same heated room framed through masonry entrance, no multiple houses or ubiquitous heating map. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S040] [zoom-in]
 Nor does this substantial bathing complex prove that every Roman household enjoyed heated floors.
 
-::: S054 | Warm room calm and uncluttered, Visitor right looking down at floor. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S040] [still]
+::: S054 | Warm room calm and uncluttered at left; clear right. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S040] [still]
 Your floor passes the comfort test. The effort is concentrated somewhere you would rather not stand.
 
 ::: S055 | Three masonry tokens on left, two book-design tokens right; heading fits safely. [still]
-So far, we have walked through buildings. The final two ideas take us into a different kind of evidence: an ancient engineering book.
+So far we have walked through buildings. The final two ideas take us into a different kind of evidence: an ancient engineering book.
 
 ::: S056 | Simple bronze chest with top slot, low left outlet and shallow bowl; no water flowing yet. [pose: eyebrow-raise 0.8,0.94 0.6] [note: Hero, Pneumatics 21 • described design] [pan-right]
 Number two asks you to put a coin into a machine. It will not serve crisps. The remarkable part is how it releases water.
@@ -177,58 +177,58 @@ Number two asks you to put a coin into a machine. It will not serve crisps. The 
 ::: S057 | Bronze chest exterior with slot and bowl, stable geometry; no water yet. [pose: look-around 0.8,0.94 0.6] [note: Written design • not an excavated machine] [same-as: S056] [zoom-in]
 Hero of Alexandria describes this device in his Pneumatics. We are showing an interpretation of his written instructions.
 
-::: S058 | Close view of plain bronze chest and spout, a small unlettered closed modern source book added locally at edge if needed. [note: Hero of Alexandria • Roman era] [same-as: S056] [pan-left]
-Hero worked in Roman-era Alexandria. His biography is uncertain, so we will not invent an installation date.
+::: S058 | Close view of the plain bronze chest and spout; no book, no text. [note: Hero of Alexandria • Roman era] [same-as: S056] [pan-left]
+Hero worked in Roman-era Alexandria. His biography is uncertain, so we invent no installation date.
 
 ::: S059 | Section 21 closed-state diagram: reservoir, sealed outlet box, suspended lid and lever plate. [still]
 Inside the chest is a water reservoir. A small lid closes the outlet until the mechanism lifts it.
 
-::: S060 | Coin above plate and lever; source label remains visible throughout Short. [note: Hero, Pneumatics 21 • reconstruction] [still]
-In Hero's design, a coin does two jobs: it is payment, and its weight moves a lever.
+::: S060 | One blank ancient coin resting at the top slot of the bronze chest, close; no text. [note: Hero, Pneumatics 21 • reconstruction] [same-as: S056] [pan-right]
+In Hero's design, the coin does two jobs: payment, and the weight that moves a lever.
 
 ::: S061 | Lever pivot between coin plate and lid; highlight the two ends without changing position. Use static successive states; no animated version is assumed by the native renderer. [still]
-One end of that lever carries a plate. The other end supports the lid closing the water outlet.
+One end of the lever carries a plate. The other end holds the lid that closes the outlet.
 
-::: S062 | Two-state local coin/lever diagram: faint before outline and clear after state, coin on lowered plate, raised lid. Preserve pivot and geometry. [still]
-Drop the coin onto the plate. That end goes down, and the lid at the other end rises.
+::: S062 | A customer's hand drops a blank coin into the top slot of the chest at left; clear right. [pose: count-fingers 0.8,0.94 0.6] [same-as: S056] [still]
+Drop the coin in. Inside, that end of the lever goes down, and the lid at the other end rises.
 
 ::: S063 | Valve detail from same diagram with clear gap between lid and outlet box, no floating disconnected rod. [still]
-The moving part is small, but it changes the whole machine. The previously blocked outlet is now open.
+The moving part is small, but it changes the whole machine. The blocked outlet is now open.
 
-::: S064 | Open-state local diagram with drawn short water stream and lower reservoir; align cut to onset of the water sound. [still]
-Water can flow through the pipe and out of the chest. No attendant needs to lift that lid for you.
+::: S064 | Chest exterior at left with a thin stream from the spout into the shallow bowl; nobody touching it; clear right. [pose: thumbs-up 0.8,0.94 0.6] [same-as: S056] [pan-right]
+Water flows through the pipe and out of the chest. No attendant needs to lift that lid for you.
 
 ::: S065 | Coin drops into separate dry collection space; plate rises, lid seats; stream stops. [still]
-When the coin falls off the plate, the balance changes again. The lid drops and closes the outlet.
+When the coin slides off the plate, the balance changes again. The lid drops and closes the outlet.
 
 ::: S066 | Closed exterior after operation; small amount of water in bowl, no stream. [same-as: S056] [pan-left]
 The water stops. Your payment briefly changed the balance, then disappeared into the chest.
 
-::: S067 | Chest at left with a separate locally drawn lever inset; calm right. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S056] [still]
+::: S067 | Chest at left; clear right. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S056] [still]
 It is a wonderfully direct arrangement. The coin does not send a message; it physically pushes part of the device.
 
 ::: S068 | Simple chest in restrained temple-context niche; no other machines, snacks or invented queue. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S056] [pan-right]
-But the description is about water in a religious setting. We have not discovered an ancient supermarket vending aisle.
+But the description is about water in a religious setting. We have not found an ancient supermarket aisle.
 
 ::: S069 | One reconstructed water chest in a simple alcove, no duplicated machines or crowd. [note: Described mechanism • extent of use uncertain] [same-as: S056] [zoom-in]
 A description does not show how widely a device was installed. We cannot give every temple one.
 
 ::: S070 | Exterior chest and empty plain refill jug nearby; no person or claim of automated refill. [same-as: S056] [pan-left]
-The water vessel must also contain water. However clever the lever, an empty reservoir cannot provide your next serving.
+The vessel must also contain water. However clever the lever, an empty reservoir cannot provide your next serving.
 
 ::: S071 | One text-design icon, no multiplying device icons; clear qualification. [still]
-And a surviving description is different from evidence that every temple installed one. Keep that distinction attached to the surprise.
+A surviving description is not evidence that every temple installed one. Keep that attached to the surprise.
 
-::: S072 | Coin slot and bowl at left, Visitor right, no altered source hands. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S056] [still]
-For the Visitor, the memorable idea is still there: a payment can operate a mechanism without somebody taking it by hand.
+::: S072 | Coin slot and bowl at left; clear right. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S056] [still]
+For you, the memorable idea stands: a payment can work a mechanism without anybody taking it by hand.
 
-::: S073 | Compact temple model, doors closed, altar unlit, identical design to intro. [pose: look-around 0.8,0.94 0.6] [zoom-in]
+## 1. Open the door—with fire
+::: S073 | Compact temple model, doors closed, altar unlit, identical design to intro. [pose: look-around 0.8,0.94 0.6] [same-as: S001] [zoom-in]
 Next, a machine responding to heat, with a much more theatrical result.
 
 ::: S074 | Low view of closed double doors and opaque base; reveal of hidden machinery held for next chapter. [note: Hero, Pneumatics 37 • described design] [same-as: S073] [pan-left]
-Number one: doors that open when a fire is lit. Before celebrating, let us look underneath the temple.
+Number one: doors that open when a fire is lit. Before celebrating, look underneath the temple.
 
-## 1. Open the door—with fire
 ::: S075 | Same model with contained altar flame at left, closed wooden doors; no unexplained steam. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S073] [zoom-out]
 Hero describes a small temple standing over a hidden mechanism. The fire burns on an altar beside it.
 
@@ -238,43 +238,44 @@ There is no person pulling the doors in the instructions. Instead, heat starts a
 ::: S077 | Four icons matching section 37 only; no leather bag from section 38. [still]
 We will follow one design, using air, water, a suspended bucket and weights. Hero also describes another arrangement.
 
-::: S078 | Same compact temple model on plain tabletop, closed doors; no archaeological find labels. [note: Explanatory reconstruction • Hero, Pneumatics 37] [same-as: S073] [pan-left]
+::: S078 | Same compact temple model on plain tabletop, closed doors; no archaeological find labels. [pose: closeup-thoughtful 0.8,1.02 0.82] [note: Explanatory reconstruction • Hero, Pneumatics 37] [same-as: S073] [pan-left]
 Our drawing follows the written instructions. It is not an excavated machine.
 
 ::: S079 | Start door diagram: altar connected to globe airspace, water half-full, bucket separate. [note: Hero, Pneumatics 37 • reconstruction] [still]
 In Hero's design, the altar connects by a tube to a globe partly filled with water beneath it.
 
-::: S080 | Air-pressure arrow enters airspace; water follows immersed tube to hanging bucket; no boiling imagery. [still]
-As the altar grows hot, heated air expands and drives water from the globe through another bent tube.
+::: S080 | Altar flame now strong at left, doors still closed; plain base, no machinery visible. [same-as: S073] [pan-right]
+As the altar grows hot, heated air expands and drives water from the globe through a bent tube.
 
 ::: S081 | Bucket moves downward as it fills; opening chains taut around both opposed door pivots. [still]
 That water enters the suspended bucket. The bucket becomes heavier and descends, tightening chains attached to the door pivots.
 
-::: S082 | Door leaves pivot outward symmetrically, bucket descends and counterweight rises; labels stay fixed. [still]
+::: S082 | Temple model with doors swinging open and the altar burning at left; no machinery visible; clear right. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S073] [pan-left]
 The chains turn those pivots. Now the doors open, while the person watching above sees none of this hidden work.
 
 ::: S083 | Four-step causal strip with precisely those four transitions; no magical direct flame-to-door arrow. [still]
 Heat moves air, air moves water, water changes weight, and weight moves doors.
 
-::: S084 | Open-door exterior state of same compact model, no machinery shown; Visitor surprised right. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S073] [still]
+::: S084 | Open-door exterior state of the model at left, no machinery shown; clear right. [pose: closeup-worried 0.8,1.02 0.82] [same-as: S073] [still]
 Your apparently self-opening doorway has a very busy basement. It is less effortless once you can see the whole arrangement.
 
 ::: S085 | Highlight closing counterweight and oppositely wound chains, show distinct path from bucket chains. [still]
 Closing needs another part of the design. Opposing chains connect to a counterweight that can pull the doors shut.
 
-::: S086 | Intended reset: water returns along tube, bucket rises, counterweight descends, leaves close. [still]
+::: S086 | Model with doors half closed and the altar flame dying at left; clear right. [pose: look-around 0.8,0.94 0.6] [same-as: S073] [pan-left]
 Hero describes water returning as the system cools. The lighter bucket lets the counterweight close the doors.
 
+## Every convenience has a catch
 ::: S087 | Temple model with doors shut and altar unlit after reset; no false visible air particles. [note: Intended sequence from the text] [same-as: S073] [zoom-out]
 His explanation of the air contains outdated theory; our diagram follows the intended mechanical sequence.
 
 ::: S088 | Temple model altar burning beside open doors; no approaching shopper or light beam. [pose: eyebrow-raise 0.8,0.94 0.6] [same-as: S073] [pan-right]
 Also notice what this door detects. It responds to the altar's heat, not to a shopper walking towards a sensor.
 
-::: S089 | Same exterior, Visitor deadpan close-up; no modern kitchen inserted into historical scene. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S073] [still]
+::: S089 | Same exterior at left; clear right; no modern kitchen inserted into the historical scene. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S073] [still]
 That makes it a striking automatic-door idea, but a rather inconvenient way to enter your kitchen carrying the shopping.
 
-::: S090 | Compact model scale reinforced by plain worktable edge, no person claiming historic ownership. [same-as: S073] [pan-left]
+::: S090 | Compact model scale reinforced by plain worktable edge, no person claiming historic ownership. [pose: closeup-listening 0.8,1.02 0.82] [same-as: S073] [pan-left]
 Keep the scale honest. The text describes a small temple, not a giant city gate.
 
 ::: S091 | Open doors and single controlled altar flame, same scale and restrained colours. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S073] [zoom-out]
@@ -283,27 +284,26 @@ The excitement is in the actual design: several simple effects arranged so that 
 ::: S092 | Single model with calm neutral background; no multiplication of installations or success score. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S073] [pan-right]
 The instructions do not tell us how many installations existed or how reliably they worked.
 
-::: S093 | Open temple doors at left, Visitor listening rather than triumphant; no divine figure. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S073] [still]
-For our imagined day, the doors make a brilliant finale. For a historian, they remain a mechanism described in a text.
+::: S093 | Open temple doors at left; clear right; no divine figure. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S073] [still]
+For your imagined day, the doors make a brilliant finale. For a historian, they remain a mechanism described in a text.
 
-::: S094 | Final clean view of simple temple model with doors open and altar fading; no portraits or manuscripts. [same-as: S073] [pan-left]
+::: S094 | Final clean view of simple temple model with doors open and altar fading; no portraits or manuscripts. [pose: watch-arms-crossed 0.8,0.94 0.6] [same-as: S073] [pan-left]
 The design is impressive enough without a false discovery story or an invented portrait of its author.
 
-## What would you keep?
 ::: S095 | Five original icons arranged across two rows, labels read sequentially, no collage of unreviewed sources. [still]
-So your ancient comfort list contains prepared food, upstairs homes, heated floors, a coin mechanism and heat-operated doors.
+Your ancient comfort list: prepared food, upstairs homes, heated floors, a coin mechanism and heat-operated doors. Now the held question: the catch.
 
-::: S096 | Five icons divide into three archaeological buildings and two textual mechanisms. [still]
-Three archaeological stops, two written designs, spread across different places and dates.
+::: S096 | Attendant placing wood at the furnace mouth at left; clear right. [pose: count-fingers 0.8,0.94 0.6] [same-as: S047] [pan-right]
+In every case somebody out of sight is doing the work: cooking, climbing, feeding the furnace, refilling the chest, tending the altar.
 
-::: S097 | Coin machine exterior quietly framed left; clear right for Visitor. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S056] [still]
-None proves that ancient life was easier for everyone. They show people finding recognizable answers to particular problems.
+::: S097 | Coin machine exterior quietly framed at left; clear right. [pose: closeup-thoughtful 0.8,1.02 0.82] [same-as: S056] [still]
+None of these proves ancient life was easier for everyone. They show people finding recognizable answers to particular problems.
 
 ::: S098 | Return to plain stack of dry fuel at furnace, same model geometry, no newly claimed worker identity. [same-as: S047] [pan-left]
-Someone still prepares the food, tends the fire or refills the water.
+The convenience is yours. The effort belongs to someone else, usually standing somewhere warm, dark and unglamorous.
 
-::: S099 | Return to same warm room; Visitor smiles, eyes toward floor, no pose alteration. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S040] [still]
-Which one would you keep? Our Visitor is tempted by the dramatic doors. His feet are still voting for the warm floor.
+::: S099 | Warm room at left, intact tiled floor; clear right. [pose: closeup-smile 0.8,1.02 0.82] [same-as: S040] [still]
+Which one would you keep? You are tempted by the dramatic doors. Your feet are still voting for the warm floor.
 
-::: S100 | Warm room left, quiet right and upper corner reserved for end-screen placement; no new CTA text painted. [same-as: S040] [pan-right]
-This is Life, Previously. The next ordinary day in history may be stranger than it first appears.
+::: S100 | Temple model with doors closed and altar unlit at left; quiet right and upper corner reserved for end-screen placement. [pose: shrug-smirk 0.8,0.94 0.6] [same-as: S073] [pan-right]
+Back at the little temple, the doors close on their own. Choose the next Life, Previously episode on screen; nobody will light an altar for you.

@@ -20,10 +20,8 @@
   },
   "hypocaust": {
     "scenes": [
-      "S042",
       "S043",
-      "S045",
-      "S046"
+      "S045"
     ],
     "geometry": "At x300..1520, continuous occupied floor y330..410 supported by short tile stacks down to y720. Side furnace at x120..300 y580..740. Show an open connecting throat into the cavity and an exit wall flue at x1510. Arrows travel through spaces between stacks, never through solid masonry. Room air above is separated from combustion circuit below.",
     "states": "S042 structure only; S043 furnace and underfloor flow; S045 upward wall flue; S046 clear label distinguishing hot gases from water pipes.",
@@ -32,16 +30,14 @@
       "Furnace smoke never enters occupied room in the intended design.",
       "Do not copy Vitruvius's measurements as Bath's measured dimensions.",
       "TH-C uses this same reviewed cutaway scaled into left object area with no tiny labels."
-    ]
+    ],
+    "revision_2026_10_10": "Scene list reduced from ['S042', 'S043', 'S045', 'S046'] to the remaining local diagram scenes; the other states are now illustrated exteriors showing the visible result (see episode.json)."
   },
   "coin": {
     "scenes": [
       "S059",
-      "S060",
       "S061",
-      "S062",
       "S063",
-      "S064",
       "S065"
     ],
     "geometry": "Main chest x320..1500 y180..860. Reservoir on right x930..1370 y320..750; outlet box immersed at bottom, connected through continuous pipe to left spout. Lever pivots at x900,y300; coin plate at left x600; right end x1200 connects down by rod/chain to lid sealing the outlet box. Coin drops from top slot to plate, then off into a dry collection compartment at x450..800 below; never into the reservoir or inside the pipe.",
@@ -52,17 +48,15 @@
       "Raised lid opens an actual connected water route; no disconnected pipe.",
       "Coin path does not cross solid reservoir walls.",
       "No fixed-volume measurement or authentication feature is added."
-    ]
+    ],
+    "revision_2026_10_10": "Scene list reduced from ['S059', 'S060', 'S061', 'S062', 'S063', 'S064', 'S065'] to the remaining local diagram scenes; the other states are now illustrated exteriors showing the visible result (see episode.json)."
   },
   "door": {
     "scenes": [
       "S079",
-      "S080",
       "S081",
-      "S082",
       "S083",
-      "S085",
-      "S086"
+      "S085"
     ],
     "geometry": "Small temple at top centre with two wooden leaves on distinct vertical pivot axes extending into base. Altar at top-left connects via airtight tube to airspace of half-water-filled globe at lower-left. A separate continuous bent tube runs from below waterline in globe to bucket at lower-centre, with bucket end remaining immersed for intended return. Hanging bucket's opening chains run over fixed pulleys and wind around the two door axes in opposite geometrical directions so both leaves open outward. Separate closing chains are oppositely wound from opening chains on each axis and connect to one closing counterweight at lower-right. Label this as a simplified schematic with pulleys rearranged for legibility; do not add a steam engine.",
     "states": "S079 closed, globe half-full, bucket light, counterweight down. S080 altar hot, water driven into bucket. S081 heavier bucket down and counterweight up. S082 doors open. S083 causal summary. S085 identifies counterweight path. S086 intended return/cooling: water back, bucket lighter/up, counterweight down, doors closed.",
@@ -73,7 +67,8 @@
       "Bucket travel must not kink or break the depicted fluid connection; use schematic flexible segment or separated state diagram, not a false rigid moving pipe.",
       "No steam plume from globe, electronic detector, leather bag from section38 or mercury.",
       "Return sequence is described as Hero's intended operation; obsolete porous-air explanation omitted."
-    ]
+    ],
+    "revision_2026_10_10": "Scene list reduced from ['S079', 'S080', 'S081', 'S082', 'S083', 'S085', 'S086'] to the remaining local diagram scenes; the other states are now illustrated exteriors showing the visible result (see episode.json)."
   },
   "continuity": "Use one base vector drawing per mechanism with versioned states. Never regenerate each state independently. Store source vector and PNG hashes; initial drawing review then compare all states side by side.",
   "thumbnail": "TH-C: overlay the reviewed hypocaust section in the left object box over the generated plain room. TH-A: exterior coin chest has slot and spout consistent with section21 diagram. TH-B: temple model has same altar and doors as the explanatory sequence."

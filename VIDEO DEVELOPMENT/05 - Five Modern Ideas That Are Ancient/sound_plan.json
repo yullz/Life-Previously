@@ -1,51 +1,271 @@
 {
-  "status": "director_specified_not_generated_or_heard",
-  "music": "Existing channel theme quietly under narration; brief pause before each mechanism reveal, no science-fiction stings.",
-  "mix": "Near -14 LUFS integrated and true peak <= -1 dBTP. Effects below narration at their exact cues.",
+  "status": "director_specified_assets_unheard",
+  "music": "Existing channel theme quietly under narration; a brief pause before each mechanism reveal; no science-fiction stings and no checkout beeps.",
+  "mix": "Near -14 LUFS, true peak <= -1 dBTP. Effects below aligned narration.",
   "new_assets": [
     {
-      "id": "coin_plate",
-      "description": "Single light metal coin landing on a small metal plate."
+      "id": "street_roman",
+      "prompt": "Quiet Roman street in daylight: a few sandals on paving stones, a distant cart, low voices. No modern traffic, no market shouting.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/five-ancient-ideas-street_roman.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
-      "id": "small_water",
-      "description": "Short gentle water stream into shallow bowl."
+      "id": "bowl_set",
+      "prompt": "A plain ceramic bowl set down once on a stone counter. No clink of glass.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/five-ancient-ideas-bowl_set.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
-      "id": "wood_hinge",
-      "description": "Brief quiet wooden door hinge movement, no modern motor."
+      "id": "stair_steps",
+      "prompt": "Three slow footsteps climbing a stone stair outdoors, soft leather soles. No echo chamber.",
+      "seconds": 3,
+      "kind": "spot",
+      "path": "channel/sfx/five-ancient-ideas-stair_steps.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "warm_room",
+      "prompt": "Quiet enclosed heated room: faint drip, slight hollow resonance, no voices or splashing crowd.",
+      "seconds": 6,
+      "kind": "ambience",
+      "path": "channel/sfx/five-ancient-ideas-warm_room.mp3",
+      "paid": true,
+      "quote_at_launch": true
     },
     {
       "id": "low_fire",
-      "description": "Soft contained wood-fire crackle."
+      "prompt": "Soft contained wood-fire crackle in a masonry furnace mouth. No roaring blaze.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/five-ancient-ideas-low_fire.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "wood_placed",
+      "prompt": "Two pieces of split wood placed onto a stack by hand, dry knock. No chopping.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/five-ancient-ideas-wood_placed.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "coin_plate",
+      "prompt": "A single light bronze coin landing on a small metal plate, one clean tick. No jangle.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/five-ancient-ideas-coin_plate.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "small_water",
+      "prompt": "A short gentle stream of water into a shallow bowl, two seconds, then stopping. No tap or splash spectacle.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/five-ancient-ideas-small_water.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "coin_box",
+      "prompt": "A single coin sliding off a plate and dropping into a wooden box, one soft knock. No rattle.",
+      "seconds": 1,
+      "kind": "spot",
+      "path": "channel/sfx/five-ancient-ideas-coin_box.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "altar_flame",
+      "prompt": "A small altar flame burning steadily with a faint flutter. No bonfire.",
+      "seconds": 5,
+      "kind": "ambience",
+      "path": "channel/sfx/five-ancient-ideas-altar_flame.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "wood_hinge",
+      "prompt": "Two small wooden doors swinging open slowly on wooden pivots, a quiet creak. No modern motor or metal squeal.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/five-ancient-ideas-wood_hinge.mp3",
+      "paid": true,
+      "quote_at_launch": true
+    },
+    {
+      "id": "hinge_close",
+      "prompt": "Two small wooden doors swinging shut slowly and meeting with a soft wooden tap. No slam.",
+      "seconds": 2,
+      "kind": "spot",
+      "path": "channel/sfx/five-ancient-ideas-hinge_close.mp3",
+      "paid": true,
+      "quote_at_launch": true
     }
   ],
-  "acquisition": "Reuse inspected library cues where suitable. Quote only missing assets within the production allowance.",
+  "acquisition": "Use suitable licensed existing assets only after listening. Quote any missing asset within the future episode allowance; nothing is generated during development.",
   "cues": [
     {
-      "scene_id": "S062",
-      "asset": "coin_plate",
-      "timing": "Single light coin cue at cut to the state showing the coin landing; omit if no visible landing transition is built."
+      "scene_id": "S008",
+      "asset": "street_roman",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
-      "scene_id": "S064",
-      "asset": "small_water",
-      "timing": "Brief gentle water cue at cut to the diagram showing flow; stop before S065's closed state."
+      "scene_id": "S010",
+      "asset": "bowl_set",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
-      "scene_id": "S082",
-      "asset": "wood_hinge",
-      "timing": "Brief hinge cue at cut to open-door diagram. Do not imply a continuously moving door if only static states are used."
+      "scene_id": "S018",
+      "asset": "bowl_set",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S019",
+      "asset": "street_roman",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S024",
+      "asset": "street_roman",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S038",
+      "asset": "stair_steps",
+      "offset_seconds": 0.4,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S041",
+      "asset": "warm_room",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     },
     {
       "scene_id": "S048",
       "asset": "low_fire",
-      "timing": "Brief low ambient bed behind visible furnace, fade before next scene."
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S048",
+      "asset": "wood_placed",
+      "offset_seconds": 0.7,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S050",
+      "asset": "low_fire",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S054",
+      "asset": "warm_room",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S062",
+      "asset": "coin_plate",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S064",
+      "asset": "small_water",
+      "offset_seconds": 0.3,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S065",
+      "asset": "coin_box",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S075",
+      "asset": "altar_flame",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S080",
+      "asset": "altar_flame",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S082",
+      "asset": "wood_hinge",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S086",
+      "asset": "hinge_close",
+      "offset_seconds": 0.8,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S088",
+      "asset": "altar_flame",
+      "offset_seconds": 0,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S096",
+      "asset": "wood_placed",
+      "offset_seconds": 0.6,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
+    },
+    {
+      "scene_id": "S100",
+      "asset": "hinge_close",
+      "offset_seconds": 0.5,
+      "level": "Use native kind normalization, begin gain 0.35; measure against processed narration in this exact cue window and lower if distracting.",
+      "sync": "Sync to visible action; if no contact/movement is visible, omit this spot cue rather than imply an unseen action."
     }
   ],
   "intentional_silence": [
-    "No automated checkout beep.",
-    "No magical whoosh or divine voice.",
-    "Static illustrated people have no fabricated dialogue."
-  ]
+    "The mechanism diagrams carry only the cues named (coin, water, hinge); no whoosh, hum or magical sting.",
+    "Static illustrated people have no fabricated dialogue.",
+    "No automated checkout beep anywhere."
+  ],
+  "no_sting": "Do not use the medieval bell sound logo in this episode."
 }
